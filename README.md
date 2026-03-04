@@ -99,6 +99,14 @@ python parse_recipes.py --parse-ingredient
 python parse_recipes.py --add-images
 ```
 
+### 仅解析指定数量的菜谱（测试模式）
+
+用于测试解析效果，仅解析前 N 道菜谱：
+
+```bash
+python parse_recipes.py --limit 2
+```
+
 ### 使用现有仓库
 
 ```bash
@@ -128,6 +136,7 @@ python parse_recipes.py -v
 | `--parse-recipe` | 仅解析菜谱 | `False` |
 | `--parse-ingredient` | 仅解析食材 | `False` |
 | `--add-images` | 仅添加图片 | `False` |
+| `--limit` | 限制解析的菜谱数量（测试用） | `None` |
 
 ## 📤 输出说明
 
@@ -206,7 +215,7 @@ HowToCook_json/
 ├── parse_recipes.py      # 主入口脚本
 ├── scripts/
 │   ├── recipe_parser.py  # 核心解析器
-│   └── receipe_schema.json # JSON Schema 定义
+│   └── recipe_schema.json # JSON Schema 定义
 └── out/                  # 输出目录（自动生成）
     ├── images/           # 图片资源
     ├── *.json           # 菜谱文件

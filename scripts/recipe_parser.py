@@ -75,7 +75,7 @@ def get_json_schema(file_path: str) -> str:
         logger.error(f"Error parsing JSON: {e}")
 
 
-def run_claude_command(prompt: str, cwd: str = None, input_text: str = None) -> Optional[str]:
+def run_claude_command(prompt: str, cwd: str = None, input_text: str = None, input_file_path: str = None) -> Optional[str]:
     """
     Execute claude command with given prompt
 
@@ -83,6 +83,7 @@ def run_claude_command(prompt: str, cwd: str = None, input_text: str = None) -> 
         prompt: The prompt to send to Claude
         cwd: Working directory for the command
         input_text: Optional text to pass via stdin pipe
+        input_file_path: Optional path to input file (for generating copy-paste command)
 
     Returns:
         The output from Claude or None if error
@@ -91,11 +92,22 @@ def run_claude_command(prompt: str, cwd: str = None, input_text: str = None) -> 
         logger.info(f"Executing Claude command...")
         # Build command arguments
         cmd_args = ['claude', '-p', f'"{prompt}"']
-        
-        # Log the command (mask sensitive parts if needed)
-        logger.info("args: " + ' '.join(cmd_args))
-        # logger.info("input_text: " + input_text)
-        
+
+        # Generate copy-paste command for debugging (cross-platform)
+        if input_file_path and input_text:
+            # Remove backticks from prompt for logging (they're for skill syntax, not shell)
+            clean_prompt = prompt.replace('`', '')
+            if sys.platform == 'win32':
+                # Windows (PowerShell and CMD compatible)
+                pwsh_cmd = f'Get-Content "{input_file_path}" | claude -p "{clean_prompt}"'
+                cmd_cmd = f'type "{input_file_path}" | claude -p "{clean_prompt}"'
+                logger.info(f"Windows PowerShell: {pwsh_cmd}")
+                logger.info(f"Windows CMD: {cmd_cmd}")
+            else:
+                # Linux/macOS
+                sh_cmd = f'cat "{input_file_path}" | claude -p "{clean_prompt}"'
+                logger.info(f"Shell command: {sh_cmd}")
+
         # Run command with optional stdin input
         result = subprocess.run(
             cmd_args,
@@ -505,7 +517,7 @@ def parse_single_recipe(file_path: str, project_root: str, output_json_path: str
 
     # Prepare prompt for claude
     relative_path = os.path.relpath(file_path, os.path.join(project_root, RecipeParserConfig.DISHES_DIR))
-    prompt = f'/parse-single-receipe `{output_json_path}`'
+    prompt = f'/parse-single-recipe `{output_json_path}`'
     
     # Retry logic with max 3 attempts
     max_retries = RecipeParserConfig.MAX_RETRIES
@@ -513,7 +525,7 @@ def parse_single_recipe(file_path: str, project_root: str, output_json_path: str
         logger.info(f"Attempt {attempt}/{max_retries} for recipe: {file_path}")
         
         # Call claude to parse the recipe, pass file content via stdin pipe
-        result = run_claude_command(prompt, project_root, input_text=content)
+        result = run_claude_command(prompt, project_root, input_text=content, input_file_path=file_path)
         if not result:
             logger.warning(f"Attempt {attempt} failed: Claude command returned no result")
             if attempt < max_retries:
@@ -661,7 +673,7 @@ def parse_ingredients_list(ingredients_list: List[Dict[str, str]], project_root:
 
     # Convert list to string format for prompt (each item is a dict with name and unit)
     ingredients_str = json.dumps(ingredients_list, ensure_ascii=False, indent=2)
-    # save to out/ingredents_raw.json
+    # save to out/ingredients_raw.json
     save_to_json(ingredients_list, os.path.join(project_root, RecipeParserConfig.DEFAULT_OUTPUT_DIR, RecipeParserConfig.INGREDIENTS_RAW_FILE))
 
     # Add output path to prompt if provided
@@ -675,7 +687,8 @@ def parse_ingredients_list(ingredients_list: List[Dict[str, str]], project_root:
         logger.info(f"Attempt {attempt}/{max_retries} for ingredients parsing")
         
         # Call claude to parse ingredients, pass ingredients list via stdin pipe
-        result = run_claude_command(prompt, project_root, input_text=ingredients_str)
+        ingredients_raw_path = os.path.join(project_root, RecipeParserConfig.DEFAULT_OUTPUT_DIR, RecipeParserConfig.INGREDIENTS_RAW_FILE)
+        result = run_claude_command(prompt, project_root, input_text=ingredients_str, input_file_path=ingredients_raw_path)
         if not result:
             logger.warning(f"Attempt {attempt}: Claude command returned no result")
             if attempt < max_retries:
@@ -828,6 +841,7 @@ def main(args=None):
     parser.add_argument('--parse-recipe', action='store_true', help='Only parse recipes (steps 1-3, 6)')
     parser.add_argument('--parse-ingredient', action='store_true', help='Only parse ingredients (steps 4-6)')
     parser.add_argument('--add-images', action='store_true', help='Only add images to existing parsed recipes')
+    parser.add_argument('--limit', type=int, default=None, help='Limit number of recipes to parse (for testing), e.g., 2 for first 2 recipes')
 
     args = parser.parse_args(args)
 
@@ -891,6 +905,11 @@ def main(args=None):
         logger.info("Step 2: Finding markdown files...")
         md_files = find_markdown_files(howtocook_path)
         logger.info(f"Found {len(md_files)} markdown files")
+
+        # Apply limit if specified (for testing)
+        if args.limit:
+            md_files = md_files[:args.limit]
+            logger.info(f"Limiting to {args.limit} recipes for testing")
 
         # Step 3: Parse each recipe file
         logger.info("Step 3: Parsing recipes...")
