@@ -1,0 +1,228 @@
+{
+  "name": "微波炉蛋糕",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/微波炉蛋糕.md",
+  "category": "甜品",
+  "difficulty": "simple",
+  "total_time_minutes": 2,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "面粉",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "筋度没太大影响",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "泡打粉",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "不加吃着像饼",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白（红）糖",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": {
+        "min": 10,
+        "max": 15
+      },
+      "is_optional": false,
+      "note": "甜党可以多加些",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "如果后续的口味食材含盐需自己斟酌",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黄油",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": {
+        "min": 8,
+        "max": 12
+      },
+      "is_optional": false,
+      "note": "半个鸡蛋大的黄油",
+      "original_quantity": "半个鸡蛋大",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "咖啡粉",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "口味可选",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "巧克力",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "口味可选，可融化或搅碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "麦片",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "口味可选",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "牛奶",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "口味可选，需少量多次加入",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "坚果",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "口味可选，干燥食材",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "饼干屑",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "口味可选，干燥食材",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香蕉",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "口味可选，可搅碎",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "挖半个鸡蛋大的黄油放进容器，在微波炉加热 15 秒至融化",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将巧克力/香蕉融化/搅碎成颗粒/糊状（如果使用）",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "打入一个鸡蛋并打散搅和",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "加入 15g 白（红）糖（甜党可以多加些）",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "加入 1g 盐（如果后续的口味食材含盐需自己斟酌）",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "加入 2.5g 泡打粉",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "加入 15g 面粉（筋度没太大影响）",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "加入任何喜欢的口味食材（坚果与饼干等干食材不是现在放）",
+      "duration_minutes": null,
+      "tips": "若加入液体（如牛奶）请务必确保下一步可以搅和成稠酸奶状，建议少量多次加入以防止水分过量而导致成品湿瘪"
+    },
+    {
+      "step": 9,
+      "content": "搅和至看不见干粉的稠酸奶状",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "加入可选的干燥食材（不包括冲泡粉）在顶端",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "微波炉（高火）加热 1 分钟至蓬松蛋糕形态",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "取出杯子并享用",
+      "duration_minutes": null,
+      "tips": "取出时注意杯子会烫手"
+    }
+  ],
+  "tips": [
+    "在夸赞自己之前的操作可以重复多遍做出更大的蛋糕",
+    "泡打粉用来让蛋糕更蓬松，大多不含铝，几块钱一包，可以买了在家备着",
+    "加入液体口味食材时，请务必确保下一步可以搅和成稠酸奶状，建议少量多次加入以防止水分过量而导致成品湿瘪",
+    "食材不要超过容器的3/4"
+  ]
+}

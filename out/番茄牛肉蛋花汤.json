@@ -1,0 +1,134 @@
+{
+  "name": "番茄牛肉蛋花汤",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/soup/番茄牛肉蛋花汤.md",
+  "category": "汤与粥",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "牛肉",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "番茄",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "胡椒粉",
+      "quantity": 0.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 1,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 2,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 1,
+      "unit": "瓣",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "牛肉切成薄片，番茄切成小块，葱切成葱花，姜切成姜片，蒜剁成蒜泥",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "牛肉放入碗中，加盐、胡椒粉腌制 15-20 分钟",
+      "duration_minutes": 20,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "加水煮开，加入姜片和牛肉片，煮至牛肉变色",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "加入番茄块，煮至番茄变软",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "打散鸡蛋液，缓慢地倒入锅中，用筷子搅拌形成蛋花",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "加入盐和胡椒粉调味，最后加入葱花，即可出锅",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "可以根据口味加入一定的醋或糖来调整口感",
+    "如果喜欢辣味，可以加入一定的辣椒或辣椒酱来调味"
+  ]
+}

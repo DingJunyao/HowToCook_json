@@ -1,0 +1,52 @@
+{
+  "name": "蔗糖糖浆",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/condiment/蔗糖糖浆/蔗糖糖浆.md",
+  "category": "调料",
+  "difficulty": "easy",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/蔗糖糖浆_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "白砂糖",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "饮用水",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将称好的白砂糖和饮用水于容器混匀",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "容器封盖放冰箱冷藏",
+      "duration_minutes": 5,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "水无论冷热都可，如果比较急用，可用热水溶解后再冷却糖浆",
+    "配制好的糖浆不会轻易变质，在冷藏状态下保存一周通常是没问题的"
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "name": "凉拌木耳",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/凉拌木耳/凉拌木耳.md",
+  "category": "素菜",
+  "difficulty": "simple",
+  "total_time_minutes": 50,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/凉拌木耳_0.jpg",
+    "images/凉拌木耳_1.jpg",
+    "images/凉拌木耳_2.jpg",
+    "images/凉拌木耳_3.jpg",
+    "images/凉拌木耳_4.jpg",
+    "images/凉拌木耳_5.jpg",
+    "images/凉拌木耳_6.jpg",
+    "images/凉拌木耳_7.jpg",
+    "images/凉拌木耳_8.jpg",
+    "images/凉拌木耳_9.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "木耳",
+      "quantity": 120,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "使用湿木耳，如使用干木耳需20g泡发",
+      "original_quantity": "干木耳: 20g / 湿木耳: 120g",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜瓣",
+      "quantity": 2.5,
+      "unit": "个",
+      "quantity_range": {
+        "min": 2,
+        "max": 3
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "小米辣",
+      "quantity": 2,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 7.5,
+      "unit": "g",
+      "quantity_range": {
+        "min": 5,
+        "max": 10
+      },
+      "is_optional": false,
+      "note": "可根据个人口味调整",
+      "original_quantity": "5-10g（依个人口味）",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "醋",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "芥末",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "约2cm",
+      "original_quantity": "（约 2cm）",
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "泡发干木耳，水量约为400ml，泡发约45分钟。如使用湿木耳则跳过此步骤。",
+      "duration_minutes": 45,
+      "tips": "湿木耳跳过此步骤"
+    },
+    {
+      "step": 2,
+      "content": "将泡发好的木耳，进行去根处理，并彻底洗净。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "起锅烧水，水开后放入木耳，大火煮1.5-2分钟。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "将蒜瓣、小米辣切碎放入碗中（可选取中大碗），并依次加入盐、糖、生抽、醋、香油、芥末。",
+      "duration_minutes": 2,
+      "tips": "可选取中大碗"
+    },
+    {
+      "step": 5,
+      "content": "木耳盛出后沥水，放入上一步碗中。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "搅拌充分，端盘。",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "调味品的数量可以根据个人口味进行调整，如果不喜欢芥末，可以不加入。",
+    "等木耳冷却入味后口味更佳，约15分钟。"
+  ]
+}

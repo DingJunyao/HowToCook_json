@@ -1,0 +1,368 @@
+{
+  "name": "烤鱼",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/混合烤鱼/烤鱼.md",
+  "category": "水产",
+  "difficulty": "hard",
+  "total_time_minutes": 55,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/烤鱼_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "草鱼",
+      "quantity": 750,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "农贸市场或超市让店家杀掉，去除不要的器官",
+      "original_quantity": "大约三斤",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "大葱",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切成块状",
+      "original_quantity": "半根",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 12,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 10,
+        "max": 12
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "20ml（总用量）",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 7,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 5,
+        "max": 8
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "10-15ml",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "食用盐",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": {
+        "min": 3,
+        "max": 5
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "5-10g（总用量）",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "白胡椒粉",
+      "quantity": 6,
+      "unit": "g",
+      "quantity_range": {
+        "min": 5,
+        "max": 8
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "5g-10g（总用量）",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 4,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "中间切开",
+      "original_quantity": "八个",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "桂皮",
+      "quantity": 0.5,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "一小片",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "八角",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "两个",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "香叶",
+      "quantity": 1,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "两张",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "青花椒",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "一小把",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "干辣椒段",
+      "quantity": 5,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "中间一分为二切开",
+      "original_quantity": "10个",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "灯笼椒",
+      "quantity": 2,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "4个",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "火锅底料",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "使用一包的一半",
+      "original_quantity": "一包的一半",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "千张",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "一张，焯水切成丝",
+      "original_quantity": "一张",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "绿豆芽",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "焯水",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 60,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切成丝",
+      "original_quantity": "半个",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "豆瓣酱",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": {
+        "min": 8,
+        "max": 10
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "15-20g",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "芹菜",
+      "quantity": 1,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切小段",
+      "original_quantity": "两根",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "熟花生米",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "白芝麻",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "香菜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "放更好吃，根据个人口味可放可不放",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "5g",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 2.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "5ml",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "孜然粉",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "草鱼从背部切开，两面沿着鱼的背部往下划几刀，不要划到鱼肚皮，不然不易定型",
+      "duration_minutes": 5,
+      "tips": "可以用热水浇在鱼身上洗去粘液或者用刷子在流动水龙头下面不停的刷洗，直到摸着没有黏糊糊的手感"
+    },
+    {
+      "step": 2,
+      "content": "把鱼放到容器中，加入料酒、5g白胡椒粉、5g食盐抹匀腌制二十分钟入味",
+      "duration_minutes": 20,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "把半根大葱切成块状，大蒜粒中间切开，和八角香叶桂皮放在一个容器中",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "干辣椒段中间一分为二切开并和灯笼椒装在一个容器中",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "准备配菜：芹菜切小段，豆芽焯水，千张焯水切成丝，洋葱切成丝",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "烤制鱼：如有烤箱，在烤盘刷上底油，鱼皮朝下，烤制两面金黄，撒上孜然粉；如无烤箱，热锅热油，锅的两边撒上2g食盐，下入草鱼开始煎，一面定型后再翻面，煎制两面金黄，撒上孜然粉，出锅装在盘子里准备",
+      "duration_minutes": 15,
+      "tips": "刚下入锅时不要着急翻动，等一面定型后再翻面"
+    },
+    {
+      "step": 7,
+      "content": "锅中撒上20ml食用油，油热后把大葱、大蒜、八角、香叶倒入炒香",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "加入一包火锅底料的一半和15-20g豆瓣酱，炒出红油",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "加入5g白糖、10g食盐、5ml生抽调味，倒入和食材齐平的清水煮开",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "依次下入芹菜段、豆芽、千张丝，不用煮熟，稍微烫一下后铺上洋葱丝，放上烤鱼",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "加入干辣椒、灯笼椒、青花椒",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "另一个锅烧油，油热后浇在刚加入的辣椒上面激发出香味",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 13,
+      "content": "最后撒上熟花生米、葱花、白芝麻、香菜",
+      "duration_minutes": 1,
+      "tips": "香菜可根据个人口味添加"
+    },
+    {
+      "step": 14,
+      "content": "煮5-6分钟，美味即成",
+      "duration_minutes": 6,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "这道菜的食盐、胡椒粉、孜然粉、食用油、生抽、白糖等的使用量，根据个人口味和食材比例做决定，并不需要严格按照上述分量来做"
+  ]
+}

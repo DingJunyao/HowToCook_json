@@ -1,0 +1,213 @@
+{
+  "name": "皮蛋瘦肉粥",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/soup/皮蛋瘦肉粥.md",
+  "category": "汤与粥",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "饮用水",
+      "quantity": 1000,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "皮蛋",
+      "quantity": 2,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "松花蛋",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "瘦肉",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大米",
+      "quantity": 150,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小葱",
+      "quantity": 1,
+      "unit": "棵",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜",
+      "quantity": 1,
+      "unit": "棵",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生菜",
+      "quantity": 4,
+      "unit": "叶",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生姜",
+      "quantity": 1,
+      "unit": "块",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "拇指块大小",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "胡椒粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "大米洗净，放入电饭锅内胆，加入 1000ml 饮用水",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "瘦肉洗净，简易晾去水分，加入 10ml 食用油揉搓均匀，放入电饭锅内胆",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "皮蛋去壳洗净，对半切开，分离蛋白蛋黄，蛋白简单切碎块，蛋黄揉碎，放入电饭锅内胆",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "生姜洗净，削皮，去除枯黄枯黑无法食用部分，切丝，放入电饭锅内胆",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "小葱洗净，去除根部和枯黄枯黑无法食用部分，切碎，放入小碗备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "香菜洗净，去除根部和枯黄枯黑无法食用部分，切碎，放入小碗备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "生菜洗净，去除根部和枯黄枯黑无法食用部分，切碎，放入小碗备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "酱油、蚝油、盐、胡椒粉搅拌均匀，放入小碗备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "使用电饭锅煮粥模式将主料煮熟",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "主料煮熟后，生菜单独过一次热水，并与其余配料一同开盖加入主料中搅拌均匀",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "酱料在主料煮熟后与其余配料一同开盖加入主料中搅拌均匀",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "作为早餐时可提前一夜准备好主料，保温模式到第二天早餐，再添加配料和酱料"
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "name": "包菜炒鸡蛋粉丝",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
+  "category": "素菜",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/包菜炒鸡蛋粉丝_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "包菜",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "半颗",
+      "original_quantity": "半 颗",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 2,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "粉丝",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "1把",
+      "original_quantity": "1 把",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "胡萝卜",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "半根",
+      "original_quantity": "半 根",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "菜籽油",
+      "quantity": 20,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "半根",
+      "original_quantity": "半 根",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "蒜瓣",
+      "quantity": 2,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "干辣椒",
+      "quantity": 5,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "胡萝卜、包菜切丝备用",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "粉丝先用冷水浸泡1小时，然后将粉丝放入锅中，加入开水烧至粉丝烫软捞出备用",
+      "duration_minutes": 60,
+      "tips": "需提前1小时浸泡粉丝"
+    },
+    {
+      "step": 3,
+      "content": "鸡蛋打入碗中，加入盐后搅拌15秒",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "葱、蒜、辣椒切成小粒备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "起锅烧油，倒入鸡蛋，打散炒熟盛出",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "再倒入油，放入葱、蒜、干辣椒翻炒8秒",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "下胡萝卜、包菜丝儿翻炒30秒",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "放入粉丝",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "放调料，生抽15ml，老抽10ml，蚝油10ml，盐2克",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "放入之前炒好的鸡蛋，翻炒约15秒",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "出锅摆盘",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": []
+}

@@ -1,0 +1,111 @@
+{
+  "name": "蛋煎糍粑",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/蛋煎糍粑.md",
+  "category": "主食",
+  "difficulty": "easy",
+  "total_time_minutes": 10,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "糍粑",
+      "quantity": 300,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "两块",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "红糖",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": {
+        "min": 8,
+        "max": 15
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 12.5,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 10,
+        "max": 15
+      },
+      "is_optional": false,
+      "note": "植物油",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "食用盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "把糍粑切成长方形小块，便于后面煎",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "碗里打入一个鸡蛋并把鸡蛋搅碎，加入 2g 食用盐",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "将切好的小糍粑依次放入搅碎的鸡蛋里面，涂抹完糍粑双面为止",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "锅里倒入植物油 10ml，把涂抹好的糍粑小块放进去小火慢慢煎软",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "将剩下的鸡蛋液慢慢倒在糍粑表面",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "用筷子或者勺子为糍粑翻面，来回煎至金黄色后开吃",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "放糍粑进去时候注意把糍粑间隔开来，防止粘在一起",
+    "鸡蛋的量根据糍粑的量而定",
+    "糖的量根据个人喜好"
+  ]
+}

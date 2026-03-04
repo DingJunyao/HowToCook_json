@@ -1,0 +1,139 @@
+{
+  "name": "燕麦鸡蛋饼",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/燕麦鸡蛋饼.md",
+  "category": "早餐",
+  "difficulty": "medium",
+  "total_time_minutes": 15,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 2,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "亦可选择两个蛋清，一个蛋黄",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "干燕麦片",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "大约等同一个鸡蛋的量",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "牛奶",
+      "quantity": 250,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 50,
+        "max": 250
+      },
+      "is_optional": false,
+      "note": "能够将燕麦搅拌粘稠即可，剩余可搭配早餐饮用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蔬菜",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "如菠菜等",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黄油",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "一层",
+      "original_quantity": "一层",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "口味偏咸口时添加",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "胡椒",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "口味偏咸口时添加",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将牛奶与干燕麦混合搅拌均匀至黏稠状",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将鸡蛋搅拌均匀至颜色单一程度",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "将鸡蛋液倒入燕麦牛奶中继续搅拌至黏稠、均匀",
+      "duration_minutes": 1,
+      "tips": "如果口味偏咸口，可以在搅拌鸡蛋液时加入盐、胡椒等调料"
+    },
+    {
+      "step": 4,
+      "content": "平底锅中加入一层黄油并覆盖均匀",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "下入搅拌好的食材，并摊开至饼状",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "小火加热两到三分钟。如想要加入蔬菜，可以在加热过程中加入碎菜叶",
+      "duration_minutes": 3,
+      "tips": "煎饼时使用小火，避免燕麦部分煎糊"
+    },
+    {
+      "step": 7,
+      "content": "翻面继续加热两分钟",
+      "duration_minutes": 2,
+      "tips": "煎饼时使用小火，避免燕麦部分煎糊"
+    },
+    {
+      "step": 8,
+      "content": "出锅，搭配剩下的牛奶作为早餐",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "如果口味偏咸口，可以在搅拌鸡蛋液时加入盐，胡椒等调料",
+    "煎饼时使用小火，避免燕麦部分煎糊"
+  ]
+}

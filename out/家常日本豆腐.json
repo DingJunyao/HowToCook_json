@@ -1,0 +1,225 @@
+{
+  "name": "家常日本豆腐的做法",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/家常日本豆腐.md",
+  "category": "素菜",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "日本豆腐",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约1.5个，玉子豆腐",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "青椒",
+      "quantity": 60,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约0.5个中等大小",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "胡萝卜",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "火腿肠",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "约0.5根",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黑木耳",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "干黑木耳约5g泡发",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生粉",
+      "quantity": 40,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约1瓣",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "油",
+      "quantity": 80,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 80,
+        "max": 82.5
+      },
+      "is_optional": false,
+      "note": "煎豆腐用，能没过一大半",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 4,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 7.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "如果添加了鸡精，只放0.25g或不放",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "咸鲜口，可选",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白砂糖",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "酸甜口",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "番茄酱",
+      "quantity": 7.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "酸甜口",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "胡萝卜切片，尖椒切薄块，葱蒜碎切好",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "把买好的日本豆腐打开袋子切好，切成大概 1 cm 厚的圆柱体",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "生粉放到平盘中，准备给豆腐裹面",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "轻轻把豆腐放到面粉上，上下两面和周边都裹上面粉，注意不要包裹的太厚",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "在平底锅里放 75 ml 油，油能没过豆腐一大半即可，看边缘颜色变成金黄，翻面煎就可以了",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "两边都煎好的时候捞出来放在干净的盘里备用",
+      "duration_minutes": null,
+      "tips": "煎好的豆腐不要放太久"
+    },
+    {
+      "step": 7,
+      "content": "在炒锅中倒入 5-7.5 ml 油，放入葱蒜，爆香后放入青椒、胡萝卜、火腿肠、黑木耳",
+      "duration_minutes": null,
+      "tips": "提前准备好配料"
+    },
+    {
+      "step": 8,
+      "content": "加入蚝油、生抽、盐、鸡精、白砂糖、番茄酱",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "轻轻翻炒至颜色均匀",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "煎好的豆腐不要放太久，提前准备好配料",
+    "参考资料：下厨房家常红烧日本豆腐～超级下饭菜！🎊"
+  ]
+}

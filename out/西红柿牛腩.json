@@ -1,0 +1,176 @@
+{
+  "name": "西红柿牛腩",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
+  "category": "荤菜",
+  "difficulty": "expert",
+  "total_time_minutes": 90,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "西红柿",
+      "quantity": 800,
+      "unit": "g",
+      "quantity_range": {
+        "min": 600,
+        "max": 800
+      },
+      "is_optional": false,
+      "note": "3-4个，每个约200g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "牛腩",
+      "quantity": 500,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "挑选肥瘦相间的口感比较好",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 30,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 20,
+        "max": 30
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "包括2cm两段葱段和10g葱花",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "包括两片姜片和10g姜",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于调味",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "白胡椒粉",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于调味",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于调味",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 5,
+        "max": 10
+      },
+      "is_optional": false,
+      "note": "也可用黄酒代替",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "八角",
+      "quantity": 3,
+      "unit": "小片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "三小片",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于调味",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "牛腩切条、切块成长宽高均2cm，冷水下锅，开锅煮制2分钟去除血水，捞出冲洗干净",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "另起锅2L水烧开，加入2cm两段葱段、两片姜片、八角、料酒5-10ml，放入焯好的牛肉，盖盖炖制（砂锅1小时，高压锅炖肉模式45分钟），筷子能轻松插透就证明炖好了",
+      "duration_minutes": 60,
+      "tips": "用砂锅/铝锅炖肉时，水开后转中小火/小火，使用高压锅见学习使用压力锅"
+    },
+    {
+      "step": 3,
+      "content": "西红柿去皮：西红柿头部滑十字至腰线，筷子/刀叉从果蒂捅入，煤气灶小火，一边转动一边烤，及时拿下来查看，起皮后撕下来，切块。越小越好",
+      "duration_minutes": 10,
+      "tips": "撕皮小心烫，去皮后的西红柿特别滑，慢切注意安全。教程中的番茄去皮方式是目前为止本人实践最快的方式"
+    },
+    {
+      "step": 4,
+      "content": "起锅烧油，油温7成热，葱、姜各10g，番茄下锅，炒透炒出番茄红色",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "加入煮好的牛腩和原汤，原汤刚刚没过牛肉即可。根据个人口味放入盐、糖、生抽调味盖盖",
+      "duration_minutes": 5,
+      "tips": "绝对不用番茄酱和少加佐料，尽可能还原食材的原味"
+    },
+    {
+      "step": 6,
+      "content": "开锅后大火继续炒制3-5分钟。待番茄汁呈中等粘稠程度后关火，散入葱花，盛盘",
+      "duration_minutes": 5,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "用火注意安全",
+    "用砂锅/铝锅炖肉时，水开后转中小火/小火，使用高压锅见学习使用压力锅",
+    "教程中的番茄去皮方式是目前为止本人实践最快的方式",
+    "绝对不用番茄酱和少加佐料，尽可能还原食材的原味",
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出Issue或Pull request"
+  ]
+}

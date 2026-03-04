@@ -1,0 +1,101 @@
+{
+  "name": "烤鸡翅",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/烤鸡翅.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 70,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡翅中",
+      "quantity": 4,
+      "unit": "个",
+      "quantity_range": {
+        "min": 3,
+        "max": 4
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黑胡椒粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": 3,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 3,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将烤箱预热至 200℃",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "鸡翅放入碗中，加盐、黑胡椒粉、酱油、料酒进行腌制",
+      "duration_minutes": 35,
+      "tips": "腌制时间 30-40 分钟，确保鸡翅入味"
+    },
+    {
+      "step": 3,
+      "content": "将腌制好的鸡翅均匀地放在烤盘上",
+      "duration_minutes": 2,
+      "tips": "建议在烤盘底部垫上一层锡纸，便于清洁烤盘"
+    },
+    {
+      "step": 4,
+      "content": "将烤盘放入烤箱中层，烤 15-20 分钟",
+      "duration_minutes": 20,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "取出烤盘，将鸡翅翻面，再烤 15-20 分钟，直到熟透",
+      "duration_minutes": 20,
+      "tips": "确保鸡翅熟透再取出"
+    }
+  ],
+  "tips": [
+    "可以在腌制鸡翅时加入蜂蜜、酱油、姜蒜粉、五香粉等作为调味料，提升口感和香气",
+    "烤鸡翅时，建议将烤盘底部垫上一层锡纸，便于清洁烤盘"
+  ]
+}

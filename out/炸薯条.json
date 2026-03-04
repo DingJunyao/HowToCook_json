@@ -1,0 +1,76 @@
+{
+  "name": "炸薯条",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/semi-finished/炸薯条/炸薯条.md",
+  "category": "半成品",
+  "difficulty": "easy",
+  "total_time_minutes": 25,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/炸薯条_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "半成品薯条",
+      "quantity": 400,
+      "unit": "g",
+      "quantity_range": {
+        "min": 100,
+        "max": 400
+      },
+      "is_optional": false,
+      "note": "推荐品牌麦肯",
+      "original_quantity": "1袋半成品薯条",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "用于脆化步骤",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "开封大分量半成品薯条注意开口要小，可以有效减少长久储藏下薯条表面结霜。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "插电，200℃预热 5 分钟。预热的目的是为了确保放入食材的时候锅内温度已经处于烹饪所需温度。",
+      "duration_minutes": 5,
+      "tips": "预热完再拿出薯条，不应等薯条软化后再炸制。"
+    },
+    {
+      "step": 3,
+      "content": "取出薯条放入空气炸锅，200℃20 分钟。",
+      "duration_minutes": 20,
+      "tips": "5~10 分钟时可以拿出锅体晃动使薯条受热均匀也防止粘连。取出薯条的时候注意半成品薯条已经有油，需要使用夹持工具。"
+    },
+    {
+      "step": 4,
+      "content": "脆化（可选项）：10 分钟~15 分钟时，拿出锅体，往已经干了的薯条表面喷 1 层面积为薯条表面积 2/3 的油。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "喜欢脆薯条的，取出后拿着锅体跳舞让空气经过薯条表面后装盘；喜欢软薯条的直接装盘。配合蘸酱或浇上酱汁更佳。",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "使用的烹饪工具不同炸薯条可能有不同的做法，这里仅介绍使用「空气炸锅」的做法。",
+    "预热完再拿出薯条，不应等薯条软化后再炸制。",
+    "5~10 分钟时可以拿出锅体晃动使薯条受热均匀也防止粘连。",
+    "取出薯条的时候注意半成品薯条已经有油，需要使用夹持工具。",
+    "番茄酱、蛋黄酱、蜂蜜芥末酱、蒜香酱油等蘸料可以搭配食用。"
+  ]
+}

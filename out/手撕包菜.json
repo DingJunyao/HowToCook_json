@@ -1,0 +1,192 @@
+{
+  "name": "手撕包菜",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/手撕包菜/手撕包菜.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 15,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/手撕包菜_0.jpeg",
+    "images/手撕包菜_1.jpeg",
+    "images/手撕包菜_2.jpeg",
+    "images/手撕包菜_3.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "包菜",
+      "quantity": 1,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "五花肉",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小米辣",
+      "quantity": 2,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 60,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "分两次使用，每次 30 ml",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香醋",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 2,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜头",
+      "quantity": 2,
+      "unit": "粒",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜苗",
+      "quantity": 0.5,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "其中 2 g 用于清洗，3 g 用于调味",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "包菜对半切开，去掉中间白色部分",
+      "duration_minutes": 2,
+      "tips": "参见图一"
+    },
+    {
+      "step": 2,
+      "content": "手撕包菜，碗中放入 2 g 盐，清洗包菜并沥干备用",
+      "duration_minutes": 3,
+      "tips": "参见图二"
+    },
+    {
+      "step": 3,
+      "content": "姜片、蒜头、小米辣、蒜苗处理后备用",
+      "duration_minutes": 2,
+      "tips": "参见图三"
+    },
+    {
+      "step": 4,
+      "content": "五花肉切片，清水清洗后备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "锅中加入 30 ml 食用油，倒入包菜翻炒，大火翻炒 1 分钟 后，加入 3 g 盐 ，继续翻炒 2 分钟 后取出备用",
+      "duration_minutes": 3,
+      "tips": "翻炒时间需要实际情况做调整，一般是炒到包菜七分熟后即可。七分熟是指包菜已经出水质感变软。加盐的作用是锁住包菜水分的同时，给包菜上一点味道。"
+    },
+    {
+      "step": 6,
+      "content": "锅中加入 30 ml 食用油，倒入五花肉，大火翻炒 1 分钟",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "倒入姜片等材料，翻炒 1 分钟",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "倒入包菜翻炒后，加入香醋、料酒、鸡精、料酒，大火继续翻炒，2 分钟 后出锅",
+      "duration_minutes": 2,
+      "tips": "翻炒时间根据实际情况和个人口感做灵活调整"
+    }
+  ],
+  "tips": [
+    "步骤五中，翻炒时间需要实际情况做调整，一般是炒到包菜七分熟后即可。七分熟是指包菜已经出水质感变软。",
+    "步骤五中，加盐的作用是锁住包菜水分的同时，给包菜上一点味道。",
+    "最后一个步骤中，翻炒时间根据实际情况和个人口感做灵活调整。"
+  ]
+}

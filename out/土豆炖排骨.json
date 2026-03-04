@@ -1,0 +1,202 @@
+{
+  "name": "土豆炖排骨",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 75,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/土豆炖排骨_0.jpg",
+    "images/土豆炖排骨_1.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "肋排",
+      "quantity": 375,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "土豆",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约1个中等大小",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小葱",
+      "quantity": 12.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约1根",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 12.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "干辣椒",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "八角",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花椒",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "桂皮",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 2.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 2.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黄豆酱",
+      "quantity": 2.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "土豆滚刀切片，姜片切片",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "排骨冷水下锅，加入姜片、葱段、料酒焯水2分钟，焯干水后捞出清洗干净（一定要用热水，不能用冷水）",
+      "duration_minutes": 5,
+      "tips": "一定要用热水清洗，不能用冷水，否则排骨会变硬"
+    },
+    {
+      "step": 3,
+      "content": "热锅凉油，将白糖倒入锅中，翻炒至融化为焦糖色",
+      "duration_minutes": 3,
+      "tips": "注意火候，避免糖糊了"
+    },
+    {
+      "step": 4,
+      "content": "加入排骨煎至两面金黄，让排骨裹满焦糖",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "加入干辣椒、八角、花椒、桂皮、姜片（建议买超市的香料包）、5ml生抽、2.5ml老抽、2.5ml料酒、2.5ml蚝油、2.5ml黄豆酱",
+      "duration_minutes": 2,
+      "tips": "可以买超市的现成香料包更方便"
+    },
+    {
+      "step": 6,
+      "content": "大火翻炒均匀后加入350ml开水，大火烧开后转小火焖煮1小时",
+      "duration_minutes": 60,
+      "tips": "水量可根据个人喜好调整"
+    },
+    {
+      "step": 7,
+      "content": "最后加入土豆煮10分钟就可以出锅啦",
+      "duration_minutes": 10,
+      "tips": "喜欢吃青红椒的也可以按自己喜好加入"
+    }
+  ],
+  "tips": [
+    "这道菜难度系数简单，对新手友好，超级下饭"
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "name": "蒜蓉空心菜",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md",
+  "category": "素菜",
+  "difficulty": "medium",
+  "total_time_minutes": 5,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/蒜蓉空心菜_0.JPG"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "空心菜",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "新鲜",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "半个，切碎为蒜末",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 45,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 8,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "空心菜洗净，去掉烂叶或者老梗，均匀切成 2 段或者 3 段（防止过长不好炒）",
+      "duration_minutes": 2,
+      "tips": "选择新鲜，鲜嫩的空心菜"
+    },
+    {
+      "step": 2,
+      "content": "锅里先倒少量油，烧至微微冒烟，此时拿起锅将锅内的热油向四周浸润，让油均匀覆盖锅底，然后再倒入剩余的油（热锅凉油法）",
+      "duration_minutes": 1,
+      "tips": "使用热锅凉油法"
+    },
+    {
+      "step": 3,
+      "content": "放入蒜末，小火炒 10 到 15 秒煸香",
+      "duration_minutes": 0,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "尽快均匀地放入空心菜，开大火，左手拿铲子，右手拿筷子，配合将空心菜不停翻动，直至软化变绿",
+      "duration_minutes": 1,
+      "tips": "一定要开大火"
+    },
+    {
+      "step": 5,
+      "content": "接着不需使用筷子，而是使用铲子快速翻炒已软化的空心菜 15 - 20 秒，使之受热更均匀，撒入盐 2 g，白糖 3 g，生抽 8 ml",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "继续大火翻炒 10 秒，即可出锅",
+      "duration_minutes": 0,
+      "tips": "大火有利于炒出生抽的香味"
+    }
+  ],
+  "tips": [
+    "空心菜尽量选择新鲜，鲜嫩的，否则炒出来口感可能会比较老",
+    "实际放入空心菜的量可以根据锅的大小决定，建议不超过一个锅，否则太多的话开始的翻动阶段和后续的翻炒，容易掉出少量空心菜到灶台",
+    "炒空心菜时，一定要开大火，这样空心菜才能快速变软的同时保持脆嫩的口感，大火也有利于炒出生抽的香味"
+  ]
+}

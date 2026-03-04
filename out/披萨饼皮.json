@@ -1,0 +1,206 @@
+{
+  "name": "披萨饼皮",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/披萨饼皮/披萨饼皮.md",
+  "category": "半成品",
+  "difficulty": "hard",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 4,
+  "images": [
+    "images/披萨饼皮_0.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "中筋面粉",
+      "quantity": 125,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "温水",
+      "quantity": 88,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "安琪干酵母粉",
+      "quantity": 1.25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用盐",
+      "quantity": 0.75,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "橄榄油",
+      "quantity": 9,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白砂糖",
+      "quantity": 0.75,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "干面粉",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "案板撒粉用",
+      "original_quantity": "稍微多一点",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "芝士碎",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "依照个人口味撒用",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "沙拉酱",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "依照个人口味挤用",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "披萨馅料",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "依照个人口味准备",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "用准备好的温水把酵母粉化开，稍微搅拌即可，备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "取准备好的面粉，依次添加盐、橄榄油、白砂糖",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "准备混合水和面粉，边加水边搅拌直至水全部加完",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "搅拌至看不到干米粉为止",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "用差不多三倍大面团的容器装好，密封，冰箱冷藏（4度）等待 8~12 小时，一般晚上做第二天就可以用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "观察面团醒发完毕，差不多是原始大小大约两倍算醒发完毕",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "取醒发好的面团，均匀分成四份，分别用保鲜膜盖好，备用",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "案板撒稍微多一点的干面粉，准备开始揉面",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "因为是比较湿的面团，所以粘上干面粉后才没那么粘手，不用揉太多次，面团表面稍微光滑一点就可以了",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "用手拉扯，或者擀面杖擀平，也不一定非得擀圆，只要厚度均匀，烤箱放得进去就好",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "铺好油纸，放上饼皮，依照个人口味，把准备好的食材放上去，撒上芝士碎",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "水果披萨烤箱上 180 度，下 220 度，16 分钟即可",
+      "duration_minutes": 16,
+      "tips": "适用于水果类馅料的披萨"
+    },
+    {
+      "step": 13,
+      "content": "肉蔬菜披萨烤箱上 200 度，下 230 度，18 分钟即可",
+      "duration_minutes": 18,
+      "tips": "适用于肉类和蔬菜类馅料的披萨"
+    },
+    {
+      "step": 14,
+      "content": "挤上沙拉酱或者其他自己喜欢的酱即可享用",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "一定要注意水的比例",
+    "烤箱品质层次不齐，第一次做注意观察火候对披萨的影响",
+    "一般不特别标注是低筋或高筋面粉，基本都是中筋面粉",
+    "容易出水的水果不能作为食材，比如西瓜、橘子等"
+  ]
+}

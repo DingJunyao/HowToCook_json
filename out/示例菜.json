@@ -1,0 +1,110 @@
+{
+  "name": "示例菜的做法",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/template/示例菜/示例菜.md",
+  "category": "素菜",
+  "difficulty": "hard",
+  "total_time_minutes": 38,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/示例菜_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "咖喱块",
+      "quantity": 57.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐品牌好侍",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "土豆",
+      "quantity": 120,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "每个土豆约重 120g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 7.5,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 5,
+        "max": 7.5
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "藤椒油",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "土豆去皮、切成不超过 4cm 的大块，备用",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "咖喱块切碎，增加接触面积加速溶解，备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "热锅，锅内放入 5ml - 7.5ml 食用油。等待 10 秒让油温升高",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "放入土豆，保持翻炒至土豆变软（可以用筷子确认）",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "加水没过所有食材，沸腾后，将火调小然后等待 15 - 20 分钟",
+      "duration_minutes": 17,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "关火，加咖喱并搅拌，等待直至咖喱融化",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "再开火，缓慢搅拌 10 分钟，防止糊锅",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "在外观呈粘稠状态后关火，盛盘",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "操作时，需要注意观察沸腾的水位线，如发现低于 2/3 的食材应加热水至没过食材"
+  ]
+}

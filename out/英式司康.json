@@ -1,0 +1,142 @@
+{
+  "name": "英式司康",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/dessert/英式司康/英式司康.md",
+  "category": "甜品",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 5,
+  "images": [
+    "images/英式司康_0.png"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "无盐黄油",
+      "quantity": 8,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐品牌总统",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "低筋面粉",
+      "quantity": 36,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "糖",
+      "quantity": 6,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 0.2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "泡打粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 0.2,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约50g",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "淡奶油",
+      "quantity": 9,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "奶油奶酪",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "鸡蛋打散，称量出约6g蛋液放入干净容器中，放入全量淡奶油和奶油奶酪混合均匀。如果奶酪太硬可以水浴加热至大约40度再混合。",
+      "duration_minutes": null,
+      "tips": "奶酪太硬时水浴加热软化"
+    },
+    {
+      "step": 2,
+      "content": "将低筋面粉、盐、糖、泡打粉放入干净容器中混合均匀。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "黄油切成小块，放入上一步的混合物中，用手将黄油捏入混合物中，呈粗玉米粉质地。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "将第一步的蛋奶混合液倒入上一步得到的粉油混合物种，搅拌均匀，叠压成均匀面团。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "面团放到案板上，擀成1.5cm厚的面片，用刀或者模具分切成合适的形状。",
+      "duration_minutes": null,
+      "tips": "最简单的分切方案是擀成圆形面皮，用刀切成6个扇形"
+    },
+    {
+      "step": 6,
+      "content": "用刷子蘸取剩余的鸡蛋液，刷在司康表面。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "烤箱预热180度，烤制27分钟。",
+      "duration_minutes": 27,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "可以搭配果酱、茶与咖啡食用",
+    "最简单的分切方案是擀成圆形面皮，用刀切成6个扇形"
+  ]
+}

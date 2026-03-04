@@ -1,0 +1,212 @@
+{
+  "name": "香辣鸡爪煲",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
+  "category": "荤菜",
+  "difficulty": "expert",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/香辣鸡爪煲_0.jpg",
+    "images/香辣鸡爪煲_1.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡爪",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "一斤鸡爪（约500g），转换为1人份约250g",
+      "original_quantity": "一斤",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "香叶",
+      "quantity": 1.5,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "原为3片，转换为1人份约1.5片",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "八角",
+      "quantity": 1.5,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "原为3个，转换为1人份约1.5个",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小米椒",
+      "quantity": 3,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "原为6个，转换为1人份约3个",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜末",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "原为10g，转换为1人份约5g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜末",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "原为10g，转换为1人份约5g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小葱",
+      "quantity": 1,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "原为2根，转换为1人份约1根",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "原为3g，转换为1人份约1.5g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "焯水用，估算值",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "炒制用，估算值",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "上色用，估算值",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "辣椒面",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "能吃辣再放点，估算值",
+      "original_quantity": "可选",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "五香粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "炒制用，估算值",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "调味用，估算值",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "提鲜用，估算值",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "给鸡爪剪去指甲。如果买的鸡爪只有脚掌部分，对半切开即可。如果是整只鸡爪，需要去骨。清水洗干净。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "鸡爪冷水下锅，葱姜料酒焯水，水开，撇去浮沫。",
+      "duration_minutes": 8,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "加入香叶、八角、生抽、老抽，盖盖小火慢煮三十分钟。",
+      "duration_minutes": 30,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "捞出鸡爪，留一碗鸡汤备用。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "起锅烧油，用小火炒香姜末、蒜末、小米椒，能吃辣再放点辣椒面。加入生抽、老抽、蚝油、五香粉、盐，炒出酱香味。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "放入鸡爪，放一点盐调味，翻炒一两分钟，再倒入鸡汤，边炒边搅动。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "放入鸡精提鲜，撒入葱段搅拌均匀即可出锅。",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "如果需要加入配菜，请在放入鸡爪之前，底料炒香之后执行。"
+  ]
+}

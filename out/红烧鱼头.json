@@ -1,0 +1,274 @@
+{
+  "name": "红烧鱼头",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/红烧鱼头.md",
+  "category": "水产",
+  "difficulty": "hard",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鱼头",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "白鲢或花鲢",
+      "original_quantity": "一个",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大葱",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 40,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 1.5,
+      "unit": "个",
+      "quantity_range": {
+        "min": 1.5,
+        "max": 2
+      },
+      "is_optional": false,
+      "note": "蒜瓣",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "美人椒",
+      "quantity": 0.125,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "1/4个",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜",
+      "quantity": 2,
+      "unit": "棵",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "八角",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "干辣椒",
+      "quantity": 2.5,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "油",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 3.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "腌制2.5g + 烹饪1g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 7.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "腌制5ml + 烹饪2.5ml",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 1.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "陈醋",
+      "quantity": 1.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黑胡椒粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 7.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "腌制5ml + 烹饪2.5ml",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "葱、姜、蒜、香菜、美人椒分别清洗干净。干辣椒与八角稍微冲洗即可。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "大葱切两半。后半段大葱（葱白处）切段，每段长度约4cm。前半段（葱叶处）先切段，再将每段劈为四瓣。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "姜切片，每片厚度约3mm。大蒜拍碎。拿出两棵香菜去根，切为1.5cm香菜碎。将美人椒切为厚度为3mm的辣椒圈。干辣椒切四段。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "将鱼头去鳞，清洗鱼头处未被清理干净的内脏。剁去鱼鳍、清理鱼鳃。将鱼头下巴与鱼身连接的地方剁开，鱼身剁块，鱼头剁成四/六瓣。",
+      "duration_minutes": 10,
+      "tips": "鱼的处理很难用文字完全表述，可以搜索鱼头处理相关视频。"
+    },
+    {
+      "step": 5,
+      "content": "将剁好的鱼头进行清洗，最好洗掉鱼块上滞留的血水。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "将清洗好的鱼块放入盆中，加入2.5g盐、5g生抽、5g料酒。放入葱（前半段切碎的那个）、约1/3姜片。将其拌匀，静置1-2小时。",
+      "duration_minutes": 90,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "加入15ml油，等待锅热。油热，将锅关至小火。",
+      "duration_minutes": 2,
+      "tips": "如果不明白为何要这样做，请查看学习炒与煎中的翻炒辅料。"
+    },
+    {
+      "step": 8,
+      "content": "放入姜片，慢慢翻炒，以姜片中的大部分汁水被炒出，以金黄色为准。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "放入葱段，翻炒至葱段略显发白。放入蒜碎、八角、干辣椒，翻炒5秒。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "将腌制好的鱼头倒入锅中，翻炒2-3分钟。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "倒入250ml清水，加入1g盐、1.5g鸡精、2.5ml生抽、1.5ml老抽、2.5ml料酒、1g黑胡椒粉、1.5ml陈醋。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "将一棵香菜放入锅中，盖上锅盖。调至大火，将水烧开。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 13,
+      "content": "调至中火，慢焖入味。当汤汁减少一半时，打开锅盖。",
+      "duration_minutes": 15,
+      "tips": null
+    },
+    {
+      "step": 14,
+      "content": "调至大火收汁，汤汁剩余1/3时，关火盛至小盆中。将锅中的汤汁均匀淋到鱼头上，盛盘时可以将锅中煮的香菜放入小盆底部，这样能让成品菜好看又好吃。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 15,
+      "content": "将香菜放至已经盛出的鱼头上，把切好的美人椒圈放在香菜之上。色香味俱全的红烧鱼头出炉！",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "如果没有使用过菜刀剁过肉类食物，并不推荐使用该菜单！！！在操作中，锋利的菜刀可能会划伤手指，请一定要小心。",
+    "市场直接贩卖的鱼头一般分为两种：白鲢、花鲢。前者价格便宜，后者价格略贵，但口感也更佳！",
+    "鱼的处理很难用文字完全表述，可以搜索鱼头处理相关视频。",
+    "如果不明白为何油热后要将锅关至小火，请查看学习炒与煎中的翻炒辅料。",
+    "将锅中的汤汁均匀淋到鱼头上，盛盘时可以将锅中煮的香菜放入小盆底部，这样能让成品菜好看又好吃。"
+  ]
+}

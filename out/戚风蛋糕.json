@@ -1,0 +1,127 @@
+{
+  "name": "戚风蛋糕",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/dessert/戚风蛋糕/戚风蛋糕.md",
+  "category": "甜品",
+  "difficulty": "expert",
+  "total_time_minutes": 90,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/戚风蛋糕_0.jpg",
+    "images/戚风蛋糕_1.jpg",
+    "images/戚风蛋糕_2.jpg",
+    "images/戚风蛋糕_3.jpg",
+    "images/戚风蛋糕_4.jpg",
+    "images/戚风蛋糕_5.jpg",
+    "images/戚风蛋糕_6.jpg",
+    "images/戚风蛋糕_7.jpg",
+    "images/戚风蛋糕_8.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "正常中等大小，约50g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 16,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 8,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "或黄油，但需加热软化",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "牛奶",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "或水",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "低筋面粉",
+      "quantity": 17,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "柠檬汁",
+      "quantity": 3,
+      "unit": "滴",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "或白醋",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "前期分离操作：从冰箱中取出新鲜的鸡蛋，准备两个容器并擦干，分别盛放蛋清与蛋黄。打蛋，手工或利用分蛋器，将蛋清与蛋黄分离到两个容器中。分离过程中蛋黄不能破碎，蛋清中不能混有任何蛋黄。",
+      "duration_minutes": 10,
+      "tips": "盛放蛋清的容器可有水珠，但不能有任何油；盛放蛋黄的容器不能有水珠。不使用厨房机的情况下，加入全部蛋清后不要超过容器的1/8。"
+    },
+    {
+      "step": 2,
+      "content": "搅拌蛋黄液：准备一个新的空碗，加入全部食用油，然后放入低筋面粉搅拌。将蛋黄加入碗中，再加入牛奶以及1/4的白糖，用刮刀搅拌均匀。准备低筋面粉，一边慢慢撒入容器一边用刮刀Z字搅拌，直到混合均匀、无干粉状态。静置备用。",
+      "duration_minutes": 5,
+      "tips": "油会直接阻断面筋的形成。不可无序地逆时针或顺时针搅拌，只能沿着刀刃的方向两侧或前后移动。"
+    },
+    {
+      "step": 3,
+      "content": "打发蛋白：准备好剩余3/4的白糖，分为三份。蛋清中加入柠檬汁或白醋（可选）。打蛋器中速打发至有粗大气泡的状态，加入第一份白糖。打蛋器高速打发至气泡较细腻的状态，加入第二份白糖。打蛋器高速打发至湿性发泡的状态（提起打蛋器头有长长的弯曲尖角），加入第三份白糖。打蛋器中低速打发至干性发泡的状态（提起打蛋器头有短小直立的尖角；倒扣容器，蛋白可粘住容器不掉下来）。",
+      "duration_minutes": 10,
+      "tips": "打蛋器应尽量贴近容器底部，防止出现上面浮着的表层打发，底部仍然是液体的情况。"
+    },
+    {
+      "step": 4,
+      "content": "混合搅拌：简单搅拌几下蛋黄液，用刮刀取1/3的蛋白霜加入到蛋黄糊中。采用翻拌手法：右手拿刮刀从搅拌盆中心插入面糊底部，向8点钟方向刮去直到碰到盆壁，顺势舀起面糊提到空中，然后再移回盆中心将面糊放入盆内。左手握住搅拌盆从9点钟方向转到7点钟方向（旋转60度），速度约每秒两下。将混合液倒入剩余2/3的蛋白霜中，继续翻拌均匀。将蛋糕糊倒入模具，震荡几下避免大气泡。",
+      "duration_minutes": 3,
+      "tips": "翻拌手法是为了避免消泡，像炒菜一样翻炒。"
+    },
+    {
+      "step": 5,
+      "content": "烘烤：以150°C上管、160°C下管预热烘烤。预热完成后，将模具放入烤箱下层。选择变温烘烤，分为两个阶段。第一阶段：上管150°C，下管160°C，烘烤总时长的前3/5。第二阶段：上管160°C，下管170°C，烘烤总时长的后2/5。6寸蛋糕总时长30-35分钟，8寸蛋糕50分钟。根据自己烤箱特性灵活调整，一般不超过±5分钟。烤好后出炉。",
+      "duration_minutes": 35,
+      "tips": "出炉操作可能会烫手，注意用毛巾辅助。最后几分钟时可在烤箱前观察。"
+    },
+    {
+      "step": 6,
+      "content": "冷却与脱模：将模具从高处落下，震出其中的热气。模具倒扣10分钟，使蛋糕冷却。脱模，食用。",
+      "duration_minutes": 10,
+      "tips": "没有冷却的蛋糕立刻脱模会损伤蛋糕。此操作可能会烫手，注意用毛巾辅助。"
+    }
+  ],
+  "tips": [
+    "对戚风蛋糕而言，蛋清打发是次要问题，关键是烤制时的温度和时间。",
+    "蛋清容器可有水珠，蛋黄容器不能有。油会影响蛋白的打发，蛋清85%是水，稍有水珠并不影响打发。",
+    "特别新鲜的鸡蛋蛋清会比较硬，应对硬蛋清1个鸡蛋配方加3g水会帮助蛋清打发。",
+    "温度对糖融于水的速率以及溶解度影响较大，刚从冰箱拿出的蛋清不易打发。但温度较低的鸡蛋容易分离蛋清蛋黄，建议分离后恢复室温再进行打发。",
+    "蛋清打发途中加的糖，实际也是先融于蛋清中的水里，成为糖浆溶液包裹在气泡外，对打发的气泡起保护作用。"
+  ]
+}

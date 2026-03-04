@@ -1,0 +1,82 @@
+{
+  "name": "蒜蓉虾",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/蒜蓉虾/蒜蓉虾.md",
+  "category": "水产",
+  "difficulty": "easy",
+  "total_time_minutes": 10,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/蒜蓉虾_0.jpeg",
+    "images/蒜蓉虾_1.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "海虾",
+      "quantity": 150.0,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "8只，中型虾",
+      "original_quantity": "8 只",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "蒜蓉酱",
+      "quantity": 50.0,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 20.0,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 5.0,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "用刀从虾头中间切开，切到距离虾尾 1 cm",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将蒜蓉酱铺在虾身中间，放在盘子中",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "锅中倒入热水，将盘子放入锅中，大火蒸 3 分钟",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "烧热油，倒入虾盘中，倒入生抽",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": []
+}

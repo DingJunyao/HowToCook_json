@@ -1,0 +1,205 @@
+{
+  "name": "干煎阿根廷红虾",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md",
+  "category": "水产",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/干煎阿根廷红虾_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "阿根廷红虾",
+      "quantity": 3,
+      "unit": "只",
+      "quantity_range": {
+        "min": 2,
+        "max": 3
+      },
+      "is_optional": false,
+      "note": "可买已经开背去虾线的，节省时间",
+      "original_quantity": "2-3 只",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "海盐",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "研磨装",
+      "original_quantity": "5g",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黑胡椒",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "研磨装",
+      "original_quantity": "研磨装",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "白葡萄酒",
+      "quantity": 20,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "20ml",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 1,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "1ml",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜",
+      "quantity": 3,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "叶茎分离，香菜叶切碎，香菜茎用于煸炒",
+      "original_quantity": "3 片",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "柠檬",
+      "quantity": 1,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "可根据喜好添加，也可以不用",
+      "original_quantity": "1 片",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切小方块，用于煸炒",
+      "original_quantity": "10g",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生姜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切片，用于煸炒",
+      "original_quantity": "10g",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "压碎切成小块碎末",
+      "original_quantity": "10g",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "橄榄油",
+      "quantity": 20,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "两调羹",
+      "original_quantity": "两调羹",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "阿根廷红虾解冻，最好是提前 1 天从速冻取出放到冷藏里自然解冻，能更好保持风味和口感。可买已经开背去虾线的，节省了不少时间",
+      "duration_minutes": null,
+      "tips": "提前自然解冻能更好保持风味和口感"
+    },
+    {
+      "step": 2,
+      "content": "解冻好的红虾洗净擦干备用，注意这里一定要沥干水分，赶时间可以用厨房用纸吸干水分",
+      "duration_minutes": null,
+      "tips": "一定要沥干水分，赶时间可以用厨房用纸吸干"
+    },
+    {
+      "step": 3,
+      "content": "生姜切片，洋葱切小方块，香菜洗干净后，叶茎分离，把香菜叶切碎，大蒜压碎切成小块碎末",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "大火热锅，热锅后倒入两调羹橄榄油，等油温升高后，放入生姜片，洋葱块和香菜茎煸炒",
+      "duration_minutes": null,
+      "tips": "大火热锅"
+    },
+    {
+      "step": 5,
+      "content": "约 1 分钟后取出生姜，洋葱和香菜茎，弃用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "调中大火，放入红虾开始煎，注意所有虾需要单面都完整接触平底锅，煎约 2 分钟，同时给每只虾刷上一层油",
+      "duration_minutes": 2,
+      "tips": "确保所有虾单面都完整接触平底锅"
+    },
+    {
+      "step": 7,
+      "content": "待底面虾壳有微微焦黄时翻面，并撒入大蒜碎末，轻微晃动平底锅使得受热均匀",
+      "duration_minutes": null,
+      "tips": "待底面虾壳有微微焦黄时翻面，轻微晃动平底锅使得受热均匀"
+    },
+    {
+      "step": 8,
+      "content": "约 1 分钟后添加 20ml 白葡萄酒",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "再煎 1 分钟后调中小火，均匀撒上一层盐和黑胡椒",
+      "duration_minutes": 1,
+      "tips": "调中小火后撒盐和黑胡椒"
+    },
+    {
+      "step": 10,
+      "content": "给每只虾滴上一滴生抽",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "撒上香菜叶，装盘",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "切好柠檬片，摆放到盘边即可",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "柠檬可提升虾的口感，但偏酸，可以根据喜好添加，也可以不用",
+    "趁热吃"
+  ]
+}

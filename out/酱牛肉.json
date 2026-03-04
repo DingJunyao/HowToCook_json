@@ -1,0 +1,208 @@
+{
+  "name": "酱牛肉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/酱牛肉/酱牛肉.md",
+  "category": "荤菜",
+  "difficulty": "expert",
+  "total_time_minutes": 543,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/酱牛肉_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "牛腱子肉",
+      "quantity": 500,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香叶",
+      "quantity": 1,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 3,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 0.5,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 4,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "桂皮",
+      "quantity": 1,
+      "unit": "块",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冰糖",
+      "quantity": 2,
+      "unit": "粒",
+      "quantity_range": {
+        "min": 2,
+        "max": 3
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花椒",
+      "quantity": 4,
+      "unit": "粒",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 8,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 4,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "八角",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黄豆酱",
+      "quantity": 4,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "牛腱子肉清洗干净，用清水浸泡 1 小时，去除血水",
+      "duration_minutes": 60,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "用牙签或者叉子在牛腱子肉表面扎孔，加料酒、花椒、姜片后，用保鲜膜紧密包裹容器，腌制 4-6 小时",
+      "duration_minutes": 300,
+      "tips": "用牙签或者叉子在牛肉表面扎孔可以破坏筋膜，便于入味"
+    },
+    {
+      "step": 3,
+      "content": "牛腱子肉切成 8cm，不超过 10cm 的肉块",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "牛腱子肉放入锅中，加入冷水至水面没过牛肉，开锅至水沸腾开始计时，同时捞出浮沫。3 分钟后停火，捞出牛肉，用温水洗净",
+      "duration_minutes": 3,
+      "tips": "焯水可去除血水和杂质"
+    },
+    {
+      "step": 5,
+      "content": "将洗净后的牛腱子肉放入砂锅或炖锅，加水没过牛腱子肉，开大火，放入除盐之外其他未使用的配料",
+      "duration_minutes": 15,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "水开之后，大火转为小火，持续加热 90 分钟，加盐",
+      "duration_minutes": 90,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "加盐后，继续小火 90 分钟（注：每 30 分钟确认水位线，要求至少达到牛肉面高度的 80%）",
+      "duration_minutes": 90,
+      "tips": "操作时，需要注意观察沸腾的水位线，如发现低于 2/3 的食材应加热水至没过食材（约每 30 分钟确认一次）"
+    },
+    {
+      "step": 8,
+      "content": "加热 180 分钟后，捞出牛腱子肉，用保鲜膜紧密包裹，放入冰箱冷藏数小时",
+      "duration_minutes": 5,
+      "tips": "用保鲜膜紧密包裹牛肉，放入冰箱冷藏数小时，可以使得切片肉质紧实不散"
+    },
+    {
+      "step": 9,
+      "content": "取出后沿牛肉纹路切片，上桌食用，其他牛腱子肉建议不切片冷藏",
+      "duration_minutes": 10,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "用保鲜膜紧密包裹牛肉，放入冰箱冷藏数小时，可以使得切片肉质紧实不散",
+    "用牙签或者叉子在牛肉表面扎孔可以破坏筋膜，便于入味",
+    "操作时，需要注意观察沸腾的水位线，如发现低于 2/3 的食材应加热水至没过食材（约每 30 分钟确认一次）"
+  ]
+}

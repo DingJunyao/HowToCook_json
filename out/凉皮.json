@@ -1,0 +1,215 @@
+{
+  "name": "凉皮",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/semi-finished/凉皮.md",
+  "category": "主食",
+  "difficulty": "medium",
+  "total_time_minutes": 21,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "凉皮",
+      "quantity": 300,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "面筋",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "适量",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "黄瓜",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "绿豆芽",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "蒜瓣",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "芝麻酱",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "原味芝麻酱最佳",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 7,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "3g盐水用 + 4g芝麻酱用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "2g盐水用 + 3g芝麻酱用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "5g盐水用 + 5g芝麻酱用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "1g盐水用 + 1g芝麻酱用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香油",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "2g盐水用 + 3g芝麻酱用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香醋",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "温开水",
+      "quantity": 40,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "10g蒜泥用 + 30g芝麻酱用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "辣椒油",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "根据个人口味添加",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "锅中加入500ml水煮沸，将绿豆芽放入锅中大火煮60秒，捞出过凉水，放入盘中备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "黄瓜切丝放入盘中备用",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "将10g蒜瓣剥皮，放入蒜臼中加入1g盐，锤成蒜泥，加入10g自来水，放置备用",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "用自来水清洗凉皮和面筋（去除表面食用油），清洗面筋后用手挤出大量水分",
+      "duration_minutes": 2,
+      "tips": "超市购买的凉皮表面一般会有食用油，可以使用自来水清洗。清洗面筋之后，请用手将面筋中的大量水分挤出（不需过于用力）。"
+    },
+    {
+      "step": 5,
+      "content": "准备小碗，加入3g盐、2g鸡精、5g生抽、1g老抽、1g香油、2g蚝油、5g香醋，加入25-35g温水（据个人咸淡程度），使用筷子拌匀、溶解，静置一旁冷却",
+      "duration_minutes": 3,
+      "tips": "盐、香醋均可根据个人口味酌量添加，以上数据只是大众口味。"
+    },
+    {
+      "step": 6,
+      "content": "准备小碗，将30g芝麻酱放入其中，加入4g盐、3g鸡精、5g生抽、1g老抽、3g蚝油。使用筷子将调料与芝麻酱拌匀。加入10g清水将其拌匀，重复2、3次（次数根据个人对芝麻酱的浓稠程度而定）。",
+      "duration_minutes": 4,
+      "tips": "以下计量均为一人份，如果有n人，请自觉将计量乘以n"
+    },
+    {
+      "step": 7,
+      "content": "拿出之前准备好的小盆，加入之前准备好的凉皮。倒入盐水，使用筷子将其拌匀。随之盛入小碗（盐水一并倒入碗中）。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "豆芽放置凉皮上、面筋随后放上。将调配好的芝麻酱从面筋上方倒下。撒上黄瓜丝。如有喜爱可以加入辣椒油。色香味俱全的家常凉皮出炉！",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "个人口味根据地区、天气、时间均有不同，调料的具体使用量请据个人情况而定。"
+  ]
+}

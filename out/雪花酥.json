@@ -1,0 +1,117 @@
+{
+  "name": "雪花酥",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/dessert/雪花酥/雪花酥.md",
+  "category": "甜品",
+  "difficulty": "medium",
+  "total_time_minutes": 30,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/雪花酥_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "无盐黄油",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "棉花糖",
+      "quantity": 75,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "全脂奶粉",
+      "quantity": 40,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "20g加入锅中，剩余用于表面撒粉",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "混合坚果",
+      "quantity": 60,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "如三只松鼠每日坚果",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "饼干",
+      "quantity": 75,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "非夹心型饼干，推荐小奇福或雪花酥烘焙专用小饼干",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "饼干超过一元硬币大小先切成小块",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "无盐黄油加入锅中，小火加热至无盐黄油完全融化",
+      "duration_minutes": null,
+      "tips": "使用不粘平底锅"
+    },
+    {
+      "step": 3,
+      "content": "棉花糖加入锅中，使用刮刀搅拌，直至棉花糖融化并与无盐黄油均匀融合",
+      "duration_minutes": null,
+      "tips": "可用烘焙刮刀或锅铲，小心使用以免破坏不粘锅涂层"
+    },
+    {
+      "step": 4,
+      "content": "20g奶粉加入锅中，使用刮刀搅拌，奶粉与黄油棉花糖混合物搅拌均匀后立即关火",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "准备好的所有混合坚果与饼干趁热加入锅中，使用刮刀搅拌",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "搅拌到温度下降到手可以接触的温度后，戴上一次性塑料手套，在锅中搓揉或者双手拿起拉扯，让饼干混合坚果与棉花糖黄油奶粉混合物分散均匀",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "将上述步骤混合物压入模具中，边角压实，擀面杖擀平，未满的一边用手尽量压成直边",
+      "duration_minutes": null,
+      "tips": "使用雪花酥/牛轧糖模具"
+    },
+    {
+      "step": 8,
+      "content": "室温放凉，完全冷却后脱模，按照模具纹路切块，或切成自己喜欢的大小，撒上剩余奶粉，尽量使雪花酥每面都沾上奶粉",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "棉花糖加热时间越长，最后成品越硬"
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "name": "手抓饼",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/手抓饼.md",
+  "category": "主食",
+  "difficulty": "easy",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "普通面粉",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "开水",
+      "quantity": 100,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冷水",
+      "quantity": 50,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生菜",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "火腿",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "芝士片",
+      "quantity": 1,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "面粉放入碗中，加入开水搅拌成絮状，再加入冷水揉成光滑面团，覆盖湿布静置 20 分钟。",
+      "duration_minutes": 20,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "面团分成每份约 100 克，搓圆，擀成薄片。",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "表面均匀涂抹食用油，撒上盐，卷成蜗牛状，松弛 10 分钟。",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "面团再次擀成薄饼，厚度均匀。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "热锅中倒入油，小火煎至两面金黄起泡。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "煎好的饼依次铺入煎蛋、生菜、火腿、芝士片等配料，卷起即可。",
+      "duration_minutes": 5,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "使用开水与冷水混合和面，有助于提升饼皮柔韧度。",
+    "面团醒发时间不宜少于 20 分钟，否则不易擀薄。",
+    "可根据个人口味增减配料，建议配料总重控制在 100 克以内。",
+    "剩余生饼皮可冷藏保存 24 小时，使用时回温擀平即可。"
+  ]
+}

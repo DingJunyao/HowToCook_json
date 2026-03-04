@@ -1,0 +1,269 @@
+{
+  "name": "牛排的做法",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/牛排/牛排.md",
+  "category": "荤菜",
+  "difficulty": "hard",
+  "total_time_minutes": 30,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/牛排_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "牛排",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": {
+        "min": 225,
+        "max": 250
+      },
+      "is_optional": false,
+      "note": "两片牛排约450-500g，推荐厚度2-3cm",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黑胡椒粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐粗颗粒现磨黑胡椒",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐大颗粒海盐",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": {
+        "min": 2.5,
+        "max": 5
+      },
+      "is_optional": false,
+      "note": "留5-8个较大的蒜瓣，用刀背压扁",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "橄榄油",
+      "quantity": 7.5,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 5,
+        "max": 7.5
+      },
+      "is_optional": false,
+      "note": "推荐特级初榨橄榄油",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黄油",
+      "quantity": 12.5,
+      "unit": "g",
+      "quantity_range": {
+        "min": 10,
+        "max": 12.5
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "口蘑",
+      "quantity": 5,
+      "unit": "个",
+      "quantity_range": {
+        "min": 2.5,
+        "max": 5
+      },
+      "is_optional": true,
+      "note": "配菜，选1-2种即可",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小土豆",
+      "quantity": 5,
+      "unit": "个",
+      "quantity_range": {
+        "min": 2.5,
+        "max": 5
+      },
+      "is_optional": true,
+      "note": "每个约20g，配菜选1-2种即可",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小番茄",
+      "quantity": 5,
+      "unit": "个",
+      "quantity_range": {
+        "min": 2.5,
+        "max": 5
+      },
+      "is_optional": true,
+      "note": "每个约15g，配菜选1-2种即可",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "百里香",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "若使用新鲜百里香枝条，取3-6根，每根约10cm长",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "预制牛排酱汁",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "可选",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "迷迭香",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "香料可选，推荐新鲜植物枝条",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "从冰箱中取出牛排解冻。如果牛排处于冰冻状态，需提前一晚转移至冷藏室，并在烹饪前半小时放置在常温中。请勿将牛排置于水中或加热解冻。",
+      "duration_minutes": null,
+      "tips": "提前解冻让牛排回温，避免烹饪不均匀"
+    },
+    {
+      "step": 2,
+      "content": "将小番茄，小土豆和口蘑洗净，对半切开备用。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "将大蒜剥皮，留5-8个较大的蒜瓣，用刀背压扁备用。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "牛排的预处理：对于肉眼牛排，使用厨房剪刀竖直插入到肉眼牛排中心的结缔组织，剪1-2刀；对于西冷牛排，如果不喜欢的可以剔除边上的油脂。随后使用厨房纸包裹牛排，将牛排上附着的水全部吸干，直至不留下明显水渍。",
+      "duration_minutes": 5,
+      "tips": "吸干牛排表面的水分很重要，否则会影响煎制效果"
+    },
+    {
+      "step": 5,
+      "content": "将炉灶打开高火，同时锅中加入橄榄油，热锅15-30秒。",
+      "duration_minutes": 0.5,
+      "tips": "热锅温度约油温6-8成"
+    },
+    {
+      "step": 6,
+      "content": "腌制牛排。将海盐和黑胡椒均匀的洒在牛排的全部表面并用手涂抹，揉搓，使得盐和胡椒颗粒尽量嵌入到肉中。",
+      "duration_minutes": 1,
+      "tips": "腌制完成后需要立即下锅，不推荐提前腌制牛排，因为外表涂抹的盐会析出牛肉中的水分，影响烹饪的同时丧失风味"
+    },
+    {
+      "step": 7,
+      "content": "热锅至油温6-8成，将牛排由近及远的缓慢放入锅中。",
+      "duration_minutes": 0.5,
+      "tips": "避免油花溅出"
+    },
+    {
+      "step": 8,
+      "content": "如果您使用了土豆作为配菜，可以将土豆放入碗中，然后放进微波炉加热10分钟，或者放入开水煮3-5分钟。",
+      "duration_minutes": 10,
+      "tips": "此步骤可与牛排煎制同步进行"
+    },
+    {
+      "step": 9,
+      "content": "单面煎制1.5分钟（适用于2-3cm厚的牛排。如果牛排更薄，时间缩短为1分钟；如果牛排更厚，时间增加至2-2.5分钟）。",
+      "duration_minutes": 1.5,
+      "tips": "这个时间适用于2-3cm厚、5-7成熟的牛排"
+    },
+    {
+      "step": 10,
+      "content": "翻面，再煎制1.5分钟。对于西冷牛排和菲力牛排，需要使用筷子或者锅铲将牛排竖起来，煎它的侧面约30秒。",
+      "duration_minutes": 2,
+      "tips": "煎侧面可以形成焦香边缘"
+    },
+    {
+      "step": 11,
+      "content": "将炉灶切换至中火，随后按顺序快速加入黄油、大蒜、百里香。用锅铲推动黄油在锅中快速涂抹直至完全融化。将大蒜压在牛排下以增加风味。",
+      "duration_minutes": 0.5,
+      "tips": "快速加入避免温度骤降"
+    },
+    {
+      "step": 12,
+      "content": "将平底锅倾斜地放在灶上，使得油全部流到锅的一侧。",
+      "duration_minutes": 0.5,
+      "tips": null
+    },
+    {
+      "step": 13,
+      "content": "将香料和大蒜放置在牛排上，用汤匙舀起锅中的油，不断地淋在牛排上。这个过程持续30秒，随后将牛排翻面，再重复这个过程30秒。",
+      "duration_minutes": 1,
+      "tips": "如果油淋在牛排上时冒泡并且油的颜色没有变成深褐色，则油温合适。如果出现大量油泡且油变成深褐色，说明油温过高，需移开灶台稍等片刻"
+    },
+    {
+      "step": 14,
+      "content": "将牛排盛出放在案板上，用锡箔纸包裹，等待5-10分钟。这个过程（称为醒肉）的作用是利用牛排自身的温度继续加热，锁住水分。",
+      "duration_minutes": 10,
+      "tips": "醒肉是关键步骤，切勿跳过"
+    },
+    {
+      "step": 15,
+      "content": "将配菜（土豆，番茄，蘑菇）倒入锅中，开中火煎5分钟。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 16,
+      "content": "取出牛排，用刀切成宽度1.5cm宽度的肉条，此时您可以观察到牛肉的熟度。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 17,
+      "content": "取出配菜，装盘，淋上锅中剩余的油或者牛排酱汁（可选）。",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "牛排需要提前解冻并回温，避免直接从冰箱取出下锅",
+    "吸干牛排表面的水分非常重要，否则会影响煎制效果",
+    "腌制后需要立即下锅，不推荐提前腌制",
+    "煎制时间根据牛排厚度调整：2-3cm厚约1.5分钟每面，更薄1分钟，更厚2-2.5分钟",
+    "醒肉过程是关键步骤，等待5-10分钟可以让牛排内部继续加热并锁住水分",
+    "配菜可选，根据喜好选择1-2种即可",
+    "电磁炉高火：1.8Kw-2.2Kw，中火：800w-1.4Kw，小火：200w-600w",
+    "燃气灶高火：70%-90%出气速度，中火：40%-60%，小火：10%-30%"
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "name": "血浆鸭",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/血浆鸭/血浆鸭.md",
+  "category": "荤菜",
+  "difficulty": "expert",
+  "total_time_minutes": 120,
+  "servings": 1,
+  "original_servings": 3,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鲜仔鸭肉",
+      "quantity": 666.67,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鲜鸭血",
+      "quantity": 83.33,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "宰杀鸭子时加醋接鸭血，用筷子顺时针搅拌防凝固",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 2,
+      "unit": "片",
+      "quantity_range": {
+        "min": 2,
+        "max": 3
+      },
+      "is_optional": false,
+      "note": "根据个人吃辣喜好程度可多放",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜仔",
+      "quantity": 2,
+      "unit": "瓣",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香葱",
+      "quantity": 0.67,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切好备用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "辣椒",
+      "quantity": 333.33,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "根据个人吃辣喜好程度可选青椒、线椒、美人椒等，喜欢吃辣可增加小米辣或朝天椒，切好备用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "高度白酒",
+      "quantity": 16.67,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "与水混合使用，也可选择啤酒或米酒",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 50,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "与白酒混合使用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "啤酒",
+      "quantity": 66.67,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "可替代白酒加水或米酒",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "米酒",
+      "quantity": 66.67,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "可替代白酒加水或啤酒",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 3.33,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2.67,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 1.67,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "山胡椒油",
+      "quantity": 1.67,
+      "unit": "滴",
+      "quantity_range": {
+        "min": 1,
+        "max": 2
+      },
+      "is_optional": true,
+      "note": "喜欢食用山胡椒油的朋友可以放入",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 33.33,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "鲜仔鸭肉切成约 3cm 小块，加料酒、姜片，去除血水。",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "炒锅烧热，放入约 33ml 食用油，大火待油烧开，放入腌制好的鲜鸭肉，不断翻炒。",
+      "duration_minutes": 8,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "待鸭肉完全变色（肉眼可见泛白），放入酒，再加入约 67ml 开水，刚好淹没鸭肉即可，盖上锅盖中火煮 15 分钟。",
+      "duration_minutes": 15,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "水开之后，打开锅盖放入姜蒜，翻炒一遍，盖上锅盖持续加热 10 分钟。",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "打开锅盖放入辣椒，不断翻炒，待至肉眼可见辣椒炒软，放入鲜鸭血，此时需要不断翻炒，确保每块鸭肉和每片辣椒都有鸭血的浸润。",
+      "duration_minutes": 15,
+      "tips": "此乃血浆鸭的精髓"
+    },
+    {
+      "step": 6,
+      "content": "翻炒至肉眼可见鸭血均为黑色，加入盐、鸡精、香葱（喜欢食用山胡椒油的朋友也可以在此时放入 1-2 滴山胡椒油）再次翻炒一到二次即可。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "出锅盛盘，上桌食用。",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "操作时，需要注意观察水位线，调整炉火大小，以防水烧干粘锅。",
+    "放入鲜鸭血时，需要不断翻炒搅拌，防止鸭血抱团凝固成块。"
+  ]
+}

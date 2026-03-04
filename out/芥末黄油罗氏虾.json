@@ -1,0 +1,166 @@
+{
+  "name": "芥末黄油罗氏虾",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
+  "category": "水产",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/芥末黄油罗氏虾_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "罗氏虾",
+      "quantity": 500,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "广东市场价大概 40~45 一斤",
+      "original_quantity": "1 斤多",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "黄油",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "芥末",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": {
+        "min": 15,
+        "max": 30
+      },
+      "is_optional": false,
+      "note": "可选用朗姆酒或啤酒替代",
+      "original_quantity": "15g 到 30g",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜",
+      "quantity": 5,
+      "unit": "条",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切段",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 5,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "剁成蒜蓉",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将罗氏虾剪掉头尾尖刺、触须和脚，剪刀把虾身开背，去除虾线。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "提前搅拌好芥末酱汁：酱油、蚝油、芥末、盐、糖，搅拌均匀！",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "洗好香菜，切段备用。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "罗氏虾沥掉水，锅中加入油，直接放入罗氏虾，中火，外表煎至金黄，捞出。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "下入蒜蓉，大火，利用煎虾剩下的油继续煎炒蒜蓉，等到锅中白雾冒出，蒜蓉已经煎出香味，下虾和黄油，让虾充分吸收黄油香味。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "下入调好的酱汁，继续大火煮沸，翻炒虾，至酱汁收汁，加入酒（料酒、啤酒可以放 30g，朗姆酒味道浓郁放 15g 即可）。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "在等酱汁稍微收汁，加入香菜翻炒两下，即可出锅。",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "酱汁提前调配好，黄油提前备好，防止中间备料耗时。",
+    "蒜蓉切记要等虾煎好后捞出再下，防止煎炒过久变黑，发苦。",
+    "如果不太能接受芥末就放少点，能接受就放多点，如果放多了，煮久一会儿，芥末味也会散去。"
+  ]
+}

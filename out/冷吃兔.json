@@ -1,0 +1,254 @@
+{
+  "name": "冷吃兔",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/冷吃兔.md",
+  "category": "荤菜",
+  "difficulty": "hard",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "兔肉",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "腌制用",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "味精",
+      "quantity": 0.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "腌制用",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "腌制用",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "菜籽油",
+      "quantity": 120,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 100,
+        "max": 120
+      },
+      "is_optional": false,
+      "note": "油炸用",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约1/4头蒜",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "小葱",
+      "quantity": 7.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "可用大葱或洋葱替代",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "干辣椒",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "剪成2厘米小段",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "青花椒",
+      "quantity": 7.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "八角",
+      "quantity": 0.5,
+      "unit": "粒",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "桂皮",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "大拇指长短的一块",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "香叶",
+      "quantity": 2.5,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "山奈",
+      "quantity": 0.25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "黄豆大小",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "白蔻",
+      "quantity": 1,
+      "unit": "粒",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "小茴香",
+      "quantity": 7.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "白芝麻",
+      "quantity": 12.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "蒜、姜去皮并剁碎备用，八角、桂皮、香叶、山奈、白蔻、小茴香洗净备用。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "干辣椒剪成 2 厘米的小段，洗净备用。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "小葱/大葱/洋葱洗净，洋葱切成小块。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "兔肉剁成 2 厘米的小块，加入盐、料酒、味精调味，腌制 15 分钟。",
+      "duration_minutes": 15,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "锅中倒油，油温 4 成热下小葱/大葱/洋葱，中小火煸炒出香味，待到小葱/大葱/洋葱微焦，将其捞出。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "开大火升高油温，油温 8 成热时下入兔肉，炸制过程转中小火，炸至兔肉微微焦黄时捞出兔肉。",
+      "duration_minutes": 8,
+      "tips": "油量应该淹没兔肉，若未淹没需要及时补充。"
+    },
+    {
+      "step": 7,
+      "content": "升高油温，倒入干辣椒、青花椒、八角、桂皮、香叶、山奈、白蔻、小茴香；转小火将辣椒段炸脆。",
+      "duration_minutes": 3,
+      "tips": "辣椒极容易炸糊，炸糊会变成黑色，这个过程非常快，所以一定要小火，基本等到没太多水气蒸发时，就可以下兔肉了。"
+    },
+    {
+      "step": 8,
+      "content": "重新倒入兔肉，加入蚝油、翻炒几分钟。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "关火，加入蒜、姜、白芝麻，翻炒均匀。",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "放置一夜更加入味"
+  ]
+}

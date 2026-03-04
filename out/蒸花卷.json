@@ -1,0 +1,82 @@
+{
+  "name": "蒸花卷",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/蒸花卷.md",
+  "category": "早餐",
+  "difficulty": "simple",
+  "total_time_minutes": 30,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "冷冻花卷",
+      "quantity": 2.5,
+      "unit": "个",
+      "quantity_range": {
+        "min": 1.5,
+        "max": 2.5
+      },
+      "is_optional": false,
+      "note": "可在超市、各种买菜平台购买",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 400,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "从花卷的包装袋中取出所需数量的花卷",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "把花卷平铺在碟子上，尽量不用重叠",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "往锅里倒入 400ml 水，把蒸架放里面，把装花卷的碟子放在蒸架上，盖上锅盖",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "开大火加热，直至水沸腾",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "转中火加热 15 分钟",
+      "duration_minutes": 15,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "开盖用手感受花卷的表面温度，如果不够热，就继续盖上盖子加热，否则就可以关火出锅",
+      "duration_minutes": 2,
+      "tips": "通过触摸表面温度来判断是否熟透"
+    },
+    {
+      "step": 7,
+      "content": "碟子取出放凉至 50 度即可食用",
+      "duration_minutes": 5,
+      "tips": "放凉至约50度食用口感更佳"
+    }
+  ],
+  "tips": [
+    "操作时，需要注意观察锅里的水不能少于 50ml"
+  ]
+}

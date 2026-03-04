@@ -1,0 +1,133 @@
+{
+  "name": "黄瓜炒肉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/黄瓜炒肉.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 16,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "黄瓜",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "猪瘦肉",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "其中 10 克用于腌制猪肉，40 克用于炒制",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "其中 8 克用于腌制黄瓜，2 克用于调味",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 2,
+      "unit": "瓣",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "小米辣",
+      "quantity": 1,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将猪瘦肉切片，放入碗中，倒入食用油 10 克，生抽，搅拌均匀，腌制 10 分钟",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将黄瓜切去 5 厘米的头尾，剩余部分斜着切成 0.5 厘米的薄片",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "将黄瓜倒入碗中，撒上盐 8 克，搅拌均匀，腌制 5 分钟",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "将蒜瓣去皮，压扁，切成蒜末备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "将小米辣去丁切分成均匀 0.5 厘米的段状",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "热锅，倒油 40 克，等油温到冒烟，放入蒜蓉小米辣翻炒 5 次",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "放入腌制好的猪瘦肉，翻炒至肉熟变色",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "放入黄瓜，加入盐 2 克，大火翻炒均匀半分钟，出锅",
+      "duration_minutes": 1,
+      "tips": "如果无法保证大火，可能会有点生。可以考虑增加到 50 秒。"
+    }
+  ],
+  "tips": []
+}

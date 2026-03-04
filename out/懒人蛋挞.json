@@ -1,0 +1,63 @@
+{
+  "name": "懒人蛋挞",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/semi-finished/懒人蛋挞/懒人蛋挞.md",
+  "category": "甜品",
+  "difficulty": "medium",
+  "total_time_minutes": 30,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/懒人蛋挞_0.png"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "蛋挞皮",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蛋挞液",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "到达挞皮的 4/5 最佳",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "烤箱 200 度，预热 10 分钟",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "在烤盘上放上蛋挞皮，蛋挞皮中倒入蛋挞液约 10ml，具体分量需要看蛋挞皮大小，通常倒入 4/5 即可",
+      "duration_minutes": 3,
+      "tips": "具体分量需要看蛋挞皮大小"
+    },
+    {
+      "step": 3,
+      "content": "将烤盘放入烤箱内，上下火 190 度，烤 10 - 20 分。如果想快速烤出蛋挞液上的焦褐斑点，需要上火更高一些，通常是 200 - 210 度",
+      "duration_minutes": 15,
+      "tips": "如果想快速烤出蛋挞液上的焦褐斑点，需要上火更高一些，通常是 200 - 210 度"
+    },
+    {
+      "step": 4,
+      "content": "蛋挞液烤出焦褐斑点，蛋挞皮完全蓬松冒油即可",
+      "duration_minutes": null,
+      "tips": "蛋挞液烤出焦褐斑点，蛋挞皮完全蓬松冒油即可"
+    }
+  ],
+  "tips": [
+    "操作时，可以根据焦褐斑大小适当调整时间，如果需要"
+  ]
+}

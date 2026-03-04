@@ -1,0 +1,80 @@
+{
+  "name": "电饭煲蒸米饭",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/米饭/电饭煲蒸米饭.md",
+  "category": "主食",
+  "difficulty": "simple",
+  "total_time_minutes": 45,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "米",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": {
+        "min": 100,
+        "max": 200
+      },
+      "is_optional": false,
+      "note": "江南米或北方大米",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 250,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "江南米没过食指第一指节又第二指节1/4处（约2.6厘米）；北方大米没过食指第一指节（约2厘米处）",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "清洗米",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将米和水一起加入电饭煲中",
+      "duration_minutes": null,
+      "tips": "使用指尖量水法确定水量"
+    },
+    {
+      "step": 3,
+      "content": "连接电饭煲电源，进入加热模式。等待大约 30 分钟。",
+      "duration_minutes": 30,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "待电饭煲自动进入保温模式后",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "将米在电饭煲中闷 10-15 分钟",
+      "duration_minutes": 15,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "盛出米",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "不论什么容器，水的量都是可以使用\"指尖量水法\"煮出好米饭",
+    "水的多少是能够严重影响一碗好米饭的口感",
+    "南方一般食用江南米，北方一般食用北方大米，江南米会比较细长，而北方大米会比较短且圆",
+    "米饭不同品种的米，不同的水量会极度影响口感",
+    "更多信息请参考使用的电饭煲的说明书"
+  ]
+}

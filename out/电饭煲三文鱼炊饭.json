@@ -1,0 +1,126 @@
+{
+  "name": "电饭煲三文鱼炊饭",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/电饭煲三文鱼炊饭/电饭煲三文鱼炊饭.md",
+  "category": "主食",
+  "difficulty": "medium",
+  "total_time_minutes": 38,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/电饭煲三文鱼炊饭_0.webp"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "有盐牛油",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约一汤匙，可增加至两汤匙使口感更浓厚",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "三文鱼",
+      "quantity": 300,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "需去鳞去骨",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "米",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 50,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "根据电饭煲刻度适量添加",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "粟米",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "金菇",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "切碎使用",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "冬菇",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "切碎使用",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "三文鱼去鳞，去骨",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "金菇、冬菇切碎",
+      "duration_minutes": 3,
+      "tips": "使用金菇和冬菇时才需要此步骤"
+    },
+    {
+      "step": 3,
+      "content": "洗米三次",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "把三文鱼、米、牛油放入电饭煲",
+      "duration_minutes": 3,
+      "tips": "想口感浓厚一点，可以加多一汤匙牛油"
+    },
+    {
+      "step": 5,
+      "content": "根据电饭煲的刻度放水",
+      "duration_minutes": 2,
+      "tips": "水量根据电饭煲刻度适量添加"
+    },
+    {
+      "step": 6,
+      "content": "把电饭煲調較至煲飯模式，等待大約 30 - 45 分鐘",
+      "duration_minutes": 35,
+      "tips": "根据电饭煲型号不同，烹饪时间可能有所差异"
+    }
+  ],
+  "tips": [
+    "可根据个人口味增加牛油用量，一汤匙约 15g",
+    "金菇、冬菇、粟米为可选食材，可根据喜好调整"
+  ]
+}

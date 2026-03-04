@@ -1,0 +1,143 @@
+{
+  "name": "鸡蛋三明治",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/鸡蛋三明治.md",
+  "category": "早餐",
+  "difficulty": "easy",
+  "total_time_minutes": 10,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "吐司",
+      "quantity": 2,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "培根",
+      "quantity": 2,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黄油",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蛋黄酱",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黑胡椒",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "芝士",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酸黄瓜",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "吐司切去四边，备用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "鸡蛋煮熟，捣碎",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "混合鸡蛋、蛋黄酱、盐、黑胡椒",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "锅中加入黄油，煎熟培根",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "组装吐司，在两片吐司间加入制作好的鸡蛋酱及培根",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "四边形吐司切成三角形装盘",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "也可加入芝士、酸黄瓜等食材"
+  ]
+}

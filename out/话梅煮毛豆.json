@@ -1,0 +1,67 @@
+{
+  "name": "话梅煮毛豆",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/话梅煮毛豆/话梅煮毛豆.md",
+  "category": "素菜",
+  "difficulty": "medium",
+  "total_time_minutes": 45,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/话梅煮毛豆_0.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "毛豆",
+      "quantity": 300,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "话梅",
+      "quantity": 6,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "清水加入食用盐，毛豆浸泡 15 分钟",
+      "duration_minutes": 15,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "加入开水，倒入毛豆、话梅，水煮 20-30 分钟",
+      "duration_minutes": 30,
+      "tips": "煮制时间可根据个人口味调整，20分钟口感更清脆，30分钟更入味"
+    },
+    {
+      "step": 3,
+      "content": "起锅开吃",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "话梅煮毛豆是一道酸甜可口的简易美食，营养丰富"
+  ]
+}

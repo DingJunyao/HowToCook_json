@@ -1,0 +1,174 @@
+{
+  "name": "可乐炒饭",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/可乐炒饭.md",
+  "category": "主食",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "米饭",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "可乐",
+      "quantity": 160,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "含糖或无糖均可",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 3,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "火腿肠",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": {
+        "min": 20,
+        "max": 100
+      },
+      "is_optional": true,
+      "note": "或午餐肉",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "油",
+      "quantity": 25,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 7.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "如果使用无糖可乐，追加 5 ml，如果不使用豆瓣酱，追加 5 ml",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "豆瓣酱",
+      "quantity": 7.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "可选",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱花",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "胡椒粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "白胡椒、黑胡椒均可",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将锅烧热后，加入 25 ml 油，放两个鸡蛋，煎至底部完全凝固",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "翻面，煎至两面完全凝固",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "关火，将鸡蛋取出，剪成 2-5 cm² 的小块后放回锅中（也可以直接用锅铲铲碎）",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "重新开火，倒入可乐、生抽、老抽、豆瓣酱、蚝油，搅拌均匀",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "加热到锅内液体剩 1/3，倒入米饭和火腿肠翻炒",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "翻炒均匀后，改小火，锅内食物中心挖一个洞，打入 1 个鸡蛋，盖上锅盖，焖 2 分钟",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "开盖翻炒至第三颗鸡蛋熟透，撒上葱花和胡椒粉，出锅",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "含糖可乐口感更好",
+    "如果喜欢干一点，多炒一会儿",
+    "如果嫌麻烦，可以在第一步直接放 3 个鸡蛋，取消挖洞打另一个鸡蛋的步骤"
+  ]
+}

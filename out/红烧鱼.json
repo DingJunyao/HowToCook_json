@@ -1,0 +1,265 @@
+{
+  "name": "红烧鱼的做法",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/红烧鱼.md",
+  "category": "水产",
+  "difficulty": "hard",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鱼",
+      "quantity": 300,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "中等大小的鲫鱼，提前划好花刀",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切 2-3 片，然后片丝",
+      "original_quantity": "2-3片",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 3,
+      "unit": "个",
+      "quantity_range": {
+        "min": 3,
+        "max": 4
+      },
+      "is_optional": false,
+      "note": "拍碎、切碎或者切片",
+      "original_quantity": "3-4个",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "干辣椒",
+      "quantity": 3,
+      "unit": "个",
+      "quantity_range": {
+        "min": 2,
+        "max": 3
+      },
+      "is_optional": false,
+      "note": "切碎，依照个人口味",
+      "original_quantity": "2-3个",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "油",
+      "quantity": 50,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 30,
+        "max": 50
+      },
+      "is_optional": false,
+      "note": "煎鱼用",
+      "original_quantity": "30-50ml",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "如果辣椒辣度高，建议多一点",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "稍微多一点，会起大量油烟",
+      "original_quantity": "稍多",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "醋",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "喜欢醋可以多放一点",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "老抽",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白砂糖",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 300,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "冷水，以刚好淹没鱼身为宜",
+      "original_quantity": "刚好淹没鱼身",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "正常就撒葱花",
+      "original_quantity": "1-2根",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "小米椒",
+      "quantity": 2,
+      "unit": "个",
+      "quantity_range": {
+        "min": 1,
+        "max": 2
+      },
+      "is_optional": true,
+      "note": "不放也可以，最多放 2 个，不然辣度过高",
+      "original_quantity": "1-2",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "味精",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "看个人口味，不要放多",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "和味精一个道理",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "按照个人口味",
+      "original_quantity": "按照个人口味",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "姜蒜准备好，切碎。干辣椒切碎，和姜蒜一起",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "加入 30-50ml 油，等待锅热",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "放入擦干水分的鱼，然后晃动锅，用热油煎鱼，注意这过程一定要小火",
+      "duration_minutes": 5,
+      "tips": "不想被热油溅一身的话"
+    },
+    {
+      "step": 4,
+      "content": "将鱼翻面，重复上面油煎过程",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "放入姜蒜辣椒，翻炒出香味",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "倒入料酒，稍微多一点，此过程注意安全，会起大量油烟",
+      "duration_minutes": 1,
+      "tips": "会起大量油烟"
+    },
+    {
+      "step": 7,
+      "content": "倒入醋（喜欢醋可以多放一点）",
+      "duration_minutes": null,
+      "tips": "喜欢醋可以多放一点"
+    },
+    {
+      "step": 8,
+      "content": "放入白砂糖、酱油（老抽）",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "加入冷水，以刚好淹没鱼身为宜，然后调成中火，盖上锅盖，大概 1 分钟后将鱼翻身，继续盖上锅盖",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "3-4 分钟后，加入盐、小米椒、蚝油（味精、鸡精等），然后继续盖上锅盖，后续继续要翻身",
+      "duration_minutes": 4,
+      "tips": "味精、鸡精可选"
+    },
+    {
+      "step": 11,
+      "content": "当锅内汤汁收汁到鱼的脊背线上的鱼鳍下面一点点的时候（或者汤汁不多的时候），转小火，加入香菜、葱花，然后盖上锅盖 20 秒，关火",
+      "duration_minutes": 3,
+      "tips": "汤汁收汁到鱼的脊背线上的鱼鳍下面一点点的时候，或者汤汁不多的时候"
+    },
+    {
+      "step": 12,
+      "content": "起锅",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "如果没有使用过菜刀剁过肉类食物，那么并不推荐使用该菜单！！！",
+    "在操作中，锋利的菜刀可能会划伤手指，请一定要小心",
+    "建议新手以一条中等大小的鲫鱼上手，提前划好花刀，方便成熟（不然鱼背上容易夹生）",
+    "此做法代表通用红烧鱼做法，材料分为必备和可添加~",
+    "注意可额外添加的材料都是经验计算得出，除了香菜外其他多了并不是一件好事儿"
+  ]
+}

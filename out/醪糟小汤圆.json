@@ -1,0 +1,98 @@
+{
+  "name": "醪糟小汤圆",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/醪糟小汤圆.md",
+  "category": "甜品",
+  "difficulty": "medium",
+  "total_time_minutes": 13,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "小汤圆",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "醪糟",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 300,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "枸杞",
+      "quantity": 5,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "根据个人口味调整",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将水倒入锅中并煮沸",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "放入小汤圆煮 8 分钟",
+      "duration_minutes": 8,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "放入醪糟和枸杞再煮 2 分钟",
+      "duration_minutes": 2,
+      "tips": "若喜欢软点的枸杞口感，可以将枸杞和小汤圆同时煮"
+    },
+    {
+      "step": 4,
+      "content": "盛入碗中根据个人口味加入白糖并搅拌均匀",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "享用",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "白糖的用量根据个人口味更改",
+    "若喜欢更浓的口感可以减少 100 毫升内的水"
+  ]
+}

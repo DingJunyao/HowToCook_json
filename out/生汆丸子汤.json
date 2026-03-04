@@ -1,0 +1,233 @@
+{
+  "name": "生汆丸子汤",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/soup/生汆丸子汤.md",
+  "category": "汤与粥",
+  "difficulty": "hard",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "前腿肉",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2.4,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于调味丸子",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "胡椒粉",
+      "quantity": 0.8,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于调味丸子",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "葱姜花椒水",
+      "quantity": 16,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "鸡蛋清",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "土豆淀粉",
+      "quantity": 40,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "每人份40克",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "熟豆油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "保持嫩滑弹的状态",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "木耳",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "黄花",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "小香葱",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "粉丝",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "泡好的，放碗底",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "鸡粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于打底调味",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "香油",
+      "quantity": 0.5,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 0.4,
+        "max": 0.6
+      },
+      "is_optional": false,
+      "note": "淋3-5滴",
+      "original_quantity": "3-5滴",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "香菜",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "一小颗",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "肉改刀切开，肥瘦三七分，上刀剁一剁，用刀背砸一砸，把肉筋打开打松疏，反复剁成肉末",
+      "duration_minutes": 5,
+      "tips": "要想好吃得自己剁，机器打的太黏糊了"
+    },
+    {
+      "step": 2,
+      "content": "每斤肉，6克盐，1克胡椒粉，上手抓匀",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "葱姜花椒水分次加，边加边搅，用手揉匀，让肉吸饱水。每斤肉末80克葱姜花椒水",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "放入鸡蛋清，继续顺着一个方向搅",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "加入40克土豆淀粉，搅匀",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "加入熟豆油，这是为了保持其嫩滑弹的状态",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "起锅烧水，烧开，改小火，似开非开的样子",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "上手挤丸子入锅，全部漂起来后用小火煮1分钟",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "粉丝放碗底，加木耳、黄花、小香葱并用盐、胡椒粉、鸡粉打底调味",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "连汤带丸子冲入碗中",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "淋3-5滴香油",
+      "duration_minutes": 0,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "加一小颗香菜",
+      "duration_minutes": 0,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "要想好吃得自己剁肉，机器打的太黏糊了",
+    "辣椒油可以根据口味放"
+  ]
+}

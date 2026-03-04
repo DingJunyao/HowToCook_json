@@ -1,0 +1,106 @@
+{
+  "name": "反沙芋头",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/dessert/反沙芋头/反沙芋头.md",
+  "category": "甜品",
+  "difficulty": "medium",
+  "total_time_minutes": 20,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/反沙芋头_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "荔浦芋头",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "电商平台购买即可，实惠新鲜",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白砂糖",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "也可使用冰糖",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 200,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于炸芋头，可重复使用",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "芋头切长条（稍微大条一点，翻炒过程不容易烂）",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "加入可以没过芋头的油，等油温起来（插入筷子冒小泡即可）",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "放进芋头到油里，去炸到芋头浮起来，一般是微微泛黄并且可以用筷子很轻松戳洞",
+      "duration_minutes": 10,
+      "tips": "炸芋头的油放起来别浪费，后面炒菜啥的都能用"
+    },
+    {
+      "step": 4,
+      "content": "把糖(30g)和水(15g)按照2：1比例，加热至不变色且冒小泡",
+      "duration_minutes": 2,
+      "tips": "这是关键的一步"
+    },
+    {
+      "step": 5,
+      "content": "倒入葱花和芋头，关火翻炒，此时等温度下来，糖就会有反沙的效果",
+      "duration_minutes": 2,
+      "tips": "关火翻炒很重要"
+    },
+    {
+      "step": 6,
+      "content": "装盘上桌",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "刚做好的反沙芋头很烫，小心烫嘴哦",
+    "再配上茶，啊~真惬意啊"
+  ]
+}

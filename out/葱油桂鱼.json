@@ -1,0 +1,208 @@
+{
+  "name": "葱油桂鱼",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/葱油桂鱼/葱油桂鱼.md",
+  "category": "水产",
+  "difficulty": "hard",
+  "total_time_minutes": 45,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "桂鱼",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小葱",
+      "quantity": 0.5,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "长度约30cm，粗一点的可以沿中间劈开",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小米辣",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 12.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "植物油",
+      "quantity": 7.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于熬制葱油",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒸鱼豉油",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "去菜市场买已经处理好的鱼（自己处理的话最好不要内脏），将鱼身表面的所有鳞片刮干净",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "用厨房用纸将鱼肚子里的贴骨血和黑膜擦干净（帖骨血会影响口感，黑膜是鱼腥味的来源）",
+      "duration_minutes": null,
+      "tips": "贴骨血会影响口感，黑膜是鱼腥味的来源"
+    },
+    {
+      "step": 3,
+      "content": "用菜刀在鱼身表面来回刮几次，将鱼身的黏液刮掉，进一步去除腥味，然后用清水将鱼内外冲洗干净",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "将鱼平放在砧板，使用厨房纸将鱼内外的水分擦干，然后鱼头朝左，尾朝右，从鱼鳃边开始，每隔 3cm 纵向划一刀，深度达到鱼的脊椎骨即可，另一面使用同样的处理方式",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "将鱼平放在盆中，确保盘中没有多余水分",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "取一块姜（约25g），用削皮刀把表面的皮去除并洗干净，然后切成厚度为 3mm 的姜片",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "将小米辣洗干净、去蒂，切成厚度为 2mm 的小圆片（或切成 1mm 宽度的丝状）",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "将小葱洗干净，去除根须，切成 3cm 的小段，稍微粗一点的小葱，可以沿着小葱生长的方向沿中间劈开",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "加入盐和料酒到盆中，带上一次性手套，然后对鱼进行全身按摩 1 分钟，确保鱼身每个部位都均匀涂抹了盐和料酒",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "按摩好鱼后，在鱼身的每一个刀口中塞入一片姜片，鱼肚子中放入 3 片姜片，腌制 10 分钟",
+      "duration_minutes": 10,
+      "tips": "建议不要腌制太久，否则鱼的鲜度降低"
+    },
+    {
+      "step": 11,
+      "content": "在鱼腌制期间，在蒸锅中加入清水，烧开后，在蒸锅上放上蒸笼",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "鱼腌制好后，会析出水分，将多余水分和腌制用料酒、姜片倒掉，用清水冲洗干净鱼身和鱼肚，用厨房纸擦干鱼身和鱼肚",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 13,
+      "content": "将鱼平放在蒸鱼盘中，重新在鱼身、鱼肚刀口处塞入姜片",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 14,
+      "content": "然后将蒸鱼盘放入蒸笼中，盖上盖子，中火蒸 20 分钟",
+      "duration_minutes": 20,
+      "tips": null
+    },
+    {
+      "step": 15,
+      "content": "用防烫夹将蒸鱼盘夹出，在鱼身和鱼周围淋上蒸鱼豉油",
+      "duration_minutes": null,
+      "tips": "水蒸气会附着整个鱼和盘子上，凝结后形成鱼汤，出锅后千万不要倒掉这个汤，这个汤汁是鲜味精华"
+    },
+    {
+      "step": 16,
+      "content": "在鱼身和周围均匀撒上小葱段和小米辣",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 17,
+      "content": "在铁锅中倒入植物油，用中小火慢熬 5 分钟，不要用大火，否则油会挥发很快",
+      "duration_minutes": 5,
+      "tips": "不要用大火，否则油会挥发很快"
+    },
+    {
+      "step": 18,
+      "content": "将出锅后的热油均匀地慢慢地淋在鱼身上，鲜掉眉毛的葱油桂鱼就出炉啦！",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "本道菜容错性很高，无论是什么省份、什么口味的人都能兼容",
+    "原料不仅限于桂鱼，可以用鲈鱼、多宝鱼等海鱼代替",
+    "淡水鱼寄生虫会比海鱼多一点，不建议使用淡水鱼，淡水鱼的做法请参考《红烧鱼》等教程",
+    "本教程耦合性低、可扩展性强"
+  ]
+}

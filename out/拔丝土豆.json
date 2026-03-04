@@ -1,0 +1,125 @@
+{
+  "name": "拔丝土豆",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/拔丝土豆/拔丝土豆.md",
+  "category": "素菜",
+  "difficulty": "medium",
+  "total_time_minutes": 15,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/拔丝土豆_0.jpeg",
+    "images/拔丝土豆_1.jpeg",
+    "images/拔丝土豆_2.jpeg",
+    "images/拔丝土豆_3.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "土豆",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": {
+        "min": 150,
+        "max": 200
+      },
+      "is_optional": false,
+      "note": "1 个中等大小的土豆",
+      "original_quantity": "1 个",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 150,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 100,
+        "max": 150
+      },
+      "is_optional": false,
+      "note": "炸制土豆用，土豆能浮在油上面即可",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "淀粉",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于裹土豆表面，不加水",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白砂糖",
+      "quantity": 60,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于制作糖浆，多放糖以产生拔丝效果",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 50,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "熬糖用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "芝麻",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "出锅后撒在土豆上装饰",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "土豆去皮，切均匀的小块。放入淀粉（不加水）搅拌，使得淀粉覆盖土豆表面",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "起锅烧油，放入土豆块，缓缓翻滚煎炸 5-7 分钟，直至筷子可以插进土豆",
+      "duration_minutes": 7,
+      "tips": "土豆煎炸不可太熟透，否则在拔丝端盘时不容易定型，影响美观"
+    },
+    {
+      "step": 3,
+      "content": "取出土豆，放入大碗备用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "锅中加入水、白砂糖，沿着一个方向慢慢搅动白砂糖，直到白砂糖颜色变成褐色",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "重新倒入土豆，翻炒 30 秒后出锅",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "土豆盛盘，撒上芝麻",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "土豆煎炸不可太熟透，否则在拔丝端盘时不容易定型，影响美观",
+    "对于使用剩余的食用油，可以考虑重新收集到油壶"
+  ]
+}

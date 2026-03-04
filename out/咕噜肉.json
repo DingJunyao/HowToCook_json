@@ -1,0 +1,209 @@
+{
+  "name": "咕噜肉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/咕噜肉.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 31,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "梅头猪肉",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "青椒",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "罐头菠萝片",
+      "quantity": 75,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "1/2茶匙腌制，1/4茶匙酱汁",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "茄汁",
+      "quantity": 60,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白醋",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜蓉",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 2.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生粉",
+      "quantity": 58,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "2½茶匙用于酱汁，6汤匙用于裹肉",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "白砂糖",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 200,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 500,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "500ml用于炸制，1茶匙用于炒酱汁",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将梅头猪肉（100克）洗净，用厨房纸抹干水份，切成比想要的成品小一圈的大小",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "用盐（1/2茶匙）腌制梅头猪肉20分钟",
+      "duration_minutes": 20,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "将青椒（25克）切碎",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "将菠萝片（75克）切件",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "在碗中加入茄汁（4汤匙）、白醋（2茶匙）、蒜蓉（1汤匙）、生抽（½茶匙）、生粉（2½茶匙）、白砂糖（2汤匙）、盐（¼茶匙）和水（200毫升），拌匀成酱汁",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "将梅头猪肉粒沾上生粉（6汤匙）",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "加入油（500毫升）中火加热",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "将梅头猪肉粒放至锅里中火炸5分钟，然后盛起",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "加入梅头猪肉粒，再大火翻炸1分钟",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "加入油（1茶匙）和酱汁，中火加热3分钟",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "加入青椒和菠萝，大火加热2分钟",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "将已炸好的梅头猪肉粒与酱汁拌匀即可",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "想让肉更有层次可以在生粉中加鸡蛋，炸出来会更香脆"
+  ]
+}

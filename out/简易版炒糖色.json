@@ -1,0 +1,88 @@
+{
+  "name": "简易版炒糖色",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/condiment/简易版炒糖色.md",
+  "category": "调料",
+  "difficulty": "expert",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "冰糖",
+      "quantity": 35,
+      "unit": "g",
+      "quantity_range": {
+        "min": 30,
+        "max": 50
+      },
+      "is_optional": false,
+      "note": "也可使用白砂糖或绵白糖",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "油",
+      "quantity": 100,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "开水",
+      "quantity": 500,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "100ml用于炒制，400ml用于降温",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "开火，向锅中倒入 100ml 开水",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "向锅中倒入 100ml 油，与第一步间隔越短越好，此时锅为大火中火都可以，着急的话可以大火",
+      "duration_minutes": null,
+      "tips": "电磁炉温度不够，火候过了发苦，不够发甜"
+    },
+    {
+      "step": 3,
+      "content": "放入冰糖（如果冰糖过于耦合，可以提前敲碎，做到耦合度越低越好）",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "调整火力为中火，开始搅拌。要一直搅拌，直到变成棕褐色，此时转为小火",
+      "duration_minutes": null,
+      "tips": "炒糖色过程火不要太大"
+    },
+    {
+      "step": 5,
+      "content": "继续搅拌，糖色会再变稀，变红茶色，再变成酱红色后起小泡泡",
+      "duration_minutes": null,
+      "tips": "小泡泡会逐渐消失，之后会出现大泡泡，大泡泡出现时糖色完成"
+    },
+    {
+      "step": 6,
+      "content": "当大泡泡出现时，根据菜品派别以及个人口味选择操作：操作1：可以直接加 400ml 开水降温；操作2：也可以加入葱姜蒜花椒等调味品进行翻炒",
+      "duration_minutes": null,
+      "tips": "需要快速进行下一步操作，否则火候过大糖色发苦"
+    }
+  ],
+  "tips": [
+    "炒糖色过程火不要太大",
+    "电磁炉温度不够，火候过了发苦，不够发甜",
+    "要一直搅拌，直到大泡泡出现"
+  ]
+}

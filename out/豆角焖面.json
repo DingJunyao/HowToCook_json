@@ -1,0 +1,252 @@
+{
+  "name": "豆角焖面",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/豆角焖面/豆角焖面.md",
+  "category": "主食",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鲜面条",
+      "quantity": 300,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "韭叶或二细",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "五花肉",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "豆角",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 18,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 10,
+        "max": 18
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "耗油",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "十三香",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "味精",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将豆角切成 5cm - 6cm 的小段。将葱切成 1cm - 2cm 小段。将姜切成 1mm x 1mm x 3cm 的长条。将蒜放在砧板上拍碎，切成 1mm 的粒度。将五花肉切成 2mm 厚度的肉片。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将锅烧热，烧去锅内全部水汽，手放过内距离锅底 10cm 处，感觉明显有些许烤手。",
+      "duration_minutes": null,
+      "tips": "不粘锅请忽略上述操作，静待3-5秒油热即可"
+    },
+    {
+      "step": 3,
+      "content": "加入定量的食用油，手持锅柄，离灶 5cm 处，摇晃锅，使食用油充分挂满锅的三分之二（自下而上）。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "放入全部的姜和全部的葱段，翻炒爆香 5 秒。",
+      "duration_minutes": null,
+      "tips": "此时有油飞溅的危险，建议带上手套或做好防护措施"
+    },
+    {
+      "step": 5,
+      "content": "放入全部的肉片，放入以后不着急翻锅，静置 5 秒后，再翻炒，使所有的肉都裹满食用油。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "不断翻炒肉片，待到全部肉片都已经变色，沿锅边均匀淋入准备好的生抽，翻炒均匀。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "依次加入准备好的盐、老抽、耗油、十三香、鸡精以及全部准备好的豆角，翻炒 2 分钟。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "加入准备好的热水，等待水开。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "水开使用勺子舀出锅内二分之一菜汤（注意！不要将菜舀出）。",
+      "duration_minutes": null,
+      "tips": "舀出菜汤时不要将菜舀出"
+    },
+    {
+      "step": 10,
+      "content": "将所有面条平铺在菜的上方。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "盖上锅盖，中火焖 5 分钟。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "打开锅盖，将舀出的菜汤使用勺子，以每次一勺的量，均匀撒在面条上。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 13,
+      "content": "盖上锅盖，中火焖 3 分钟。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 14,
+      "content": "打开锅盖，将所有的蒜、味精均匀撒入。此时锅内可能还有水，如果想吃湿一点的请关火，否则不用关火。",
+      "duration_minutes": null,
+      "tips": "此时锅内可能还有水，如果想吃湿一点的请关火，否则不用关火"
+    },
+    {
+      "step": 15,
+      "content": "使用筷子不断翻炒，将菜与肉均匀搅拌。关火。",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "豆角焖面是一道懒人美食，操作简单，方便美味",
+    "关于面条粗细：毛细（像细粉丝那样细）、细（跟香头一样）、二细（像一般的炒面条那样粗）、三细（比二细稍微粗点，吃起来像吃粗粉条）、韭叶（就像韭菜叶子一样宽）、大宽（就像吃麻辣烫的那个宽粉一样）",
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
+  ]
+}

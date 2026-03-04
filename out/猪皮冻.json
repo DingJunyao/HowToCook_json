@@ -1,0 +1,239 @@
+{
+  "name": "猪皮冻",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/猪皮冻/猪皮冻.md",
+  "category": "荤菜",
+  "difficulty": "expert",
+  "total_time_minutes": 1440,
+  "servings": 1,
+  "original_servings": 4,
+  "images": [
+    "images/猪皮冻_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "猪皮",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 1000,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 3.25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "包括搓洗和调味用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "味精",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 3.75,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 12.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于上色",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "包括姜片",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 12.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于焯水",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白醋",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于搓洗去腥",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "八角",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "大料",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花椒",
+      "quantity": 1.25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白芷",
+      "quantity": 0.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "香料",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "桂皮",
+      "quantity": 0.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "香料",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "丁香",
+      "quantity": 0.2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "香料",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "香叶",
+      "quantity": 1,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "香料",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "小茴香",
+      "quantity": 0.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "香料",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将猪皮剁成不超过 10cm 小块，用清水浸泡 12 小时，然后冷水下锅，加入姜、料酒后，汆烫 5-10 分钟，捞出放入冷水中",
+      "duration_minutes": 730,
+      "tips": "浸泡 12 小时可以软化猪皮，去除血水"
+    },
+    {
+      "step": 2,
+      "content": "将焯过水的猪皮放到案板上，将里面的白肉部分全部剔除，然后再切成不超过 3mm 的长条，放入盆中",
+      "duration_minutes": 10,
+      "tips": "白肉部分要剔除干净，这样成品更透明"
+    },
+    {
+      "step": 3,
+      "content": "加入白醋、盐，用力搓洗 3 分钟，再用清水洗净",
+      "duration_minutes": 3,
+      "tips": "搓洗可以去除腥味，使成品晶莹剔透"
+    },
+    {
+      "step": 4,
+      "content": "锅内加入水，放入猪皮、葱、姜片、八角、花椒，大火烧开后，小火煲煮 90 分钟至猪皮软烂",
+      "duration_minutes": 90,
+      "tips": "小火慢煮可以让猪皮充分出胶"
+    },
+    {
+      "step": 5,
+      "content": "加入盐、味精、鸡精、生抽、老抽调味后，倒入盘中，将葱姜、八角拣出，晾凉至果冻状",
+      "duration_minutes": 60,
+      "tips": "拣出香料可以让成品更干净"
+    },
+    {
+      "step": 6,
+      "content": "放冰箱冷藏即可，食用时切成小块或者厚片",
+      "duration_minutes": 120,
+      "tips": "冷藏 4-6 小时后即可完全凝固"
+    }
+  ],
+  "tips": [
+    "做猪皮冻，直接下锅煮就废了，也是最忌讳的，一定要用白醋和盐不断搓洗猪皮，这样保证煮好的猪皮晶莹剔透，而且还没腥味",
+    "猪皮需要提前浸泡 12 小时，软化并去除血水",
+    "白肉部分要剔除干净，成品更透明美观",
+    "小火慢煮 90 分钟可以让猪皮充分出胶",
+    "冷藏 4-6 小时后即可完全凝固，食用时切成小块"
+  ]
+}

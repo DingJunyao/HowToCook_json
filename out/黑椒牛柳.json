@@ -1,0 +1,167 @@
+{
+  "name": "黑椒牛柳",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/黑椒牛柳/黑椒牛柳.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 60,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/黑椒牛柳_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "牛肉",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": {
+        "min": 80,
+        "max": 120
+      },
+      "is_optional": false,
+      "note": "可以用牛里脊肉或者牛排肉",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 0.083,
+      "unit": "个",
+      "quantity_range": {
+        "min": 0.067,
+        "max": 0.083
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "1/12个",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "菜椒",
+      "quantity": 0.083,
+      "unit": "个",
+      "quantity_range": {
+        "min": 0.067,
+        "max": 0.083
+      },
+      "is_optional": false,
+      "note": "红/黄椒",
+      "original_quantity": "1/12个",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "淀粉",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黑胡椒",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "分两次使用，腌制和出锅前",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "黑椒腌料",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "参照商品说明按比例腌制",
+      "original_quantity": "按商品说明",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花生油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 8,
+        "max": 12
+      },
+      "is_optional": false,
+      "note": "油量依据菜量变动",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将牛肉切条，长度最好控制在 8 厘米以下，厚度约 5-10 毫米，宽度约 1 厘米（要求不严格）",
+      "duration_minutes": 5,
+      "tips": "切条时注意厚度均匀，便于腌制和入味"
+    },
+    {
+      "step": 2,
+      "content": "利用腌料腌制牛肉，混合均匀后静置，用量与时间请参照商品说明，可以延长不能缩短",
+      "duration_minutes": 20,
+      "tips": "腌制时间不能缩短，否则影响口感"
+    },
+    {
+      "step": 3,
+      "content": "如果使用液态腌料，可以在腌制结束前三分钟撒一层黑胡椒粉，然后再加入淀粉，再次混合均匀后静置 20 分钟",
+      "duration_minutes": 3,
+      "tips": "仅适用于液态腌料的情况"
+    },
+    {
+      "step": 4,
+      "content": "开火，热锅，加入花生油",
+      "duration_minutes": 1,
+      "tips": "建议使用不粘锅"
+    },
+    {
+      "step": 5,
+      "content": "当能看到锅里的油冒出一丝烟时，放入牛肉，翻炒",
+      "duration_minutes": 1,
+      "tips": "小心油滴溅射"
+    },
+    {
+      "step": 6,
+      "content": "开中火偏大，翻炒 2 分钟至牛肉外表变色（即不出现明显血色，有血色部分说明翻炒不到位）",
+      "duration_minutes": 2,
+      "tips": "翻炒至牛肉完全变色，无血色"
+    },
+    {
+      "step": 7,
+      "content": "放入洋葱和菜椒，翻炒 2 分钟",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "加入盐，再次撒一份黑胡椒粉，翻炒 30 秒，搅拌均匀",
+      "duration_minutes": 0.5,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "观察洋葱已经变软即可关火，出锅，盛盘",
+      "duration_minutes": 1,
+      "tips": "洋葱变软即可，不要炒过头"
+    }
+  ],
+  "tips": [
+    "一般初学者只需要 1 小时以内即可完成",
+    "建议使用不粘锅",
+    "翻炒时小心油滴溅射"
+  ]
+}

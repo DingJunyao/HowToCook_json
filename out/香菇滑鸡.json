@@ -1,0 +1,200 @@
+{
+  "name": "香菇滑鸡",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/香菇滑鸡/香菇滑鸡.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/香菇滑鸡_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "大鸡腿",
+      "quantity": 2,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "干香菇",
+      "quantity": 5,
+      "unit": "粒",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 2,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 2,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 2,
+      "unit": "瓣",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "温水",
+      "quantity": 150,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "30-40 ℃",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 30,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "糖",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "温水泡发干香菇",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "姜切小块，葱切段，蒜对半切小粒",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "鸡腿去骨（不去骨也可，只是略影响程序员吃饭的效率而已），切成小块",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "泡发的香菇一分为四，香菇水留着备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "鸡腿肉焯水 1 分钟，去除血沫和杂质",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "鸡腿肉中加料酒 15ml、生抽 15ml、盐 1.5g、老抽 15ml，抓匀",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "油温 3 成，下入鸡腿肉煸炒，等鸡腿肉金黄后盛出备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "锅留底油，下入葱、姜、蒜炒香，香菇入锅，大火翻匀",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "等待 20 秒会有香菇香味从锅中飘出，此时下入煸炒过的鸡腿肉，下入香菇水（全部，本程序员认为的灵魂操作）、糖 15ml、生抽 30ml",
+      "duration_minutes": null,
+      "tips": "本程序员认为的灵魂操作：全部香菇水都下入锅中"
+    },
+    {
+      "step": 10,
+      "content": "转中火不盖盖，咕嘟 2 分钟收浓汤汁，淋入香油 5ml，撒上葱花后即可关火、装盘",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "鸡腿去骨操作较复杂：1. 鸡腿于案板摆正，骨头正对程序员，从头部划一刀至最底部，刀口要深，确保有碰到骨头；2. 用手扒拉肉到两边；3. 用刀尖隔开骨头上沾着的肉；4. 鸡腿翻面，刀紧贴骨头插入，挑断骨头与肉的连接点；5. 用刀尖切断最后的粘连即可",
+    "不去骨也可，只是略影响程序员吃饭的效率而已"
+  ]
+}

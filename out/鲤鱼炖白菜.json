@@ -1,0 +1,191 @@
+{
+  "name": "鲤鱼炖白菜",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md",
+  "category": "水产",
+  "difficulty": "medium",
+  "total_time_minutes": 30,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/鲤鱼炖白菜_0.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "食用油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 3,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 3,
+      "unit": "瓣",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切成块",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鲤鱼",
+      "quantity": 600,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "清理过的",
+      "original_quantity": "1.2 斤",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "娃娃菜",
+      "quantity": 13,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "可以多放一些，一顿就缩小了",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 8,
+      "unit": "g",
+      "quantity_range": {
+        "min": 5,
+        "max": 8
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 3,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 6,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "桂皮",
+      "quantity": 1,
+      "unit": "块",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "八角",
+      "quantity": 3,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "郫县豆瓣酱",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "干辣椒",
+      "quantity": 6,
+      "unit": "个",
+      "quantity_range": {
+        "min": 4,
+        "max": 6
+      },
+      "is_optional": true,
+      "note": "不吃辣可以不放",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "水量尽量和鱼平齐，可以少一点点",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "鲤鱼清洗干净，改刀（在鱼身上多划几个伤口，方便入味）",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "娃娃菜清洗干净放入盘中备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "锅中加油，等油热放入盐、姜、蒜、郫县豆瓣酱、桂皮、八角炒出香味",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "把鱼放锅里煎，每 30 秒需要翻面一次，共煎 3 分钟",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "加入水（水量尽量和鱼平齐，可以少一点点），放入生抽、老抽、娃娃菜",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "大火炖 15-20 分钟，汤汁快干时添加盐即可出锅",
+      "duration_minutes": 18,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "也可以放一些粉条，粉条先用凉水/热水泡软，可以和娃娃菜一起放入"
+  ]
+}

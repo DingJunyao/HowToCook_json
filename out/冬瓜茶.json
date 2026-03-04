@@ -1,0 +1,69 @@
+{
+  "name": "冬瓜茶",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/drink/冬瓜茶.md",
+  "category": "饮料",
+  "difficulty": "easy",
+  "total_time_minutes": 240,
+  "servings": 1,
+  "original_servings": 5,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "冬瓜",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冰糖",
+      "quantity": 75,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将冬瓜去皮，去籽，切成小块（每块不超过 4cm）",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "冬瓜加入冰糖，搅拌均匀，盖上保鲜膜放冰箱冷藏 2 小时以上",
+      "duration_minutes": 120,
+      "tips": "冷藏时间不少于 2 小时，让冬瓜充分出水"
+    },
+    {
+      "step": 3,
+      "content": "倒入锅中大火煮开，然后转中小火慢慢熬制 1~2 个小时，中途多搅拌防止糊锅",
+      "duration_minutes": 90,
+      "tips": "中途多搅拌防止糊锅"
+    },
+    {
+      "step": 4,
+      "content": "使用过滤网将煮好的冬瓜茶液过滤，取出冬瓜块，只保留茶液",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "将冬瓜茶液放凉后，倒入干净的容器中，放入冰箱冷藏即可",
+      "duration_minutes": 15,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "冰糖的用量可以调整，以达到个人喜好的甜度",
+    "熬好的冬瓜茶液是浓缩汁，根据个人喜好添加水或其他饮品，冷热皆宜",
+    "冷藏保存，建议 1 周内喝完"
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "name": "尖椒炒牛肉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/尖椒炒牛肉.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "牛肉",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 0.5,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 1,
+      "unit": "头",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "剁成蒜泥",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "尖椒",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切成段",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": 9,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "糖",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "炒制用油",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "蒜剁成蒜泥，葱切段，姜切成姜片，尖椒切成段",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "牛肉放入碗中，加姜、盐、酱油、糖进行腌制 30-40 分钟，腌制完姜可以去掉",
+      "duration_minutes": 40,
+      "tips": "腌制可以加入小苏打使牛肉变嫩，牛肉苏打比例为 500g：3g；腌制的时候姜片可用料酒代替，料酒的用量为 3 g/人"
+    },
+    {
+      "step": 3,
+      "content": "冷油下锅，待油变热至偶有气泡",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "加入蒜泥，蒜泥变金黄后加入尖椒",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "待尖椒表皮微皱，加入腌制好的牛肉翻炒",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "翻炒变熟之前加入葱，继续翻炒，翻炒至牛肉变熟，关火出锅",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "腌制可以加入小苏打使牛肉变嫩，牛肉苏打比例为 500g：3g",
+    "腌制的时候姜片可用料酒代替，料酒的用量为 3 g/人"
+  ]
+}

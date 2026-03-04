@@ -1,0 +1,147 @@
+{
+  "name": "西红柿豆腐汤羹",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md",
+  "category": "汤与粥",
+  "difficulty": "medium",
+  "total_time_minutes": 7,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/西红柿豆腐汤羹_0.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "西红柿",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "豆腐",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "淀粉",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于制作水淀粉",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香葱",
+      "quantity": 0.5,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 1,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "开水",
+      "quantity": 350,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "西红柿切成小丁、鸡蛋打入碗中搅拌、豆腐切块备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "起锅烧油，放入姜片 5 秒后倒入西红柿翻炒 30 秒",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "锅中加入开水，汤水烧开，60 秒后倒入鸡蛋液、豆腐块",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "汤水重新烧开后，加入水淀粉，沿一个方向搅拌 2 圈",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "加入鸡精、盐、香葱，30 秒后起锅",
+      "duration_minutes": 0,
+      "tips": null
+    }
+  ],
+  "tips": []
+}

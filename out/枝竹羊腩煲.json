@@ -1,0 +1,324 @@
+{
+  "name": "枝竹羊腩煲",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md",
+  "category": "荤菜",
+  "difficulty": "expert",
+  "total_time_minutes": 150,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "羊腩",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "炸腐竹",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": {
+        "min": 15,
+        "max": 25
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "柱侯酱",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "腐乳",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "南乳",
+      "quantity": 17.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 2.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "辣椒油",
+      "quantity": 2.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "清水",
+      "quantity": 250,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冰糖",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "砂糖",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小葱",
+      "quantity": 3,
+      "unit": "根",
+      "quantity_range": {
+        "min": 2,
+        "max": 3
+      },
+      "is_optional": false,
+      "note": "切成约5cm的葱段，葱白用于爆香，葱绿用于装饰",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "姜片",
+      "quantity": 4,
+      "unit": "片",
+      "quantity_range": {
+        "min": 3,
+        "max": 4
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "香菇",
+      "quantity": 4,
+      "unit": "个",
+      "quantity_range": {
+        "min": 3,
+        "max": 4
+      },
+      "is_optional": false,
+      "note": "需提前浸泡2-3小时至变软",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 0.5,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "去皮切丝，也可用红葱头4-5个替代，口味更佳",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜瓣",
+      "quantity": 4,
+      "unit": "瓣",
+      "quantity_range": {
+        "min": 3,
+        "max": 4
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "香叶",
+      "quantity": 1,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "八角",
+      "quantity": 3,
+      "unit": "个",
+      "quantity_range": {
+        "min": 2,
+        "max": 3
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "桂皮",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "香菇提前浸泡2-3小时至变软，腐竹提前浸泡30分钟至变软",
+      "duration_minutes": 180,
+      "tips": "泡发时间需充足，确保香菇和腐竹完全变软"
+    },
+    {
+      "step": 2,
+      "content": "准备酱汁1：南乳、柱侯酱、20g腐乳、老抽放入同个小碗中搅拌均匀",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "准备酱汁2：20g腐乳、砂糖、辣椒油放入同个小碗搅拌均匀",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "泡好的香菇去除根部",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "泡好的腐竹切成5cm的小段，挤干水分",
+      "duration_minutes": 3,
+      "tips": "挤干水分可以让腐竹更好地吸收汤汁"
+    },
+    {
+      "step": 6,
+      "content": "洋葱去皮切丝。也可以用去皮红葱头进行替代，口味更佳",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "小葱切成大约5cm的葱段",
+      "duration_minutes": 2,
+      "tips": "葱白用于爆香，葱绿用于最后装饰"
+    },
+    {
+      "step": 8,
+      "content": "羊腩冷水下锅，放入2-3片姜片，倒入凉水，大火煮至水滚后关火",
+      "duration_minutes": 10,
+      "tips": "冷水下锅可以有效去除羊腩的腥味"
+    },
+    {
+      "step": 9,
+      "content": "捞出羊腩，放入准备好的冷水盆中放凉，使其更有嚼劲",
+      "duration_minutes": 5,
+      "tips": "过冷水可以让羊腩肉质更紧实"
+    },
+    {
+      "step": 10,
+      "content": "锅烧热后放入冷油，放入4-5片姜片、洋葱/红葱头、葱白段、7-8瓣蒜瓣进行爆香",
+      "duration_minutes": 3,
+      "tips": "爆香时火候要适中，不要炸焦"
+    },
+    {
+      "step": 11,
+      "content": "放入冷却好的羊腩，用筷子搅拌大约2-5分钟直至出现金黄色",
+      "duration_minutes": 5,
+      "tips": "用筷子搅拌可以避免破坏羊腩的完整性"
+    },
+    {
+      "step": 12,
+      "content": "放入调好的酱汁1，翻炒大约2分钟至颜色均匀",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 13,
+      "content": "倒入清水至刚好没过食材",
+      "duration_minutes": 1,
+      "tips": "水位不要太高，以免影响收汁效果"
+    },
+    {
+      "step": 14,
+      "content": "放入香菇、冰糖、香叶、八角、桂皮",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 15,
+      "content": "加盖转小火炖90分钟",
+      "duration_minutes": 90,
+      "tips": "小火慢炖可以让羊腩更加酥烂入味"
+    },
+    {
+      "step": 16,
+      "content": "开盖加入腐竹，加盖转中火煮20分钟",
+      "duration_minutes": 20,
+      "tips": "腐竹不要煮太久，以免烂掉"
+    },
+    {
+      "step": 17,
+      "content": "开盖加入酱汁2搅拌均匀",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 18,
+      "content": "关火，出锅前加入葱绿段或香菜",
+      "duration_minutes": 1,
+      "tips": "葱绿或香菜可以增添清香味"
+    }
+  ],
+  "tips": [
+    "此菜属于粤菜，正宗做法多会添加马蹄",
+    "可根据个人口味替换成土豆、萝卜等其他食材作为配菜"
+  ]
+}

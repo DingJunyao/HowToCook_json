@@ -1,0 +1,214 @@
+{
+  "name": "河南蒸面条",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/河南蒸面条/河南蒸面条.md",
+  "category": "主食",
+  "difficulty": "hard",
+  "total_time_minutes": 37,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/河南蒸面条_0.png"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "挂面",
+      "quantity": 300,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐圆的",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "五花肉",
+      "quantity": 350,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜薹",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 10,
+        "max": 15
+      },
+      "is_optional": false,
+      "note": "第一次蒸用 5ml，炒制用 3-5ml，共 8-10ml",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "十三香",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "麻油",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "出锅前淋在面条上",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "起锅加 7 成水，水开，上蒸篦子。将挂面均匀铺开放置，淋 5ml 油并抹匀，蒸 15 分钟。将挂面和蒸篦子取出，放置一边，并倒掉锅中的水。",
+      "duration_minutes": 15,
+      "tips": "挂面要均匀铺开，避免粘连"
+    },
+    {
+      "step": 2,
+      "content": "五花肉切成 2mm 厚度的肉片；蒜薹切成 3cm 段；葱切成 0.2cm 薄片；姜切成 1mm x 1mm x 3cm 的细丝；蒜放在砧板上拍碎，切成 1mm 的粒度。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "起锅，烧干水分，加 3-5ml 食用油。手持锅柄，摇晃锅，使食用油充分挂满锅的 2/3。中火，加入肉片，翻炒 1 分钟。",
+      "duration_minutes": 2,
+      "tips": "油要充分挂满锅的 2/3，防止粘锅"
+    },
+    {
+      "step": 4,
+      "content": "加入葱姜蒜、料酒，继续翻炒 1 分钟。将蒜薹段放入锅中，翻炒 1 分钟。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "开始调味，加入老抽、生抽、蚝油、盐、鸡精、十三香，翻炒 1 分钟。加入 500ml 水，没过蔬菜，炖煮 1 分钟。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "将蒸好的挂面放入，不断搅拌 3 分钟，待挂面全部均匀上色，关火。将搅拌好的挂面和菜，全部倒入额外的盆中。",
+      "duration_minutes": 3,
+      "tips": "要不断搅拌，使面条均匀上色入味"
+    },
+    {
+      "step": 7,
+      "content": "起锅，加冷水 7 成，放上蒸篦子，将拌好的面条和菜，均匀的铺在上面。水开后，大火烧 15 分钟，出锅。淋上 10g 的麻油，即可食用。",
+      "duration_minutes": 15,
+      "tips": "淋麻油增加香气"
+    }
+  ],
+  "tips": [
+    "挂面的粗细与口感：细的、圆的（超市大部分都是这种，口感更加劲道）；宽的、扁的（口感比较软）"
+  ]
+}

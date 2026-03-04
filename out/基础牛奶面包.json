@@ -1,0 +1,213 @@
+{
+  "name": "基础牛奶面包",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/基础牛奶面包/基础牛奶面包.md",
+  "category": "主食",
+  "difficulty": "expert",
+  "total_time_minutes": 200,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/基础牛奶面包_0.jpg",
+    "images/基础牛奶面包_1.jpg",
+    "images/基础牛奶面包_2.jpg",
+    "images/基础牛奶面包_3.jpg",
+    "images/基础牛奶面包_4.jpg",
+    "images/基础牛奶面包_5.jpg",
+    "images/基础牛奶面包_6.jpg",
+    "images/基础牛奶面包_7.jpg",
+    "images/基础牛奶面包_8.jpg",
+    "images/基础牛奶面包_9.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "高筋面粉",
+      "quantity": 420,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "尽量使用高筋面粉，避免使用低筋面粉",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "温水",
+      "quantity": 250,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "30℃温水",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "干酵母",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "糖",
+      "quantity": 22.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "糖浆最佳",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "奶制品",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "奶粉最佳，或用牛奶/淡奶油/炼乳，混合后共1/4 cup，奶粉需加水混合",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黄油",
+      "quantity": 28,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "玉米油或黄油，若奶制品含脂量极高可不加，黄油选动脂无盐，避免豆油",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "谷朊粉",
+      "quantity": 45,
+      "unit": "g",
+      "quantity_range": {
+        "min": 30,
+        "max": 60
+      },
+      "is_optional": true,
+      "note": "可选",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香草精",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "可选，用于中和蛋腥味",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将酵母和30℃的温水用刮刀或厨具混合均匀，静置5分钟。之后与120g面粉混合，搅拌均匀，此时应该形成特别粘稠的面糊。",
+      "duration_minutes": 5,
+      "tips": "确保水温以不烫手为宜"
+    },
+    {
+      "step": 2,
+      "content": "用布盖上面糊，将面糊放置到温暖的地方进行发酵，时长为45~60分钟。最终的面糊应该是表面有很多气泡且体积明显增大。",
+      "duration_minutes": 60,
+      "tips": "发酵失败可尝试：确定酵母没过期、水温合适、延长发酵时间、用烤箱60℃保温、再加入等量酵母、或加入3g糖"
+    },
+    {
+      "step": 3,
+      "content": "将300g面粉、鸡蛋、糖、奶制品、黄油、谷朊粉（可选）、香草精（可选）全部与酵头用刮刀混合、搅拌。在搅拌时一定要刮壁，使其充分混合。",
+      "duration_minutes": 15,
+      "tips": "如果无法成型且很黏，可以加入1/4 cup面粉再次充分搅拌。按压面团时，用拳头推开面团，然后对折再次推开，将容器壁的面粉全部揉进面团里"
+    },
+    {
+      "step": 4,
+      "content": "在形成面团且没有干粉时，用干净的干燥的一只手按压面团，另一只手扶住容器，使其形成一个大的面团。用手掌下部推开面团，然后对折再次推开，直至表面没有干粉结块。",
+      "duration_minutes": 15,
+      "tips": "如果面团成型但却比较硬，说明水分过少，可在表面覆盖水并盖上湿布静置发酵20分钟"
+    },
+    {
+      "step": 5,
+      "content": "使用喷壶将至少是当前面团三倍大的容器内喷上一层植物油（也可用手涂抹均匀），将面团放入并盖上布，发酵1小时。",
+      "duration_minutes": 60,
+      "tips": "发酵后的面团表面应当是有粘性的。如果没有，可在表面覆盖水并再次发酵20分钟"
+    },
+    {
+      "step": 6,
+      "content": "此时面团应该有原来的两倍大。在面板或硅胶垫上撒上薄薄的一层面粉，然后将面团拿出，用手压瘪面团排气。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "使用擀面杖，擀成1cm的厚片，并紧实、不留空隙地从一边卷起来。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "然后旋转90°，重复压瘪排气和擀卷步骤。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "将面包整形，放到垫了硅油纸的烤盘或者涂抹油脂的模具内，注意接缝处朝下。在托盘或模具内，发酵30~45分钟。",
+      "duration_minutes": 45,
+      "tips": "可在烤盘上喷洒一层油或涂抹黄油后再放硅油纸，这样硅油纸不会随意移动"
+    },
+    {
+      "step": 10,
+      "content": "于此同时，预热烤箱，将烤箱调到最高温度下空烤至少20分钟。",
+      "duration_minutes": 20,
+      "tips": "烤箱预热很重要"
+    },
+    {
+      "step": 11,
+      "content": "在面包上用剪子或者刀划开几条缝作为面包的花纹。用刷子刷上蛋液（可选）。",
+      "duration_minutes": 5,
+      "tips": "刷蛋液可使成品更加光鲜、亮丽、有光泽"
+    },
+    {
+      "step": 12,
+      "content": "放入烤箱，上下火180℃烤制30分钟，然后调165℃再烤10分钟。",
+      "duration_minutes": 40,
+      "tips": "不同烤箱温度不同。如果30分钟后没有明显变色，温度过低，提高5~10℃或多烤5~10分钟。如果表面发苦，温度过高，降低5~10℃或减少烤制时间。如果外部焦糖色但里面没熟，降低5~15℃并延长10~20分钟。"
+    },
+    {
+      "step": 13,
+      "content": "放凉后装入食品袋内，可保存一个星期，冷冻可保存一个月。",
+      "duration_minutes": 30,
+      "tips": "当装在食品袋内密闭一晚上后，面包内部和表面会进一步回软，最好的品尝时机是第二天早上"
+    }
+  ],
+  "tips": [
+    "室内温度、室内湿度甚至是空气中酵母菌的含量都会影响制作过程",
+    "酵头预发酵可以提升成功率，更长的发酵时间会让面包风味更好",
+    "如有条件，酵头应该发酵4天以达到最佳风味，但30分钟发酵的成品就已可观",
+    "1cup=250ml，1cup面粉=120g",
+    "烤面包时可以加入等量酵母和3g糖来帮助发酵"
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "name": "蛋包饭",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/蛋包饭.md",
+  "category": "主食",
+  "difficulty": "medium",
+  "total_time_minutes": 25,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 2,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "建议使用土鸡蛋，口感更香",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "胡萝卜",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "玉米粒",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "与青豆总共 30g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "青豆",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "与玉米粒总共 30g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "火腿肠",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "或鸡胸肉 50g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡胸肉",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "或火腿肠 50g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "米饭",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "建议使用隔夜饭",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "番茄酱",
+      "quantity": 20,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于炒饭和装饰",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "建议使用植物油，炒饭用 10ml，煎蛋皮用 5ml",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "牛奶",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "与鸡蛋混合，让蛋皮更嫩",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "洋葱、胡萝卜、火腿肠或鸡胸肉切成小丁，备用",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "热锅，锅中倒入 10ml 食用油，等待 10 秒加热",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "先放入洋葱丁翻炒 1 分钟，出香味后加入胡萝卜、玉米粒、青豆继续翻炒 2 分钟",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "加入火腿肠或鸡胸肉丁，炒至变色",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "加入米饭炒散后，加入番茄酱 20ml，翻炒均匀，炒饭完成，盛出备用",
+      "duration_minutes": 3,
+      "tips": "炒饭用隔夜饭不易粘锅，口感更好"
+    },
+    {
+      "step": 6,
+      "content": "鸡蛋打散，加入 10ml 牛奶搅匀",
+      "duration_minutes": 1,
+      "tips": "打蛋时加入牛奶可以让蛋皮更加嫩滑"
+    },
+    {
+      "step": 7,
+      "content": "锅中放入 5ml 食用油，倒入蛋液，轻晃锅底让蛋液均匀铺满锅面",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "用小火加热，待蛋液表面半熟状态时，将炒饭放入蛋液中央",
+      "duration_minutes": 2,
+      "tips": "操作蛋皮时火力需小，避免底部焦糊"
+    },
+    {
+      "step": 9,
+      "content": "用铲子将蛋皮折叠包住米饭，形成椭圆形状",
+      "duration_minutes": 1,
+      "tips": "如果不擅长包裹造型，也可以直接将炒饭铺盘后盖上蛋皮"
+    },
+    {
+      "step": 10,
+      "content": "用锅铲轻轻推至盘中，整理外形，可在表面挤上少量番茄酱装饰",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "炒饭用隔夜饭不易粘锅，口感更好。",
+    "打蛋时加入牛奶可以让蛋皮更加嫩滑。",
+    "操作蛋皮时火力需小，避免底部焦糊。",
+    "如果不擅长包裹造型，也可以直接将炒饭铺盘后盖上蛋皮。"
+  ]
+}

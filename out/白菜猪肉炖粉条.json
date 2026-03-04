@@ -1,0 +1,177 @@
+{
+  "name": "白菜猪肉炖粉条",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/白菜猪肉炖粉条.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 32,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "五花肉",
+      "quantity": 300,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切3mm的肉片",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大白菜",
+      "quantity": 500,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "嫩叶与白菜帮子分开",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "土豆干粉条",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "十三香",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用盐",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 10,
+        "max": 15
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "锅内烧水，水开后放入干粉条，煮 5 分钟后同水一起倒出容器中，盖上盖子继续浸泡备用",
+      "duration_minutes": 5,
+      "tips": "土豆干粉条煮制时间长，先放在第一步，期间进行其他步骤"
+    },
+    {
+      "step": 2,
+      "content": "五花肉切 3mm 的肉片，备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "大白菜嫩叶与白菜帮子分开切成 2 份菜片，备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "热锅，锅内放入 10ml - 15ml 食用油。等待 10 秒让油温升高",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "放入五花肉，保持翻炒至肉变色",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "加入老抽，炒 1 分钟，给肉上色",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "加入白菜帮子，加入食用盐、生抽，炒一分钟（如果粘锅，烹入 10ml 水）",
+      "duration_minutes": 1,
+      "tips": "如果粘锅，烹入 10ml 水"
+    },
+    {
+      "step": 8,
+      "content": "加水没过所有食材，加入鸡精，十三香，沸腾后，将火调小然后等待 20 分钟",
+      "duration_minutes": 20,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "粉条滤水切成小段放入碗中备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "加入白菜嫩叶，炒匀后将粉条放在菜上方，加盖再煮 5 分钟",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "尝味、关火，收汁",
+      "duration_minutes": null,
+      "tips": "如果发现有味道淡、未熟，继续加盖煮一段时间"
+    }
+  ],
+  "tips": [
+    "土豆干粉条煮制时间长，可以放在第一步，期间进行其他步骤",
+    "最后一步尝味，如果发现有味道淡、未熟，继续加盖煮一段时间"
+  ]
+}

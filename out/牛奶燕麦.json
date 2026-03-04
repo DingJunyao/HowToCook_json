@@ -1,0 +1,100 @@
+{
+  "name": "牛奶燕麦",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/牛奶燕麦.md",
+  "category": "早餐",
+  "difficulty": "simple",
+  "total_time_minutes": 4,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "牛奶",
+      "quantity": 280,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "巴氏奶口感更好",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "燕麦",
+      "quantity": 40,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "快煮燕麦",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "底油",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于煎蛋",
+      "original_quantity": "一层底油",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "椒盐",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "煎蛋调味用",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "准备材料：准备快煮燕麦 40g、牛奶 280ml、鸡蛋 1 个、底油少量（可选椒盐 3g）",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将燕麦放入容器中，倒入牛奶并搅拌",
+      "duration_minutes": 1,
+      "tips": "确保燕麦完全浸泡在牛奶中"
+    },
+    {
+      "step": 3,
+      "content": "将混合物放入微波炉，中等火力微波 4 分钟",
+      "duration_minutes": 4,
+      "tips": "不建议混合物超过容器容量 50%，否则加热过程中内容物极有可能溢出"
+    },
+    {
+      "step": 4,
+      "content": "热锅，锅内放一层底油，油热后煎鸡蛋，每面煎 20 秒，关火装盘",
+      "duration_minutes": 2,
+      "tips": "可考虑调底味，添加 3g 椒盐（可选）"
+    },
+    {
+      "step": 5,
+      "content": "将煎好的鸡蛋搭配牛奶燕麦一起食用",
+      "duration_minutes": 1,
+      "tips": "水果蔬菜、苏打饼干搭配食用更佳"
+    }
+  ],
+  "tips": [
+    "不建议混合物超过容器容量 50%，否则加热过程中内容物极有可能溢出",
+    "不建议使用玻璃杯进行烹饪",
+    "水果蔬菜、苏打饼干搭配食用更佳",
+    "由于不同微波炉火力不同，故微波炉火力无法精确表明，请根据实际情况调整时间"
+  ]
+}

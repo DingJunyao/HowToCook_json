@@ -1,0 +1,157 @@
+{
+  "name": "羊肉汤",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/soup/羊肉汤/羊肉汤.md",
+  "category": "汤与粥",
+  "difficulty": "medium",
+  "total_time_minutes": 20,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/羊肉汤_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "羊肉",
+      "quantity": 300,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 20,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大葱",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "开水",
+      "quantity": 1000,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白胡椒粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用盐",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "孜然粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "羊肉切成长 5cm 宽 0.5cm 的块",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "大葱切成小段",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "羊肉放入锅中，加入 1000ml 常温水，加入料酒、大葱",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "煮沸 2 分钟后，捞出羊肉，使用常温水洗净，沥干水分",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "热锅加入食用油，加入羊肉，翻炒 2 分钟至羊肉表面微黄",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "加入开水，开到大火档位",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "5 分钟后，加入白胡椒粉、盐，继续煮沸 5 分钟",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "出锅之后，加入香菜、孜然粉，搅拌均匀",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "加入开水时，注意要开大火，使油脂与汤汁更好的融合"
+  ]
+}

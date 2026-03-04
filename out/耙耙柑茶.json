@@ -1,0 +1,96 @@
+{
+  "name": "耙耙柑茶",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/drink/耙耙柑茶/耙耙柑茶.md",
+  "category": "饮料",
+  "difficulty": "easy",
+  "total_time_minutes": 7,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/耙耙柑茶_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "耙耙柑",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": {
+        "min": 200,
+        "max": 300
+      },
+      "is_optional": false,
+      "note": "可用其他容易分离果肉的柑橘替代，如丑橘",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "茉莉绿茶",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": {
+        "min": 2,
+        "max": 4
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冰块",
+      "quantity": 60,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蔗糖糖浆",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "称量 2~4 克茉莉绿茶置于容器，加入 100 毫升开水，泡 6 分钟",
+      "duration_minutes": 6,
+      "tips": "可按茶:水:冰 = 1~2 : 50 : 30 的比例调配"
+    },
+    {
+      "step": 2,
+      "content": "往泡好的绿茶中放入 60 克冰块冷却，可搅拌加速冷却，待冰块消失后将茶叶过滤得到茉莉绿茶茶水约 160 毫升",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "取出耙耙柑的肉瓣，剥去外皮，取 130 克果肉和 130 毫升茉莉绿茶放入搅拌机中",
+      "duration_minutes": 2,
+      "tips": "果肉和茶水比例为 1:1"
+    },
+    {
+      "step": 4,
+      "content": "倒入 10 克蔗糖糖浆（可选），封盖启动搅拌机，搅拌 20 秒后将搅拌产物倒入杯中",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "取一点果肉撕碎撒在液面上",
+      "duration_minutes": 1,
+      "tips": "建议使用容量约 300 毫升的透明玻璃杯"
+    }
+  ],
+  "tips": [
+    "耙耙柑可以用其他容易分离果肉的柑橘替代，比如丑橘",
+    "果肉和茶水比例为 1:1，如果需要配置更大的分量，可按比例提升用量"
+  ]
+}

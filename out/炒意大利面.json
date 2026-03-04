@@ -1,0 +1,116 @@
+{
+  "name": "炒意大利面",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/炒意大利面/炒意大利面.md",
+  "category": "主食",
+  "difficulty": "medium",
+  "total_time_minutes": 30,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/炒意大利面_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "意大利面",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "肥牛片",
+      "quantity": 5,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "番茄酱",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "或黑胡椒酱，选其一即可",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "菜籽油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "其他植物油也可",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "煮面用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "锅中加入 250 克水，待水烧开",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "下入面条，中火煮 15 - 20 分钟（这个面通常比较硬，捞起来之前最好尝一下，中心如果有一点硬，需要继续煮）",
+      "duration_minutes": 18,
+      "tips": "煮面时尝一下熟度，确保中心没有硬心"
+    },
+    {
+      "step": 3,
+      "content": "捞出面条，盛入盘中备用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "热锅倒入食用油，待油温中热，下入面条翻炒一分钟（如果太干，加入少量水）",
+      "duration_minutes": 2,
+      "tips": "如果面条太干，可以加入少量水"
+    },
+    {
+      "step": 5,
+      "content": "放入 10 克番茄酱、肥牛、加入 2g 食盐，继续翻炒一分钟",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "起锅",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "意大利面通常比较硬，煮之前最好尝一下熟度",
+    "中心如果有一点硬，需要继续煮"
+  ]
+}

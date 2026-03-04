@@ -1,0 +1,171 @@
+{
+  "name": "腐乳肉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/腐乳肉.md",
+  "category": "荤菜",
+  "difficulty": "expert",
+  "total_time_minutes": 57,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "带皮五花肉",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "红腐乳",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐咸亨牌玫瑰腐乳",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "腐乳汁",
+      "quantity": 7.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冰糖",
+      "quantity": 12.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "建议用单晶冰糖",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 2.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 7.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱白",
+      "quantity": 7.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱花",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生姜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "清水",
+      "quantity": 250,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "五花肉切成长宽 2.5 cm 的小块",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "冷水放料酒姜片，五花肉放入开火慢慢加入到水沸腾后捞出",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "玫瑰腐乳块和腐乳汁碾成泥，加冰糖、老抽调成酱汁",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "热锅冷油爆香葱姜，下肉块煸到金黄",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "倒入腐乳酱炒匀加热水焖煮",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "小火慢炖 40 分钟",
+      "duration_minutes": 40,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "大火收汁，看到汤汁冒浓稠鱼眼泡时关火",
+      "duration_minutes": 5,
+      "tips": "要不断晃动锅体避免粘底"
+    }
+  ],
+  "tips": [
+    "建议用单晶冰糖",
+    "腐乳自带咸鲜，不用额外放盐",
+    "大火收汁时要不断晃动锅体避免粘底"
+  ]
+}

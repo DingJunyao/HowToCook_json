@@ -1,0 +1,120 @@
+{
+  "name": "苏格兰蛋",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/苏格兰蛋/苏格兰蛋.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 25,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/苏格兰蛋_0.png",
+    "images/苏格兰蛋_1.png",
+    "images/苏格兰蛋_2.png"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约 1 颗",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "手抓饼",
+      "quantity": 1.5,
+      "unit": "份",
+      "quantity_range": {
+        "min": 1,
+        "max": 2
+      },
+      "is_optional": false,
+      "note": "看鸡蛋大小",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "芝士片",
+      "quantity": 1.5,
+      "unit": "片",
+      "quantity_range": {
+        "min": 1,
+        "max": 2
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "培根片",
+      "quantity": 1.5,
+      "unit": "片",
+      "quantity_range": {
+        "min": 1,
+        "max": 2
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "用冷水下锅水开 3 分钟后捞出",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "鸡蛋捞出，放入冰水中剥壳更快速也更完整",
+      "duration_minutes": null,
+      "tips": "放入冰水中剥壳更快速也更完整"
+    },
+    {
+      "step": 3,
+      "content": "用芝士片包裹鸡蛋",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "培根片包裹鸡蛋",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "手抓饼两端切除以矩形包裹鸡蛋",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "油温 6 成下锅，炸制金黄即可",
+      "duration_minutes": 5,
+      "tips": "油面波动，有青烟，筷子插入油中周围泛起气泡即是 6 成温度"
+    },
+    {
+      "step": 7,
+      "content": "空气炸锅 160 度 15 分钟",
+      "duration_minutes": 15,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "切开即可食用",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "放入冰水中剥壳更快速也更完整",
+    "油面波动，有青烟，筷子插入油中周围泛起气泡即是 6 成温度",
+    "芝士片、培根片、手抓饼直接淘宝购买即可"
+  ]
+}

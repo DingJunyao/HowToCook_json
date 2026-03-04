@@ -1,0 +1,155 @@
+{
+  "name": "油焖大虾",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/油焖大虾/油焖大虾.md",
+  "category": "水产",
+  "difficulty": "hard",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/油焖大虾_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "虾",
+      "quantity": 10,
+      "unit": "只",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "黑虎虾或明虾",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花椒",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黄酒",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冰糖",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "植物油",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "两小碗",
+      "original_quantity": "两小碗",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "剪虾枪到根上，虾须虾爪都剪掉，沙包挑掉，开背虾线挑出来，洗净备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "炸料油：油温三成热放花椒，油热离火，放葱姜（不要让油变色最好）葱稍微变黄沥油",
+      "duration_minutes": null,
+      "tips": "葱油弄多了可以留着作为拌面使用"
+    },
+    {
+      "step": 3,
+      "content": "下油，虾摆放整齐，两面变色后轻轻摁虾头",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "放姜米（姜切成细颗粒），加入黄酒 30g、水两小碗、盐 3g、冰糖 10g",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "大火烧开转小火盖盖子闷（中途不能再加汤水，不要开盖）",
+      "duration_minutes": null,
+      "tips": "中途不能再加汤水，不要开盖"
+    },
+    {
+      "step": 6,
+      "content": "皮亮虾弯就可以起锅，虾摆盘",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "收汁（过滤后倒回锅里收浓，放葱油），汤汁剩余 1/4 时",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "浇汁",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": []
+}

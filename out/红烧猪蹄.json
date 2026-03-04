@@ -1,0 +1,191 @@
+{
+  "name": "红烧猪蹄",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/红烧猪蹄/红烧猪蹄.md",
+  "category": "荤菜",
+  "difficulty": "hard",
+  "total_time_minutes": 45,
+  "servings": 1,
+  "original_servings": 4,
+  "images": [
+    "images/红烧猪蹄_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "猪蹄",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": {
+        "min": 200,
+        "max": 300
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香叶",
+      "quantity": 1,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 3,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约半根",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "桂皮",
+      "quantity": 1,
+      "unit": "块",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "小块",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "冰糖",
+      "quantity": 7,
+      "unit": "粒",
+      "quantity_range": {
+        "min": 7,
+        "max": 8
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 7,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 7,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "八角",
+      "quantity": 2,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "冷水锅中放入剁好的猪蹄，加入 5ml 料酒与葱姜，煮 15 分钟去掉血腥",
+      "duration_minutes": 15,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "热锅冷油，倒入 10ml 食用油，放入 7-8 粒冰糖，开小火，熬成糖色，期间用锅铲把冰糖压碎，大概熬 2 分钟",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "熬成糖色后，放入焯过水的猪蹄，继续小火，翻炒猪蹄，直至所有猪蹄两面微黄",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "加入香叶 1 片、桂皮 1 块、八角 2 个、生抽 7ml、老抽 7ml、料酒 10ml、姜 3 片、盐 2 克，转中火、继续翻炒 1 分钟",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "加入开水或者冷水，水需要没过猪蹄，盖上锅盖，大火烧开，烧开之后关火",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "把锅内的食材全部倒入高压锅中，高压锅中需要 15 分钟（如果没有高压锅，可放在锅中大火转小火熬制即可）",
+      "duration_minutes": 15,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "15 分钟之后，把高压锅的食材倒入炒锅中，开大火收汁，此时可用筷子尝下味道、淡的话可以加 1g 盐",
+      "duration_minutes": 5,
+      "tips": "可根据个人口味调整盐量"
+    },
+    {
+      "step": 8,
+      "content": "大火收汁时长根据锅中的水来算，一般 30 秒即可，多留点也无碍、红烧猪蹄汤也是很下饭的",
+      "duration_minutes": 1,
+      "tips": "多留点汤也很下饭"
+    }
+  ],
+  "tips": []
+}

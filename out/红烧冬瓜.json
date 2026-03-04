@@ -1,0 +1,168 @@
+{
+  "name": "红烧冬瓜",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md",
+  "category": "素菜",
+  "difficulty": "medium",
+  "total_time_minutes": 20,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/红烧冬瓜_0.jpeg",
+    "images/红烧冬瓜_1.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "冬瓜",
+      "quantity": 300,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 50,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 2,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "淀粉",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香葱",
+      "quantity": 0.5,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜末",
+      "quantity": 1,
+      "unit": "粒",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "冬瓜去皮，切边长不超过 2cm 小块",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "起锅烧油，放入冬瓜，缓缓翻滚煎炸 2 分钟，直至冬瓜表面泛金黄色",
+      "duration_minutes": 2,
+      "tips": "煎至表面金黄"
+    },
+    {
+      "step": 3,
+      "content": "取出冬瓜，放入大碗备用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "利用锅中的剩余油，依次放入姜末、生抽、蚝油，翻炒 15 秒",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "重新倒入冬瓜，翻炒 30 秒后，加入开水，水要没过冬瓜表面，大火煮 10 分钟",
+      "duration_minutes": 10,
+      "tips": "水要没过冬瓜表面"
+    },
+    {
+      "step": 6,
+      "content": "加入老抽上色，继续煮，直至冬瓜软糯（筷子可以轻松插近冬瓜）",
+      "duration_minutes": 2,
+      "tips": "煮至筷子可以轻松插入"
+    },
+    {
+      "step": 7,
+      "content": "加入鸡精、料酒、香葱翻炒后 30 秒，取出冬瓜到大碗中",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "锅中剩余汤汁保留，倒入水淀粉，煮开后汤汁浇灌在冬瓜表面",
+      "duration_minutes": 2,
+      "tips": "最后收汁浇在冬瓜上"
+    }
+  ],
+  "tips": [
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。"
+  ]
+}

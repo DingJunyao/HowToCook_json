@@ -1,0 +1,77 @@
+{
+  "name": "太阳蛋",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/太阳蛋.md",
+  "category": "早餐",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "油",
+      "quantity": 5,
+      "unit": "mL",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "准备一个小碗，倒入 5 mL 油，撒 1 g 盐，搅拌均匀。倾斜碗使油沾在碗表面。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "取出一个鸡蛋，打入小碗。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "蛋黄表面戳孔。使用牙签戳 5 个或筷子戳 1 个。",
+      "duration_minutes": 1,
+      "tips": "戳孔是为了防止蛋黄在微波炉中爆裂"
+    },
+    {
+      "step": 4,
+      "content": "放入微波炉。如果是可控火候微波炉，中火 3 分钟；如果是不可控火候微波炉，1 分钟。",
+      "duration_minutes": 3,
+      "tips": "可控火候微波炉：操作面板上有小火、中火、大火等字样。不可控火候微波炉：操作面板上只能控制时长，无法选择火候。"
+    },
+    {
+      "step": 5,
+      "content": "检查太阳蛋是否大面积成固体状。如果未熟，继续微波加热 30 秒，重复直到熟透。",
+      "duration_minutes": 2,
+      "tips": "此步骤仅适用于不可控火候微波炉"
+    }
+  ],
+  "tips": [
+    "如果太阳蛋的熟度不符合个人口味，用微波炉再打 1 分钟"
+  ]
+}

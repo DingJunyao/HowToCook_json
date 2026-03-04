@@ -1,0 +1,268 @@
+{
+  "name": "糖醋鲤鱼",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md",
+  "category": "水产",
+  "difficulty": "hard",
+  "total_time_minutes": 100,
+  "servings": 1,
+  "original_servings": 3,
+  "images": [
+    "images/糖醋鲤鱼_0.jpg",
+    "images/糖醋鲤鱼_1.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "鲤鱼",
+      "quantity": 500,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约3斤的鱼",
+      "original_quantity": "约 3 斤",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "清水",
+      "quantity": 17,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于调制糖醋汁",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "番茄酱",
+      "quantity": 13,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 7,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白醋",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "淀粉",
+      "quantity": 70,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "其中10g用于腌制，200g用于调制面糊",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 12,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "其中30g用于腌制，5g用于调制面糊",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "面粉",
+      "quantity": 33,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于调制面糊",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大葱",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约半颗，用于去腥",
+      "original_quantity": "约半颗",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于去腥",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 8,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于去腥",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于调制面糊",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜",
+      "quantity": 1,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "用于点缀",
+      "original_quantity": "一颗",
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将鱼清洗干净，确保无鱼鳞等异物",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将鱼头朝左，鱼肚朝下，右手持刀。刀竖直切下1cm，按紧鱼身往左片3-4cm，再将鱼片中间轻轻划一刀",
+      "duration_minutes": 5,
+      "tips": "改刀是为了更好地入味和成型"
+    },
+    {
+      "step": 3,
+      "content": "将鱼放进盆里，然后将大姜切片，大葱切段",
+      "duration_minutes": 2,
+      "tips": "随便切切就行了，主要是需要去腥味"
+    },
+    {
+      "step": 4,
+      "content": "用吃奶的力气将大葱大姜里的汁水挤到盆中",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "加入20g盐，25g料酒，然后给鲤鱼搓个澡，涂抹均匀",
+      "duration_minutes": 3,
+      "tips": "腌鱼时间越长，鱼腥味就越小，推荐腌30分钟以上"
+    },
+    {
+      "step": 6,
+      "content": "找个干净的盆，加入100g面粉、200g淀粉、180g水、5g盐，用手将其搅拌均匀，面糊此时粘稠呈可拉丝状态，然后打入一个鸡蛋，再次搅匀",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "等待30分钟，让面糊充分醒发",
+      "duration_minutes": 30,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "将鱼放在案板上，用干毛巾将鱼身上的水擦干",
+      "duration_minutes": 2,
+      "tips": "这样可以更好的挂糊"
+    },
+    {
+      "step": 9,
+      "content": "将盆冲洗干净，用干毛巾擦干",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "起锅烧油，加入约1L的油，将油温烧至7成热，约200-240度",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "捏起鱼的尾巴，将鱼头沉入锅底，用勺子往鱼的身上淋热油，待面糊成型后，将鱼慢慢放入锅中，拿锅铲轻轻铲起鱼的头部，然后垫上笊篱，防止底部炸糊",
+      "duration_minutes": 3,
+      "tips": "需要小心操作，避免烫伤"
+    },
+    {
+      "step": 12,
+      "content": "准备一个盛鱼的盘子，放在锅的旁边",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 13,
+      "content": "用锅铲从鱼身处轻轻铲入，两个工具配合鱼翻个身。再炸两分钟，还是同样的方式（笊篱托着鱼头，锅铲托着鱼身，将鱼盛入盘中）",
+      "duration_minutes": 4,
+      "tips": "炸至两面金黄酥脆"
+    },
+    {
+      "step": 14,
+      "content": "将锅中的油倒入擦干的盆中，放置一边，然后将锅刷干净",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 15,
+      "content": "将50g清水、40g番茄酱、20g白糖、10g白醋放入小碗中，搅拌均匀，制作糖醋料汁",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 16,
+      "content": "再准备一个小碗加入10g淀粉、10g水，搅拌成水淀粉",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 17,
+      "content": "开大火将锅烧热，然后倒入之前准备的料汁，大火烧开，转小火",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 18,
+      "content": "加入调好的水淀粉，边倒边搅拌，然后20秒后关火",
+      "duration_minutes": 1,
+      "tips": "注意不要煮太久，否则糖醋汁会过稠"
+    },
+    {
+      "step": 19,
+      "content": "将熬好的糖醋汁用勺子均匀地浇在鱼身上，可以加点香菜或葱花点缀",
+      "duration_minutes": 2,
+      "tips": "这道菜难度系数算中等，对新手不太友好"
+    }
+  ],
+  "tips": [
+    "腌鱼时间越长，鱼腥味就越小，推荐腌30分钟以上",
+    "面糊需要醒发30分钟，这样挂糊效果更好",
+    "擦干鱼身上的水可以更好地挂糊",
+    "炸鱼时注意控制油温，使用笊篱托住鱼头防止炸糊",
+    "熬糖醋汁时注意时间，不要煮太久，否则会过稠"
+  ]
+}

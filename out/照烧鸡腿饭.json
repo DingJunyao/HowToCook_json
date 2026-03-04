@@ -1,0 +1,247 @@
+{
+  "name": "照烧鸡腿饭",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/照烧鸡腿饭.md",
+  "category": "荤菜",
+  "difficulty": "hard",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡腿",
+      "quantity": 500,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约 3 只",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 30,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蜂蜜",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "没有时使用白糖 20 g + 玉米淀粉 5 g + 0.5 ml 柠檬汁或醋代替",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黑椒碎",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黑椒粉",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "西兰花",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "没有就用不辣的青椒代替",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "胡萝卜",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 12,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生姜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 25,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 15,
+        "max": 25
+      },
+      "is_optional": false,
+      "note": "煎制时如感觉锅中太干，可补 5-10 ml",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "清水",
+      "quantity": 30,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "米饭",
+      "quantity": 400,
+      "unit": "g",
+      "quantity_range": {
+        "min": 300,
+        "max": 400
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "取一只鸡腿，鸡皮朝下放在砧板上",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "用刀尖沿着鸡腿骨头的轮廓轻轻划开，从一端到另一端",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "用手指或刀背慢慢推开鸡肉，让骨头暴露出来。如果遇到筋膜，用刀尖切断",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "当鸡肉完全分离后，握住骨头一端，轻轻扭转并拔出",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "重复上述步骤将所有鸡腿去骨",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "去骨鸡腿加入黑胡椒粉、黑胡椒碎、盐、姜片腌制 5 分钟",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "碗里加入料酒、生抽、蜂蜜、老抽清水拌匀",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "蔬菜焯水 1-2 分钟煮熟捞起",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "热锅放油 15 ml 放入大蒜爆香",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "放入鸡腿中小火煎至两面金黄，如果感觉锅中太干，补 5-10 ml 油",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "加入调好的酱汁，盖好盖子中小火（在燃气灶上使用小火）焖 5-10 分钟熟透，酱汁浓稠起泡即可",
+      "duration_minutes": 10,
+      "tips": "焖煮时每隔 3-5 分钟翻搅一下，避免局部过热"
+    },
+    {
+      "step": 12,
+      "content": "切件，和蔬菜一起摆在饭面，淋入煎鸡腿的酱汁就可以慢慢享用啦",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "如果使用白砂糖、淀粉组合代替一定让白砂糖和淀粉完全溶解再下锅，否则容易糊锅",
+    "焖煮时每隔 3-5 分钟翻搅一下，避免局部过热",
+    "如果酱汁冒大泡、颜色变深褐，或边缘出现细密焦糖结晶，立即关火"
+  ]
+}

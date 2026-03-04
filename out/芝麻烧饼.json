@@ -1,0 +1,134 @@
+{
+  "name": "芝麻烧饼",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/烧饼/芝麻烧饼.md",
+  "category": "主食",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 7,
+  "images": [
+    "images/芝麻烧饼_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "面粉",
+      "quantity": 42.857,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酵母粉",
+      "quantity": 0.429,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 0.429,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "温水",
+      "quantity": 25.714,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "40℃",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 8.571,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "面粉",
+      "quantity": 4.286,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于油酥",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 0.286,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "十三香",
+      "quantity": 0.571,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白芝麻",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "制作面团：将 42.857 克面粉、0.429 克酵母粉、0.429 克白糖、25.714 克温水（40℃）、5.714 克食用油混合揉成面团，醒面 10 分钟",
+      "duration_minutes": 15,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "制作油酥：在小碗中放入 4.286 克面粉、0.286 克盐、0.571 克十三香、2.857 克食用油，拌匀后静置",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "做饼：将面团擀成长方形，抹上调好的油酥，从一头卷起，切成 7 个面剂子，对折，用虎口收拢，先沾水再沾白芝麻，擀成小圆饼",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "烙饼：将电饼铛预热，倒入凉油（锅底铺满油），将擀好的饼放入电饼铛中，将饼的上方也刷点油，涂抹均匀盖上盖子，选大饼档，听到叮的一声出锅即可",
+      "duration_minutes": 10,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "如果没有电饼铛，也可以用平底锅",
+    "芝麻如果没有也可不用，一样好吃"
+  ]
+}

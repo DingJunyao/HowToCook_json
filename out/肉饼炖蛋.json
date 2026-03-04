@@ -1,0 +1,98 @@
+{
+  "name": "肉饼炖蛋",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/肉饼炖蛋.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 20,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "猪肉末",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白胡椒粉",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "芝麻香油",
+      "quantity": 7.5,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 5,
+        "max": 7.5
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "在碗中加入猪肉末、料酒、生抽、白胡椒粉、鸡蛋和芝麻香油，搅拌均匀。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将调好味的猪肉末铺在盘子里，肉末中间用勺子挖一个洞，往洞中打入 1 个鸡蛋。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "锅中加水至 1/4 高度，水烧开后，将盘子放入锅中，盖上锅盖，蒸 15 分钟。",
+      "duration_minutes": 18,
+      "tips": "在取出肉饼炖蛋时，注意盘子很烫，请小心操作。"
+    }
+  ],
+  "tips": [
+    "在取出肉饼炖蛋时，注意盘子很烫，请小心操作。"
+  ]
+}

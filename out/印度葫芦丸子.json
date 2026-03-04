@@ -1,0 +1,264 @@
+{
+  "name": "印度葫芦丸子",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/印度葫芦丸子.md",
+  "category": "素菜",
+  "difficulty": "hard",
+  "total_time_minutes": 40,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "瓠瓜",
+      "quantity": 160,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "去皮后约重",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鹰嘴豆粉",
+      "quantity": 32,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "Besan",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 212,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "200ml 用于炸丸子，12ml 用于炒酱汁",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 80,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "番茄",
+      "quantity": 120,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生姜",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "磨碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "磨碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "青辣椒",
+      "quantity": 0.5,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜叶",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "装饰用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜黄粉",
+      "quantity": 1.2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "Turmeric",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "红辣椒粉",
+      "quantity": 3.2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "丸子用1.2g，酱汁用2g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜粉",
+      "quantity": 3.2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "Coriander Powder，丸子用1.2g，酱汁用2g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "孜然粉",
+      "quantity": 1.2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "印度综合香料粉",
+      "quantity": 1.2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "Garam Masala",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 3.2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "丸子用1.2g，酱汁用2g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 80,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将瓠瓜去皮，用刨丝器刨成细丝",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "用手将瓠瓜丝中的水分挤干，尽量挤干，否则丸子炸不成型",
+      "duration_minutes": 3,
+      "tips": "瓠瓜挤水是关键步骤，水分过多会导致丸子散开无法成型"
+    },
+    {
+      "step": 3,
+      "content": "在挤干水分的瓠瓜丝中加入鹰嘴豆粉 32g、盐 1.2g、红辣椒粉 1.2g、香菜粉 1.2g，用手充分混合均匀，揉成不粘手的面团状",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "将混合物搓成直径约 3cm 的小丸子，备用",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "在深锅中倒入 200ml 食用油，中火加热至油温约 170°C（放入一小块面团，能快速浮起且冒泡即可）",
+      "duration_minutes": 3,
+      "tips": "可用筷子或测温计确认油温"
+    },
+    {
+      "step": 6,
+      "content": "将丸子分批放入油中，炸 4-5 分钟，直至表面金黄酥脆。炸好的丸子用厨房纸吸去多余油分，备用",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "在炒锅中倒入 12ml 食用油，中火加热 10 秒",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "放入切碎的洋葱，翻炒至洋葱变成金棕色（约 5-7 分钟）",
+      "duration_minutes": 6,
+      "tips": "需要耐心翻炒，让洋葱充分焦糖化"
+    },
+    {
+      "step": 9,
+      "content": "加入磨碎的生姜和大蒜，翻炒 1 分钟至香味散出",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "加入切碎的番茄，翻炒至番茄完全软烂出油（约 5 分钟）",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "加入姜黄粉 1.2g、红辣椒粉 2g、香菜粉 2g、孜然粉 1.2g、盐 2g，翻炒 2 分钟，使香料与番茄充分融合",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "加入 80ml 水，搅拌均匀，煮沸后转小火炖 5 分钟",
+      "duration_minutes": 6,
+      "tips": null
+    },
+    {
+      "step": 13,
+      "content": "将炸好的丸子轻轻放入酱汁中，小火炖 3-5 分钟，使丸子吸收酱汁",
+      "duration_minutes": 4,
+      "tips": "丸子不宜在酱汁中炖太久，否则会变软失去口感"
+    },
+    {
+      "step": 14,
+      "content": "撒上印度综合香料粉 1.2g 和切碎的青辣椒，关火，撒上香菜叶装饰，盛盘",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "瓠瓜挤水是关键步骤，水分过多会导致丸子散开无法成型",
+    "丸子不宜在酱汁中炖太久，否则会变软失去口感",
+    "此菜在印度通常搭配印度烤饼或蒸米饭食用",
+    "\"Kofte\"一词源自波斯语/阿拉伯语，意为\"压碎、磨碎\"，广泛流传于南亚和中东地区"
+  ]
+}

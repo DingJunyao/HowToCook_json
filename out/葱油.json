@@ -1,0 +1,118 @@
+{
+  "name": "葱油",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/condiment/葱油.md",
+  "category": "调料",
+  "difficulty": "medium",
+  "total_time_minutes": 40,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "油",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 80,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "大葱小葱都可以",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "开洋",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "开洋泡入 50 度温水中，加入 10ml 料酒去腥，泡 10 分钟后取出沥干水分",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "葱，香菜洗净，切成 5cm 长的段，擦干表面水份",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "洋葱切成丝，在锅里用热水煮 5 分钟，取出沥干水份",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "姜去皮，切成片",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "锅里倒入全部油，放入上述预处理好的材料，开中小火炸 20 分钟",
+      "duration_minutes": 20,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "渣后的开洋葱渣也可以食用，葱油可以滤掉这些料渣，也可以保留",
+    "开洋可以极大提升葱油鲜香，并增加鲜甜风味"
+  ]
+}

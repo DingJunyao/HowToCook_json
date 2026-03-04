@@ -1,0 +1,174 @@
+{
+  "name": "日式肥牛丼饭",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md",
+  "category": "主食",
+  "difficulty": "medium",
+  "total_time_minutes": 20,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/日式肥牛丼饭_0.png"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 125,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "务必选用外皮为白黄色的洋葱，不要用紫色的洋葱",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "肥牛",
+      "quantity": 125,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "火锅肥牛即可，也可选用原切肥牛片",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 1,
+      "unit": "根",
+      "quantity_range": {
+        "min": 0.5,
+        "max": 1
+      },
+      "is_optional": false,
+      "note": "也可选用切好的葱段，切成0.5cm的小段",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "白芝麻",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "热锅直接放入白芝麻，前后晃动锅体使芝麻均匀受热至略呈金黄色",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "味淋",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "一种常用日式调料，可在各大电商平台购买，也可用15g料酒代替",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "糖",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "用于调色",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 125,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "也可使用出汁代替，出汁使用柴鱼干和昆布熬制的汤汁，可以用于提鲜",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "清酒",
+      "quantity": 7.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "如果有条件可以加入，用于提鲜",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "温泉蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "额外用作点缀的食材",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "洋葱剥去外层去芯，切成月牙状；葱洗净切成0.5cm的小段；热锅直接放入白芝麻，前后晃动锅体使芝麻均匀受热至略呈金黄色；肥牛焯水1分钟后捞出",
+      "duration_minutes": 5,
+      "tips": "如果用的是比较不错的牛肉，可以选择不焯水，能够更加保留牛肉的风味，因为加入了味淋所以不会很腥，无需担心牛肉不熟，加热10分钟肯定熟了"
+    },
+    {
+      "step": 2,
+      "content": "将20g味淋（或15g料酒），15g酱油，10g蚝油，2.5g糖，2.5g老抽（可选，用于调色），在碗中搅拌混合成调料",
+      "duration_minutes": 1,
+      "tips": "该步骤可直接将碗放在电子秤上进行"
+    },
+    {
+      "step": 3,
+      "content": "热油锅放入洋葱，快速翻炒至洋葱变透明状；关小火，加入125g水（或出汁），开回大火加热等待3分钟",
+      "duration_minutes": 4,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "加入牛肉和调料，不断翻动所有食材10分钟，防止食材粘锅，然后关火",
+      "duration_minutes": 10,
+      "tips": "如果有条件，选择加入7.5g清酒"
+    },
+    {
+      "step": 5,
+      "content": "盛装肥牛丼至米饭上（注意要把汁水淋一些在饭上），撒上葱花和白芝麻，制作完成",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "如果用的是比较不错的牛肉，可以选择不焯水，能够更加保留牛肉的风味",
+    "因为加入了味淋所以不会很腥，无需担心牛肉不熟，加热10分钟肯定熟了",
+    "如果有条件，选择加入清酒提鲜"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "name": "蒸箱鸡蛋羹",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md",
+  "category": "早餐",
+  "difficulty": "medium",
+  "total_time_minutes": 15,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "纯净水",
+      "quantity": 75,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 50,
+        "max": 75
+      },
+      "is_optional": false,
+      "note": "60度温水，用量为鸡蛋体积的1.0-1.5倍",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用盐",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "增加底味和凝固作用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 6,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "可选调味，出锅后添加",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "一个鸡蛋放入碗中打散",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "向碗中加入鸡蛋体积 1.0-1.5 倍 60 度纯净水，并且搅拌均匀",
+      "duration_minutes": 2,
+      "tips": "正确范围内水越少弹，水越多越嫩。注意：超出范围后，水越少会口感变得太弹，水越多会变得太稀"
+    },
+    {
+      "step": 3,
+      "content": "加入食用盐 1g",
+      "duration_minutes": 1,
+      "tips": "盐起到了重要的增加底味和凝固作用"
+    },
+    {
+      "step": 4,
+      "content": "加入食用油 5ml",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "过滤蛋液，去掉蛋液中的浮沫（可选）",
+      "duration_minutes": 1,
+      "tips": "不过滤蒸出来的蛋会有气泡导致不好看"
+    },
+    {
+      "step": 6,
+      "content": "确认蒸箱的水源已经补充至足够",
+      "duration_minutes": 1,
+      "tips": "若不确定，可把水槽补满"
+    },
+    {
+      "step": 7,
+      "content": "将已经完全搅拌均匀的鸡蛋液碗放入蒸箱，调节至100摄氏度蒸10分钟",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "打开蒸箱，出锅",
+      "duration_minutes": 1,
+      "tips": "蒸箱在开启时会有蒸气瞬间喷出，注意缓慢开启"
+    },
+    {
+      "step": 9,
+      "content": "可加入生抽调味",
+      "duration_minutes": 1,
+      "tips": "享用"
+    }
+  ],
+  "tips": []
+}

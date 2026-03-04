@@ -1,0 +1,140 @@
+{
+  "name": "意式烤鸡",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/意式烤鸡.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 40,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡腿肉",
+      "quantity": 2,
+      "unit": "个",
+      "quantity_range": {
+        "min": 1,
+        "max": 2
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黑胡椒",
+      "quantity": 0.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "橄榄油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 1,
+      "unit": "瓣",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "柠檬汁",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "欧芹",
+      "quantity": 1,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将蒜切成蒜末，备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "鸡腿肉涂上盐、黑胡椒、橄榄油和蒜末，均匀腌制",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "烤箱预热至 180 度",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "将腌制好的鸡腿肉放入预热好的烤箱中，烤 30-40 分钟或至熟透",
+      "duration_minutes": 35,
+      "tips": "烤制时间根据鸡肉的大小和厚度而定，需确保鸡肉熟透"
+    },
+    {
+      "step": 5,
+      "content": "欧芹切成碎末备用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "柠檬挤出汁备用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "烤好的鸡肉取出，淋上柠檬汁",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "撒上欧芹碎即可",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "烤制时可以将鸡肉淋上蜂蜜或其他烤肉酱提升口感",
+    "烤箱预热至 180 度，烤制时间根据鸡肉的大小和厚度而定，需确保鸡肉熟透",
+    "鸡肉必须全熟才能吃，吃未全熟的鸡肉可能会导致食物中毒和感染细菌，如沙门氏菌和福氏杆菌等"
+  ]
+}

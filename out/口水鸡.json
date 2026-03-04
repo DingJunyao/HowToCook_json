@@ -1,0 +1,253 @@
+{
+  "name": "口水鸡",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/口水鸡/口水鸡.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/口水鸡_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "食用油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "半只鸡",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "辣椒粉",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花椒",
+      "quantity": 15,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "20g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花生",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "5颗",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小葱",
+      "quantity": 1,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "25g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "1小块",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "1个",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 2.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "醋",
+      "quantity": 2.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "味精",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花椒粉",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "调料中提及但未在食材列表中列出",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "香油",
+      "quantity": 2,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "调料中提及但未在食材列表中列出",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "姜切片，1颗小葱，15颗花椒备用",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "鸡肉洗干净，放入锅中，清水没过鸡肉，放入姜片、小葱和花椒，开大火烧开",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "大火烧开后，转中小火20分钟关火",
+      "duration_minutes": 20,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "取出鸡肉，放入冰水中，直至冰凉",
+      "duration_minutes": 5,
+      "tips": "冰水能让鸡肉肉质更紧实Q弹"
+    },
+    {
+      "step": 5,
+      "content": "取出鸡肉，切块摆盘子中，备用",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "小火把锅烧热，倒入花生，烘烤至表皮爆裂",
+      "duration_minutes": 5,
+      "tips": "注意随时翻动，不要糊了"
+    },
+    {
+      "step": 7,
+      "content": "一颗葱切成段，蒜拍成末，花椒15颗，花生去皮切碎",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "锅内倒入油烧热后，放入葱段，花椒和一半蒜末，炒香",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "炒至油温8成热，关火，滤出热油",
+      "duration_minutes": 2,
+      "tips": "8成热是指油面微冒青烟"
+    },
+    {
+      "step": 10,
+      "content": "将热油倒入放辣椒粉的碗中，搅拌，并滤出红油",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "红油中放入剩余蒜末、生抽、醋、盐、味精、糖、香油、花椒粉，拌匀放凉",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "在鸡肉上撒上花生碎，把红油淋到切好的鸡肉上，撒上香菜。成盘",
+      "duration_minutes": 3,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "冰水能让鸡肉肉质更紧实Q弹",
+    "烘烤花生时注意随时翻动，不要糊了",
+    "口水鸡做法多样，可以尝试不同的配方和调料比例"
+  ]
+}

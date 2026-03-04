@@ -1,0 +1,120 @@
+{
+  "name": "微波炉蒸蛋",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/微波炉蒸蛋.md",
+  "category": "早餐",
+  "difficulty": "simple",
+  "total_time_minutes": 10,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "温水或高汤",
+      "quantity": 60,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 50,
+        "max": 60
+      },
+      "is_optional": false,
+      "note": "蛋液体积的 1.0-1.2 倍",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食盐",
+      "quantity": 0.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 1,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "可选",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香油",
+      "quantity": 1,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "出锅用",
+      "original_quantity": "几滴",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "葱花",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "出锅撒用",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将鸡蛋打散，加入温水/高汤、盐、生抽，轻轻搅匀，尽量不要起泡。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将蛋液过筛倒入耐热碗中，表面若有气泡可用牙签轻戳。",
+      "duration_minutes": 1,
+      "tips": "过筛可显著提升细腻度"
+    },
+    {
+      "step": 3,
+      "content": "覆盖保鲜膜并扎 8-10 个小孔，或使用微波炉专用盖（留缝隙）。",
+      "duration_minutes": 1,
+      "tips": "覆盖保鲜膜并扎孔能防止表面爆开或出现蜂窝"
+    },
+    {
+      "step": 4,
+      "content": "放入微波炉中加热：700W 加热 1 分 30 秒，视情况再加热 20-30 秒至表面刚凝；600W 约加热 1 分 40 秒–2 分 10 秒；800W 约加热 1 分 10 秒–1 分 40 秒。",
+      "duration_minutes": 2,
+      "tips": "不同功率和容器会影响时间，建议第一次尝试时少量多次加热，找到适合自己设备的最佳时长"
+    },
+    {
+      "step": 5,
+      "content": "加热完成后取出静置 1 分钟，让余温使中心完全熟化。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "淋上香油，撒葱花即可食用。",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "水温应在 40–50℃ ，不宜过热。",
+    "蛋液与水比例控制在 1:1 至 1:1.2 之间口感最佳。",
+    "覆盖保鲜膜并扎孔能防止表面爆开或出现蜂窝。",
+    "过筛可显著提升细腻度。",
+    "若表面鼓泡或出水，说明加热过头，下次缩短时间即可。"
+  ]
+}

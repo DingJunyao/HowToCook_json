@@ -1,0 +1,147 @@
+{
+  "name": "虎皮青椒",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/虎皮青椒/虎皮青椒.md",
+  "category": "素菜",
+  "difficulty": "medium",
+  "total_time_minutes": 12,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/虎皮青椒_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "青椒",
+      "quantity": 5,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "长度在 10-15cm 的最为合适",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 2.5,
+      "unit": "瓣",
+      "quantity_range": {
+        "min": 2,
+        "max": 3
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "油",
+      "quantity": 20,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "灵魂调料",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香醋",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "去掉青椒蒂，用自来水冲洗干净。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "青椒切长片，平均一个青椒纵向切成 3-4 片即可。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "大蒜去皮，切成碎末，体积在 2mm x 2mm x 2mm 即可。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "拿一个小碗倒入 20ml 油，将大蒜末放入其中，调制调料 1。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "将白糖、生抽、醋、盐全部倒入砵（碗）等容器，搅拌，调制调料 2。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "将调料 1 倒入锅中，开火加热 5 成放入青椒，青椒片不要叠在一起，单独成片放置锅中。",
+      "duration_minutes": 1,
+      "tips": "5 成热是指油温大约 150°C 左右"
+    },
+    {
+      "step": 7,
+      "content": "用锅铲不停的按压青椒，合适的时候翻面。",
+      "duration_minutes": 1,
+      "tips": "按压能让青椒表面更快形成虎皮纹理"
+    },
+    {
+      "step": 8,
+      "content": "翻炒约 2 分钟，待青椒表皮出现褶皱时，倒入调料 2。",
+      "duration_minutes": 2,
+      "tips": "出现褶皱是形成虎皮的关键"
+    },
+    {
+      "step": 9,
+      "content": "加大火候继续翻炒 30s 后即可出锅盛入盘中。",
+      "duration_minutes": 1,
+      "tips": "大火翻炒可以让调料更好地包裹青椒"
+    }
+  ],
+  "tips": [
+    "白糖是这道菜的'灵魂'，不可省略",
+    "5 成油温放入青椒可以避免油温过高导致青椒过度焦糊"
+  ]
+}

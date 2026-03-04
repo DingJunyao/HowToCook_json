@@ -1,0 +1,150 @@
+{
+  "name": "炒年糕",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/炒年糕.md",
+  "category": "主食",
+  "difficulty": "medium",
+  "total_time_minutes": 30,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "年糕",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小葱",
+      "quantity": 2,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 50,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "30ml制葱油，20ml炒制",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": {
+        "min": 1,
+        "max": 2
+      },
+      "is_optional": false,
+      "note": "按口味喜好",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "青菜",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "锅中加水烧开，煮熟年糕，碗中加水确保年糕不会粘连，捞起年糕备用。",
+      "duration_minutes": 10,
+      "tips": "注意搅拌，以免粘锅"
+    },
+    {
+      "step": 2,
+      "content": "小葱切葱花（将葱白和葱叶分开），青菜切小段备用。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "（可选）制作炒蛋。",
+      "duration_minutes": 5,
+      "tips": "参考西红柿炒蛋的做法"
+    },
+    {
+      "step": 4,
+      "content": "热锅，加入 30ml 食用油。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "将葱白倒入锅中，直至大部分葱白变成焦黄色且发出香味，倒出葱油备用。",
+      "duration_minutes": 5,
+      "tips": "小火慢煎至焦黄出香"
+    },
+    {
+      "step": 6,
+      "content": "重新热锅，加入 20ml 食用油。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "加入所有辅料（鸡蛋，青菜等），翻炒均匀。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "将年糕的水倒掉，向锅中加入年糕。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "加入酱油和盐，翻炒均匀。",
+      "duration_minutes": 2,
+      "tips": "根据口味调整盐的用量"
+    },
+    {
+      "step": 10,
+      "content": "关火，加入葱油，翻炒均匀，乘盘。",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "辅料的选择可以根据个人选择酌情添加，如加入瘦肉等"
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "name": "白灼虾",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/白灼虾/白灼虾.md",
+  "category": "水产",
+  "difficulty": "easy",
+  "total_time_minutes": 15,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/白灼虾_0.webp"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "活虾",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": {
+        "min": 125,
+        "max": 250
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "250g * 份数（建议 1-2 人份）",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 75,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切小块",
+      "original_quantity": "一头",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切片",
+      "original_quantity": "一块",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 4,
+      "unit": "瓣",
+      "quantity_range": {
+        "min": 3,
+        "max": 4
+      },
+      "is_optional": false,
+      "note": "切碎",
+      "original_quantity": "5-8 瓣",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 0.5,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切成葱花",
+      "original_quantity": "一根",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 5,
+        "max": 10
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "10-15ml",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "20 ml",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 5,
+        "max": 10
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "10-15ml",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "芝麻",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "一把",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "香醋",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "10 ml",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "10 ml",
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "洋葱切小块，姜切片，平铺平底锅",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "活虾冲洗一下（去除虾线、剪刀减掉虾腿虾须子都是可选操作），控水，铺在平底锅的洋葱、姜片之上",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "锅内倒入料酒，盖上锅盖，中火 1 分钟，小火 5 分钟，关火 5 分钟",
+      "duration_minutes": 11,
+      "tips": "开始不能大火、防止糊底。如果锅盖有通气口、时间要相应调节一下（考虑增加 30 秒中火）"
+    },
+    {
+      "step": 4,
+      "content": "葱切成葱花、蒜切碎、倒入酱油、芝麻、香醋，搅拌之",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "油烧热，淋入蘸料",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "虾出锅，用干净的盘子装好",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "蘸料其实也是可选的、也可以是纯的醋，大自然馈赠的鲜虾在没有水带走冲淡鲜甜的情况下口感味道都非常棒的"
+  ]
+}

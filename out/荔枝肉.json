@@ -1,0 +1,237 @@
+{
+  "name": "荔枝肉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/荔枝肉/荔枝肉.md",
+  "category": "荤菜",
+  "difficulty": "hard",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/荔枝肉_0.jpeg",
+    "images/荔枝肉_1.jpeg",
+    "images/荔枝肉_2.jpeg",
+    "images/荔枝肉_3.jpeg",
+    "images/荔枝肉_4.jpeg",
+    "images/荔枝肉_5.jpeg",
+    "images/荔枝肉_6.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "鲜香菇",
+      "quantity": 2,
+      "unit": "朵",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蟹味菇",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "瘦肉",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "凤梨",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "可替换为马蹄或马铃薯",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 60,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于炸制，实际消耗约50-60ml",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "白砂糖",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "口味偏甜，可根据喜好调整或省略",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "淀粉",
+      "quantity": 60,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "50g用于裹肉，10g用于汤汁",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "3ml用于腌肉，2ml用于汤汁",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "2g用于腌肉，3g用于汤汁",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜末",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "芝麻",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "摆盘装饰用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "番茄酱",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香醋",
+      "quantity": 2,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "凉水",
+      "quantity": 200,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于调制汤汁",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "瘦肉切块（每块 2-3 cm），放入大碗中，加入鸡蛋 1 个、生粉 50 g、生抽 3 ml、鸡精 2 g",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "充分搅拌，直至生粉包裹住瘦肉块（太稀则继续加生粉，太干则加水），然后加入 5 ml 油，充分搅拌后备用",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "再准备一个碗，加入番茄酱、鸡精 3 g、生抽 2 ml、姜末、白砂糖、生粉 10 g、香醋、凉水 200 ml，充分搅拌后备用",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "切一个凤梨，准备 6 个（每个 1.5-2 cm）凤梨块",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "起锅烧油，倒入 500 ml 油，一直烧油直到听到油炸声",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "将瘦肉一个一个放入锅中（切记不可以整碗倒入），保证每个肉不要粘在一起",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "全部放入瘦肉后，每 30 S 用勺子来回两面翻转瘦肉块，直至瘦肉块表面金黄",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "取出瘦肉，一分钟后倒入油锅中继续炸，直至瘦肉块表面出现焦黄后，取出放入大碗备用",
+      "duration_minutes": 3,
+      "tips": "可以通过勺子敲打瘦肉块，听到声响来判断是否炸透瘦肉"
+    },
+    {
+      "step": 9,
+      "content": "起锅，倒入汤汁，30 S 后倒入瘦肉块、凤梨块，充分翻炒后出锅",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "摆上芝麻",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "更多情况下，福州当地会选用马蹄（解腻）和马铃薯（洗油），因为疫情期间买不到，所以选用了凤梨",
+    "闽菜以甜为主，如果吃不惯的可以放弃白糖",
+    "可以通过勺子敲打瘦肉块，听到声响来判断是否炸透瘦肉"
+  ]
+}

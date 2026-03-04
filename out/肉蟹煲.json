@@ -1,0 +1,309 @@
+{
+  "name": "肉蟹煲",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/肉蟹煲.md",
+  "category": "水产",
+  "difficulty": "hard",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 4,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "肉蟹",
+      "quantity": 125,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐优先级从高到低：缅甸黑蟹、青蟹、梭子蟹、大闸蟹",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "虾",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "土豆",
+      "quantity": 113,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "年糕",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐硬年糕，新鲜年糕亦可",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生姜",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "干辣椒",
+      "quantity": 1.3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "青椒",
+      "quantity": 7.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "红椒",
+      "quantity": 7.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 12.5,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 7.5,
+        "max": 12.5
+      },
+      "is_optional": false,
+      "note": "如果放了虾追加2.5ml，油炸另需125mL",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "海鲜酱",
+      "quantity": 3.8,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "替代：蚝油3g+白砂糖0.8g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黄豆酱",
+      "quantity": 3.8,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "替代：生抽3ml+老抽0.5ml+白糖0.3g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "甜面酱",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "替代：白糖1.4g+生抽1ml+老抽0.1ml，或烧烤酱",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "番茄酱",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "没有就挤半颗番茄碾碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "淀粉",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "玉米淀粉或土豆淀粉",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冰糖",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 0.8,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白胡椒粉",
+      "quantity": 0.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "如果放了虾追加0.3g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 4,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "可使用黄酒替代",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 1.3,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "啤酒",
+      "quantity": 50,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "如果放了虾追加12.5-25ml",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "清水",
+      "quantity": 200,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "如果放了虾追加50ml",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "土豆切块为各边均为3cm的立方体，青/红椒切成边长4cm的菱形片，洋葱切成3cm宽的月牙瓣，年糕切成1cm厚片",
+      "duration_minutes": 5,
+      "tips": "年糕切片后泡冷水，下锅前冲洗不容易粘锅"
+    },
+    {
+      "step": 2,
+      "content": "螃蟹切成50-80g的块，裹薄淀粉，180°C油温炸1分钟捞出",
+      "duration_minutes": 10,
+      "tips": "裹淀粉的螃蟹下锅前务必擦干，热油遇水容易飞溅"
+    },
+    {
+      "step": 3,
+      "content": "锅中放油，蒜姜干辣椒爆香，放所有酱料+冰糖小火炒出红油，注意别糊底",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "加螃蟹、土豆、啤酒和清水，烧开转小火炖12分钟",
+      "duration_minutes": 15,
+      "tips": "年糕下锅后放在表面，沉入锅底容易糊锅"
+    },
+    {
+      "step": 5,
+      "content": "放年糕和青红椒，开大火收汁到汤汁可以附着在物品表面，最后撒白胡椒粉",
+      "duration_minutes": 5,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "建议冷冻20分钟让螃蟹昏迷（别冻硬！），或用筷子从口器插入破坏神经",
+    "如果使用的是冷冻蟹，完全解冻蟹脚容易掉，并且容易造成肉质流失。建议半解冻后裹粉油炸，并将油炸时间延长至2分钟",
+    "如果灶具功率较小，食材下油锅后容易迅速降温，建议油温预热到200°C，并且分多批次油炸",
+    "务必去掉蟹胃（三角包）、蟹腮、蟹心（六角形白片）",
+    "裹淀粉的螃蟹下锅前务必擦干，热油遇水容易飞溅",
+    "死蟹绝对不能用（买来的就是冷冻的除外，但是解冻后未及时使用的也不行）",
+    "不与柿子、浓茶同食",
+    "痛风患者慎食",
+    "年糕切片后泡冷水，下锅前冲洗不容易粘锅，下锅后放在表面，沉入锅底容易糊锅",
+    "要被螃蟹夹了或者烫伤了，先用冷水冲15分钟，严重的话及时就医，如果伤口比较深务必就医"
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "name": "葱烧海参",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/葱烧海参/葱烧海参.md",
+  "category": "水产",
+  "difficulty": "medium",
+  "total_time_minutes": 12,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/葱烧海参_0.jpeg",
+    "images/葱烧海参_1.jpeg",
+    "images/葱烧海参_2.jpeg",
+    "images/葱烧海参_3.jpeg",
+    "images/葱烧海参_4.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "海参",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "北极参，泡发好的",
+      "original_quantity": "4 个",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "大葱",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "葱白部分",
+      "original_quantity": "1 根大葱的葱白",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 25,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 20,
+        "max": 25
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "淀粉",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 100,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于炖煮和调水淀粉",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "葱白切成 1cm 的段，备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "海参切成 1cm 的段，备用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "准备一个空碗，倒入 20g 蚝油，10g 生抽，2g 白糖，搅拌均匀，制成料汁",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "另一个空碗倒入淀粉和水，制备水淀粉，勾芡用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "热锅，锅内放入 20ml-25ml 食用油。等待 10 秒让油温升高",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "放入葱白，调小火，注意不要让葱白变焦。大概煎 3-5 分钟即可",
+      "duration_minutes": 4,
+      "tips": "小火慢煎，避免葱白变焦"
+    },
+    {
+      "step": 7,
+      "content": "用筷子夹出葱白，放入盘中备用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "倒入调好的料汁，炒香，等待 1-2 分钟",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "放入切好的海参，翻炒 1 分钟",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "加入 100ml 的水，中小火，等待 5 分钟",
+      "duration_minutes": 5,
+      "tips": "保持中小火慢炖"
+    },
+    {
+      "step": 11,
+      "content": "等待锅中汤汁快干的时候，加入水淀粉，加入前面取出的葱白",
+      "duration_minutes": 1,
+      "tips": "操作时，需要注意观察锅中的水量，如快见底的时候就直接加入水淀粉即可"
+    },
+    {
+      "step": 12,
+      "content": "在外观光泽呈粘稠状态后关火，盛盘",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "操作时，需要注意观察锅中的水量，如快见底的时候就直接加入水淀粉即可",
+    "这道菜的做法并不难，就是海参泡发是需要时间的",
+    "疫情期间隔离在家，干海参是过年前存的年货，正好拿出来尝试一下"
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "name": "巴基斯坦牛肉咖喱",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md",
+  "category": "荤菜",
+  "difficulty": "expert",
+  "total_time_minutes": 150,
+  "servings": 1,
+  "original_servings": 5,
+  "images": [
+    "images/巴基斯坦牛肉咖喱_0.png",
+    "images/巴基斯坦牛肉咖喱_1.png",
+    "images/巴基斯坦牛肉咖喱_2.png",
+    "images/巴基斯坦牛肉咖喱_3.png",
+    "images/巴基斯坦牛肉咖喱_4.png",
+    "images/巴基斯坦牛肉咖喱_5.png",
+    "images/巴基斯坦牛肉咖喱_6.png"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "牛肉",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切成2cm的小块",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "番茄",
+      "quantity": 0.8,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "打成番茄蓉",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "螺丝椒",
+      "quantity": 0.4,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "大个的，切成段状",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "原味酸奶",
+      "quantity": 80,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "一盒约400ml",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "Masala 粉",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "品牌可选 Shan",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 6,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "一层油",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 50,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "全部螺丝椒切成段状，备用",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "全部番茄打成番茄蓉，备用",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "牛肉切成2cm的小块，洗净备用",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "炒锅中倒入一层油（用来防止番茄蓉沸腾蒸发）",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "倒入番茄蓉，持续搅拌2-3分钟，等待它越变越红",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "加入1g蒜粉、1g姜粉和1包10g的Masala粉，搅拌均匀",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "加入牛肉和螺丝椒段，搅拌均匀",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "加入80ml原味酸奶（为了让整个酱汁变得粘稠），搅拌均匀",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "将整锅材料转移到电饭煲/电炖锅，并加入50ml的水，开启炖肉/慢炖档，设定时间2-3个小时",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "等待完成，开锅检查牛肉软糯，就可以吃了",
+      "duration_minutes": 120,
+      "tips": "牛肉软糯即可出锅"
+    }
+  ],
+  "tips": [
+    "这道菜是从一个巴基斯坦的朋友那里偷师而来，特地整理了笔记，绝对正宗",
+    "通常配以烙饼(roti)、馕(naan)或米饭食用",
+    "如果想做Chicken karahi流程几乎是一样的，除了是先用油和各种花椒胡椒煎鸡肉变黄"
+  ]
+}

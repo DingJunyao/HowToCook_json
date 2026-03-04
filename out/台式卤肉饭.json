@@ -1,0 +1,274 @@
+{
+  "name": "台式卤肉饭",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/台式卤肉饭/台式卤肉饭.md",
+  "category": "主食",
+  "difficulty": "expert",
+  "total_time_minutes": 90,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/台式卤肉饭_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "红葱头",
+      "quantity": 10.4,
+      "unit": "g",
+      "quantity_range": {
+        "min": 8.3,
+        "max": 12.5
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "带皮五花肉",
+      "quantity": 208.3,
+      "unit": "g",
+      "quantity_range": {
+        "min": 166.7,
+        "max": 250
+      },
+      "is_optional": false,
+      "note": "可用猪绞肉代替",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1.7,
+      "unit": "个",
+      "quantity_range": {
+        "min": 1.3,
+        "max": 2
+      },
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 6.3,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 5,
+        "max": 7.5
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽酱油",
+      "quantity": 31.3,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 25,
+        "max": 37.5
+      },
+      "is_optional": false,
+      "note": "可用料酒代替",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "米酒",
+      "quantity": 14.6,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 11.7,
+        "max": 17.5
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 10.4,
+      "unit": "g",
+      "quantity_range": {
+        "min": 8.3,
+        "max": 12.5
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香叶",
+      "quantity": 0.8,
+      "unit": "片",
+      "quantity_range": {
+        "min": 0.7,
+        "max": 1
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "八角",
+      "quantity": 0.4,
+      "unit": "颗",
+      "quantity_range": {
+        "min": 0.3,
+        "max": 0.5
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冰糖",
+      "quantity": 8.3,
+      "unit": "g",
+      "quantity_range": {
+        "min": 6.7,
+        "max": 10
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白胡椒粉",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": {
+        "min": 2,
+        "max": 3
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "五香粉",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": {
+        "min": 2,
+        "max": 3
+      },
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "米饭",
+      "quantity": 1,
+      "unit": "碗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "根据个人食量决定",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 50,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "炖煮过程中如过干可添加",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "带皮五花肉切成 0.7cm（长）× 0.7cm（宽）× 2.5cm（高）的细长条",
+      "duration_minutes": 10,
+      "tips": "五花肉带皮面向上摆在桌上，此时肉皮所在平面为长宽形成的平面，垂直此平面的为高。肉条最终效果是肥瘦相间的细长条"
+    },
+    {
+      "step": 2,
+      "content": "红葱头、大蒜切末备用",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "鸡蛋煮熟剥壳，并用刀划破蛋白（便于入味），备用",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "大火热锅，锅内放入食用油，让油滑满锅底即可，等待 5s 使油温稍微升高",
+      "duration_minutes": 1,
+      "tips": "放油的目的是防止五花肉刚下锅时粘锅"
+    },
+    {
+      "step": 5,
+      "content": "放入五花肉条，翻炒至肉色稍微变白，沿锅边淋入米酒，继续翻炒至五花肉不再出油",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "将切好的红葱头加入锅中，翻炒 1 分钟爆出油葱香味",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "将切好的蒜末加入锅中，翻炒 30 秒",
+      "duration_minutes": 0.5,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "把猪肉推到旁边，放入冰糖加热到融化冒泡变成焦糖，再把猪肉一起翻拌，让焦糖均匀附着",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "加入生抽炒出香气",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "呛入米酒，水加到淹过猪肉，加入白胡椒粉、五香粉、八角、香叶、水煮蛋，沸腾后转小火卤 1 小时",
+      "duration_minutes": 60,
+      "tips": "不同酱油的咸淡不一，卤的时候务必试味道，太甜加酱油，太咸加点糖或水调整"
+    },
+    {
+      "step": 11,
+      "content": "小火炖煮过程中，每隔 15 分钟搅拌检查一次，防止粘锅。如发现过干，则可加入 100ml 清水继续炖煮",
+      "duration_minutes": 0,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "1 小时后，开大火收汁直到酱汁浓稠，呈现有光泽的琥珀色，即完成",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 13,
+      "content": "炖煮结束后，乘一碗米饭，将软烂的卤肉浇在米饭上，并加上卤蛋，开始享用",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "五花肉切小技巧：若五花肉是未冷冻的，可以放入冰箱冷冻室 30 分钟再取出切条。若是冷冻五花肉，可以在常温下放置 30 分钟后再切条",
+    "切条时可以较小的力度将刀刃与肉快速摩擦，如此更易于切割并保护五花肉肥瘦相间的结构"
+  ]
+}

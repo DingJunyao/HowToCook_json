@@ -1,0 +1,127 @@
+{
+  "name": "杨枝甘露",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/drink/杨枝甘露.md",
+  "category": "甜品",
+  "difficulty": "easy",
+  "total_time_minutes": 15,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "奇亚籽",
+      "quantity": 24,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用泡不用煮，省了很多时间",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "牛奶",
+      "quantity": 50,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冰块",
+      "quantity": 2,
+      "unit": "小块",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "芒果",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "1粒，半粒用于切丁，半粒用于打泥",
+      "original_quantity": "1粒",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "葡萄柚",
+      "quantity": 120,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "1/2粒",
+      "original_quantity": "1/2粒",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "椰奶",
+      "quantity": 150,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "芒果干",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "切丝，作为点缀",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "柳橙干",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "切丝，作为点缀",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "奇亚籽泡牛奶 10 分钟。",
+      "duration_minutes": 10,
+      "tips": "奇亚籽用泡不用煮，省了很多时间"
+    },
+    {
+      "step": 2,
+      "content": "把半粒芒果、葡萄柚去皮切丁，放入杯中。",
+      "duration_minutes": 3,
+      "tips": "可在泡籽之时进行，节省时间"
+    },
+    {
+      "step": 3,
+      "content": "半粒芒果切小块放入调理机加冰块、椰奶打成泥。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "倒入杯中，放上点缀材料（如有）。",
+      "duration_minutes": 0.5,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "一边享用一边写代码！！",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "没用西谷米的原因是家里没有，但是有很多的奇亚籽就拿来代替。而且奇亚籽用泡不用煮，省了很多时间!"
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "name": "清蒸生蚝的做法",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/清蒸生蚝.md",
+  "category": "水产",
+  "difficulty": "medium",
+  "total_time_minutes": 15,
+  "servings": 1,
+  "original_servings": 6,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "生蚝",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "饮用水",
+      "quantity": 1000,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "1根葱约3g，取葱白切葱花",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "1瓣蒜约1g",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "1小块姜约10g",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": 6,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "每个生蚝1ml，共6ml",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将生蚝用刷子刷干净（没有刷子用牙刷）",
+      "duration_minutes": 3,
+      "tips": "刷洗时要小心，不要把壳弄坏"
+    },
+    {
+      "step": 2,
+      "content": "蒸锅中放水，将蒸屉放上之后，将生蚝平铺在蒸屉，使用 50%功率，蒸 3 分钟",
+      "duration_minutes": 4,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "用湿抹布掀开烫锅盖，将每个生蚝的外壳掀开一半去掉，生蚝的凸面向下，平面向上，每个放 1 根姜丝，1g 蒜末放到生蚝上",
+      "duration_minutes": 2,
+      "tips": "使用湿抹布可以防止烫伤手部"
+    },
+    {
+      "step": 4,
+      "content": "关上烫锅盖，100%功率蒸 3.5 分钟",
+      "duration_minutes": 4,
+      "tips": "注意观察生蚝的状态，避免过度蒸制"
+    },
+    {
+      "step": 5,
+      "content": "停火，用湿抹布掀开烫锅盖，每个生蚝放 1ml 酱油",
+      "duration_minutes": 1,
+      "tips": "酱油用量可根据个人口味调整"
+    },
+    {
+      "step": 6,
+      "content": "盛盘",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "生蚝的壳很锋利，刷洗时要小心",
+    "打开锅盖时务必使用湿抹布或隔热手套，防止烫伤",
+    "蒸制时间不宜过长，否则生蚝会变得过老",
+    "新鲜生蚝肉质饱满，品质较差的生蚝肉质松弛",
+    "可根据个人口味增减酱油用量"
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "name": "小炒黄牛肉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
+  "category": "荤菜",
+  "difficulty": "hard",
+  "total_time_minutes": 60,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/小炒黄牛肉_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "牛里脊",
+      "quantity": 400,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "不超过 3cm 宽，3mm 厚的薄片",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "芹菜",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "不超过 5cm 的小段",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小米椒",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切成丝状",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "野山椒",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切成颗粒",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "不超过 3cm 的小段",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": 6,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于腌制牛肉",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "牛里脊切成不超过 3cm 宽，3mm 厚的薄片，倒入 6ml 酱油，用手抓匀备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "芹菜切成不超过 5cm 的小段，备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "小米椒切成丝状，备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "野山椒切成颗粒，备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "香菜切成不超过 3cm 的小段，备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "热锅，锅内放入 15ml 食用油，大火等待 30 秒让油温升高",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "放入小米椒和野山椒爆香",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "放入牛里脊和芹菜，然后大火翻炒 1 分钟",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "关火，撒上香菜，盛盘",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "操作时，全程需要开大火"
+  ]
+}

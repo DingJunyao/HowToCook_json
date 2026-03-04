@@ -1,0 +1,305 @@
+{
+  "name": "鹰嘴豆炸饼",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/鹰嘴豆炸饼.md",
+  "category": "主食",
+  "difficulty": "hard",
+  "total_time_minutes": 50,
+  "servings": 1,
+  "original_servings": 3,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "干鹰嘴豆",
+      "quantity": 67,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "提前浸泡 8 小时",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 67,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切碎，约 0.7 个",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "番茄",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切碎，约 1 个",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生姜",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "磨碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约 1.5 瓣，磨碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "青辣椒",
+      "quantity": 1,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切缝",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "炒制用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "红茶包",
+      "quantity": 0.5,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于鹰嘴豆上色",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "姜黄粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "红辣椒粉",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜粉",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "孜然粉",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "印度综合香料粉",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "Garam Masala",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "石榴粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "Amchur/Anardana，可用柠檬汁替代",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 167,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "煮鹰嘴豆用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "中筋面粉",
+      "quantity": 83,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酸奶",
+      "quantity": 20,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "和面用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "和面用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小苏打",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "温水",
+      "quantity": 20,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "和面用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 167,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "炸饼用",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将干鹰嘴豆用清水浸泡过夜（至少 8 小时），浸泡后体积会膨胀至约两倍",
+      "duration_minutes": null,
+      "tips": "鹰嘴豆提前浸泡是必须步骤，不泡的话煮不软。如果时间紧迫，可以用高压锅将未泡的鹰嘴豆压 20 分钟"
+    },
+    {
+      "step": 2,
+      "content": "将浸泡好的鹰嘴豆沥干水分，放入锅中，加入 167ml 水和 0.5 个红茶包（用于上色）。大火煮沸后转中火，煮 25-30 分钟，直至鹰嘴豆用手指可以轻松压碎。取出红茶包，保留煮豆的汤水，备用",
+      "duration_minutes": 28,
+      "tips": "红茶包的作用是给鹰嘴豆上色，使其呈现深棕色。这是印度餐厅的秘诀"
+    },
+    {
+      "step": 3,
+      "content": "在炒锅中倒入 10ml 食用油，中火加热。放入切碎的洋葱，翻炒至金棕色（约 6-8 分钟）",
+      "duration_minutes": 7,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "加入磨碎的生姜和大蒜，翻炒 1 分钟",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "加入切碎的番茄，翻炒至番茄完全软烂出油（约 5 分钟）",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "加入姜黄粉 1g、红辣椒粉 2g、香菜粉 3g、孜然粉 2g、盐 2g。翻炒 2 分钟，使香料充分释放香味",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "将煮好的鹰嘴豆连同汤水一起倒入锅中，加入青辣椒，搅拌均匀。大火煮沸后转小火，炖 15-20 分钟，期间可用铲子背面压碎一些鹰嘴豆使汤汁变稠。加入印度综合香料粉 2g 和石榴粉 1g（或柠檬汁 5ml）。搅拌均匀后关火，备用",
+      "duration_minutes": 18,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "在大碗中混合中筋面粉 83g、小苏打 1g、盐 1g。加入酸奶 20ml 和食用油 5ml。逐渐加入温水，边加边揉，揉成光滑柔软的面团（面团应比普通面团稍软）。用湿布盖住面团，静置 30 分钟",
+      "duration_minutes": 30,
+      "tips": "炸饼面团中的酸奶和小苏打是其松软蓬松的关键。面团不宜太硬"
+    },
+    {
+      "step": 9,
+      "content": "将面团分成 3 个等大的小剂子。取一个剂子，手上沾少量油，擀成直径约 15cm、厚度约 3mm 的圆形面饼",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "在深锅中倒入 167ml 食用油，中大火加热至油温约 180°C。将面饼轻轻滑入热油中，用漏勺轻轻按压面饼使其膨胀鼓起。炸 1-2 分钟，翻面炸至两面金黄。捞出，用厨房纸吸去多余油分。重复此步骤炸制剩余面饼",
+      "duration_minutes": 6,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "将鹰嘴豆咖喱重新加热。炸饼趁热上桌，搭配鹰嘴豆咖喱食用。可搭配切片洋葱、青辣椒和柠檬角",
+      "duration_minutes": 5,
+      "tips": "这道菜在印度是国民级的早午餐，从路边摊到高档餐厅都有供应。在中国的印度餐厅中通常被称为'鹰嘴豆咖喱配炸饼'"
+    }
+  ],
+  "tips": [
+    "鹰嘴豆提前浸泡是必须步骤，不泡的话煮不软。如果时间紧迫，可以用高压锅将未泡的鹰嘴豆压 20 分钟",
+    "红茶包的作用是给鹰嘴豆上色，使其呈现深棕色。这是印度餐厅的秘诀",
+    "炸饼面团中的酸奶和小苏打是其松软蓬松的关键。面团不宜太硬"
+  ]
+}

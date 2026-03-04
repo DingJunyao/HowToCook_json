@@ -1,0 +1,186 @@
+{
+  "name": "湖南家常红烧肉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 45,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/湖南家常红烧肉_0.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "五花肉",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "带皮",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香叶",
+      "quantity": 3,
+      "unit": "片",
+      "quantity_range": {
+        "min": 2,
+        "max": 3
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 2,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "桂皮",
+      "quantity": 0.5,
+      "unit": "小块",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冰糖",
+      "quantity": 3,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "锁油上色",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "八角",
+      "quantity": 2,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "干小米椒",
+      "quantity": 2,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "根据个人情况而定",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "开水",
+      "quantity": 250,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "没过肉",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "带皮五花肉洗净冷水下锅，加入姜片 1~2 片去腥味，煮到沸腾捞出冷水冲净白沫",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "五花肉切块，尺寸 1.5cm*1.5cm 块状大小",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "热锅加入油，加入冰糖小火搅拌至焦糖色即可，加入切好的五花肉，中火翻炒上色",
+      "duration_minutes": 5,
+      "tips": "注意火候，避免炒糊"
+    },
+    {
+      "step": 4,
+      "content": "加入备好的姜片、八角、桂皮、生抽、老抽、料酒、干小米椒、盐，小火翻炒 1 分钟，加开水没过肉",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "加盖中火煮沸，转小火慢炖 30 分钟，慢炖期间，间隔 10 分钟搅拌一次防止粘锅",
+      "duration_minutes": 30,
+      "tips": "定期搅拌防止粘锅"
+    },
+    {
+      "step": 6,
+      "content": "小火慢炖汤汁剩三分之一的时，调成中火收汁出锅",
+      "duration_minutes": 5,
+      "tips": null
+    }
+  ],
+  "tips": []
+}

@@ -1,0 +1,148 @@
+{
+  "name": "茄子肉煎饼",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/茄子肉煎饼/茄子肉煎饼.md",
+  "category": "主食",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/茄子肉煎饼_0.jpg",
+    "images/茄子肉煎饼_1.jpg",
+    "images/茄子肉煎饼_2.jpg",
+    "images/茄子肉煎饼_3.jpg",
+    "images/茄子肉煎饼_4.jpg",
+    "images/茄子肉煎饼_5.jpg",
+    "images/茄子肉煎饼_6.jpg",
+    "images/茄子肉煎饼_7.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "米粉",
+      "quantity": 125,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "指用大米研磨成的粉",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小麦粉",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 0.5,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "腊肉",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "煮熟的",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "茄子",
+      "quantity": 0.5,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "长条状的，越圆越好，约 10-15cm 长",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 7.5,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 5,
+        "max": 7.5
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食盐",
+      "quantity": 0.75,
+      "unit": "g",
+      "quantity_range": {
+        "min": 0.5,
+        "max": 1
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "清水",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于调节粘稠度",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将茄子去皮后切成片，将腊肉切成片，备用",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "依次向盆中加入 125g 米粉（大米研磨成的粉）、25g 面粉和 0.5 个鸡蛋",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "边用筷子搅拌，边加入清水（清水用于调节粘稠度），使米粉、面粉、鸡蛋混合成面糊，当面糊能够附着在茄片、肉片上而不掉落时停止加水，而后将所有茄片和肉片放入面糊中，用面糊充分包裹",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "平底锅加入食用油 5-7.5ml，开小火",
+      "duration_minutes": 1,
+      "tips": "使用小火煎"
+    },
+    {
+      "step": 5,
+      "content": "用筷子或勺子把裹了面糊的茄片、肉片放入锅中，先煎至两面金黄，再煎 3-6 分钟（煎的过程中，食用油会变少，可再添加食用油）",
+      "duration_minutes": 5,
+      "tips": "煎至两面金黄后，再煎 3-6 分钟"
+    },
+    {
+      "step": 6,
+      "content": "撒盐，翻炒均匀，起锅装盘",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "使用小火煎"
+  ]
+}

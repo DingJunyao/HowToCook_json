@@ -1,0 +1,103 @@
+{
+  "name": "鸡蛋花",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/鸡蛋花/鸡蛋花.md",
+  "category": "早餐",
+  "difficulty": "simple",
+  "total_time_minutes": 10,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "去壳后约50g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "沸水",
+      "quantity": 150,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 100,
+        "max": 150
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": {
+        "min": 5,
+        "max": 10
+      },
+      "is_optional": true,
+      "note": "制作甜口",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": {
+        "min": 1,
+        "max": 2
+      },
+      "is_optional": true,
+      "note": "制作咸口",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将鸡蛋打入碗中。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "使用筷子或搅拌器，顺着一个方向搅打蛋液，直至蛋清与蛋黄完全混合均匀，颜色一致。",
+      "duration_minutes": 2,
+      "tips": "此过程约需1-2分钟"
+    },
+    {
+      "step": 3,
+      "content": "将糖或盐等调味料加入蛋液中，略微搅匀。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "准备刚烧开的、100℃的沸水。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "一边用筷子快速搅拌碗中的蛋液，一边将沸水以细流状冲入蛋液中。确保沸水与蛋液充分混合。",
+      "duration_minutes": 2,
+      "tips": "建议使用刚烧开的、100℃的滚水，瞬间将鸡蛋液完全烫熟"
+    },
+    {
+      "step": 6,
+      "content": "持续搅拌片刻，直至蛋液被完全烫熟，形成均匀的淡黄色蛋花。",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "有甜和咸两种做法。",
+    "为了防止生鸡蛋中可能含有的沙门氏菌，建议使用刚烧开的、100℃的滚水，瞬间将鸡蛋液完全烫熟。"
+  ]
+}

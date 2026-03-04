@@ -1,0 +1,247 @@
+{
+  "name": "老式锅包肉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/老式锅包肉/老式锅包肉.md",
+  "category": "荤菜",
+  "difficulty": "hard",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "猪通脊肉",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大葱",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 2,
+      "unit": "瓣",
+      "quantity_range": {
+        "min": 1.5,
+        "max": 2
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "3-4瓣",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "胡萝卜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白熟芝麻",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白醋",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "建议使用9度的醋",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "味精",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "米醋",
+      "quantity": 2.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "土豆淀粉",
+      "quantity": 105,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "中筋面粉",
+      "quantity": 35,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小苏打",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 500,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于炸制",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将猪通脊肉切成厚度8mm的均匀肉片，去除白色筋膜。用清水冲洗肉片，去除血水。加入小苏打2.5g，抓匀，静置5分钟。用清水冲洗1-2次，去除多余小苏打。",
+      "duration_minutes": 7,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "在肉片中加入盐2g、料酒2.5ml，拌匀，腌制15分钟。",
+      "duration_minutes": 15,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "将土豆淀粉105g和中筋面粉35g混合。少量多次加入清水，搅拌至酸奶状，提起可拉丝，浆糊能在盆中堆积。加入食用油5ml，小苏打0.5g，搅拌均匀。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "将腌制好的肉片放入浆糊中，拌匀，使每片肉均匀裹上浆。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "混合白糖20g、白醋20g、盐2g、味精2.5g、米醋2.5ml（可无），搅拌均匀，备用。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "大葱、姜、胡萝卜切丝，香菜切段，蒜切片。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "锅中加入食用油，加热至150℃（五成热）。将肉片逐片放入油中，炸至表面定型，颜色浅黄，约30秒，捞出备用。油温升至170℃（六成热）。将所有肉片放入油中，炸至外壳金黄酥脆，约1分钟，捞出备用。油温升至200℃（七成热），将肉片快速复炸10-20秒，增强酥脆度，捞出沥油。",
+      "duration_minutes": 3,
+      "tips": "第三次炸制为可选步骤"
+    },
+    {
+      "step": 8,
+      "content": "锅中留10ml底油，加热后放入姜丝、蒜片，煸香10秒。倒入调好的糖醋汁，大火加热至沸腾，熬至汤汁粘稠，约30-60秒。放入炸好的肉片、葱丝、胡萝卜丝、香菜段，快速翻炒3次，使汤汁均匀裹在肉片上。",
+      "duration_minutes": 1,
+      "tips": "熬糖醋汁时注意熬至粘稠但不结块"
+    },
+    {
+      "step": 9,
+      "content": "将锅包肉盛入盘中，撒上白熟芝麻（可无），即可上桌。",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "肉片厚度应为8mm，过厚过薄都会影响口感",
+    "炸制时控制油温，避免外壳过深或不酥脆",
+    "熬糖醋汁时，注意熬至粘稠但不结块，避免变成糖浆",
+    "第三次炸制为可选步骤，可根据需要选择是否执行"
+  ]
+}

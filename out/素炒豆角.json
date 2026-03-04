@@ -1,0 +1,174 @@
+{
+  "name": "素炒豆角",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/素炒豆角.md",
+  "category": "素菜",
+  "difficulty": "easy",
+  "total_time_minutes": 17,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "豆角",
+      "quantity": 125,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "去筋，45° 斜切 4-10cm 小段",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小米椒",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切圈",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 1.5,
+      "unit": "圈",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切花",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 1,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切沫",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 7.5,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 5,
+        "max": 7.5
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 3,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 1,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 3,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 75,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "葱切花，蒜切沫，备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "生抽、老抽、蚝油、盐混合调料汁，备用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "小米椒切圈，备用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "豆角去筋，45° 斜切 4-10cm 小段，备用",
+      "duration_minutes": 3,
+      "tips": "切豆角需要一定的刀工，不会的可以使用剪刀"
+    },
+    {
+      "step": 5,
+      "content": "起锅烧油 5-7.5ml，冒烟后放入葱、小米椒，翻炒至闻到香味",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "加入豆角，翻炒 30s",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "加入料汁，开大火翻炒 2 分钟",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "倒入 75ml 水，转中小火，盖上锅盖焖制 8-10 分钟",
+      "duration_minutes": 9,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "加入蒜沫，出锅",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "切豆角需要一定的刀工，不会的可以使用剪刀"
+  ]
+}

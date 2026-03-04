@@ -1,0 +1,241 @@
+{
+  "name": "老妈蹄花",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/老妈蹄花/老妈蹄花.md",
+  "category": "汤与粥",
+  "difficulty": "hard",
+  "total_time_minutes": 40,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/老妈蹄花_0.jpg",
+    "images/老妈蹄花_1.jpg",
+    "images/老妈蹄花_2.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "猪蹄",
+      "quantity": 3,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "尽量选择猪前蹄：肉多筋多骨头少",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白芸豆",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "没有可用海带",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "当归",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白胡椒粉",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "original_quantity": null,
+      "is_estimated": false,
+      "note": null
+    },
+    {
+      "ingredient_name": "姜片",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "original_quantity": null,
+      "is_estimated": false,
+      "note": null
+    },
+    {
+      "ingredient_name": "蒜末",
+      "quantity": 8,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "original_quantity": null,
+      "is_estimated": false,
+      "note": null
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "original_quantity": null,
+      "is_estimated": false,
+      "note": null
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "original_quantity": null,
+      "is_estimated": false,
+      "note": null
+    },
+    {
+      "ingredient_name": "葱花",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "original_quantity": null,
+      "is_estimated": false,
+      "note": null
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "白芷",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "小米椒",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "香醋",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "花椒油",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "油泼辣子",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "200g 白芸豆提前一晚清水浸泡备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "准备猪前蹄，买菜的时候让师傅从中间劈开，用喷火枪去除毛囊，拿回家清洗",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "冷水锅中加入猪蹄、大葱段、姜片、料酒，焯水十分钟，撇去浮沫，捞出洗干净备用",
+      "duration_minutes": 10,
+      "tips": "焯水十分钟，撇去浮沫"
+    },
+    {
+      "step": 4,
+      "content": "高压锅中放入猪蹄、当归、白芷、白胡椒粉、姜片，上汽后压三十分钟，放入白芸豆，再压十分钟，这个时候如果汤底是奶白色，那么恭喜是正确的",
+      "duration_minutes": 40,
+      "tips": "如果中途需要加水，只能加热水；汤底应该是奶白色"
+    },
+    {
+      "step": 5,
+      "content": "揭盖后加入盐、鸡精、葱花调味",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "调制灵魂汁子：放入葱、蒜、小米椒，白胡椒粉、生抽、香醋、油泼辣子、花椒油、猪蹄原汤",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "灵魂汁子，浇给",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": []
+}

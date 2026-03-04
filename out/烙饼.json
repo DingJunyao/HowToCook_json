@@ -1,0 +1,137 @@
+{
+  "name": "烙饼",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/烙饼/烙饼.md",
+  "category": "主食",
+  "difficulty": "hard",
+  "total_time_minutes": 50,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/烙饼_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "面粉",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "和面用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "热水",
+      "quantity": 65,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "80 度",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冷水",
+      "quantity": 65,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "面粉",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于制作油酥",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "油",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于制作油酥",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "油",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于刷饼",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将面粉倒入盆中，一半用凉水和面，一半用热水和面，搅拌成面絮，用手揉成团。用保鲜膜封起来，醒面 40 分钟",
+      "duration_minutes": 40,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "制作油酥（参考小技巧中的油酥做法，热油酥效果更好）",
+      "duration_minutes": 2,
+      "tips": "热油酥效果更好"
+    },
+    {
+      "step": 3,
+      "content": "醒好的面不用揉，稍微摁一下，用一横刀一竖刀将其分成四份",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "搓圆，擀开，擀成与电饼铛大小差不多的饼，取 1/4 的油酥，将饼表面涂抹均匀",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "沿饼的半径切开，从外圈将其卷成圆锥形，然后将圆锥尾部捏好，防止油酥外漏",
+      "duration_minutes": 1,
+      "tips": "注意捏紧尾部防止油酥外漏"
+    },
+    {
+      "step": 6,
+      "content": "按压面饼圆锥尖的地方，将其压扁，然后再次擀成与电饼铛大小差不多的面饼（厚度约为 3mm）",
+      "duration_minutes": 1,
+      "tips": "厚度约为 3mm"
+    },
+    {
+      "step": 7,
+      "content": "将电饼铛预热，涂上凉油（热锅凉油），将擀好的饼放入电饼铛中，将饼的上方也刷点油，涂抹均匀（锁住水分），盖上盖子",
+      "duration_minutes": 1,
+      "tips": "热锅凉油，刷油锁住水分"
+    },
+    {
+      "step": 8,
+      "content": "大火烙一分钟，打开盖子，将饼翻个面再烙一分钟",
+      "duration_minutes": 2,
+      "tips": "大火烙制"
+    },
+    {
+      "step": 9,
+      "content": "重复以上动作，完成饼的烙制",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "使用热油酥效果更好",
+    "卷饼时要注意捏紧尾部，防止油酥外漏",
+    "面饼厚度约为 3mm",
+    "热锅凉油，刷油可以锁住水分",
+    "大火烙制效果更佳"
+  ]
+}

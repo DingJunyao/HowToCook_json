@@ -1,0 +1,135 @@
+{
+  "name": "菠萝咖啡特调",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/drink/菠萝咖啡特调/菠萝咖啡特调.md",
+  "category": "饮料",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/菠萝咖啡特调_0.png"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "咖啡液",
+      "quantity": 30,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐浓缩或者冷萃",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "菠萝汁",
+      "quantity": 60,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "鲜榨或者 NFC",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冰块",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "苏打水",
+      "quantity": 30,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "奶油",
+      "quantity": 30,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "牛奶",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "糖",
+      "quantity": 8,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "海盐",
+      "quantity": 0.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "朗姆酒",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "杯子里依次加入冰块、咖啡液、菠萝汁和苏打水",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "奶油加糖打发至湿性发泡，加入朗姆酒和牛奶搅拌均匀",
+      "duration_minutes": null,
+      "tips": "打发至湿性发泡状态，加入朗姆酒和牛奶后保持流动性"
+    },
+    {
+      "step": 3,
+      "content": "在第一部分混合液上方倒入奶油",
+      "duration_minutes": null,
+      "tips": "倒入奶油时，高度尽量放低，让奶油能均匀漂浮在饮料表面形成奶盖"
+    },
+    {
+      "step": 4,
+      "content": "奶油顶面撒上海盐",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "咖啡液建议选用花果风味，浓缩可以用中烘豆，冷萃可以用普通水洗或者日晒",
+    "倒入奶油时，高度尽量放低，让奶油能均匀漂浮在饮料表面形成奶盖",
+    "用新鲜的咖啡液和菠萝汁能大大提升整体风味口感"
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "name": "水煮牛肉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/水煮牛肉/水煮牛肉.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/水煮牛肉_0.jpg",
+    "images/水煮牛肉_1.jpg",
+    "images/水煮牛肉_2.jpg",
+    "images/水煮牛肉_3.jpg",
+    "images/水煮牛肉_4.jpg",
+    "images/水煮牛肉_5.jpg",
+    "images/水煮牛肉_6.jpg",
+    "images/水煮牛肉_7.jpg",
+    "images/水煮牛肉_8.jpg",
+    "images/水煮牛肉_9.jpg",
+    "images/水煮牛肉_10.jpg",
+    "images/水煮牛肉_11.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "牛肉",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "豆芽",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 0.5,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜",
+      "quantity": 2.5,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "豆瓣酱",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "淀粉",
+      "quantity": 7.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "干辣椒粉",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "腌制15g，炒制5g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 1.5,
+      "unit": "瓣",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "红辣椒",
+      "quantity": 0.5,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "牛肉洗干净切片。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "加入 15g 姜丝，1 个鸡蛋，15g 淀粉，8g 蚝油，10ml 料酒搅拌均匀，腌制 15 分钟。",
+      "duration_minutes": 15,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "香菜洗干净切好。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "锅里倒油，加入豆瓣酱，5g 姜丝，蒜片。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "倒入开水，煮成红汤。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "豆芽洗干净去掉尾须，放进开水里焯熟。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "将豆芽铺入碗底。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "将牛肉片一片一片的放进红汤中，煮熟以后捞出。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "将牛肉铺在豆芽上，撒上香菜梗。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "撒上香菜叶，辣椒粉，辣椒圈。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "另起锅烧热油，将热油淋在菜上面，就完成了。",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "参考: [水煮牛肉的详细步骤](https://www.zhms.cn/recipe/blrqm.html?source=2)"
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "name": "红烧鸡翅",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/红烧鸡翅.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 40,
+  "servings": 1,
+  "original_servings": 3,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡翅",
+      "quantity": 167,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐选择鸡翅中，肉质更嫩",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切片，厚度约 2mm",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "大葱白部分，每段长度约 3cm",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用刀拍散",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香叶",
+      "quantity": 1,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "八角",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "干辣椒",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "不吃辣可省略",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冰糖",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "颗粒状冰糖",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黄酒或料酒",
+      "quantity": 12,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "黄酒风味更醇厚",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 2,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "胡椒粉",
+      "quantity": 0.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐白胡椒粉",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白芝麻",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "熟芝麻",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小葱花",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "点缀用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 4,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 3.33,
+        "max": 5
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将鸡翅洗净。用刀在鸡翅厚处划三刀，背面扎一刀，便于入味。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "如果鸡翅不新鲜，可在打完花刀之后用姜水泡 10-20 分钟。",
+      "duration_minutes": null,
+      "tips": "使用新鲜鸡翅可跳过此步骤"
+    },
+    {
+      "step": 3,
+      "content": "将姜片、葱段备好；大蒜用刀拍散；香叶、八角、干辣椒整理好备用。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "起锅开火，锅中加入清水没过所有鸡翅，冷水下锅放入处理好的鸡翅，加入部分黄酒或料酒、部分姜片，开大火烧至沸腾。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "沸腾后保持大火继续煮 2-3 分钟，撇去浮沫。煮好后将鸡翅捞出，用温水清洗 2 遍，彻底去除血沫，控干水分备用。",
+      "duration_minutes": 5,
+      "tips": "彻底清洗去除血沫很重要"
+    },
+    {
+      "step": 6,
+      "content": "另起锅，开火烧热后放入食用油。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "待油温至 5 成热，加入冰糖，开大火将冰糖熬至完全融化，冰糖融化变色后转小火，继续炒至冰糖呈枣红色。",
+      "duration_minutes": 3,
+      "tips": "炒糖色时要小心控制火候"
+    },
+    {
+      "step": 8,
+      "content": "立即放入控干水分的鸡翅，快速翻炒 1-2 分钟，使每只鸡翅均匀裹上糖色。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "加入准备好的香叶、八角、干辣椒（可选）、剩下的姜片、葱段、拍散的大蒜，继续煸炒 30 秒至香料香味完全释放。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "沿锅边淋入料酒或黄酒、生抽，快速翻炒 10 秒。",
+      "duration_minutes": 0.5,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "加入温水（水温约 50-60℃），水量以稍微没过所有鸡翅为准。",
+      "duration_minutes": 1,
+      "tips": "使用温水而非冷水"
+    },
+    {
+      "step": 12,
+      "content": "加入老抽、盐、白糖、胡椒粉，用炒勺轻轻搅拌均匀。",
+      "duration_minutes": 0.5,
+      "tips": null
+    },
+    {
+      "step": 13,
+      "content": "盖上锅盖，开中火烧煮 7-8 分钟。",
+      "duration_minutes": 8,
+      "tips": null
+    },
+    {
+      "step": 14,
+      "content": "打开锅盖，用筷子将锅中的香叶、八角、姜片、葱段、大蒜捡出丢弃。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 15,
+      "content": "转大火，保持不断翻炒，将汤汁烧至粘稠状态（约 1-2 分钟）。",
+      "duration_minutes": 2,
+      "tips": "收汁时注意不要糊锅"
+    },
+    {
+      "step": 16,
+      "content": "关火，将鸡翅盛入盘中，淋上锅中剩余的粘稠汤汁。最后撒上白芝麻和小葱花，完成制作。",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "如果闻着有腥味，可以增加一倍香料用量"
+  ]
+}

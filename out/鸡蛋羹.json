@@ -1,0 +1,155 @@
+{
+  "name": "鸡蛋羹",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md",
+  "category": "早餐",
+  "difficulty": "easy",
+  "total_time_minutes": 15,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/鸡蛋羹_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 2,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用盐",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "增加底味和凝固作用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香油",
+      "quantity": 4,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 2,
+        "max": 4
+      },
+      "is_optional": false,
+      "note": "可用芝麻油替代",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 8,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "也可用味极鲜替代",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白醋",
+      "quantity": 2,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "也可用料酒替代，用于去腥",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "藤椒油",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "增加麻爽口感",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "纯净水",
+      "quantity": 80,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 60,
+        "max": 80
+      },
+      "is_optional": false,
+      "note": "70度温水，鸡蛋体积的1-1.5倍",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将两个鸡蛋放入碗中打散",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "加入食用盐3g",
+      "duration_minutes": 0,
+      "tips": "盐起到了重要的增加底味和凝固作用"
+    },
+    {
+      "step": 3,
+      "content": "加入2ml白醋，去除鸡蛋的腥味",
+      "duration_minutes": 0,
+      "tips": "加入米醋也行，但米醋的颜色会使鸡蛋微微发黑；还可以加入料酒，同样具有去腥的作用，且没有醋的酸味"
+    },
+    {
+      "step": 4,
+      "content": "向碗中加入鸡蛋体积1-1.5倍的70度纯净水，并且搅拌均匀",
+      "duration_minutes": 1,
+      "tips": "1倍的水鸡蛋更弹，1.5倍的水鸡蛋更嫩"
+    },
+    {
+      "step": 5,
+      "content": "过滤蛋液，去掉蛋液中的浮沫",
+      "duration_minutes": 1,
+      "tips": "可选步骤，不过滤蒸出来的蛋会有气泡导致不好看"
+    },
+    {
+      "step": 6,
+      "content": "向任意一口锅中加入50ml清水，水烧开后，放入盛有鸡蛋液的碗",
+      "duration_minutes": 3,
+      "tips": "蒸碗要盖上一个盖子，倒扣一个有凹槽的铁碟子，或者使用保鲜膜来减少水汽进入，这是为了避免其变成蜂窝状"
+    },
+    {
+      "step": 7,
+      "content": "蒸煮：方法一，开中火蒸10分钟，10分钟之后关火再闷上5分钟",
+      "duration_minutes": 15,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "或者方法二，开大火蒸5分钟，要保持锅中水一直处于沸腾状态，每隔2分钟开盖一次释放水蒸气",
+      "duration_minutes": 5,
+      "tips": "开盖过晚蛋羹容易变成蜂窝状；开盖太早/频繁蒸的时间需要久一些"
+    },
+    {
+      "step": 9,
+      "content": "判断是否已熟：晃动碗，蛋羹不再处于液体状态，拥有类似果冻的Q弹状态即可出锅",
+      "duration_minutes": 0,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "出锅，加入香油和生抽即可享用",
+      "duration_minutes": 1,
+      "tips": "也可用藤椒油代替香油，增加麻爽口感"
+    }
+  ],
+  "tips": [
+    "上面介绍的是基础水蒸蛋做法，可以在此基础上派生，添加诸如火腿肠、肉馅、虾皮等材料，丰富鸡蛋羹的口感"
+  ]
+}

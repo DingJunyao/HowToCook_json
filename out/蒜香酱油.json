@@ -1,0 +1,79 @@
+{
+  "name": "蒜香酱油",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/condiment/蒜香酱油.md",
+  "category": "调料",
+  "difficulty": "easy",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "蒜头",
+      "quantity": 2,
+      "unit": "瓣",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白芝麻",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花生油",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": 30,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "拍碎蒜头",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "往蘸料碟中加入酱油",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "起锅，加入花生油，等到油温滚烫后加入拍好的蒜头，炸半分钟",
+      "duration_minutes": 2,
+      "tips": "油温滚烫后再加入蒜头，香味更浓"
+    },
+    {
+      "step": 4,
+      "content": "半分钟后，关火，把热油倒入蘸料碟，用筷子搅拌即可",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": []
+}

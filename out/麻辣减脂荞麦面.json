@@ -1,0 +1,160 @@
+{
+  "name": "麻辣减脂荞麦面",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/麻辣减脂荞麦面.md",
+  "category": "主食",
+  "difficulty": "easy",
+  "total_time_minutes": 20,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "半干荞麦面",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "娃娃菜",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "8片",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生菜",
+      "quantity": 80,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "6片",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "火锅底料",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花生酱",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "全脂牛奶",
+      "quantity": 150,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 6,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "辣椒油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "醋",
+      "quantity": 20,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "如果不能吃酸，可以不加",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花椒油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 500,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "烹饪用水",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "娃娃菜、生菜洗好，备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "锅内倒入 500ml 水，开大火，将荞麦面和娃娃菜放进去，等待水沸腾",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "水沸腾后，转小火，加入火锅底料、花生酱、牛奶、生抽、辣椒油，水开后煮 5 分钟",
+      "duration_minutes": 5,
+      "tips": "火锅底料、花生酱、牛奶一定要加，口味三大巨头"
+    },
+    {
+      "step": 4,
+      "content": "加入生菜，再煮 2 分钟",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "加入醋、花椒油，关火，直接端着小锅开吃",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "一定要选半干荞麦面，口感最好",
+    "可以随意添加其他东西，比如火锅丸、蛋饺等",
+    "火锅底料、花生酱、牛奶一定要加，口味三大巨头",
+    "如果不能吃酸，可以不加醋"
+  ]
+}

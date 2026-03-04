@@ -1,0 +1,181 @@
+{
+  "name": "印度奶茶",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/drink/印度奶茶.md",
+  "category": "饮料",
+  "difficulty": "easy",
+  "total_time_minutes": 10,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "水",
+      "quantity": 120,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "全脂牛奶",
+      "quantity": 120,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "红茶",
+      "quantity": 8,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "CTC 红茶最佳，或阿萨姆红茶",
+      "original_quantity": "约 2 茶匙",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生姜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "拍碎，约 1cm 一块",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "绿色小豆蔻",
+      "quantity": 2,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "拍开",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "肉桂棒",
+      "quantity": 1,
+      "unit": "段",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约 2cm",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "丁香",
+      "quantity": 2,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黑胡椒粒",
+      "quantity": 2,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "拍碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "糖",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": {
+        "min": 10,
+        "max": 15
+      },
+      "is_optional": false,
+      "note": "根据个人口味调整",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将生姜拍碎（不用切太碎，拍开即可释放姜汁）",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将小豆蔻用刀背拍开，露出里面的籽",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "将黑胡椒粒拍碎",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "在小奶锅中倒入 120ml 水，放入拍碎的生姜、小豆蔻、肉桂棒、丁香、黑胡椒粒",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "大火煮沸后转小火，煮 2 分钟，让香料的味道充分释出",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "加入红茶 8g，继续小火煮 2 分钟，直至茶汤颜色变深",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "倒入全脂牛奶 120ml，中火加热，注意观察，当奶茶开始冒泡上升时立即转小火（牛奶极易溢出）",
+      "duration_minutes": null,
+      "tips": "牛奶极易溢出，需注意观察"
+    },
+    {
+      "step": 8,
+      "content": "小火煮 2-3 分钟，期间可以将锅提起倒回（反复提拉 3-4 次），使茶汤与牛奶充分融合",
+      "duration_minutes": 3,
+      "tips": "反复提拉锅 3-4 次，使茶汤与牛奶充分融合"
+    },
+    {
+      "step": 9,
+      "content": "加入糖，搅拌溶解，关火",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "用滤网过滤到茶盏中，去除茶叶和香料残渣",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "趁热饮用",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "CTC 红茶（Crush, Tear, Curl 工艺制成）是印度奶茶的最佳选择，因为其颗粒细碎，能在短时间内释放浓厚的茶味。中国的祁门红茶或滇红也可以替代。",
+    "牛奶和水的比例可以根据个人喜好调整。更浓的奶茶用牛奶多水少，更清爽的用水多牛奶少。",
+    "生姜是印度奶茶的灵魂，不建议省略。",
+    "印度人喜欢将奶茶煮得很甜，如果不习惯可以减少糖量。",
+    "在印度，Chai 不仅是饮品，更是一种社交文化。朋友聚会、商务谈判、甚至初次见面，都从一份 Chai 开始。据统计印度每天消耗超过 10 亿份茶。",
+    "印度街头奶茶摊(Chai Wala)通常使用陶土杯(Kulhad)盛茶，赋予茶汤一种独特的泥土芬芳。"
+  ]
+}

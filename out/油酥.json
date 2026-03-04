@@ -1,0 +1,63 @@
+{
+  "name": "油酥",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/condiment/油酥.md",
+  "category": "调料",
+  "difficulty": "easy",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "面粉",
+      "quantity": 7.7,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "按1张饼计算",
+      "original_quantity": "（要烙饼的张数 / 0.13）g",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "需加热至200度",
+      "original_quantity": "（要烙饼的张数 * 10ml）",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 0.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "（要烙饼的张数 / 2）g",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "面粉盛小碗里，加入盐",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "加入200度的热油",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "用筷子将其搅拌成无固状物体的糊状",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": []
+}

@@ -1,0 +1,328 @@
+{
+  "name": "水煮肉片",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/水煮肉片.md",
+  "category": "荤菜",
+  "difficulty": "expert",
+  "total_time_minutes": 90,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "里脊肉",
+      "quantity": 300,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "改刀成2毫米薄片",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "绿豆芽",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "可根据口味选择蘑菇、白菜、油麦菜等垫底蔬菜",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "凤尾",
+      "quantity": 1,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "芹菜",
+      "quantity": 3,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜苗",
+      "quantity": 2,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小葱",
+      "quantity": 2,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切葱花",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生姜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "剁碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "剁碎成蒜蓉",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "红泡椒",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": {
+        "min": 0,
+        "max": 40
+      },
+      "is_optional": false,
+      "note": "根据受辣程度选择",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "红油豆瓣",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋清",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "土豆淀粉",
+      "quantity": 7,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小米辣干辣椒",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": {
+        "min": 0,
+        "max": 40
+      },
+      "is_optional": false,
+      "note": "根据受辣程度选择",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "青花椒",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "想吃麻可多加5g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "植物油",
+      "quantity": 280,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "想吃重油可多加100g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "菜籽油",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "想吃重油可多加100g，用于最后泼油",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用盐",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "腌制1.5g、炒菜1g、调汤2.5g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "胡椒粉",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "腌制1g、调汤1g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽酱油",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白砂糖",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "提鲜用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水淀粉",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "根据实际情况选择，用于收汁",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "里脊肉改刀成小块，再切成2毫米薄片，放入碗中，加入清水清洗两遍来去除血水和杂质，捞出挤干水分备用。",
+      "duration_minutes": 5,
+      "tips": "血水必须处理干净，这是保证肉滑嫩的关键"
+    },
+    {
+      "step": 2,
+      "content": "碗中加入食用盐1.5g、胡椒粉1g、生抽酱油5g、料酒3g，然后朝着一个方向搅拌2分钟，使其入味。",
+      "duration_minutes": 2,
+      "tips": "搅拌时必须朝着一个方向"
+    },
+    {
+      "step": 3,
+      "content": "另外准备一个碗，加入一个鸡蛋清和7g土豆淀粉，朝一个方向搅拌均匀，倒入肉中，再次朝一个方向搅拌均匀，使肉表面形成润滑膜。最后再加入30g植物油轻轻搅拌，防止肉片粘连。",
+      "duration_minutes": 2,
+      "tips": "鸡蛋清和淀粉要搅拌均匀，这是保证肉滑嫩的关键"
+    },
+    {
+      "step": 4,
+      "content": "绿豆芽100g洗净，凤尾1根改刀成小条，芹菜3根切成小段，蒜苗2根拍散切成小段。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "大蒜20g剁碎，生姜小块剁碎，红泡椒20g剁碎。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "准备小米辣干辣椒15g、青花椒3g。锅内加入油滑锅，油稍许热了将多余的倒出备用，留50g底油，下入干辣椒、花椒，开小火炒香，切记不要炒糊（颜色要变黑即可），倒出在菜板上剁细备用，制成刀口辣椒。",
+      "duration_minutes": 3,
+      "tips": "小火炒香，切记不要炒糊，颜色要变黑即可。如果嫌麻烦也可以直接用干辣椒段和青花椒代替"
+    },
+    {
+      "step": 7,
+      "content": "锅烧热，放入100g植物油烧至6成热，加入2g青花椒、干辣椒爆香，配菜下锅，加入1g食用盐，炒至断生，盛入碗中垫底备用。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "锅洗干净，加入150g植物油烧至6成热，加入制作好的姜蒜红泡椒，爆香后加入豆瓣10g，开小火把豆瓣爆香炒出红油即可。",
+      "duration_minutes": 3,
+      "tips": "开小火把豆瓣爆香炒出红油"
+    },
+    {
+      "step": 9,
+      "content": "加入800毫升清水，大火烧开，转小火调味，加入食用盐2.5g、鸡精1.5g、白砂糖1g提鲜、胡椒粉1g、5g水淀粉（根据实际情况选择）将汤汁收浓稠一点。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "汤汁开后，开小火将腌制好的肉片分开依次下锅，然后开中火将肉片烫熟，用锅铲轻轻推动一下避免粘连，待汤汁烧开，肉片熟后捞出放入碗中配菜上，再将原汤倒入（不超过菜品）。",
+      "duration_minutes": 5,
+      "tips": "肉片要分开依次下锅，轻轻推动避免粘连"
+    },
+    {
+      "step": 11,
+      "content": "碗中均匀撒上刀口辣椒、蒜蓉和葱花。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "锅洗干净，加入200g菜籽油烧至7成热，然后一次性均匀泼在碗中肉片上（注意安全），美味完成。",
+      "duration_minutes": 3,
+      "tips": "注意安全，防止热油溅出"
+    }
+  ],
+  "tips": [
+    "垫底的蔬菜根据自己口味选择（蘑菇、白菜、油麦菜等）",
+    "刀口辣椒制作嫌麻烦也可以直接用干辣椒段和青花椒代替",
+    "特别注意肉的腌制（搅拌的时候朝着一个方向、血水处理干净），保证肉滑嫩（鸡蛋清、淀粉搅拌均匀）",
+    "水煮牛肉也可以按照这个做法"
+  ]
+}

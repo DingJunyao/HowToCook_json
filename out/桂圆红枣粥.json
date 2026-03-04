@@ -1,0 +1,88 @@
+{
+  "name": "桂圆红枣粥",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/桂圆红枣粥.md",
+  "category": "汤与粥",
+  "difficulty": "medium",
+  "total_time_minutes": 70,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "糯米",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "或大米",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 2000,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "可酌情增减调整粥的稀稠程度",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "桂圆干",
+      "quantity": 15,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "桂圆肉",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "干红枣",
+      "quantity": 15,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将桂圆肉扒出，用清水洗两次，放入碗中浸泡 10 分钟",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "红枣用清水洗两次，放入碗中浸泡 10 分钟",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "糯米放入电饭锅中，清水淘米两次后，加入 2000ml 水",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "将桂圆和红枣加入电饭锅",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "打开电饭锅煮饭模式，1 小时后粥成",
+      "duration_minutes": 60,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "对粥的稀稠程度有不同喜好的朋友可以酌情增加或减少水的用量",
+    "煮出来的粥是甜的，可以通过控制加入桂圆的数量控制甜度"
+  ]
+}

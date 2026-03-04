@@ -1,0 +1,158 @@
+{
+  "name": "西红柿鸡蛋汤",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/soup/西红柿鸡蛋汤.md",
+  "category": "汤与粥",
+  "difficulty": "easy",
+  "total_time_minutes": 10,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "西红柿",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "1个",
+      "original_quantity": "1 个",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 2,
+      "unit": "个",
+      "quantity_range": {
+        "min": 1,
+        "max": 2
+      },
+      "is_optional": false,
+      "note": "依照自己的口味而定，喜欢吃鸡蛋就放 2 个，一般就放 1 个",
+      "original_quantity": "1-2 个",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香油",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "2滴",
+      "original_quantity": "2 滴",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "味素",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "与姜蒜共15克",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "与葱蒜共15克",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "与葱姜共15克",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将西红柿洗净，切块。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "葱姜蒜切碎。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "鸡蛋打到碗中，用筷子（或打蛋器）搅拌均匀。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "热锅，并放入 15 毫升的油，待能从油中看到冒出一丝烟时，放入葱姜蒜翻炒 30 秒。",
+      "duration_minutes": 2,
+      "tips": "热油冒烟说明油温适宜"
+    },
+    {
+      "step": 5,
+      "content": "放入西红柿翻炒 1 分钟。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "倒入水，水的高度大约为锅内菜品高度的 1.2 倍，并放入盐。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "待开锅后，将鸡蛋液放入，并用筷子将鸡蛋打散，放入味素和香油。",
+      "duration_minutes": 1,
+      "tips": "一边倒入鸡蛋液一边快速搅拌，可形成漂亮的蛋花"
+    },
+    {
+      "step": 8,
+      "content": "等待 30 秒，关火出锅。",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "味素可加可不加"
+  ]
+}

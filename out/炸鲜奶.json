@@ -1,0 +1,158 @@
+{
+  "name": "炸鲜奶",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/dessert/炸鲜奶/炸鲜奶.md",
+  "category": "甜品",
+  "difficulty": "medium",
+  "total_time_minutes": 20,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/炸鲜奶_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "牛奶",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "玉米淀粉",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "面包糠",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 2,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "刷模具用，用于油炸的油另计",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将牛奶倒入碗中",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "加入玉米淀粉和白糖，搅拌均匀",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "将模具刷上食用油",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "牛奶下锅，中火烧开",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "烧开后转小火，边煮边搅拌",
+      "duration_minutes": 5,
+      "tips": "必须小火慢煮，才能均匀受热"
+    },
+    {
+      "step": 6,
+      "content": "牛奶变粘稠后出锅，倒入模具",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "将模具放冰箱冷却 1 小时",
+      "duration_minutes": 60,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "拿出，切成大小均匀的条，随后放入碗中",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "向碗中倒入一半的面包糠，奶糊裹上后取出，备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "在一个新碗中打入鸡蛋，搅匀，备用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "将奶糊裹上蛋液和剩余的面包糠",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "锅中倒入足以覆盖奶糊的油，下锅",
+      "duration_minutes": 1,
+      "tips": "油温不能过高或过低，最好保持在 5 分热"
+    },
+    {
+      "step": 13,
+      "content": "奶糊外观呈金黄状态后停火，摆盘",
+      "duration_minutes": 3,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "煮牛奶时必须小火慢煮，才能均匀受热",
+    "奶糊下锅时油温不能过高或过低，最好保持在 5 分热"
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "name": "小酥肉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/小酥肉.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 30,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "猪肉",
+      "quantity": 125,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "去皮，根据喜好选择肥瘦",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 0.5,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "只用蛋清",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "面粉",
+      "quantity": 7.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "红薯淀粉",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老姜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于制作葱姜水",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小葱",
+      "quantity": 3.75,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于制作葱姜水",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 3.75,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于制作葱姜水",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "清水",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于制作葱姜水",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "腌制用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "十三香",
+      "quantity": 0.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "腌制用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "胡椒粉",
+      "quantity": 0.75,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "腌制用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "味精",
+      "quantity": 1.25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "腌制用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 1.25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "腌制用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花椒碎",
+      "quantity": 0.75,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "腌制用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花椒粒",
+      "quantity": 0.75,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "腌制用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "腌制用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "植物油",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "油面高度3厘米以上",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "老姜切丝，小葱不用切。根据计算公式倒入料酒、清水。用手捏揉5分钟，使姜葱的味道充分溶解在水中，制成葱姜水。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将猪肉去皮洗净，切成长度8~10厘米，厚度1.5厘米的肉条。加入盐、十三香、胡椒粉、味精、鸡精、花椒碎、花椒粒、生抽。倒入制作好的葱姜水，抓匀并且充分揉制10分钟，直至肉吸收所有水分并且变得粘手。封上保鲜膜放冷藏室静置30分钟。",
+      "duration_minutes": 10,
+      "tips": "冷藏静置30分钟不计入烹饪时间"
+    },
+    {
+      "step": 3,
+      "content": "将面粉、红薯淀粉倒入腌制好的肉中，加入鸡蛋清。充分揉制15分钟，使肉条均匀裹上粉浆。注意要把红薯粉揉散，不要有干的颗粒裹在里面。",
+      "duration_minutes": 15,
+      "tips": "裹粉一定要把红薯粉揉散，不要有干的颗粒裹在里面，否则会炸"
+    },
+    {
+      "step": 4,
+      "content": "锅中倒入植物油，根据锅大小控制油量，油面高度3厘米以上。大火将油加热至150°C后，转小火保持温度。将裹好粉的肉条用筷子夹入油锅中，捋成自己喜欢的形状，炸3~5分钟定型。目测颜色微黄，用锅铲翻动感觉到略微有些硬了就可以捞出沥油。",
+      "duration_minutes": 5,
+      "tips": "如果对时间没把握可以稍微多炸一下，否则肉会带一点生味。没有经验可以一条一条的下锅，防止粘连。具体时间受肉块大小、油温、裹粉程度影响。"
+    },
+    {
+      "step": 5,
+      "content": "将油温升至180°C，放入初炸好的肉条，炸至金黄色即可捞出。",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "裹粉一定要把红薯粉揉散，不要有干的颗粒裹在里面，否则会炸",
+    "如果肉太多吃不完，可以只炸一遍然后放冰箱。后面再吃的时候拿出来复炸，口感基本没影响"
+  ]
+}

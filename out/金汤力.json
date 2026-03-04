@@ -1,0 +1,132 @@
+{
+  "name": "金汤力",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/drink/金汤力/金汤力.md",
+  "category": "饮料",
+  "difficulty": "easy",
+  "total_time_minutes": 5,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/金汤力_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "金酒",
+      "quantity": 40,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 30,
+        "max": 40
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "汤力水气泡水",
+      "quantity": 250,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "1罐",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "柠檬",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冰块",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "新鲜绿叶",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "装饰用",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将柠檬对半切（刀方向垂直于柠檬的头尾连线），并从其中的一半中切取一片柠檬备用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "再次将柠檬对半切，将得到的 4 角柠檬用压汁器压出柠檬汁置于容器中备用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "选择一个容量在 350~400 毫升的透明玻璃杯，将 100 克冰块放置在杯底",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "倒入 30~40 毫升金酒",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "倒入 15 毫升柠檬汁（如果喜酸可以加多点或全加）",
+      "duration_minutes": null,
+      "tips": "可以根据个人口味调整柠檬汁的用量"
+    },
+    {
+      "step": 6,
+      "content": "用勺子搅拌均匀",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "将之前准备的一片柠檬放置好",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "缓慢沿杯壁注入汤力水直至满杯（不要倒在冰上，避免起泡流失）",
+      "duration_minutes": null,
+      "tips": "不要倒在冰上，避免起泡流失"
+    },
+    {
+      "step": 9,
+      "content": "用勺子轻轻上下提拉将液体搅拌均匀（不要旋转搅拌，避免起泡流失）",
+      "duration_minutes": null,
+      "tips": "轻轻上下提拉，不要旋转搅拌，避免起泡流失"
+    },
+    {
+      "step": 10,
+      "content": "在液面放置好装饰用的绿叶（可选）",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "饮酒有害健康，未成年人禁止饮酒"
+  ]
+}

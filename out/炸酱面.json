@@ -1,0 +1,146 @@
+{
+  "name": "炸酱面",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/炸酱面.md",
+  "category": "主食",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "肉丁/肉末",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐瘦肉丁，口感更好，推荐现买现用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "挂面",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐使用普通面条。面条口感关键在于劲道，勿选龙须等细面",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "普通面条",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐使用普通面条。面条口感关键在于劲道，勿选龙须等细面",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "菜码",
+      "quantity": 35,
+      "unit": "g",
+      "quantity_range": {
+        "min": 20,
+        "max": 50
+      },
+      "is_optional": false,
+      "note": "根据个人喜好选择，通常 4-10 种，可选择黄瓜、白菜、萝卜等",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "豆瓣酱",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "甜咸口个人有爱好，两种酱的配比需要自己迭代优化",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "甜面酱",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "甜咸口个人有爱好，两种酱的配比需要自己迭代优化",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "菜码切丝备用",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "葱切碎。油锅烧热，下葱和肉，炒至肉完全熟透（无红色）",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "下豆瓣酱和甜面酱，继续炒至微微粘稠。盛出，得到炸酱",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "取大碗，加凉水备用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "煮面条至断生（无白芯），盛入第 4 步装有凉水的碗中",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "立即控水捞出，盛入干净的碗中",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "取第 3 步炸酱，倒入碗中，拌匀。然后取第 1 步菜码，倒入碗中，拌匀",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "肉推荐瘦肉丁，口感更好，推荐现买现用",
+    "面条推荐使用普通面条",
+    "面条口感关键在于劲道。勿选龙须等细面",
+    "如有条件（另一个锅）且熟练后，第 2、3 步和 1、4、5、6 步可分时并行执行",
+    "甜咸口个人有爱好，两种酱的配比需要自己迭代优化"
+  ]
+}

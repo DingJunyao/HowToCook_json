@@ -1,0 +1,189 @@
+{
+  "name": "梅菜扣肉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/梅菜扣肉/梅菜扣肉.md",
+  "category": "荤菜",
+  "difficulty": "hard",
+  "total_time_minutes": 150,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/梅菜扣肉_0.jpeg",
+    "images/梅菜扣肉_1.jpeg",
+    "images/梅菜扣肉_2.jpeg",
+    "images/梅菜扣肉_3.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "五花肉",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "梅菜",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "五香粉",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 300,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白砂糖",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 30,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 20,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小米椒",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜末",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "梅菜放到清水中，浸泡 1 小时",
+      "duration_minutes": 60,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "锅中倒入 50 ml 食用油，将整个五花肉猪皮朝下，放到锅中 1 分钟，取出刮掉猪皮【可选】",
+      "duration_minutes": 1,
+      "tips": "可选步骤，用于去除猪皮"
+    },
+    {
+      "step": 3,
+      "content": "锅中加入开水，放入五花肉，大火煮 20 分钟（筷子可以插进五花肉），取出五花肉",
+      "duration_minutes": 20,
+      "tips": "煮至筷子能轻松插透五花肉即可"
+    },
+    {
+      "step": 4,
+      "content": "在五花肉表面涂抹均匀老抽、五香粉、白砂糖，放置 15 分钟",
+      "duration_minutes": 15,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "起锅烧油，加入五花肉，中火油炸直至两面金黄色（3-5 分钟）",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "起锅烧油，倒入梅菜，加上小米椒、蒜蓉、鸡精、食用盐后翻炒，直至炒干梅干菜水分",
+      "duration_minutes": 5,
+      "tips": "炒干梅干菜的作用是为了后续吸油"
+    },
+    {
+      "step": 7,
+      "content": "五花肉切片（厚度 0.5-1 cm），放在大碗中，撒上梅干菜",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "中火蒸 45 分钟",
+      "duration_minutes": 45,
+      "tips": "可根据个人喜好调整时间"
+    },
+    {
+      "step": 9,
+      "content": "拿个盘子倒盖在五花肉大碗中，将五花肉倒在盘子中",
+      "duration_minutes": 1,
+      "tips": "倒扣时要小心，保持造型完整"
+    }
+  ],
+  "tips": [
+    "制作过程中发现，脆皮五花肉真香",
+    "不喜欢吃甜的可以去掉白砂糖，不影响主流程",
+    "倒数第二个步骤，可以根据个人喜好调整时间",
+    "炒干梅干菜的作用是为了后续吸油"
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "name": "印度土豆花菜的做法",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/印度土豆花菜.md",
+  "category": "素菜",
+  "difficulty": "medium",
+  "total_time_minutes": 25,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "土豆",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "去皮切块，约 2cm 大小",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花菜",
+      "quantity": 120,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "掰成小朵",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 40,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "番茄",
+      "quantity": 40,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生姜",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "磨碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "青辣椒",
+      "quantity": 0.5,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 12,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "孜然籽",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜黄粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "红辣椒粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜粉",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "印度综合香料粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "Garam Masala",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜叶",
+      "quantity": 6,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "装饰用",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将土豆去皮切成约 2cm 的块状",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将花菜掰成均匀的小朵，大朵可用刀切小",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "在炒锅中倒入食用油，中火加热",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "油热后放入孜然籽，炸至孜然籽变深色且散发香味（约 10 秒，注意不要炸糊）",
+      "duration_minutes": 1,
+      "tips": "注意不要炸糊"
+    },
+    {
+      "step": 5,
+      "content": "放入切碎的洋葱，翻炒至洋葱变透明微黄（约 3-4 分钟）",
+      "duration_minutes": 4,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "加入生姜、大蒜和青辣椒，翻炒 1 分钟",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "加入切碎的番茄，翻炒至番茄软烂（约 2-3 分钟）",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "加入姜黄粉、红辣椒粉、香菜粉、盐，翻炒 1 分钟，使香料与蔬菜融合",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "放入土豆块，翻炒 2 分钟使土豆表面裹上香料",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "放入花菜朵，轻轻翻拌均匀",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "盖上锅盖，转中小火，焖 12-15 分钟，期间每 3-4 分钟打开翻炒一次防止粘锅",
+      "duration_minutes": 15,
+      "tips": "期间每 3-4 分钟打开翻炒一次防止粘锅"
+    },
+    {
+      "step": 12,
+      "content": "当土豆用筷子可轻松戳透、花菜略有焦边时，撒入印度综合香料粉",
+      "duration_minutes": null,
+      "tips": "土豆用筷子可轻松戳透、花菜略有焦边"
+    },
+    {
+      "step": 13,
+      "content": "翻炒 1 分钟",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 14,
+      "content": "关火，撒上香菜叶，盛盘",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "这道菜是干炒风格(Dry)，不需要加水。如果觉得太干容易粘锅，可以加入极少量水（约 15-30ml），但不宜过多",
+    "土豆块不要切太小，否则容易炒散",
+    "花菜的边缘略微焦黄是正常的，反而会增添风味",
+    "Aloo Gobi 因 2001 年的英国喜剧电影\"Bend It Like Beckham\"（像贝克汉姆一样踢球）而在西方世界广为人知",
+    "这道菜可以搭配印度烤饼、印度薄饼或米饭食用"
+  ]
+}

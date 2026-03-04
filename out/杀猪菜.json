@@ -1,0 +1,255 @@
+{
+  "name": "杀猪菜",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/杀猪菜.md",
+  "category": "荤菜",
+  "difficulty": "hard",
+  "total_time_minutes": 60,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "血肠",
+      "quantity": 80,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酸菜",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "排骨",
+      "quantity": 160,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜瓣",
+      "quantity": 2,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜粉",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "干辣椒",
+      "quantity": 2,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香叶",
+      "quantity": 1,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "八角",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱结",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香油",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "菜籽油",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "枸杞",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "辣椒油",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "蘸料",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "蘸料",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜蓉",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "蘸料",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "血肠用牙签多扎一些小孔，然后放水中小火煮十分钟，不要让水烧开，保持80度，否则血肠非常容易爆开。",
+      "duration_minutes": 10,
+      "tips": "保持80度水温，避免血肠爆开"
+    },
+    {
+      "step": 2,
+      "content": "煮好的血肠切块备用。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "排骨放料酒焯水，控干水分备用。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "锅内放入菜籽油，放蒜瓣、干辣椒、姜粉炒香。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "放入排骨翻炒至表面金黄。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "酸菜洗净拧干水分，放入锅中，加入香油翻炒，香油可以更好的去除酸味而且让酸菜更香，大火翻炒二分钟。",
+      "duration_minutes": 2,
+      "tips": "香油可去除酸味，让酸菜更香"
+    },
+    {
+      "step": 7,
+      "content": "加入600毫升热水。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "转入电压力锅，加香叶、八角、葱结、盐。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "浓香模式压40分钟。",
+      "duration_minutes": 40,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "到时间后放气开盖，加入血肠和枸杞，盖上锅盖焖二分钟即可，血肠是熟的，不需再加热。",
+      "duration_minutes": 2,
+      "tips": "血肠是熟的，不需再加热"
+    },
+    {
+      "step": 11,
+      "content": "倒入盆中，按照上表调制蘸料，即可开吃。",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "煮血肠时保持80度水温，避免血肠爆开",
+    "香油可去除酸菜酸味，让酸菜更香",
+    "血肠是熟的，最后加入不需再加热"
+  ]
+}

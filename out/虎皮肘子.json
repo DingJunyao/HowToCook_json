@@ -1,0 +1,322 @@
+{
+  "name": "虎皮肘子",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/虎皮肘子.md",
+  "category": "荤菜",
+  "difficulty": "expert",
+  "total_time_minutes": 160,
+  "servings": 1,
+  "original_servings": 4,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "猪前肘",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": {
+        "min": 200,
+        "max": 250
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用植物油",
+      "quantity": 125,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "油炸用",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "冰糖",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": {
+        "min": 8,
+        "max": 10
+      },
+      "is_optional": false,
+      "note": "用于炒糖色",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": {
+        "min": 2,
+        "max": 5
+      },
+      "is_optional": false,
+      "note": "收汁时根据口味添加",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 1.25,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "上色用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 3.75,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "调味用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白醋",
+      "quantity": 3.75,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "去腥用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香叶",
+      "quantity": 1,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "肉桂皮",
+      "quantity": 0.6,
+      "unit": "g",
+      "quantity_range": {
+        "min": 0.5,
+        "max": 0.75
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "豆蔻",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "花椒",
+      "quantity": 3,
+      "unit": "个",
+      "quantity_range": {
+        "min": 2,
+        "max": 3
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "大料",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "淀粉",
+      "quantity": 3.75,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于调制水淀粉",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 0.5,
+      "unit": "棵",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "取葱白使用",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 1.5,
+      "unit": "粒",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用刀身拍扁",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "去腥用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 200,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于调制水淀粉",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "猪肘解冻后水泡1小时去除血水",
+      "duration_minutes": 60,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "使用火焰喷枪灼烧猪肘皮表面至棕黑色以去除猪毛，破坏汗腺。注意不要长时间炙烤同一个位置以避免烧焦，当猪肘皮几乎完全呈现棕黑色时则停止灼烧。如无火焰喷枪，将铁锅烧至200以上，将猪肘直接放入锅内，用锅铲或筷子使猪肘皮充分接触铁锅表面，直到整个猪肘被充分烫过。注意过程中不要使铁锅红热",
+      "duration_minutes": 5,
+      "tips": "注意安全，避免烫伤"
+    },
+    {
+      "step": 3,
+      "content": "使用清洁球在水中刷洗猪肘，将其表面烧焦的部分去除。刷洗结束后，猪肘再次呈现出未被灼烧前的状态",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "将猪肘置于铁锅中，加尽量多的冷水，在保证可以拿得动铁锅及其内容物的情况下，能浸没猪肘3/4以上为最佳",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "取1/4棵葱的葱白，分成3段，放入水中。取约1粒蒜，用刀身拍扁，放入锅中。取约0.75克姜，放入锅中。将5ml料酒加入锅中",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "锅中水烧开后，等待五分钟，随后将猪肘取出，捡出锅中所有配料，更换容器保留所有肉汤备用",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "向锅中加入冷油，能浸没猪肘3/5以上为佳，开中火加热。当油温达到五成时，转为小火，放入猪肘油炸。油炸过程持续大约20分钟，当观察到猪肘皮已经全部呈现出浅棕色，而瘦肉部分已经微焦，则可捞出备用",
+      "duration_minutes": 20,
+      "tips": "油炸过程中注意人身安全，使用锅铲将锅中的油均匀淋到猪肘未被浸没的部分，并以3分钟的间隔翻转猪肘"
+    },
+    {
+      "step": 8,
+      "content": "炒糖色50ml备用",
+      "duration_minutes": 10,
+      "tips": "参考糖色的炒制技巧"
+    },
+    {
+      "step": 9,
+      "content": "将猪肘加入高压锅内，加入所有肉汤、糖色、香叶、肉桂皮、豆蔻、花椒、大料、老抽、生抽、白醋。如果喜欢甜口，可以再额外加入2-3克冰糖",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "取1/4棵葱的葱白，分成3段，放入高压锅内。取约1粒蒜，用刀身拍扁，放入锅中。取约0.75克姜，放入锅中",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "盖上锅盖，加压炖煮40分钟",
+      "duration_minutes": 40,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "在炖煮期间调制水淀粉。取碗1个，加入3.75ml淀粉，100ml水，搅拌使其成为白色悬浊液",
+      "duration_minutes": 1,
+      "tips": "可在炖煮期间准备"
+    },
+    {
+      "step": 13,
+      "content": "炖煮时间结束后，打开高压锅锅盖，捡出锅中所有的配料，只保留猪肘。将高压锅中剩余的肉汤转移至铁锅内，猪肘转移至盘子或盆内",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 14,
+      "content": "将铁锅置于灶台上，开大火。在收汁过程中可以用筷子头蘸取锅内汤汁判断咸淡，并根据口味添加盐。注意，汤汁多的时候味道会比汤汁少的时候味道更淡，加入盐时需要考虑这一点",
+      "duration_minutes": 2,
+      "tips": "咸淡要根据剩余汤汁量来判断调整"
+    },
+    {
+      "step": 15,
+      "content": "当肉汤沸腾时，注意观察剩余肉汤余量。当剩余肉汤少于原肉汤体积的1/2时，再次搅拌之前调制好的水淀粉，并加入一半",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 16,
+      "content": "等待肉汤沸腾，加入剩下的一半水淀粉",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 17,
+      "content": "等待肉汤沸腾，沸腾后等待1-2分钟关火，此时锅内的肉汤呈红棕色粘稠状",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 18,
+      "content": "用汤匙舀起肉汤均匀地淋在猪肘上，尽量使猪肘的每一处都淋到汤汁。如果在猪肘被完全淋到前汤汁已经用完则可直接上桌，否则剩余汤汁不需要再淋，可直接上桌",
+      "duration_minutes": 1,
+      "tips": "炸制完后的油可用于制作其他油炸类食物，但注意不要使用太多次"
+    }
+  ],
+  "tips": [
+    "如有火焰喷枪则使用火焰喷枪灼烧猪肘皮，如无则使用铁锅烫皮",
+    "油炸过程中注意人身安全",
+    "收汁时咸淡要根据剩余汤汁量来判断调整，汤汁多时味道较淡"
+  ]
+}

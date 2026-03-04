@@ -1,0 +1,262 @@
+{
+  "name": "油泼辣子",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/condiment/油泼辣子/油泼辣子.md",
+  "category": "调料",
+  "difficulty": "medium",
+  "total_time_minutes": 10,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/油泼辣子_0.jpg",
+    "images/油泼辣子_1.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "蒜头",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "去皮",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "干辣椒面",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "熟白芝麻",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小米椒",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花生油",
+      "quantity": 150,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "可用菜籽油替换",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "五香粉",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "作为调料加入，增加香味",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "草寇",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "作为调料加入，增加香味",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小葱",
+      "quantity": 4,
+      "unit": "根",
+      "quantity_range": {
+        "min": 3,
+        "max": 5
+      },
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "八角",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花椒",
+      "quantity": 50,
+      "unit": "粒",
+      "quantity_range": {
+        "min": 20,
+        "max": 50
+      },
+      "is_optional": false,
+      "note": "看个人口味",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香叶",
+      "quantity": 3,
+      "unit": "片",
+      "quantity_range": {
+        "min": 2,
+        "max": 3
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白芷",
+      "quantity": 3,
+      "unit": "片",
+      "quantity_range": {
+        "min": 2,
+        "max": 3
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜片",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "大拇指粗细的姜切片",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "糖",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "最后添加，使辣味柔和",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白醋",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "增香，添加后重新沸腾",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "味精",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "与糖一起添加",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "拿出蒜头掰 2 个小蒜头去皮",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "拿出砧板剁碎小蒜头、小米椒",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "拿出碗倒入花生油",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "油热放入其他配料和小葱，等到香料变焦，捞出扔掉",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "拿出铁锅将碗内的油放入加热 2 分钟（菜籽油烧至冒烟）",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "准备一个空碗，往空碗加入干辣椒面、白芝麻、蒜末、小米椒、盐、五香粉、草寇作为调料",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "关火将油温冷却至 210 摄氏度",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "将锅内热油倒入碗内并用勺子搅拌即可（可以在 165 摄氏度时加入同样调料的碗最后进行混合进行增辣）",
+      "duration_minutes": 1,
+      "tips": "可以在165摄氏度时加入同样调料的碗最后进行混合进行增辣"
+    },
+    {
+      "step": 9,
+      "content": "倒入热油稍微搅拌后放入白醋，此时会重新沸腾。继续进行搅拌，白醋增香。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "油泼辣子冷却到温热放白糖和味精，白糖可以是辣味柔和，不会那么的呛口",
+      "duration_minutes": null,
+      "tips": "白糖可以使辣味柔和，不会那么呛口"
+    }
+  ],
+  "tips": [
+    "五香粉、草寇作为调料加入，可以增加香味，使油泼辣子更香"
+  ]
+}

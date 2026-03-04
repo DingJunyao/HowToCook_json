@@ -1,0 +1,269 @@
+{
+  "name": "炒河粉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/炒河粉.md",
+  "category": "主食",
+  "difficulty": "expert",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "河粉",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": {
+        "min": 250,
+        "max": 350
+      },
+      "is_optional": false,
+      "note": "如果需要更大食量，可再加100g/人向下取整",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "猪肉",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "或使用牛肉替代",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "黄瓜",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切丝",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "面筋块",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "清洗后挤出多余水分",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "绿豆芽",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "先焯水过凉水",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "打碎后捞一点蛋清用于腌制肉，剩余备用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜瓣",
+      "quantity": 2,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "拍碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小葱",
+      "quantity": 1,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切碎，葱白和葱叶分开",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "河粉炒料",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "或自行准备炒料",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "用于自制炒料（河粉料10g盐+2g味精+3g孜然粉）",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "味精",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "用于自制炒料",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "孜然粉",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "用于自制炒料",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "淀粉",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "按每100g肉+5g淀粉比例准备",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于提色",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于提鲜",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "胡椒粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于腌制肉",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "高血压人群可降低用量",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "小葱切碎（葱白和葱叶分开）、蒜瓣拍碎，丢案板上备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "打碎鸡蛋，捞一点蛋清到一只碗中，剩下的丢入另一只碗中备用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "将绿豆芽放入锅中，大火煮60秒。豆芽捞出，过凉水，放入盘中备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "黄瓜切丝放入盘中备用，可和豆芽丢一起",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "处理面筋，单独丢一个盘中。面筋清洗后用手将大量水分挤出（不需过于用力）",
+      "duration_minutes": 2,
+      "tips": "超市购买来的凉皮表面一般会有食用油，可以使用自来水清洗。面筋同样。"
+    },
+    {
+      "step": 6,
+      "content": "肉切细条状，加入淀粉与刚刚碗中的鸡蛋清、胡椒粉，顺时针拌匀",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "加入食用油，锅热倒出",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "倒入处理好的肉，翻炒均匀至变色，倒入碗中备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "趁锅热，加入20g食用油（高血压人群可降低用量），倒入葱白、蒜爆炒出香",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "加入河粉，淋入老抽提色，翻炒均匀后再加入河粉炒料，继续翻炒",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "河粉即将透明时，放入炒制好的肉丝与面筋，并加入生抽提鲜，简单翻炒两次",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "加入豆芽与黄瓜丝，翻炒至河粉完全透明",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 13,
+      "content": "关火！撒入葱叶点缀，把锅端起，倒入盘中，开始干饭",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "建议购买方案：在某宝、某买菜等平台上购买袋装鲜河粉，一般是1斤起售，冷藏保质期可达到两周，而且送河粉炒料！",
+    "个人口味根据地区、天气、时间均有不同，调料的具体使用量请据个人情况而定，喜欢辣椒的可以自行添加"
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "name": "陈皮排骨汤",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/soup/陈皮排骨汤/陈皮排骨汤.md",
+  "category": "汤与粥",
+  "difficulty": "medium",
+  "total_time_minutes": 90,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/陈皮排骨汤_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "排骨",
+      "quantity": 5,
+      "unit": "块",
+      "quantity_range": {
+        "min": 4,
+        "max": 5
+      },
+      "is_optional": false,
+      "note": "用猪骨也替代也可",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "陈皮",
+      "quantity": 1,
+      "unit": "瓣",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "一般选用 8-20 年制，一般 1 块陈皮是 3 瓣",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "西洋参",
+      "quantity": 9,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "又名花旗参",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "石斛",
+      "quantity": 6,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "玉竹",
+      "quantity": 5,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "麦冬",
+      "quantity": 7,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食盐",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "排骨用热水过一遍，去血水",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "陈皮、麦冬、玉竹、石斛和西洋参，冲洗干净",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "打开煲汤盅，先放入排骨在底部，然后依次放入陈皮、麦冬、玉竹、石斛和西洋参",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "加入热水进煲汤盅，水不宜太满",
+      "duration_minutes": 1,
+      "tips": "水不宜太满"
+    },
+    {
+      "step": 5,
+      "content": "煲汤容器加入水，炖煮 1.5 小时即可",
+      "duration_minutes": 90,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "加入食盐，趁热饮用",
+      "duration_minutes": 1,
+      "tips": "趁热饮用"
+    }
+  ],
+  "tips": [
+    "煲汤盅很烫，拿的时候小心别烫到或者手滑摔破",
+    "广东老火靓汤，讲究用料和火候，只要备好料和炖够一定时辰，就算大功告成！"
+  ]
+}

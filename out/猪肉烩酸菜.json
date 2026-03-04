@@ -1,0 +1,191 @@
+{
+  "name": "猪肉烩酸菜",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/猪肉烩酸菜.md",
+  "category": "荤菜",
+  "difficulty": "expert",
+  "total_time_minutes": 180,
+  "servings": 1,
+  "original_servings": 4,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "猪排骨或五花肉",
+      "quantity": 375,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "东北酸菜",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大葱",
+      "quantity": 0.25,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 1,
+      "unit": "瓣",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽酱油",
+      "quantity": 3.75,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "五香粉",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大料",
+      "quantity": 0.5,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "大葱切段；生姜12.5克切段，12.5克切末；大蒜切末，备用。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "全部酸菜切丝，用水冲洗2-3遍备用。冲洗次数取决于个人口味，喜欢酸味可以冲洗2遍，害怕酸味可以冲洗3-4遍。不能不冲洗，否则会过酸。",
+      "duration_minutes": 10,
+      "tips": "冲洗次数根据个人口味调整，必须冲洗否则过酸"
+    },
+    {
+      "step": 3,
+      "content": "排骨和五花肉入锅，倒入冷水淹没。放入全部葱段，12.5克生姜段和料酒5毫升。大火煮开后，等待5分钟。关火，将排骨和五花肉捞出，冷水冲洗掉浮沫，备用。",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "煮好的五花肉切片或者切块，备用。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "将之前的锅洗干净，并且擦干（不然加入油会崩出来）。",
+      "duration_minutes": 3,
+      "tips": "锅必须擦干，否则加油会崩出"
+    },
+    {
+      "step": 6,
+      "content": "锅中加入油，开中火，放入姜蒜末爆香，放入五花肉和排骨。将五花肉和排骨煎至金黄，倒入2.5克五香粉和3.75克生抽酱油，用铲子翻动1-2分钟。",
+      "duration_minutes": 8,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "将冲洗好的酸菜丝加入锅中，翻炒3分钟。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "倒入纯净水至刚好没过食材，加入0.5颗大料，转大火，直到锅中水沸腾。转中火，盖锅盖焖煮。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "等待1.5-2小时，直至五花肉软烂（可以用筷子轻松扎穿）。",
+      "duration_minutes": 90,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "掀开锅盖，开大火收汤，翻动锅中食材直至锅中剩余水分只覆盖锅底，转小火，准备调味。",
+      "duration_minutes": 15,
+      "tips": "大火收汤时注意不要糊锅，可适当翻动检查水位"
+    },
+    {
+      "step": 11,
+      "content": "调味：加入食用盐2.5克，搅拌均匀。",
+      "duration_minutes": 2,
+      "tips": "最后加盐时可一点一点加入，搅拌后品尝味道，直到可以接受的口味"
+    },
+    {
+      "step": 12,
+      "content": "关火，出锅。",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "大火收汤时，注意不要糊锅，可以适当翻动来检查水位",
+    "调味的技巧，最后加盐时，可以一点一点加入，搅拌后品尝味道，直到可以接受的口味",
+    "本菜品有酸菜的特殊风味"
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "name": "鳊鱼炖豆腐",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md",
+  "category": "水产",
+  "difficulty": "medium",
+  "total_time_minutes": 30,
+  "servings": 1,
+  "original_servings": 3,
+  "images": [
+    "images/鳊鱼炖豆腐_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "鳊鱼",
+      "quantity": 183.33,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "可以让摊主帮忙处理好",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老豆腐",
+      "quantity": 133.33,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 1.67,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 16.67,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约半根",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 1.33,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 0.67,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "不喜欢重口的可以不放",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "桂皮",
+      "quantity": 1,
+      "unit": "块",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冰糖",
+      "quantity": 1.67,
+      "unit": "块",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "干辣椒",
+      "quantity": 1.67,
+      "unit": "个",
+      "quantity_range": {
+        "min": 1.33,
+        "max": 2
+      },
+      "is_optional": true,
+      "note": "不吃辣可以不放",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 1.67,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 1.33,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2.33,
+      "unit": "g",
+      "quantity_range": {
+        "min": 1.67,
+        "max": 2.67
+      },
+      "is_optional": false,
+      "note": "根据个人口味选择",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "八角",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香叶",
+      "quantity": 0.67,
+      "unit": "片",
+      "quantity_range": {
+        "min": 0.33,
+        "max": 1
+      },
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 3.33,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "热水",
+      "quantity": 133.33,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "鳊鱼改刀，放上姜片和料酒腌制 5-10 分钟",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "老豆腐切块后放入水中备用",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "锅中加油，可以放点盐在锅里，防止煎鱼的时候粘锅，把腌制的鱼用厨房纸擦干水分，把鱼放到锅中，两面都煎一下",
+      "duration_minutes": 8,
+      "tips": "鱼的两面，各煎 2-4 分钟即可；煎鱼的时候全程中小火"
+    },
+    {
+      "step": 4,
+      "content": "等两面都煎好时，把鱼推向锅边一点，留点空间放入葱姜蒜，干辣椒，香叶，八角炒出味道",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "炒出佐料香味后，加入料酒，生抽，老抽，冰糖，桂皮，倒入热水，水量和鱼平齐或者少点",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "大火烧开后，放入老豆腐，豆腐贴在锅边，加入食盐，转小火",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "小火烧 10-15 分钟，然后大火收点汁，即可出锅",
+      "duration_minutes": 15,
+      "tips": "最后出锅时，加入一些切碎的大蒜，味道会更好"
+    }
+  ],
+  "tips": [
+    "鱼的两面，各煎 2-4 分钟即可",
+    "煎鱼的时候全程中小火",
+    "最后出锅时，加入一些切碎的大蒜，味道会更好"
+  ]
+}

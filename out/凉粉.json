@@ -1,0 +1,199 @@
+{
+  "name": "凉粉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/凉粉/凉粉.md",
+  "category": "素菜",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/凉粉_0.jpg",
+    "images/凉粉_1.jpg",
+    "images/凉粉_2.jpg",
+    "images/凉粉_3.jpg",
+    "images/凉粉_4.jpg",
+    "images/凉粉_5.jpg",
+    "images/凉粉_6.jpg",
+    "images/凉粉_7.jpg",
+    "images/凉粉_8.jpg",
+    "images/凉粉_9.jpg",
+    "images/凉粉_10.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "豌豆淀粉",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 3,
+      "unit": "瓣",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小米辣",
+      "quantity": 3,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "辣椒粉",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "醋",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "原文单位为ml，应为g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花生碎",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "准备食材",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "把豌豆淀粉和水各100克混合搅拌",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "往锅中倒入600g水，大火煮开后转为小火",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "倒入淀粉水，边倒边不断的搅拌，搅拌到浓稠且色泽均匀",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "找一个容器，在容器中刷一层薄薄的食用油",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "将煮好的淀粉倒入容器中冷藏2-4小时",
+      "duration_minutes": null,
+      "tips": "需冷藏2-4小时使其凝固"
+    },
+    {
+      "step": 7,
+      "content": "冷藏后取出，脱模，切条",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "大蒜和小米辣剁成沫，放上10g辣椒粉，5g花生碎，热油搅拌均匀",
+      "duration_minutes": 5,
+      "tips": "热油能激发辣椒和香料的香味"
+    },
+    {
+      "step": 9,
+      "content": "再加入10ml酱油，10ml醋，5g白糖，3g鸡精，3g盐搅拌均匀",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "将调味料倒在凉粉上，然后撒上香菜即可",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "参考：制作凉粉的详细步骤（https://www.zhms.cn/recipe/mzvyy.html?source=2）"
+  ]
+}

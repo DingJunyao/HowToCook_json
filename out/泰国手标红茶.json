@@ -1,0 +1,103 @@
+{
+  "name": "泰国手标红茶",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/drink/泰国手标红茶/泰国手标红茶.md",
+  "category": "饮料",
+  "difficulty": "medium",
+  "total_time_minutes": 257,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/泰国手标红茶_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "水",
+      "quantity": 600,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "茶粉",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 24,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "牛奶",
+      "quantity": 18,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "炼乳",
+      "quantity": 24,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将 600ml 水大火烧开",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "在过滤袋中装入 20g 茶粉，开水倒入过滤袋中，过滤 20 遍",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "使用克称量取 24g 炼乳、24g 白糖和 18ml 牛奶放入 1000ml 以上的水壶中",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "将过滤好的茶水倒入水壶中搅拌，直到白糖融化",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "将水壶放到冰箱 4 小时以上",
+      "duration_minutes": 240,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "喝前可以加 6-8 颗冰块",
+      "duration_minutes": null,
+      "tips": "根据个人喜好调整冰块数量"
+    }
+  ],
+  "tips": []
+}

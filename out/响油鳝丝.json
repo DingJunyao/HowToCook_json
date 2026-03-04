@@ -1,0 +1,273 @@
+{
+  "name": "响油鳝丝",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/响油鳝丝.md",
+  "category": "水产",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鳝丝",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "一半蒜末用于炒制，一半用于最后撒在菜上",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜末",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 13,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "3g用于腌制，10g用于炒制",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用盐",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 7.5,
+      "unit": "g",
+      "quantity_range": {
+        "min": 3,
+        "max": 7.5
+      },
+      "is_optional": false,
+      "note": "可以根据个人口味调整",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "胡椒粉",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": {
+        "min": 1.75,
+        "max": 4
+      },
+      "is_optional": false,
+      "note": "0.5g用于腌制，3g用于炒制，可根据需要增加",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "淀粉",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于制作水淀粉",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于制作水淀粉",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜末",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "装盘后撒在菜上",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱花",
+      "quantity": 7.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "装盘后撒在菜上",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "猪油",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "最后烧热浇在菜上",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香油",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于腌制鳝丝",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "植物油",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "滑锅和炒制用",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将鳝鱼切成三段后切成细丝",
+      "duration_minutes": null,
+      "tips": "鳝鱼可以让摊主帮忙宰杀"
+    },
+    {
+      "step": 2,
+      "content": "加入 2.5 g 香油、0.5 g 胡椒粉、3 g 料酒搅拌均匀，腌制鳝丝",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "热油滑锅",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "加入植物油，烧到 6 成热",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "加入一半蒜末和全部姜末，翻炒几下",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "加入鳝丝，中火爆炒 30 秒",
+      "duration_minutes": null,
+      "tips": "不能将鳝鱼的血洗得太干净，否则鳝鱼很容易发黑发臭"
+    },
+    {
+      "step": 7,
+      "content": "边缘淋入 10 g 料酒，翻炒几下",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "加入生抽，炒匀",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "加入蚝油、老抽，翻炒几下",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "加入食用盐、白糖、3 g 胡椒粉，炒匀",
+      "duration_minutes": null,
+      "tips": "可以多加一些胡椒粉和白糖，有利于去腥增香"
+    },
+    {
+      "step": 11,
+      "content": "淀粉和水混合为水淀粉，倒入锅中，收汁至浓稠",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "装盘，撒上蒜蓉、葱花",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 13,
+      "content": "另起锅烧热，加入猪油，烧至七成热，浇在鳝丝上",
+      "duration_minutes": null,
+      "tips": "浇热猪油后香气扑鼻"
+    }
+  ],
+  "tips": [
+    "不能将鳝鱼的血洗得太干净，否则鳝鱼很容易发黑发臭",
+    "鳝鱼可以让摊主帮忙宰杀",
+    "可以多加一些胡椒粉和白糖，有利于去腥增香"
+  ]
+}

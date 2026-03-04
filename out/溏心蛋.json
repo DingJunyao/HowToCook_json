@@ -1,0 +1,71 @@
+{
+  "name": "溏心蛋的做法",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/溏心蛋.md",
+  "category": "早餐",
+  "difficulty": "medium",
+  "total_time_minutes": 15,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "颗",
+      "quantity_range": {
+        "min": 1,
+        "max": 4
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "1 颗或更多",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 350,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "淹过鸡蛋约2公分",
+      "original_quantity": "淹过鸡蛋约2公分",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将鸡蛋放入电锅中。鸡蛋不可互相堆叠，应皆在底部，并留有空间可以晃动",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "倒入淹过鸡蛋约2公分的冷水",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "开盖，使用最大功率加热至水滚起（大约85-95度，稍微滚动，不需完全沸腾）",
+      "duration_minutes": 5,
+      "tips": "不需要完全沸腾，达到85-95度即可"
+    },
+    {
+      "step": 4,
+      "content": "关火，盖上盖子，让鸡蛋静置。想要中央有流动的蛋黄，需静置6分钟；若想要完全煮熟的易碎蛋黄，需静置10分钟",
+      "duration_minutes": 10,
+      "tips": "根据喜好选择6-10分钟"
+    },
+    {
+      "step": 5,
+      "content": "沥干水分，用冷水冲洗鸡蛋约1分钟，即可去壳食用",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "如果觉得鸡蛋不够熟的小伙伴可以依照自己的喜好添加更多的水",
+    "警告：溏心蛋有沙门氏菌感染的风险，不建议静置5分钟以内"
+  ]
+}

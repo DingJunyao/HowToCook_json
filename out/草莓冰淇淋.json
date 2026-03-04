@@ -1,0 +1,123 @@
+{
+  "name": "草莓冰淇淋",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/dessert/草莓冰淇淋/草莓冰淇淋.md",
+  "category": "甜品",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "草莓",
+      "quantity": 500,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切成5mm小块，保留一半新鲜草莓稍后折叠",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白砂糖",
+      "quantity": 45,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香草精",
+      "quantity": 6,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "草莓糖浆用1克，冰淇淋底料用5克",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "草莓糖浆用1克，冰淇淋底料用1克",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "重奶油",
+      "quantity": 6,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "加糖炼乳",
+      "quantity": 400,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "先做草莓糖浆。把草莓洗干净，去掉顶部叶子。将草莓切成5mm的小块。保留一半切碎的草莓，稍后折叠成冰淇淋。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将另一半切碎的草莓和糖一起放入酱汁锅中。用中火搅拌和烹饪，直到草莓释放液体并在锅中形成糖浆。",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "让草莓在糖浆中加热，不时搅拌，直到它们分解并变形，糖浆稍微变稠。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "当糖浆保持分开3秒钟时，就已经准备好了。把糖浆从火上移开，加入香草和盐搅拌。将草莓糖浆放在一边冷却。",
+      "duration_minutes": 30,
+      "tips": "测试糖浆浓稠度的方法：用勺子舀起糖浆，滴回锅中，如果痕迹能保持3秒钟不消失，说明糖浆已达到合适浓稠度"
+    },
+    {
+      "step": 5,
+      "content": "当糖浆冷却时，准备冰淇淋基料。在碗中加入甜炼乳、浓奶油、香草精和盐。使用手动搅拌器搅打混合物，直到它变得轻盈蓬松，并形成柔软的尖峰。",
+      "duration_minutes": 5,
+      "tips": "搅打至形成柔软尖峰（软性发泡阶段）"
+    },
+    {
+      "step": 6,
+      "content": "将保留的切碎的新鲜草莓折叠到冰淇淋底座中。将搅打过的冰淇淋底座转移到冷冻安全容器中。将冷却的草莓糖浆淋在冰淇淋上，然后轻轻地将其旋入混合物中。",
+      "duration_minutes": 3,
+      "tips": "折叠动作要轻柔，避免过度搅拌导致冰淇淋变硬"
+    },
+    {
+      "step": 7,
+      "content": "盖上冰淇淋并冷冻八小时，然后舀取和食用。",
+      "duration_minutes": 480,
+      "tips": "冷冻时间至少需要8小时，确保冰淇淋完全凝固"
+    }
+  ],
+  "tips": [
+    "制作过程中注意安全，避免割/烫到手",
+    "测试糖浆浓稠度：用勺子舀起糖浆，滴回锅中，如果痕迹能保持3秒钟不消失，说明糖浆已达到合适浓稠度",
+    "搅打奶油至形成柔软尖峰（软性发泡阶段），不要过度搅打",
+    "折叠草莓和糖浆时动作要轻柔，避免过度搅拌",
+    "使用冷冻安全容器，确保密封良好"
+  ]
+}

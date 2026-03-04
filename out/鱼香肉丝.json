@@ -1,0 +1,286 @@
+{
+  "name": "鱼香肉丝",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/鱼香肉丝.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "里脊肉",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "胡萝卜",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "青椒",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "去蒂，切丝",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "木耳（干）",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "泡发后洗净，切小块",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 2.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蛋清",
+      "quantity": 0.5,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "淀粉",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "醋",
+      "quantity": 7.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切沫",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切成5mm的小段",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 1,
+      "unit": "瓣",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切沫",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "豆瓣酱",
+      "quantity": 7.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 20,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于调腌料和香汁",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "制作腌料：将生抽2.5ml、料酒2.5ml、淀粉2.5g、水10ml、蛋清0.5个混合均匀",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "制作香汁：将生抽2.5ml、醋7.5ml、白糖5g、盐0.5g、淀粉2.5g、水10ml混合均匀",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "用腌料腌制里脊肉15-30分钟，将肉抓匀",
+      "duration_minutes": 30,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "干木耳泡4个小时，洗净，切成小块",
+      "duration_minutes": 240,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "青椒洗净，去蒂，切成丝",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "胡萝卜洗净，切成丝，将胡萝卜丝焯水",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "姜、蒜切沫",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "葱切成5mm的小段",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "将锅烧热，加入7.5ml油",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "向锅内倒入准备好的腌肉，快速滑散至变白，盛出备用",
+      "duration_minutes": 2,
+      "tips": "快速滑散，不要炒太久"
+    },
+    {
+      "step": 11,
+      "content": "将锅烧热，加入2.5ml油",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "倒入全部葱、姜、蒜、豆瓣酱",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 13,
+      "content": "倒入全部胡萝卜，翻炒20秒后，放入青椒和木耳，翻炒2分钟",
+      "duration_minutes": 2.5,
+      "tips": "注意控制时间"
+    },
+    {
+      "step": 14,
+      "content": "倒入炒过的肉，快速翻炒均匀",
+      "duration_minutes": 0.5,
+      "tips": "不要炒超过20秒"
+    },
+    {
+      "step": 15,
+      "content": "倒入香汁，快速翻炒均匀",
+      "duration_minutes": 0.5,
+      "tips": "不要炒超过15秒"
+    },
+    {
+      "step": 16,
+      "content": "关火，盛盘",
+      "duration_minutes": 0.5,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "腌制里脊肉时一定要抓匀",
+    "炒肉时要快速滑散至变白即可，不要炒太久",
+    "加入香汁后要快速翻炒，注意控制时间不超过15秒",
+    "木耳需要提前泡发4个小时"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "煮泡面加蛋",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/煮泡面加蛋.md",
+  "category": "主食",
+  "difficulty": "simple",
+  "total_time_minutes": 10,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "泡面",
+      "quantity": 1,
+      "unit": "包",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 1000,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 550,
+        "max": 1000
+      },
+      "is_optional": false,
+      "note": "根据锅的情况，以能完整将泡面浸入其中为准",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "包括生鸡蛋、熟鸡蛋、卤蛋等",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将水加热至沸腾（火候不做严格要求，使用热水会更快）",
+      "duration_minutes": 3,
+      "tips": "使用热水会更快"
+    },
+    {
+      "step": 2,
+      "content": "将取出的面饼放入锅中",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "将泡面里附带的佐料放入锅中",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "取出筷子轻微拨动泡面，使佐料充分溶解，面饼充分浸泡受热",
+      "duration_minutes": null,
+      "tips": "使佐料充分溶解，面饼充分浸泡受热"
+    },
+    {
+      "step": 5,
+      "content": "盖上锅盖等待约 1 分钟至锅内水再次沸腾",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "去壳鸡蛋，加入锅中",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "等待约 3 至 4 分钟，即可",
+      "duration_minutes": 4,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "本指南中的鸡蛋包括但不仅限于：生鸡蛋，熟鸡蛋，卤蛋等",
+    "原材料泡面可在楼下便利店购买",
+    "可根据个人需要加入佐料，和其他食材包括但不仅限于：火腿肠，生菜，小肉丝，辣条，鱼干，虾仁，鸡腿"
+  ]
+}

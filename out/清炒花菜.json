@@ -1,0 +1,140 @@
+{
+  "name": "清炒花菜",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/清炒花菜.md",
+  "category": "素菜",
+  "difficulty": "easy",
+  "total_time_minutes": 15,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "花菜",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": {
+        "min": 120,
+        "max": 150
+      },
+      "is_optional": false,
+      "note": "约 1/4 中等大小的花菜",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 1,
+      "unit": "瓣",
+      "quantity_range": {
+        "min": 1,
+        "max": 1.5
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 7.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "饮用水",
+      "quantity": 25,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于炒制过程",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将花菜洗净，用刀或手掰成小朵，粗茎部分可以切片，备用。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将大蒜去皮，切成蒜片，备用。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "锅中加入 1000 ml 饮用水，大火烧开。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "放入花菜朵，煮 2-3 分钟，至花菜颜色变浅，口感稍微软化。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "将煮好的花菜捞出，沥干水分，备用。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "热锅，加入 7.5 ml 食用油，大火烧热。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "放入蒜片，快速煸炒出香味。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "放入焯好水的花菜朵，转中大火，快速翻炒约 2 分钟，使花菜均匀受热。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "加入 1.5 g 盐，继续翻炒均匀。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "沿锅边淋入 25 ml 饮用水，盖上锅盖，焖 1 分钟，帮助花菜完全熟透入味。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "开盖，快速翻炒均匀，即可出锅。",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "提前将花菜焯水可以缩短炒制时间，并使花菜更容易熟透。",
+    "炒制时间可以根据个人喜欢的花菜软硬程度调整。喜欢脆一些可以缩短时间。"
+  ]
+}

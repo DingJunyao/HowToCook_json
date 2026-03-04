@@ -1,0 +1,299 @@
+{
+  "name": "西红柿土豆炖牛肉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 75,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/西红柿土豆炖牛肉_0.png"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "牛肉",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": {
+        "min": 200,
+        "max": 300
+      },
+      "is_optional": false,
+      "note": "牛腩口感更好",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 0.5,
+      "unit": "根",
+      "quantity_range": {
+        "min": 0.3,
+        "max": 0.5
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 2,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 18,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 15,
+        "max": 20
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花椒",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "八角",
+      "quantity": 0.5,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香叶",
+      "quantity": 1,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "油",
+      "quantity": 8,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 5,
+        "max": 8
+      },
+      "is_optional": false,
+      "note": "若用牛腩可减少",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "可用冰糖替代",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": 8,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "生抽，千禾酿造无添加",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 3,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "黑胡椒粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "或白胡椒粉",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "土豆",
+      "quantity": 1.5,
+      "unit": "个",
+      "quantity_range": {
+        "min": 1,
+        "max": 2
+      },
+      "is_optional": false,
+      "note": "看喜好，锅能盛下为准",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "西红柿",
+      "quantity": 1.5,
+      "unit": "个",
+      "quantity_range": {
+        "min": 1,
+        "max": 1.5
+      },
+      "is_optional": false,
+      "note": "拳头大小中等个头",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 0.5,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "比拳头大一点的",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "番茄酱",
+      "quantity": 3,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 2,
+        "max": 5
+      },
+      "is_optional": true,
+      "note": "番茄膏或番茄罐头均可",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "依据个人口味调整",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "土豆去皮、切成 5cm 大块，备用",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "西红柿切十字花刀，开水烫后去皮，把中间的芯去掉，切 3cm 小块备用",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "葱切 4g 的葱花出来，剩下的掰成 5-8cm 大段",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "牛肉泡凉水半小时去血水，或凉水下锅煮至表面变白捞出，期间撇去浮末",
+      "duration_minutes": 30,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "洋葱切 0.5-1cm 小粒",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "全程中火。凉水没过牛肉，放入高压锅，放入葱段，姜片，放入 20g 料酒，上汽压 20 分钟",
+      "duration_minutes": 20,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "取出牛肉后，切 5cm 大块，挑出姜，汤盛到一个大碗里一会炖煮用",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "倒油，油四到五成热以后下花椒八角香叶，出香味之后糊之前挑出不用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "下入牛肉，葱姜，炒香，炒多久都无所谓，看着有点要糊可以舀 10ml 汤",
+      "duration_minutes": 5,
+      "tips": "可舀汤防止糊锅"
+    },
+    {
+      "step": 10,
+      "content": "炒香后加入生抽 15ml，料酒 15ml，胡椒粉，5-10g 番茄膏番茄酱或一个番茄罐头，加入洋葱炒至透明",
+      "duration_minutes": 3,
+      "tips": "可以加一点点盐使洋葱出水不容易糊，不要加太多，后面再调味"
+    },
+    {
+      "step": 11,
+      "content": "加入西红柿炒至西红柿化开软烂，倒入剩下的汤",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "中火开锅后，全程小火",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 13,
+      "content": "出锅前 30-40 分钟加土豆并调味。依据个人口味边尝边加糖盐，合适为止",
+      "duration_minutes": 35,
+      "tips": null
+    },
+    {
+      "step": 14,
+      "content": "筷子戳牛肉软烂后出锅",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "炖煮时保证汤加入的时候是温热的",
+    "炖煮时不要扣盖否则土豆会烂",
+    "炖煮时时不时翻动避免糊底",
+    "砂锅炖煮会更好吃，可以在炒锅里炒完倒到煮锅里炖，如果用砂锅开锅之前不要用大火避免裂开",
+    "酱油总量不要太多，汤汁浓缩的时候会变咸，稀的时候稍微淡点没事，炖煮时候觉得不够也可以再加酱油",
+    "不要用鸡精味精，会抢夺牛肉的鲜味"
+  ]
+}

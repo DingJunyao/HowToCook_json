@@ -1,0 +1,187 @@
+{
+  "name": "芥末罗氏虾",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/芥末罗氏虾/芥末罗氏虾.md",
+  "category": "水产",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/芥末罗氏虾_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "罗氏虾",
+      "quantity": 125,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": {
+        "min": 1,
+        "max": 1
+      },
+      "is_optional": false,
+      "note": "1-2个",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "青芥末",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于碗汁",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生粉",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于碗汁",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于碗汁",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "胡椒粉",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于碗汁",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于碗汁",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 7.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于碗汁",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于碗汁",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小米辣",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": {
+        "min": 0.5,
+        "max": 1
+      },
+      "is_optional": true,
+      "note": "不吃辣可不放或替换成红菜椒",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黄油",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 40,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将虾从背部切开，去除虾线和沙袋，也可从腹部切开，炸出来会胀开，成菜比较漂亮；用清水洗干净，控干水分后可拍上生粉，也可不拍",
+      "duration_minutes": 5,
+      "tips": "从背部或腹部切开均可，拍生粉可增加酥脆感"
+    },
+    {
+      "step": 2,
+      "content": "将1颗大蒜切成蒜末；准备碗汁，放入生抽、蚝油、白糖、胡椒粉、盐，依据个人口味挤入芥末，加清水稀释后加入生粉化开",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "锅热倒入食用油，放入控干水分的罗氏虾，慢慢煎制",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "虾油煎出来后（表现为锅中出现大量气泡），加入准备好的蒜蓉及小米辣",
+      "duration_minutes": 2,
+      "tips": "当锅中出现大量气泡时说明虾油已煎出"
+    },
+    {
+      "step": 5,
+      "content": "闻到蒜蓉的香味后，加入黄油",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "黄油融化后翻拌均匀，加入准备好的碗汁",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "盖锅盖焖煮2分钟汤汁浓稠后出锅",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "黄油入锅后不宜炸制太久，融化翻拌均匀即可烹入碗汁"
+  ]
+}

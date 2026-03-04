@@ -1,0 +1,157 @@
+{
+  "name": "微波炉鸡蛋羹",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md",
+  "category": "汤与粥",
+  "difficulty": "easy",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 3,
+  "images": [
+    "images/微波炉鸡蛋羹_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 0.67,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 66.67,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "虾皮",
+      "quantity": 3.33,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 1.67,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "芝麻油",
+      "quantity": 0.33,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "香油",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将鸡蛋打入可使用微波炉加热的陶瓷碗中，使用筷子将其打散",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "加入水和盐，搅拌均匀",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "将虾皮放入碗中，搅拌均匀，保证所有虾皮不会堆积在一起",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "葱切碎至边长约3mm状，放入碗中搅拌均匀",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "将此碗及内容物放入微波炉中，容器表面覆盖保鲜膜或以可微波瓷盘加盖（注意：不得密封，必须留有涨缩量）加热 2 分钟(500W)",
+      "duration_minutes": 2,
+      "tips": "不得密封，必须留有涨缩量"
+    },
+    {
+      "step": 6,
+      "content": "小心地取下保鲜膜或其他覆盖物，然后继续加热 2 分钟",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "若微波炉不带旋转式加热盘，将碗缓慢的水平旋转 180 度，以确保内容物加热均匀",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "放入芝麻油",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "小心地从微波炉中拿出碗（真的很烫）",
+      "duration_minutes": 1,
+      "tips": "碗很烫，注意安全"
+    },
+    {
+      "step": 10,
+      "content": "如果选择放入酱油，则确保酱油在鸡蛋羹表面流动后能以最薄的形式沾满鸡蛋羹表面即可",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "开心的享受鸡蛋羹",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "鸡蛋 1 个约为 50±5g。若使用其他品种蛋品可按比例增减水量。",
+    "一定要确保将鸡蛋打散，否则可能会发生轻度鸡蛋爆炸。",
+    "鸡蛋和水不能超过碗容量的 2/3，否则可能发生溢出。"
+  ]
+}

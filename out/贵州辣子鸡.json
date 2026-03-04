@@ -1,0 +1,203 @@
+{
+  "name": "贵州辣子鸡",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md",
+  "category": "荤菜",
+  "difficulty": "hard",
+  "total_time_minutes": 50,
+  "servings": 1,
+  "original_servings": 4,
+  "images": [
+    "images/贵州辣子鸡_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "农村玉米鸡",
+      "quantity": 500,
+      "unit": "g",
+      "quantity_range": {
+        "min": 500,
+        "max": 500
+      },
+      "is_optional": false,
+      "note": "切块",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "土豆",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": {
+        "min": 200,
+        "max": 200
+      },
+      "is_optional": false,
+      "note": "切成长条",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 1,
+      "unit": "头",
+      "quantity_range": {
+        "min": 0.5,
+        "max": 1
+      },
+      "is_optional": false,
+      "note": "整颗不用切",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香叶",
+      "quantity": 0.5,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切片",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花椒",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "或麻椒",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "糍粑辣椒",
+      "quantity": 125,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "花溪党武的辣椒、遵义的子弹头、条子椒、大方的皱椒混合打碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "豆瓣酱",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "啤酒",
+      "quantity": 60,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "盖过鸡块",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜苗",
+      "quantity": 1,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切段",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酒糟",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": {
+        "min": 200,
+        "max": 250
+      },
+      "is_optional": false,
+      "note": "菜籽油",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "在锅中加入和锅一半高度的油，将切成长条的土豆先炸至表面金黄然后捞出备用",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "等油温上至烤手时候，将切好的鸡块放入锅中炸，并放入切好的生姜片和花椒",
+      "duration_minutes": 10,
+      "tips": "刚开始炸鸡的时候，油是浑浊的，因为鸡块里面有水的原因，等到油炸至清澈，鸡块就炸好了，然后捞出备用"
+    },
+    {
+      "step": 3,
+      "content": "将锅中剩余的油捞三分之一出来，将锅中剩余的油加热",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "加入糍粑辣椒、豆瓣酱、生姜片，炒出红油状，将炸好的鸡块翻炒均匀",
+      "duration_minutes": 5,
+      "tips": "需要注意翻炒，因为糍粑辣椒会糊掉"
+    },
+    {
+      "step": 5,
+      "content": "等到鸡块都上色，加入老抽，倒入啤酒，啤酒一定要盖过鸡块，加上香叶盖上盖，闷十分钟，期间间隔翻炒",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "加入土豆条，大蒜（不用切，一颗一颗的最好），然后再闷 20 分钟",
+      "duration_minutes": 20,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "最后加入酒糟翻炒均匀再加入切好的蒜苗，就可以出锅了",
+      "duration_minutes": 3,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "操作时，需要注意翻炒，因为糍粑辣椒会糊掉"
+  ]
+}

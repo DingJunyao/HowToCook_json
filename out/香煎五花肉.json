@@ -1,0 +1,155 @@
+{
+  "name": "香煎五花肉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/香煎五花肉/香煎五花肉.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 30,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/香煎五花肉_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "五花肉条",
+      "quantity": 300,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐长宽高为 20cm*6cm*5cm",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "生菜",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "一朵",
+      "original_quantity": "一朵",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": 8,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "味精",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "两片",
+      "original_quantity": "两片",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "两朵，拍扁",
+      "original_quantity": "两朵",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "豆瓣酱",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于涂抹菜叶",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将五花肉条沿长边切片，每片厚 1mm-1.5mm，备用",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将切好的五花肉放置碗中，依次加入 8g 酱油，1g 盐，1g 味精，10g 料酒，两片姜，两朵拍扁的大蒜腌制 10 分钟",
+      "duration_minutes": 10,
+      "tips": "腌制时间很重要，确保入味"
+    },
+    {
+      "step": 3,
+      "content": "将生菜叶直接用手扒下来，洗干净，备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "热锅，倒入 5ml 食用油。油轻微冒烟后下入五花肉。单面煎制焦黄色后翻面，另一边同理",
+      "duration_minutes": 10,
+      "tips": "油温控制很重要，油轻微冒烟时下锅效果最佳"
+    },
+    {
+      "step": 5,
+      "content": "五花肉出锅后，装盘",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "将豆瓣酱抹到菜叶上，卷着五花肉即可食用",
+      "duration_minutes": 1,
+      "tips": "可以搭配蘸料食用"
+    }
+  ],
+  "tips": [
+    "操作时，小心被溅出的油烫到"
+  ]
+}

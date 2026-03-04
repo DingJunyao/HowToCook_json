@@ -1,0 +1,89 @@
+{
+  "name": "酸梅汤（半成品加工）",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/drink/酸梅汤（半成品加工）.md",
+  "category": "饮料",
+  "difficulty": "simple",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "饮用水",
+      "quantity": 1177,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酸梅晶固体饮料",
+      "quantity": 120,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "方糖",
+      "quantity": 9,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "北京二锅头酒",
+      "quantity": 48,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "取饮用水 1177 克。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "放入酸梅晶固体饮料 60 克，使用汤匙顺时针搅拌 50 圈。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "再放入剩下 60 克酸梅晶固体饮料，再次使用汤匙顺时针搅拌 50 圈。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "放入 9 克的方糖，使用汤匙顺时针搅拌 100 圈。",
+      "duration_minutes": 2,
+      "tips": "如果没有准备方糖，可以省略此步骤"
+    },
+    {
+      "step": 5,
+      "content": "放入北京二锅头酒 48 克，用汤匙顺时针搅拌 30 圈。",
+      "duration_minutes": 1,
+      "tips": "如果没有准备北京二锅头，可以省略此步骤"
+    }
+  ],
+  "tips": [
+    "如果没有准备方糖或北京二锅头，可以省略操作中的第 4 步或第 5 步。",
+    "放入冰箱冷藏后再饮用效果更佳。",
+    "饮酒请勿驾车。"
+  ]
+}

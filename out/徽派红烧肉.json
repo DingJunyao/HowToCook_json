@@ -1,0 +1,184 @@
+{
+  "name": "徽派红烧肉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/徽派红烧肉/徽派红烧肉.md",
+  "category": "荤菜",
+  "difficulty": "expert",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/徽派红烧肉_0.jpeg",
+    "images/徽派红烧肉_1.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "五花肉",
+      "quantity": 300,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白砂糖",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 200,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "分两次使用，第一次150ml，第二次50ml",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜片",
+      "quantity": 2,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜头",
+      "quantity": 3,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 100,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 1,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "整根，不需要切碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "五香粉",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "五花肉切块，每块 2-3 cm 大小",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "锅中加入 150 ml 食用油，倒入五花肉，煎炸 2 分钟后，加入盐，翻炒五花肉，2 分钟后出锅",
+      "duration_minutes": 4,
+      "tips": "加盐的目的是锁住五花肉的油脂"
+    },
+    {
+      "step": 3,
+      "content": "锅中加入 50 ml 食用油，倒入白砂糖，翻炒到咖啡色",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "倒入五花肉，翻炒 30 秒，加入姜片、蒜头后翻炒 30 秒",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "加入料酒、五香粉、葱，加入水没过五花肉，盖上锅盖煮 10 分钟",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "加入生抽、老抽、蚝油，中火煮 20 分钟",
+      "duration_minutes": 20,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "开锅，大火烧汁，端盘",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "葱是整根，不需要切碎",
+    "步骤二加盐的目的是锁住五花肉的油脂",
+    "制作过程，用部分五花肉做了水煮处理，跟未处理的一起做后续制作，发现未水煮的肉质更Q弹"
+  ]
+}

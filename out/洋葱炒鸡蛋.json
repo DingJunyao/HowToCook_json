@@ -1,0 +1,95 @@
+{
+  "name": "洋葱炒鸡蛋",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md",
+  "category": "荤菜",
+  "difficulty": "easy",
+  "total_time_minutes": 5,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/洋葱炒鸡蛋_0.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 2,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "需切片",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 50,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 0.5,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切葱花",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 2,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "鸡蛋打入大碗中，加入洋葱片、盐后搅拌 60 秒",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "起锅烧油，倒入鸡蛋，一面煎炸 30-45 秒，翻面继续翻炒，反复 2-3 分钟后撒料酒出锅",
+      "duration_minutes": 3,
+      "tips": "注意控制火候，避免煎糊"
+    },
+    {
+      "step": 3,
+      "content": "鸡蛋装盘，撒上葱花",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": []
+}

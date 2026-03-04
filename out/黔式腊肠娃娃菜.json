@@ -1,0 +1,80 @@
+{
+  "name": "黔式腊肠娃娃菜",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md",
+  "category": "荤菜",
+  "difficulty": "simple",
+  "total_time_minutes": 15,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/黔式腊肠娃娃菜_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "黔式腊肠",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "娃娃菜",
+      "quantity": 300,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 750,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "锅内放入 750ml 水，开火加热至沸腾",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "放入腊肠，计时 13 分钟",
+      "duration_minutes": 13,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "放入娃娃菜，计时 2 分钟",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "关火，夹出腊肠及娃娃菜",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "娃娃菜切段、腊肠切片，装盘",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "根据锅的大小，建议以水量没过食材为宜，宁多勿少",
+    "如果没有刀具，娃娃菜和腊肠不切也可以"
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "name": "扬州炒饭",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/扬州炒饭/扬州炒饭.md",
+  "category": "主食",
+  "difficulty": "hard",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/扬州炒饭_0.png"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "冷饭",
+      "quantity": 250.0,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "干一点的为佳",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 2.0,
+      "unit": "个",
+      "quantity_range": {
+        "min": 1,
+        "max": 2
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冷冻去头去皮基围虾",
+      "quantity": 8.0,
+      "unit": "只",
+      "quantity_range": {
+        "min": 5,
+        "max": 8
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "午餐肉罐头",
+      "quantity": 75.0,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐上海梅林的火腿午餐肉罐头，340g 每罐，一次用半罐",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "青豆",
+      "quantity": 15.0,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "胡萝卜",
+      "quantity": 15.0,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "玉米粒",
+      "quantity": 15.0,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 0.5,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "油",
+      "quantity": 20.0,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 15,
+        "max": 20
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 7.5,
+      "unit": "g",
+      "quantity_range": {
+        "min": 6,
+        "max": 7.5
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "胡萝卜切丁 0.2cm*0.2cm*0.2cm，备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "午餐肉切丁 0.2cm*0.2cm*0.2cm，备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "葱分别取葱白和葱绿，各切成 0.25-0.5cm 的小段，分开备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "在碗中打入鸡蛋液，均匀搅拌，备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "将胡萝卜，青豆，玉米粒煮熟捞出，备用（水别倒）",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "将虾煮熟，捞出备用（水可以倒了）",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "热锅热油，可以参考热锅双油，第二次倒油需使用 20-30ml 油，等到第二次凉油热了以后，缓慢倒入鸡蛋（控制碗到油直接的流注直径大约在 0.5cm）不要搅拌",
+      "duration_minutes": null,
+      "tips": "参考学习炒与煎中的热锅双油"
+    },
+    {
+      "step": 8,
+      "content": "鸡蛋凝固后立刻捞出，备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "将午餐肉，青豆，胡萝卜，玉米粒，虾倒入锅中翻炒 1-2 分钟，装盘备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "水冲一下锅，将杂物冲干净，保证锅内干净（可以有油但是不能有杂质）",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "热锅热油(10ml)，将葱白放入爆香",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "调至小火（如果油温过高可以关火 1-2 分钟），放入米饭，用铲子快速砸击米饭并翻炒，保证米饭均匀沾到油且粒粒分明",
+      "duration_minutes": null,
+      "tips": "如油温过高可关火 1-2 分钟"
+    },
+    {
+      "step": 13,
+      "content": "倒入鸡蛋，继续砸击，使鸡蛋碎开并与米饭充分混合",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 14,
+      "content": "转大火，倒入其他所有备用配料，快速翻炒 1-2 分钟",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 15,
+      "content": "撒入盐，并翻炒至充分混合",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 16,
+      "content": "撒入葱绿，翻炒 1 分钟",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 17,
+      "content": "关火，装盘",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "如做完后胳膊酸痛为正常现象，需加强上肢锻炼",
+    "超市有青豆，胡萝卜，玉米粒的混合冷冻包装，可以使用这个省去切丁的烦恼，推荐 Pams Mixed Veges 很便宜，或者类似的都可以用"
+  ]
+}

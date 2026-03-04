@@ -1,0 +1,124 @@
+{
+  "name": "西葫芦炒鸡蛋",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md",
+  "category": "素菜",
+  "difficulty": "easy",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/西葫芦炒鸡蛋_0.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "西葫芦",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1.5,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "西红柿",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 5,
+        "max": 10
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用盐",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "西红柿洗净，切成小块，备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "西葫芦洗净，切成边长约为 4cm 的菱形，备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "打鸡蛋到碗里，打散搅匀，备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "热锅，锅内放入 5ml - 10ml 食用油",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "倒入鸡蛋，保持翻炒至鸡蛋成固体，用锅铲分成小块后盛到碗里，备用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "锅内放入 5ml - 10ml 食用油，倒入西红柿，炒至变软",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "倒入西葫芦一起翻炒均匀，放入 3g 食用盐，将火调小然后等待 4 - 5 分钟",
+      "duration_minutes": 5,
+      "tips": "将火调小"
+    },
+    {
+      "step": 8,
+      "content": "倒入备用的鸡蛋，中火翻炒 15 秒",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "关火，盛盘",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": []
+}

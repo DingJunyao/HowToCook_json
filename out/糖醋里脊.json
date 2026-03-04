@@ -1,0 +1,189 @@
+{
+  "name": "糖醋里脊",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/糖醋里脊.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "里脊肉",
+      "quantity": 500.0,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "猪里脊肉",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "醋",
+      "quantity": 10.0,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 30.0,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "淀粉",
+      "quantity": 50.0,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 50.0,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约 1 个",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 10.0,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 20.0,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 10.0,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "番茄酱",
+      "quantity": 30.0,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白胡椒粉",
+      "quantity": 5.0,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食盐",
+      "quantity": 10.0,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "清水",
+      "quantity": 150.0,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "调酱用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": null,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "炸制用，适量",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "腌肉：将猪里脊肉先切厚片，用刀背拍一拍，把肉拍松一点。切成一个手指头粗的条，加料酒，生抽，蚝油，食盐，白胡椒粉，一个鸡蛋，将肉用手抓匀，腌制 20 分钟以上。",
+      "duration_minutes": 20,
+      "tips": "腌制时间至少 20 分钟，让肉入味"
+    },
+    {
+      "step": 2,
+      "content": "调酱：番茄酱+10g 醋+30g 白糖+150ml 清水，搅拌至糖融化，备用。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "裹粉：先把粉全部裹好再来炸，这样在炸的时候就不会手忙脚乱。准备一个大碗，里面放淀粉，把每一根肉条都满满裹上淀粉。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "炸制第一次：油温 160 摄氏度下里脊，可以拿一个干筷子放在油里面试一下，周围冒小泡就可以下锅。炸到表面微黄可以捞出，全程中火。",
+      "duration_minutes": 5,
+      "tips": "用筷子试油温，周围冒小泡即可下锅"
+    },
+    {
+      "step": 5,
+      "content": "炸制第二次：等油温升高到 200 摄氏度，把里脊倒进去重新炸一次，只需 40 秒，表皮就会很脆，马上捞出。",
+      "duration_minutes": 1,
+      "tips": "高温复炸 40 秒，表皮变脆后立即捞出"
+    },
+    {
+      "step": 6,
+      "content": "裹酱：另外拿一个锅，锅里放底油，把调好的酱汁倒进去，煮到冒泡，把炸好的里脊放进去，翻炒，让每一根都裹上酱汁。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "下炸好的里脊肉翻炒，关火盛出。",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "里脊要多炸几遍，注意火候，否则达不到外焦里嫩的效果！"
+  ]
+}

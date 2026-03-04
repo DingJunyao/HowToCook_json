@@ -1,0 +1,88 @@
+{
+  "name": "煮锅蒸米饭",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/米饭/煮锅蒸米饭.md",
+  "category": "主食",
+  "difficulty": "easy",
+  "total_time_minutes": 20,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/煮锅蒸米饭_0.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "北方大米",
+      "quantity": 150,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 100,
+        "max": 200
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 300,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 200,
+        "max": 400
+      },
+      "is_optional": false,
+      "note": "米的体积的 2 倍",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "清洗大米",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将米和水加入煮锅",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "大火煮至水沸腾",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "搅拌底部防止粘黏",
+      "duration_minutes": 1,
+      "tips": "水沸腾时轻轻搅拌"
+    },
+    {
+      "step": 5,
+      "content": "盖上锅盖，转小火加热 10-15 分钟",
+      "duration_minutes": 15,
+      "tips": "中途切勿打开锅盖"
+    },
+    {
+      "step": 6,
+      "content": "关火，静置 5 分钟",
+      "duration_minutes": 5,
+      "tips": "让米饭充分吸收水分"
+    },
+    {
+      "step": 7,
+      "content": "享用",
+      "duration_minutes": 0,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "中途切勿打开锅盖",
+    "根据对软糯程度的喜好调整小火加热时间（10-15 分钟）"
+  ]
+}

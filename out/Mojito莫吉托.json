@@ -1,0 +1,153 @@
+{
+  "name": "Mojito莫吉托",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/drink/Mojito莫吉托.md",
+  "category": "饮料",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "青柠",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "一块，切成两个半块",
+      "original_quantity": "一块",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "薄荷叶",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "五珠",
+      "original_quantity": "五珠",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "糖浆",
+      "quantity": 20,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "金色朗姆酒",
+      "quantity": 45,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "伏特加",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "蓝天原味",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冰块",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "打碎的，占杯中 3/4 到满杯",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "苏打水",
+      "quantity": 100,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "冰镇",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将切成半块的青柠之一切成小块，放入海波杯，随后用研杵将其捣出汁",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "用 3-4 珠薄荷叶沿着杯口涂抹，随后将其放入杯中",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "加入糖浆 20ml",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "加入金色朗姆酒 45ml",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "将剩下的半块青柠压出汁水放入杯中",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "轻轻搅拌，使砂糖/糖浆处于半融合状态",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "将打碎的冰块放入杯中，直到占杯中 3/4",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "加入冰镇苏打水直到刚好淹没碎冰",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "旋转搅拌半分钟",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "使用碎冰将海波杯补满",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "将剩下的一株薄荷叶拍醒，插入碎冰，作装饰",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "参考资料：[哔哩哔哩] 莫吉托(Mojito)世界上最著名的经典鸡尾酒之一。"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "name": "豉汁蒸白鱔",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔.md",
+  "category": "水产",
+  "difficulty": "medium",
+  "total_time_minutes": 18,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/豉汁蒸白鱔_0.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "白鱔",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "已去内脏并切成段",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "豆豉",
+      "quantity": 1,
+      "unit": "汤匙",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜头",
+      "quantity": 2,
+      "unit": "瓣",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "剁碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 3,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切丝",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 1,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切段或丝",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 1.5,
+      "unit": "汤匙",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 0.5,
+      "unit": "茶匙",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "糖",
+      "quantity": 0.5,
+      "unit": "茶匙",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "麻油",
+      "quantity": 0.5,
+      "unit": "茶匙",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 1,
+      "unit": "汤匙",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "调酱汁用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生粉",
+      "quantity": 1,
+      "unit": "茶匙",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "用于腌制",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "用于腌制",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "红椒",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "切丝，装饰用",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "检查与清洗白鱔：购买时已请鱼贩去内脏、刮去黏液并切成约 5 厘米长的段。回家后检查白鱔，冲洗干净，确保无残留黏液或杂质。可选：用 3g 盐和 1 茶匙生粉轻搓白鱔段，腌制 5 分钟后冲洗干净，去腥并增加嫩滑口感。",
+      "duration_minutes": 5,
+      "tips": "腌制可去腥并增加嫩滑口感"
+    },
+    {
+      "step": 2,
+      "content": "准备酱汁：在小碗中混合 1 汤匙豆豉、2 瓣蒜末、1.5 汤匙生抽、0.5 茶匙老抽、0.5 茶匙糖、0.5 茶匙麻油和 1 汤匙水，搅拌均匀。若喜欢更浓郁的豉汁，可多加 0.5 汤匙豆豉。",
+      "duration_minutes": 2,
+      "tips": "若喜欢更浓郁的豉汁，可多加 0.5 汤匙豆豉"
+    },
+    {
+      "step": 3,
+      "content": "摆盘：将已切好的白鱔段平铺在耐热盘中，尽量不重叠。将姜丝均匀撒在白鱔上。将调好的豉汁均匀淋在白鱔上。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "蒸制：在蒸锅或电蒸炉中加入水 (500ml)，烧开。将装有白鱔的盘子放入蒸锅，盖上锅盖。用中大火蒸约 8-10 分钟 （视白鱔段大小调整时间），至白鱔熟透但不过老 （肉质变白，无血水）。",
+      "duration_minutes": 10,
+      "tips": "视白鱔段大小调整时间，至肉质变白、无血水"
+    },
+    {
+      "step": 5,
+      "content": "装饰与完成：蒸好后取出，撒上葱丝和红椒丝 （可选） 作装饰。可再淋热麻油提升香气。趁热上桌，搭配白饭享用。",
+      "duration_minutes": 2,
+      "tips": "可再淋热麻油提升香气"
+    }
+  ],
+  "tips": [
+    "确保白鱔新鲜，购买时选择活鱼，肉质更鲜嫩",
+    "鱼贩切段时可指定长度 （约 5 厘米为宜），方便蒸制和食用",
+    "蒸制时间不宜过长，以免白鱔肉质变韧"
+  ]
+}

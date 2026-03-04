@@ -1,0 +1,261 @@
+{
+  "name": "干煸仔鸡",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/干煸仔鸡/干煸仔鸡.md",
+  "category": "荤菜",
+  "difficulty": "hard",
+  "total_time_minutes": 60,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/干煸仔鸡_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡腿肉",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": {
+        "min": 200,
+        "max": 400
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "土豆",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": {
+        "min": 100,
+        "max": 200
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "青椒",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": {
+        "min": 30,
+        "max": 60
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜瓣",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": {
+        "min": 5,
+        "max": 10
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "胡椒粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "淀粉",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "郫县红油豆瓣酱",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "注意区分，不是那种棕黄色的豆瓣酱",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花椒碎",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "腌制用食用油防止粘连",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 100,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "宽油炸制用油",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "清水",
+      "quantity": 20,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "鸡腿去骨（如使用鸡腿排可忽略此步骤），鸡腿肉用刀背砸一砸，切成2cm的块",
+      "duration_minutes": 5,
+      "tips": "如使用鸡腿排可省略去骨步骤"
+    },
+    {
+      "step": 2,
+      "content": "鸡腿肉中加入盐、鸡精（可选）、胡椒粉、生抽、老抽、料酒，抓拌至粘手时加入淀粉拌匀，加入食用油防止粘连，腌制30分钟",
+      "duration_minutes": 30,
+      "tips": "腌制过程中注意加入食用油防止粘连"
+    },
+    {
+      "step": 3,
+      "content": "土豆去皮，切成2cm的块，沸水煮5分钟后捞出，控干水分，防止油炸时爆锅",
+      "duration_minutes": 5,
+      "tips": "务必控干水分，防止油炸时爆锅"
+    },
+    {
+      "step": 4,
+      "content": "青椒去籽，切成2cm小片，放在笊篱中备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "锅中加入宽油（根据锅的形状，能没过食材即可），油温烧至180℃时，下入土豆块炸3分钟后捞出",
+      "duration_minutes": 3,
+      "tips": "油温要达到180℃以保证炸制效果"
+    },
+    {
+      "step": 6,
+      "content": "待油温再次升高到180℃时，下入鸡块炸2分钟后捞出",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "待油温再次升高到180℃时，下入鸡块复炸1分钟后捞出",
+      "duration_minutes": 1,
+      "tips": "复炸可以使外皮更加酥脆"
+    },
+    {
+      "step": 8,
+      "content": "待油温再次升高到180℃时，下入土豆块复炸1分钟后，将锅中的油和土豆块经过笊篱过滤倒出，让笊篱上的青椒片断生",
+      "duration_minutes": 1,
+      "tips": "利用余温让青椒片断生"
+    },
+    {
+      "step": 9,
+      "content": "锅中加入5ml食用油，小火煸炒蒜瓣至发黄，下入红油豆瓣酱煸炒出香，下入白糖炒融化，下入花椒碎，加40ml清水，不停搅拌至酱汁粘稠",
+      "duration_minutes": 3,
+      "tips": "小火煸炒，不停搅拌至酱汁粘稠"
+    },
+    {
+      "step": 10,
+      "content": "下入炸好的鸡块、土豆块、青椒片，搅拌均匀后出锅",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "不舍得使用宽油油炸的话，可改用更少的油煎鸡块和土豆块。会增长用时，部分影响口感，但不会影响总体味道。"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "name": "柠檬水",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/drink/柠檬水/柠檬水.md",
+  "category": "饮料",
+  "difficulty": "simple",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/柠檬水_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "柠檬",
+      "quantity": 45,
+      "unit": "g",
+      "quantity_range": {
+        "min": 40,
+        "max": 45
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "果蜜",
+      "quantity": 45,
+      "unit": "g",
+      "quantity_range": {
+        "min": 40,
+        "max": 45
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冰",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "根据喜好添加",
+      "original_quantity": "几块",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "称 40~45 克柠檬，放入雪克杯中",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "雪克杯盖盖子锤大约 10 次",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "加入果蜜 40~45 克",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "补水",
+      "duration_minutes": null,
+      "tips": "补水至适量，约补满至雪克杯口"
+    },
+    {
+      "step": 5,
+      "content": "摇晃均匀",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "最后根据喜好加冰",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "参考资料：https://v.douyin.com/TVNTcXDi46I"
+  ]
+}

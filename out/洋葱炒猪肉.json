@@ -1,0 +1,156 @@
+{
+  "name": "洋葱炒猪肉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/洋葱炒猪肉.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 15,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": {
+        "min": 150,
+        "max": 200
+      },
+      "is_optional": false,
+      "note": "是主角，喜欢吃洋葱可以多半颗",
+      "original_quantity": "一颗",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "猪肉",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "可选猪肩肉片或是切好的肉丝看个人喜好",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜头",
+      "quantity": 3,
+      "unit": "瓣",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黑胡椒",
+      "quantity": 1.25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": 30,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "糖",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "麻油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "番茄酱",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "洋葱切片，猪肉切片，蒜头拍碎，混合调味料备用",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "炒锅内倒入 1 大匙食用油（等待 10 秒让油温升高），倒入猪肉",
+      "duration_minutes": 1,
+      "tips": "等待油温升高再下肉"
+    },
+    {
+      "step": 3,
+      "content": "炒至变色后下蒜头炒香盛起备用",
+      "duration_minutes": 2,
+      "tips": "猪肉变色后即可下蒜头"
+    },
+    {
+      "step": 4,
+      "content": "原锅下洋葱翻炒 3~4 分钟后加入调味料炒匀",
+      "duration_minutes": 4,
+      "tips": "洋葱需要炒软炒透"
+    },
+    {
+      "step": 5,
+      "content": "下刚盛起备用的猪肉翻炒至猪肉熟后",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "待猪肉熟后再翻炒 1、2 分钟即可起锅",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "猪肉可选猪肩肉片或是切好的肉丝看个人喜好"
+  ]
+}

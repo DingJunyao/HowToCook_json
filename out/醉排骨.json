@@ -1,0 +1,172 @@
+{
+  "name": "醉排骨",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/醉排骨/醉排骨.md",
+  "category": "荤菜",
+  "difficulty": "hard",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/醉排骨_0.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "排骨",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白砂糖",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鱼露",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "芝麻",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "番茄酱",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香醋",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜头",
+      "quantity": 2,
+      "unit": "粒",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 1,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "地瓜粉",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋黄",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "热油，用于制作酱汁",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "排骨中加入 5 g 地瓜粉和水进行搅拌，清洗 2-3 遍后放入大碗备用",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "排骨中加入鱼露、地瓜粉、鸡蛋黄充分搅拌",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "将排骨一个一个放入锅中（切记不可以整碗倒入），保证每个不要粘在一起",
+      "duration_minutes": 2,
+      "tips": "切记不可以整碗倒入，要一个一个放入"
+    },
+    {
+      "step": 4,
+      "content": "全部放入后，每 30 S 用勺子来回两面翻转瘦肉块，直至排骨表面金黄",
+      "duration_minutes": 5,
+      "tips": "每 30 秒翻转一次，保证两面受热均匀"
+    },
+    {
+      "step": 5,
+      "content": "取出排骨，一分钟后倒入油锅中继续炸，直至瘦肉块表面出现焦黄后，取出放入大碗备用",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "准备一个小碗，加入蒜末、香醋、白砂糖、鱼露、番茄酱、葱花、芝麻搅拌均匀，倒入 5 ml 热油",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "将汤汁浇灌入排骨，在充分搅拌后倒入盘中",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "鱼露，又称鱼酱油，是一种广东、福建等地常见的调味品，效果类似于生抽",
+    "本次制作过程中，由于疫情原因没有鱼露，只能用老抽代替，所以排骨颜色偏黑，正常是金黄色"
+  ]
+}

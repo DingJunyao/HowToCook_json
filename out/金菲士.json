@@ -1,0 +1,158 @@
+{
+  "name": "金菲士",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/drink/金菲士/金菲士.md",
+  "category": "饮料",
+  "difficulty": "medium",
+  "total_time_minutes": 5,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/金菲士_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "金酒",
+      "quantity": 40,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 30,
+        "max": 40
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "苏打气泡水",
+      "quantity": 1,
+      "unit": "罐",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "柠檬",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "取一片装饰，其余榨汁",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "柠檬汁",
+      "quantity": 20,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "由柠檬榨取",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蔗糖糖浆",
+      "quantity": 40,
+      "unit": "g",
+      "quantity_range": {
+        "min": 30,
+        "max": 40
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冰块",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "新鲜绿叶",
+      "quantity": 1,
+      "unit": "份",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "装饰用",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将柠檬对半切（刀方向垂直于柠檬的头尾连线），并从其中的一半中切取一片柠檬备用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "再次将柠檬对半切，将得到的 4 角柠檬用压汁器压出柠檬汁置于容器中备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "选择一个杯子，建议使用容量在 350~400 毫升的透明玻璃杯，将 100 克冰块放置在杯底",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "倒入 30~40 毫升金酒",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "倒入 20 毫升柠檬汁（如果喜酸可以加多点或全加）",
+      "duration_minutes": 1,
+      "tips": "如果喜酸可以加多点或全加"
+    },
+    {
+      "step": 6,
+      "content": "倒入 30~40 克蔗糖糖浆，用勺子搅拌均匀",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "将之前准备的一片柠檬放置好",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "缓慢沿杯壁注入苏打气泡水直至满杯（不要倒在冰上，避免起泡流失）",
+      "duration_minutes": 2,
+      "tips": "不要倒在冰上，避免起泡流失"
+    },
+    {
+      "step": 9,
+      "content": "用勺子轻轻上下提拉将液体搅拌均匀（不要旋转搅拌，避免起泡流失）",
+      "duration_minutes": 1,
+      "tips": "不要旋转搅拌，避免起泡流失"
+    },
+    {
+      "step": 10,
+      "content": "在液面放置好装饰用的绿叶（可选）",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "刀方向应垂直于柠檬的头尾连线切柠檬",
+    "缓慢沿杯壁注入苏打气泡水，不要倒在冰上以避免起泡流失",
+    "用勺子轻轻上下提拉搅拌，不要旋转搅拌以避免起泡流失",
+    "如果有雪克瓶，可以将冰块、金酒、柠檬汁、蔗糖糖浆倒入雪克瓶雪克均匀后倒出"
+  ]
+}

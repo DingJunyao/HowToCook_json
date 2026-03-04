@@ -1,0 +1,179 @@
+{
+  "name": "蚂蚁上树",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/蚂蚁上树.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 20,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "红薯粉丝",
+      "quantity": 40,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "干重",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "猪肉末",
+      "quantity": 75,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "或牛肉末",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "郫县豆瓣酱",
+      "quantity": 7.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 2.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜末",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜末",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "清水",
+      "quantity": 150,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于煮粉丝",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小葱",
+      "quantity": 1,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "红薯粉丝提前泡软，泡水时间为 20 分钟，备用",
+      "duration_minutes": 20,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将蒜、姜分别剁碎，备用",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "锅烧热，加入 5ml 食用油，加入蒜末、姜末炒香",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "加入猪肉末翻炒至肉色发白且微微出油",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "加入郫县豆瓣酱，炒至红油析出",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "加入生抽和老抽，翻炒均匀",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "倒入 150ml 清水，煮沸",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "放入泡软沥干的粉丝，用筷子轻轻拨动防止粘连",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "中小火煮约 5 分钟，直至粉丝完全吸收汤汁、呈现微微收干状态",
+      "duration_minutes": 5,
+      "tips": "用筷子轻轻拨动防止粘连"
+    },
+    {
+      "step": 10,
+      "content": "依据口味可撒入小葱末，关火装盘",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "粉丝不建议煮太久，易断且口感变差；若时间过长汤汁应适当减少",
+    "郫县豆瓣酱含盐量较高，可根据口味酌情减少生抽用量",
+    "可加入 0.5g 白胡椒粉调味，风味更佳"
+  ]
+}

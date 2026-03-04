@@ -1,0 +1,200 @@
+{
+  "name": "山西过油肉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/山西过油肉.md",
+  "category": "荤菜",
+  "difficulty": "expert",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "猪里脊",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜苔",
+      "quantity": 6,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 310,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "300ml用于封浆，10ml用于炒菜",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱姜蒜",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 20,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食盐",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "淀粉",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "建议使用红薯淀粉",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "木耳",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "干品重量，需要提前泡发",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱头",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于腌制肉片",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "陈醋",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "起锅前加入",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花椒粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于腌制和调味",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "起锅前加入",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "木耳提前泡发好，如果着急可以用热水泡发。",
+      "duration_minutes": 30,
+      "tips": "热水泡发可缩短时间，但冷水泡发口感更好"
+    },
+    {
+      "step": 2,
+      "content": "猪里脊切片放入碗中，加 20ml 生抽、料酒、花椒粉，打入一个鸡蛋，拿自己的小手搅拌均匀，加入淀粉（建议红薯淀粉）拌匀，倒入 300ml 食用油封浆，腌制 15 分钟。",
+      "duration_minutes": 15,
+      "tips": "淀粉建议使用红薯淀粉，封浆用油量要足够"
+    },
+    {
+      "step": 3,
+      "content": "蒜苔切段大约 3cm，葱头切菱形块备用。",
+      "duration_minutes": 3,
+      "tips": "蒜苔段长约3厘米，葱头切成菱形块更美观"
+    },
+    {
+      "step": 4,
+      "content": "起锅烧油，油要多一点，油温五成热，下入腌制好的肉片，将肉片打散，捞出控油备用。",
+      "duration_minutes": 5,
+      "tips": "炸肉片时表面微焦即可，注意控制火候"
+    },
+    {
+      "step": 5,
+      "content": "将锅中多余油倒出，留 10ml 油炒菜，油温七成热。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "下入葱姜蒜爆香，先下蒜苔炒至断生，再下入木耳葱头，加入生抽，花椒粉，翻炒几下将之前炸好的肉片下入翻炒。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "加 10g 的盐，起锅前加 10ml 的醋和鸡精，起锅装盘。",
+      "duration_minutes": 1,
+      "tips": "起锅前也可以打个薄薄的水淀粉，口感更佳"
+    }
+  ],
+  "tips": [
+    "炸肉片时表面微焦即可，注意控制火候",
+    "起锅前也可以打个薄薄的水淀粉，口感更佳"
+  ]
+}

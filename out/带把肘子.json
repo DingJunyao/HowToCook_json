@@ -1,0 +1,175 @@
+{
+  "name": "带把肘子",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/带把肘子.md",
+  "category": "荤菜",
+  "difficulty": "expert",
+  "total_time_minutes": 210,
+  "servings": 1,
+  "original_servings": 3,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "带脚、爪猪前肘",
+      "quantity": 417,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "大约二斤五两",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "红豆腐乳",
+      "quantity": 3.33,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "甜面酱",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "蒸制50克，上桌另带小碟",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "精盐",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "红酱油",
+      "quantity": 11.67,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "白酱油",
+      "quantity": 8.33,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 8.33,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "蒜片",
+      "quantity": 16.67,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "姜末",
+      "quantity": 3.33,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "八角",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "桂皮",
+      "quantity": 1.67,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 66.67,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "蒸制75克，上桌另带葱段",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将肘子刮洗干净，肘头朝外、肘把（脚爪）朝里、肘皮朝下放在案板上。",
+      "duration_minutes": 5,
+      "tips": "确保肘子清洗干净"
+    },
+    {
+      "step": 2,
+      "content": "用刀在正中由肘头向肘把沿着腿骨将皮剖开，剔去腿骨两边的肉（三面离肉），底部骨与肉相连，使骨头露出，然后将两节腿骨由中间用斧头砸断。",
+      "duration_minutes": 10,
+      "tips": "使用斧头砸断骨头，动作要稳准"
+    },
+    {
+      "step": 3,
+      "content": "肘子放入煮锅煮至七成熟捞出（外观正常，内部淡红色），用干净抹布擦干水，趁热用红酱油涂抹肉皮。",
+      "duration_minutes": 30,
+      "tips": "七成熟要根据实际情况判断，有条件可询问家中长辈"
+    },
+    {
+      "step": 4,
+      "content": "取蒸锅一个，锅底放入八角、桂皮，先将肘把的关节处用手掰断，不伤外皮，再将肘皮朝下装进蒸锅内，装锅时根据肘子体型，将肘把贴住锅边窝着装进锅内，成为圆形。",
+      "duration_minutes": 5,
+      "tips": "掰断关节时要小心，不要弄破外皮"
+    },
+    {
+      "step": 5,
+      "content": "撒入精盐，用消过毒的干净纱布盖在肉上，再将甜面酱（50 克）、葱（75 克）、红豆腐乳、红酱油、白酱油、姜、蒜等在纱布上抹开，用旺火蒸大约三小时（以蒸烂为准）。",
+      "duration_minutes": 180,
+      "tips": "蒸锅下半放水，上半放肘子，蒸时及时加水防止蒸干"
+    },
+    {
+      "step": 6,
+      "content": "蒸完取出，揭去纱布，扣入盘中，拣去八角，上桌时另带葱段和甜面酱小碟（或将甜面酱抹到肘面上，另带葱段小碟亦可）。",
+      "duration_minutes": 5,
+      "tips": "扣盘时注意保持肘子形状完整"
+    }
+  ],
+  "tips": [
+    "肘子七成熟要根据实际情况判断，有条件可询问家中长辈。",
+    "蒸锅下半放水，上半放肘子，蒸时及时加水防止蒸干。",
+    "上桌时可搭配葱段和甜面酱小碟，口感更佳。"
+  ]
+}

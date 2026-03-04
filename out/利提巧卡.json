@@ -1,0 +1,306 @@
+{
+  "name": "利提巧卡",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/利提巧卡.md",
+  "category": "主食",
+  "difficulty": "expert",
+  "total_time_minutes": 60,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "全麦面粉",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "烤鹰嘴豆粉",
+      "quantity": 60,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "Sattu，可用炒熟的鹰嘴豆磨粉替代",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 0.5,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "青辣椒",
+      "quantity": 1.5,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生姜",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "芥末油",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "Mustard Oil，可用其他食用油替代，但建议使用芥末油",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "柠檬",
+      "quantity": 2.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "柠檬汁",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "香菜叶",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "孜然籽",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "芝麻",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "红辣椒粉",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "印度黑盐",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "Kala Namak，可用普通盐替代",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "温水",
+      "quantity": 50,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于和面",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "酥油",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "Ghee，烤好后涂抹用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "茄子",
+      "quantity": 0.5,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "番茄",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "土豆",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 2,
+      "unit": "瓣",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "在碗中混合烤鹰嘴豆粉 60g、切碎的洋葱 0.5 个、青辣椒 0.75 根、生姜 2.5g",
+      "duration_minutes": 3,
+      "tips": "洋葱和青辣椒需切极细碎"
+    },
+    {
+      "step": 2,
+      "content": "加入孜然籽 1.5g、芝麻 2.5g、红辣椒粉 1.5g、印度黑盐 1.5g、盐 1g",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "加入芥末油 7.5ml、柠檬汁 5ml、切碎的香菜叶 2.5g，充分混合均匀，馅料应呈松散但可捏合的状态",
+      "duration_minutes": 3,
+      "tips": "备用"
+    },
+    {
+      "step": 4,
+      "content": "将全麦面粉 100g 放入大碗中，逐渐加入温水 50ml，边加边揉，揉成光滑柔软的面团",
+      "duration_minutes": 5,
+      "tips": "注意水要逐渐加入，不要一次性倒入"
+    },
+    {
+      "step": 5,
+      "content": "面团静置 15 分钟",
+      "duration_minutes": 15,
+      "tips": "静置期间可准备其他工作"
+    },
+    {
+      "step": 6,
+      "content": "将面团分成 4 个等大的小剂子",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "每个剂子用手压成一个直径约 8cm 的圆形面片（中间稍厚）",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "在面片中央放入约 7.5g 馅料，将面片四周收拢包住馅料，封口处捏紧，搓成圆球",
+      "duration_minutes": 5,
+      "tips": "注意封口要捏紧，避免烤制时馅料漏出"
+    },
+    {
+      "step": 9,
+      "content": "烤箱预热至 200°C",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "将利提放在烤盘上，烤 25-30 分钟，期间翻面一次，直至表面金棕色且有裂纹",
+      "duration_minutes": 30,
+      "tips": "如果使用明火：将利提直接放在炭火或煤气灶小火上烤，不断翻转，直至均匀焦黄"
+    },
+    {
+      "step": 11,
+      "content": "烤好后趁热将每个利提表面涂上酥油，使其浸润吸收",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "将茄子、番茄、土豆放在明火上直接烤，或放入 200°C 烤箱烤 20-25 分钟，直至外皮焦黑、内部完全软烂",
+      "duration_minutes": 25,
+      "tips": "可与利提同时烤制"
+    },
+    {
+      "step": 13,
+      "content": "烤好后去皮，将茄子、番茄、土豆分别用叉子或手捣碎",
+      "duration_minutes": 5,
+      "tips": "趁热捣碎更容易操作"
+    },
+    {
+      "step": 14,
+      "content": "将捣碎的蔬菜混合在一起，加入切碎的大蒜 2 瓣、青辣椒 0.25 根、盐 1g、芥末油 7.5ml，充分搅拌混合均匀",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 15,
+      "content": "撒上香菜叶装饰",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 16,
+      "content": "将利提摆盘，旁边放上巧卡蔬菜泥，趁热食用，用手掰开利提蘸巧卡",
+      "duration_minutes": 2,
+      "tips": "趁热食用口感最佳"
+    }
+  ],
+  "tips": [
+    "烤鹰嘴豆粉(Sattu)是比哈尔邦的特色食材，营养价值极高，富含蛋白质和纤维。在中国可能较难购买，可以自制：将鹰嘴豆(Chana)干炒至深棕色后磨成粉。",
+    "传统的利提用牛粪饼火(Cow dung cake fire)烤制，赋予独特的烟熏风味。家用烤箱或明火可以替代。",
+    "芥末油是这道菜的灵魂，不建议替换。如果买不到芥末油，可以使用菜籽油作为次选。",
+    "利提巧卡是印度最古老的食物之一，据传已有数千年历史，是古代士兵的行军食粮。"
+  ]
+}

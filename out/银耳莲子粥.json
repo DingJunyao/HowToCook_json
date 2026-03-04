@@ -1,0 +1,127 @@
+{
+  "name": "银耳莲子粥",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/soup/银耳莲子粥/银耳莲子粥.md",
+  "category": "汤与粥",
+  "difficulty": "medium",
+  "total_time_minutes": 120,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/银耳莲子粥_0.png"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "银耳",
+      "quantity": 60,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "去心莲子",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "红枣",
+      "quantity": 6,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "枸杞",
+      "quantity": 6,
+      "unit": "g",
+      "quantity_range": {
+        "min": 5,
+        "max": 6
+      },
+      "is_optional": true,
+      "note": null,
+      "original_quantity": "5-6g",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冰糖",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": {
+        "min": 10,
+        "max": 20
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 600,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "把银耳、莲子用清水浸泡 2 个小时，红枣浸泡 10 - 20 分钟，枸杞洗净，备用",
+      "duration_minutes": 120,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "在锅中倒入 600ml 水，烧开后依次放入银耳、莲子、红枣",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "等待水再次烧开后，盖上锅盖，转至中火继续熬",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "熬到大约 1 小时后，放入 5g - 10g 冰糖和 5g - 6g 枸杞，转至小火熬",
+      "duration_minutes": 60,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "小火继续熬 30 分钟，此时银耳开始呈现粘稠状态",
+      "duration_minutes": 30,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "再次放入 5g - 10g 冰糖，用勺子搅拌 5 - 10 分钟",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "关火，用勺子盛出",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "当银耳呈现粘稠状态时，需要用勺子及时搅拌，防止银耳糊在锅底"
+  ]
+}

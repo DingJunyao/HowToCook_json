@@ -1,0 +1,176 @@
+{
+  "name": "汤面",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/汤面.md",
+  "category": "汤与粥",
+  "difficulty": "easy",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "面条",
+      "quantity": 230,
+      "unit": "g",
+      "quantity_range": {
+        "min": 70,
+        "max": 230
+      },
+      "is_optional": false,
+      "note": "可以是手工面条、龙须面、面鱼、方便面面饼或粉丝",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冷水",
+      "quantity": 400,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 200,
+        "max": 400
+      },
+      "is_optional": false,
+      "note": "能浸没面的量",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "肉类",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "牛羊鱼虾等，生熟皆可",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "蛋类",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "鸡蛋、鸭蛋、鹅蛋等",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "豆制品",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "豆块、豆筋、豆腐皮等",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "青菜",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "生菜、菠菜、油麦菜等",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "蔬菜",
+      "quantity": 80,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "青椒、番茄、胡萝卜等",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "香菇",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "较难煮熟的食材",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "食盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "可根据个人喜好调整",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "胡椒粉",
+      "quantity": 0.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "可根据个人喜好调整",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "香油",
+      "quantity": 3,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "可根据个人喜好调整",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将菜类材料切成边长不超过 4cm 的块状，便于煮熟",
+      "duration_minutes": 5,
+      "tips": "便于快速煮熟"
+    },
+    {
+      "step": 2,
+      "content": "如有生肉，先放入冷水中，盖上锅盖，煮沸腾，先捞出上层血沫，再关火，捞出半熟的肉备用",
+      "duration_minutes": 8,
+      "tips": "去除血沫可使汤更清爽"
+    },
+    {
+      "step": 3,
+      "content": "大火将水加热至沸腾，后调至中火",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "将较难煮熟的食材放入锅中（如半熟肉类、香菇类等），沸腾后计时 10 分钟，特别难熟的大块食材可追加 5 分钟",
+      "duration_minutes": 10,
+      "tips": "大块食材需要更长时间"
+    },
+    {
+      "step": 5,
+      "content": "将面食放入锅中，适当搅拌确保面和汤充分接触，使液面保持轻微沸腾，煮 5 分钟",
+      "duration_minutes": 5,
+      "tips": "加入面后液面易产生白色泡沫，可适当抬起锅盖通气或者撤下锅盖"
+    },
+    {
+      "step": 6,
+      "content": "将易于煮熟的食材如青菜类放入锅中，适当搅拌以充分浸没，煮 2-5 分钟",
+      "duration_minutes": 3,
+      "tips": "青菜不宜煮太久"
+    },
+    {
+      "step": 7,
+      "content": "关火，随后加入盐、胡椒粉、香油等自己喜欢的调味料，适当搅拌即可出锅食用",
+      "duration_minutes": 1,
+      "tips": "建议少量多次添加调料，以免过量"
+    }
+  ],
+  "tips": [
+    "操作流程可根据自己喜好更改，多多尝试会有惊喜",
+    "如掌握不好加盐量，可采用少量多次添加的方法，以免过量"
+  ]
+}

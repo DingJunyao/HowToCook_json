@@ -1,0 +1,146 @@
+{
+  "name": "排骨苦瓜汤",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/soup/排骨苦瓜汤/排骨苦瓜汤.md",
+  "category": "汤与粥",
+  "difficulty": "medium",
+  "total_time_minutes": 240,
+  "servings": 1,
+  "original_servings": 4,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "排骨",
+      "quantity": 125,
+      "unit": "g",
+      "quantity_range": {
+        "min": 62.5,
+        "max": 125
+      },
+      "is_optional": false,
+      "note": "可求助摊主剁成小块",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "苦瓜",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": {
+        "min": 25,
+        "max": 50
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "虾皮",
+      "quantity": 3.75,
+      "unit": "g",
+      "quantity_range": {
+        "min": 1.25,
+        "max": 3.75
+      },
+      "is_optional": false,
+      "note": "可用瑶柱代替",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生姜",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": {
+        "min": 1.25,
+        "max": 2.5
+      },
+      "is_optional": true,
+      "note": "用于焯水时去腥",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 275,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 250,
+        "max": 275
+      },
+      "is_optional": false,
+      "note": "汤锅使用1100ml，电压力锅使用1000ml",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 0.6,
+      "unit": "g",
+      "quantity_range": {
+        "min": 0.3,
+        "max": 0.6
+      },
+      "is_optional": false,
+      "note": "出锅时调味，推荐量为每250ml 0.3到0.6g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白胡椒",
+      "quantity": 0.5,
+      "unit": "g",
+      "quantity_range": {
+        "min": 0.1,
+        "max": 0.5
+      },
+      "is_optional": false,
+      "note": "出锅时调味，推荐量为每250ml 0.1到0.5g",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "排骨洗净，切到约 4cm ±2cm * 3 ± 2cm 的小块（如没有剁排骨的工具，可以求助摊主）",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "炒锅倒入冷水 175ml 和排骨一起加热至煮沸，关火捞出排骨",
+      "duration_minutes": 10,
+      "tips": "此步骤为焯水去腥"
+    },
+    {
+      "step": 3,
+      "content": "苦瓜中间切为两半，清除干净内部的种子和苦瓜瓤，切为 0.5 ± 0.3 cm 的苦瓜条，洗净",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "汤锅倒入水 275ml 和排骨，大火加热至水沸腾",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "水沸腾后将苦瓜和虾皮下锅转小火，等待 120~240 分钟（在 120 分钟之后可以捞出一块肉进行品尝，若肉可以较为轻松的从骨头上分离即可关火）",
+      "duration_minutes": 180,
+      "tips": "小火慢炖，120分钟后可品尝判断是否熟透"
+    },
+    {
+      "step": 6,
+      "content": "出锅时加盐和白胡椒，推荐量为每 250ml 0.3 到 0.6g 盐，0.1 到 0.5g 白胡椒",
+      "duration_minutes": 2,
+      "tips": "电压力锅烹饪步骤：倒入 250ml 水和排骨，虾皮和苦瓜，选择炖汤功能进行烹饪（一般为加压烹饪 45 分钟），出锅同样进行加盐和胡椒"
+    }
+  ],
+  "tips": [
+    "可以使用其他带有鲜味的食材代替虾皮，如瑶柱",
+    "使用电压力锅可以极大简化烹饪过程和时间，加压烹饪约45分钟即可",
+    "砂锅相比于炒锅更适合炖汤"
+  ]
+}

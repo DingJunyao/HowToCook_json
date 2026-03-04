@@ -1,0 +1,141 @@
+{
+  "name": "清蒸鲈鱼的做法",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md",
+  "category": "水产",
+  "difficulty": "medium",
+  "total_time_minutes": 20,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/清蒸鲈鱼_0.jpg",
+    "images/清蒸鲈鱼_1.jpg",
+    "images/清蒸鲈鱼_2.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "鲈鱼",
+      "quantity": 500,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "害怕杀鱼的同学可以让店家帮忙杀",
+      "original_quantity": "一条",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "香葱",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "三根",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "一块",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 10,
+        "max": 15
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "10-15ml",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒸鱼豉油",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 10,
+        "max": 15
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "10-15ml",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 10,
+        "max": 15
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "10-15ml",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用盐",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": {
+        "min": 5,
+        "max": 10
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "5-10g",
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "姜切片切丝、香葱的葱白切段，葱绿切丝，切丝后放入冷水浸泡备用。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "鲈鱼处理好后洗净，用厨房纸擦干，两面分别划几刀，用盐洗掉鱼身的粘液，并用 10g 盐抹遍鱼身的内外，腌制 10 分钟以上。",
+      "duration_minutes": 10,
+      "tips": "补充一个鲈鱼改刀和摆盘的方法，改刀后可以让鲈鱼立起来蒸，均匀受热，同时吃起来更加方便，无需翻面。"
+    },
+    {
+      "step": 3,
+      "content": "鱼肚内塞上姜和葱白，鱼身也撒上姜和葱白，量为备用的一半。蒸鱼的碟子用筷子将鱼跟碟子隔开蒸。",
+      "duration_minutes": 2,
+      "tips": "蒸鱼需要用筷子隔开装鱼的盘子，这样做的好处有两点：1、鱼在蒸的过程中会将水滴到盘子，如果鱼直接接触会导致鱼食用时会腥。2、能够将鱼均匀受热。"
+    },
+    {
+      "step": 4,
+      "content": "水烧热感觉到水温后放进入鱼，大火清蒸 10 分钟。",
+      "duration_minutes": 10,
+      "tips": "鱼的大小跟火候都会相关，太久会导致鱼肉太老极度影响口感，太短会导致部分鱼肉没熟。所以大火蒸鱼一般是 10 分钟内较佳。"
+    },
+    {
+      "step": 5,
+      "content": "蒸好的鱼，用干净的盘子装起来并去除身上姜蒜，鱼身浇上 15ml 蒸鱼豉油。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "鱼身重新撒上姜和葱丝，锅内加上 10ml 食用油并烧热，将食用油淋至鱼身即可出菜。",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "这道菜属于有手就行，关键点在于火候。",
+    "蒸鱼需要用筷子隔开装鱼的盘子，这样做的好处有两点：1、鱼在蒸的过程中会将水滴到盘子，如果鱼直接接触会导致鱼食用时会腥。2、能够将鱼均匀受热。",
+    "这道菜难度系数简单，而且味道非常棒哦"
+  ]
+}

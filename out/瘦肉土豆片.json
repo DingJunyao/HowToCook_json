@@ -1,0 +1,138 @@
+{
+  "name": "瘦肉土豆片",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 60,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/瘦肉土豆片_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "纯瘦肉",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "土豆",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜苗",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约 2 根",
+      "original_quantity": "2 根",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生粉",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "玉米淀粉或其他淀粉",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "土豆去皮、对半切开，再切成约 2mm 的薄片，备用",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "蒜苗洗净，切成约 1cm 的段，备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "瘦肉洗净切成约 2mm 的薄片，放入碗中，加入 5g 生粉、5g 生抽、3g 老抽腌制十分钟，备用",
+      "duration_minutes": 12,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "瘦肉腌制时，烧一锅开水，将土豆片放入锅中，焯水，约 5 分钟",
+      "duration_minutes": 6,
+      "tips": "土豆片焯水注意不宜太久，防止土豆片变软"
+    },
+    {
+      "step": 5,
+      "content": "热锅，锅内放入 10ml - 15ml 食用油。等待 10 秒让油温升高",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "放入瘦肉，翻炒至变色，倒入蒜苗一起炒，蒜苗炒约 20 秒",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "放入土豆，保持翻炒，加入 2g 食用盐、5g 生抽",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "炒约 3 分钟，盛盘",
+      "duration_minutes": 3,
+      "tips": "腌制瘦肉要搅拌均匀"
+    }
+  ],
+  "tips": [
+    "土豆片焯水注意不宜太久，防止土豆片变软",
+    "腌制瘦肉要搅拌均匀"
+  ]
+}

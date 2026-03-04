@@ -1,0 +1,149 @@
+{
+  "name": "炒馍",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/炒馍.md",
+  "category": "主食",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "馒头",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "隔天略硬更好",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "花生油或芝麻油更好",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "孜然粉",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "辣椒粉",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "五香粉",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小葱",
+      "quantity": 1,
+      "unit": "棵",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将馒头切成小块或小片",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "选有鸡蛋的话将鸡蛋打进碗里，打散（可加盐和五香粉各 1g 或不加，等炒的过程中加）",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "鸡蛋浇在馒头上，拌匀，鸡蛋不宜过多",
+      "duration_minutes": 1,
+      "tips": "鸡蛋不宜过多"
+    },
+    {
+      "step": 4,
+      "content": "大火热锅，倒入食用油（不锈钢锅怕伤锅的话可以先倒油，烧至油热也可也可）",
+      "duration_minutes": 1,
+      "tips": "不锈钢锅怕伤锅的话可以先倒油，烧至油热"
+    },
+    {
+      "step": 5,
+      "content": "将馍丁放进去翻炒，翻炒均匀",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "将火调小，炒至馍丁呈金黄色",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "放入盐，胡椒粉，五香粉",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "最后将葱花放入一起翻炒几下，关火出锅",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "炒的过程中要注意控制火候，以防炒糊",
+    "火大补救措施将火调小，可沿锅边加油润锅或洒水，注意不要全倒在一个地方，最好分散开",
+    "调味料可根据个人喜好放入其他香料（比如南德调味料）",
+    "如果喜欢吃脆的，可以将火开到最小，多翻炒一会，关火后趁锅热再放置一会再倒出，更香脆",
+    "辅料也可根据个人口味方位蒜末，蒜苗等，可以单独爆香在混合"
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "name": "粉蒸肉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/粉蒸肉.md",
+  "category": "荤菜",
+  "difficulty": "hard",
+  "total_time_minutes": 90,
+  "servings": 1,
+  "original_servings": 3,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "五花肉",
+      "quantity": 83.33,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "肥瘦相间",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒸肉米粉",
+      "quantity": 16.67,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐使用李锦记或自制",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 2.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 1.67,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 2.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "郫县豆瓣酱",
+      "quantity": 1.67,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 1.67,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切末",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 1.67,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切末",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白砂糖",
+      "quantity": 0.83,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "土豆",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "或南瓜，作为垫底食材",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "清水",
+      "quantity": 333.33,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "蒸锅用",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将五花肉洗净，切成长约 5cm、宽约 3cm、厚度约 0.5cm 的肉片",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将姜、蒜切成颗粒直径不大于 1mm 的细末",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "取一大碗，放入切好的五花肉、生抽、老抽、料酒、郫县豆瓣酱、姜末、蒜末、白砂糖",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "用筷子搅拌均匀后，盖上保鲜膜，室温（20°C - 25°C）静置腌制 30 分钟",
+      "duration_minutes": 30,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "腌制完成后，加入蒸肉米粉，继续翻拌 2 分钟，确保每片肉都均匀裹粉",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "土豆去皮，切片厚度控制在 0.8cm，片面积约为 5cm x 5cm，重量控制在 300g",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "在直径 20cm 的深碗底部铺满土豆片，尽量无重叠",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "将拌好粉的五花肉均匀铺在土豆片上，压实",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "蒸锅中加入清水，开火加热至水面持续冒泡（100°C）",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "将装好食材的碗放入蒸锅内，盖好锅盖",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "保持中火蒸 60 分钟（火力保持在可持续沸腾的程度，约 600W 热功率）",
+      "duration_minutes": 60,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "时间结束后，用筷子插入肉块中央，若能轻松穿透并无明显阻力，则表明蒸熟",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 13,
+      "content": "若未达到此状态，则继续加热 10 - 15 分钟，直至肉质软烂，油脂渗出",
+      "duration_minutes": 15,
+      "tips": null
+    },
+    {
+      "step": 14,
+      "content": "取出盛盘，即可食用",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "如需自制米粉，可将大米 150g 放入锅中，中小火炒至微黄色（约 8 分钟），再加入干辣椒 1g、花椒 1g、八角 0.5g，炒香后用料理机打碎，过筛备用",
+    "蒸制期间如水量低于锅底高度 1cm，应立即补充 500ml 热水（90°C 以上），以维持蒸汽充足"
+  ]
+}

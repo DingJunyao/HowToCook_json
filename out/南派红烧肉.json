@@ -1,0 +1,222 @@
+{
+  "name": "南派红烧肉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/红烧肉/南派红烧肉.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 75,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "猪五花肉",
+      "quantity": 350,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "约 2 斤",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "油",
+      "quantity": 50,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 33,
+        "max": 50
+      },
+      "is_optional": false,
+      "note": "色拉油、猪油、花生油都可以",
+      "original_quantity": "100-150ml",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 2,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "每片厚度约 3mm",
+      "original_quantity": "6 片",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "冰糖",
+      "quantity": 5,
+      "unit": "块",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "约 15 块",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "白砂糖",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "30g",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "15ml",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 7,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "20ml",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香叶",
+      "quantity": 1,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "4 片",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "八角",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "3 个",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "2-3g",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "小葱白色的部分葱白切成小段，小葱最佳，大葱也可以",
+      "original_quantity": "2/5 葱姜",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "中间切开，不要拍扁",
+      "original_quantity": "中间切开",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "花椒",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "10g",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "凉水",
+      "quantity": 500,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "没过食材的量即可",
+      "original_quantity": "没过食材的量即可",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "开水",
+      "quantity": 500,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "没过食材的量即可",
+      "original_quantity": "没过食材的量即可",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "准备食材：猪五花肉切大块（约 4.5cm），生姜切片（每片厚度约 3mm），小葱白色的部分葱白切成小段，蒜中间切开不要拍扁",
+      "duration_minutes": 5,
+      "tips": "把刀磨的锋利一些"
+    },
+    {
+      "step": 2,
+      "content": "烧开开水，准备自来水作为凉水。建议先拿出来一半葱姜，将剩下的生姜、葱白、蒜、花椒、八角、香叶提前放入一个碗中备用",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "焯水去腥：凉水锅中放入切好的五花肉，加入料酒与 2/5 葱姜，煮 15 分钟去掉血腥，捞出来后洗干净",
+      "duration_minutes": 15,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "炒糖色：按照简易版炒糖色教程的操作 2 来制作糖色",
+      "duration_minutes": 5,
+      "tips": "参考简易版炒糖色教程"
+    },
+    {
+      "step": 5,
+      "content": "大火翻炒：将准备好的生姜、葱白、蒜、花椒、八角、香叶还有五花肉倒入锅中大火翻炒，期间加入至闻到香味",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "倒入开水至没过全部肉炖煮 50-60 分钟（使用高压锅则 40 分钟）",
+      "duration_minutes": 55,
+      "tips": "高压锅可缩短至 40 分钟"
+    },
+    {
+      "step": 7,
+      "content": "加入 10ml 料酒，盖上锅盖煮至沸腾后，每隔 25 分钟打开盖子将浮在表面的油和沫捞出",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "当水的高度减至肉最高的高度与锅底高度的 3/5 时，转中火，并捞出除肉和水以外的所有辅料，开始收汁",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "收汁出锅：打开锅盖，待汤汁快没有的时粘稠状出锅（切记不可收干）",
+      "duration_minutes": 10,
+      "tips": "切记不可收干，汤汁保持粘稠状"
+    }
+  ],
+  "tips": []
+}

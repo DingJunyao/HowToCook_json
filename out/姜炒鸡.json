@@ -1,0 +1,188 @@
+{
+  "name": "姜炒鸡",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/姜炒鸡/姜炒鸡.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 40,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/姜炒鸡_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡",
+      "quantity": 325,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "土鸡最好",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 25,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "茶油最好，没有就用菜籽油",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生姜",
+      "quantity": 125,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "啤酒",
+      "quantity": 125,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小米椒",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": {
+        "min": 0,
+        "max": 25
+      },
+      "is_optional": true,
+      "note": "根据辣口味调整",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "美人辣",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": {
+        "min": 0,
+        "max": 25
+      },
+      "is_optional": true,
+      "note": "没有可以用小米椒代替",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "泡椒",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于腌制",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "鸡尽量剁成 1cm 的小块，洗净后滤干，再放生抽腌和料酒腌制 30 分钟",
+      "duration_minutes": 30,
+      "tips": "腌制时间充足可更好入味"
+    },
+    {
+      "step": 2,
+      "content": "先热锅到微微冒烟，放入食用油，等 5 秒",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "下入姜片后转中火炒 30 秒",
+      "duration_minutes": 0.5,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "下入鸡块翻炒 3 分钟，炒干水分，炒出鸡油",
+      "duration_minutes": 3,
+      "tips": "要耐心炒出鸡油，这样更香"
+    },
+    {
+      "step": 5,
+      "content": "放入各种剁碎的辣椒和大蒜子，加盐和老抽继续翻炒 30 秒",
+      "duration_minutes": 0.5,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "倒入啤酒，中小火焖 2 分钟",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "大火收汁盛盘",
+      "duration_minutes": 3,
+      "tips": "大火收汁可以让菜品更有光泽"
+    }
+  ],
+  "tips": [
+    "湖南口味菜，下饭五颗星",
+    "食材平平无奇又十分容易烹制，一学就会"
+  ]
+}

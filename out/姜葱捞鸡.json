@@ -1,0 +1,153 @@
+{
+  "name": "姜葱捞鸡",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 45,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡腿",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约2个",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐焗鸡粉",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "可根据口味切成姜蓉、姜丝或姜粒",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 0.5,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切成0.5cm小段",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "糖",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "油",
+      "quantity": 17.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "其中2.5ml用于腌制，15ml用于制作姜葱油",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将鸡腿清洗干净，放入碗中",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "碗中加入盐焗鸡粉和 2.5ml 油，搅拌均匀",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "让鸡腿静置腌制 15 分钟，同时准备蒸锅并把水煮开",
+      "duration_minutes": 15,
+      "tips": "腌制期间可以准备其他食材"
+    },
+    {
+      "step": 4,
+      "content": "鸡腿腌制完成后，放入水开后的蒸锅中，蒸制 20 分钟",
+      "duration_minutes": 20,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "将姜根据个人口味切成姜蓉、姜丝或姜粒",
+      "duration_minutes": 3,
+      "tips": "姜蓉、姜丝、姜粒三种切法可选"
+    },
+    {
+      "step": 6,
+      "content": "将葱切成 0.5cm 小段",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "将葱姜放入蘸料碗，并加入盐和糖",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "将剩余的油倒入另一个锅中加热至六至七层热",
+      "duration_minutes": 2,
+      "tips": "油温六至七成热约160-180℃"
+    },
+    {
+      "step": 9,
+      "content": "将热油淋入葱姜碗中，制成姜葱油",
+      "duration_minutes": 1,
+      "tips": "倒入时要小心热油飞溅"
+    },
+    {
+      "step": 10,
+      "content": "鸡腿蒸好后将其撕碎成鸡丝，大概 1cm 粗就可以",
+      "duration_minutes": 5,
+      "tips": "不需要特别细"
+    },
+    {
+      "step": 11,
+      "content": "将姜葱油淋在鸡丝上，搅拌均匀即可",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "参考: 白饭杀手来啦 #姜葱捞鸡-哔哩哔哩 (https://b23.tv/2trBdqJ)"
+  ]
+}

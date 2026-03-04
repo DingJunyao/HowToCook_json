@@ -1,0 +1,147 @@
+{
+  "name": "酸梅汤",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/drink/酸梅汤/酸梅汤.md",
+  "category": "饮料",
+  "difficulty": "medium",
+  "total_time_minutes": 360,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/酸梅汤_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "水",
+      "quantity": 2600,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "乌枣",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "乌梅",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黄冰糖",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "山楂片",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "生",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "甘草",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "陈皮",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "红豆蔻",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "干桂花",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "冲洗材料（干桂花和冰糖除外），用 1.5 升水常温浸泡两小时以上",
+      "duration_minutes": 120,
+      "tips": "浸泡时间不能少于两小时"
+    },
+    {
+      "step": 2,
+      "content": "开中大火煮沸，盖盖，转小火煮 40 分钟，为头煎",
+      "duration_minutes": 40,
+      "tips": "需要盖盖煮制"
+    },
+    {
+      "step": 3,
+      "content": "将冰糖放入盆内，再将沥好用材的头汤趁热倒入，搅拌至冰糖融化",
+      "duration_minutes": 5,
+      "tips": "趁热倒入以加速冰糖融化"
+    },
+    {
+      "step": 4,
+      "content": "药材重新装回锅内再加 600 毫升的水，开大火煮沸，盖盖，转中火，再煮 20 分钟为二煎",
+      "duration_minutes": 20,
+      "tips": "二煎使用中火"
+    },
+    {
+      "step": 5,
+      "content": "最后将二煎和冰糖水趁热混合为成品。在成品 60-70℃ 时加入干桂花（不要超过 80℃）加盖晾凉再放入冰箱冷藏 3 小时以上",
+      "duration_minutes": 180,
+      "tips": "干桂花温度不能超过 80℃，否则香味会挥发"
+    },
+    {
+      "step": 6,
+      "content": "饮用时记得将干桂花沥出",
+      "duration_minutes": 1,
+      "tips": "如饮茶般细啜，冰凉振齿，酸醒人、甜适度，滋味丰满而悠长"
+    }
+  ],
+  "tips": [
+    "放入冰箱冷藏后再饮用效果更佳",
+    "干桂花温度不能超过 80℃，否则香味会挥发",
+    "所有用量可以等比例增加或减小"
+  ]
+}

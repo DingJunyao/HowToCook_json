@@ -1,0 +1,106 @@
+{
+  "name": "炒滑蛋",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/炒滑蛋/炒滑蛋.md",
+  "category": "早餐",
+  "difficulty": "simple",
+  "total_time_minutes": 5,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/炒滑蛋_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 4,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "最好是无菌蛋",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "牛奶",
+      "quantity": 30,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "5ml搅拌用，5ml炒制用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黑胡椒",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": {
+        "min": 0.5,
+        "max": 2
+      },
+      "is_optional": true,
+      "note": "根据个人口味调整",
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "食盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": {
+        "min": 1,
+        "max": 2
+      },
+      "is_optional": true,
+      "note": "根据个人口味调整",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "鸡蛋加入牛奶以及 5ml 食用油搅拌均匀，备用",
+      "duration_minutes": 1,
+      "tips": "最好使用无菌蛋"
+    },
+    {
+      "step": 2,
+      "content": "大火烧热平底锅约 30s, 加入 5ml 食用油",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "烧 30s 转小火, 并且放入搅拌好的鸡蛋",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "在锅中静置 5 秒后，用锅铲将蛋液从边缘缓慢推向中间",
+      "duration_minutes": 1,
+      "tips": "小火操作，避免鸡蛋变老"
+    },
+    {
+      "step": 5,
+      "content": "翻炒至鸡蛋大致凝固后关火，装盘",
+      "duration_minutes": 1,
+      "tips": "鸡蛋大致凝固即可，避免炒得过老"
+    }
+  ],
+  "tips": [
+    "最好使用无菌蛋以确保安全",
+    "最后可根据个人口味撒些黑胡椒或者盐来调味"
+  ]
+}

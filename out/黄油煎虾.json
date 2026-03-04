@@ -1,0 +1,135 @@
+{
+  "name": "黄油煎虾",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/黄油煎虾/黄油煎虾.md",
+  "category": "水产",
+  "difficulty": "medium",
+  "total_time_minutes": 60,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/黄油煎虾_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "鲜虾",
+      "quantity": 300,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "强推肉质紧实的九节虾，普通明虾也可以",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黄油",
+      "quantity": 7,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐安佳，一次用一小盒 7g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黑胡椒粒",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "瓶磨的那种",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 45,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "米酒",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "鲜虾摘除头部，顺带扯出虾线（这步处理不好可在下一步开背时取出虾线），使用剪刀剪开或菜刀片开虾背，沥干水分备用",
+      "duration_minutes": null,
+      "tips": "这步处理不好可在下一步开背时取出虾线"
+    },
+    {
+      "step": 2,
+      "content": "调制酱汁：小碗放入上述量的全部生抽、米酒、白糖、盐搅匀备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "中大火热锅，热锅内放入食用油，等待 10 秒让油温升高",
+      "duration_minutes": 1,
+      "tips": "等待 10 秒让油温升高"
+    },
+    {
+      "step": 4,
+      "content": "虾全部放入锅中，开始瓶磨黑胡椒，均匀地撒在虾上翻炒",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "虾变色后加入黄油，黄油完全融化后倒入调制酱汁，继续翻炒",
+      "duration_minutes": 2,
+      "tips": "黄油完全融化后倒入调制酱汁"
+    },
+    {
+      "step": 6,
+      "content": "大火翻炒 15 秒收汁即可装盘",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "虾开背才更好入味，不过处理时切记切记小心用刀，新手容易伤到手"
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "name": "白灼菜心",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/白灼菜心/白灼菜心.md",
+  "category": "素菜",
+  "difficulty": "medium",
+  "total_time_minutes": 15,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/白灼菜心_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "菜心",
+      "quantity": 125,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "新鲜菜心",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于料汁和煮菜",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "调味",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "调味",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "煮菜用2g，料汁用1g",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "糖",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "料汁调味",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 2.5,
+      "unit": "瓣",
+      "quantity_range": {
+        "min": 2,
+        "max": 3
+      },
+      "is_optional": false,
+      "note": "切成蒜末",
+      "original_quantity": "四五瓣",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小米辣",
+      "quantity": 1,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切成碎",
+      "original_quantity": "一两根",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "清水",
+      "quantity": 300,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "煮菜250ml，料汁50ml",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "切碎，可选",
+      "original_quantity": "少量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "生姜",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "切姜丝，可选",
+      "original_quantity": "一点点",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "菜心洗净，去除根部比较硬或老的地方。用刀刮菜心根茎部分，刮掉外面那层比较硬的，菜心内部更可口",
+      "duration_minutes": 3,
+      "tips": "注意根茎白灼时长，时间太长的话根茎不脆了"
+    },
+    {
+      "step": 2,
+      "content": "大蒜切成蒜末，有洋葱的话加一点洋葱切丁",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "调制灵魂料汁：生抽、蚝油，加糖和清水成一碗汁",
+      "duration_minutes": 2,
+      "tips": "如果加淀粉，汤汁煮沸后更容易挂在菜心上，味道会更重一些"
+    },
+    {
+      "step": 4,
+      "content": "一锅清水加2g盐和5g食用油烧开",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "将菜心根茎在沸水中烫1分钟，直到根茎颜色变成深绿。再将整个菜心放到锅中烫熟1分钟，捞起来码入盘中",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "开另一小锅，先倒油，五成热后倒入一半蒜末和洋葱，稍稍爆香后加入料汁，小火烧开，放入一点点姜丝和小米椒碎煮开",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "料汁稍微收汁，煮沸后稍等十来秒，直接浇在菜心上",
+      "duration_minutes": 1,
+      "tips": "不要特别多，但蒜末很给力不要少蒜"
+    }
+  ],
+  "tips": [
+    "选择菜心一定要比较新鲜",
+    "锅内烧清水要加油和盐"
+  ]
+}

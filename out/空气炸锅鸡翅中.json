@@ -1,0 +1,68 @@
+{
+  "name": "空气炸锅鸡翅中",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/semi-finished/空气炸锅鸡翅中/空气炸锅鸡翅中.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 40,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/空气炸锅鸡翅中_0.jpg",
+    "images/空气炸锅鸡翅中_1.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡翅中",
+      "quantity": 3,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐泰森奥尔良鸡翅中，已腌好",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "罗勒碎",
+      "quantity": 1,
+      "unit": "撮",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "撒上去纯粹为了好看",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "云南单山蘸水",
+      "quantity": 1,
+      "unit": "撮",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "代替烧烤料",
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "鸡翅从冰箱拿出来，鸡翼面朝下放入锡纸烤盘，撒上罗勒碎，盖上保鲜膜自然解冻 20 分钟",
+      "duration_minutes": 20,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "撒上罗勒碎，空气炸锅 200°C，烤 10 分钟",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "翻面，撒上罗勒碎，空气炸锅 200°C，再烤 7 分钟",
+      "duration_minutes": 7,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "推荐购买温控比较好的空气炸锅，不然可能会糊"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "name": "荷兰豆炒腊肠",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/荷兰豆炒腊肠_0.png",
+    "images/荷兰豆炒腊肠_1.png"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "荷兰豆",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "大约 50 个",
+      "original_quantity": "大约 50 个",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "腊肠",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "把荷兰豆去掉蒂，有时间的也可以同时把尾部去掉",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "买腊肠之前可以问老板是生的还是熟的，如果是生的，需要提前蒸一下，如果是熟的可以直接使用",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "把荷兰豆清洗一下，然后焯一下水，大概 45s，荷兰豆焯至变色即可，捞出过凉水备用",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "热锅，锅内放入大约 10ml 食用油。等待 10 秒让油温升高",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "放入腊肠，保持翻炒至腊肠微微卷边",
+      "duration_minutes": 4,
+      "tips": "注意这里一定要保持小火，小到不能小的那种，不然容易糊"
+    },
+    {
+      "step": 6,
+      "content": "放入荷兰豆，转为中大火，翻炒 30s 放入生抽，接着再翻炒 20-30s 即可",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "在制作过程中没有放盐，是因为腊肠本身会有一些味道，同时生抽也会有一些咸味。",
+    "腊肠虽然味道不错，但属于不太健康的食物，建议少放。"
+  ]
+}

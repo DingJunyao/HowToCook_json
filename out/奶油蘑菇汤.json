@@ -1,0 +1,152 @@
+{
+  "name": "奶油蘑菇汤",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/soup/奶油蘑菇汤.md",
+  "category": "汤与粥",
+  "difficulty": "simple",
+  "total_time_minutes": 15,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "白蘑菇",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黄油",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "面粉",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "牛奶",
+      "quantity": 200,
+      "unit": "mL",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "淡奶油",
+      "quantity": 30,
+      "unit": "mL",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "清水",
+      "quantity": 100,
+      "unit": "mL",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黑胡椒碎",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "白蘑菇切片备用，洋葱切末备用。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "平底锅中放入黄油，小火融化后加入洋葱炒至透明。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "加入白蘑菇翻炒至出水变软，撒入面粉搅拌均匀。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "加入牛奶和清水，搅拌均匀后小火煮沸，保持搅拌防止糊底。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "转小火煮约 10 分钟，汤汁浓稠。",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "倒入淡奶油继续加热 1 分钟，加入盐和黑胡椒调味。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "熄火后可用料理机打成细腻浓汤（可选）。",
+      "duration_minutes": null,
+      "tips": "此步骤为可选操作，使用料理机可以制作更细腻的浓汤口感"
+    }
+  ],
+  "tips": [
+    "可将部分蘑菇预留作为装饰，提前煎香再添加。",
+    "使用鸡高汤代替清水风味更佳，建议控制总液体不超过 300 毫升/份。",
+    "喜欢浓汤口感可适当增加面粉和淡奶油用量。",
+    "建议现做现吃，不建议冷藏或冷冻保存。"
+  ]
+}

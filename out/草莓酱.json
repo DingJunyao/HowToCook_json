@@ -1,0 +1,88 @@
+{
+  "name": "草莓酱",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/condiment/草莓酱/草莓酱.md",
+  "category": "甜品",
+  "difficulty": "medium",
+  "total_time_minutes": 90,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/草莓酱_0.jpeg",
+    "images/草莓酱_1.jpeg",
+    "images/草莓酱_2.jpeg",
+    "images/草莓酱_3.png"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "草莓",
+      "quantity": 1200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白砂糖",
+      "quantity": 400,
+      "unit": "g",
+      "quantity_range": {
+        "min": 200,
+        "max": 400
+      },
+      "is_optional": false,
+      "note": "如需要低糖饮食，可以考虑降低到200g",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "草莓洗净去叶",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将草莓切碎放入合适的碗中",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "将白糖倒入碗中与草莓搅拌均匀",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "碗用保鲜膜覆盖静置1小时",
+      "duration_minutes": 60,
+      "tips": "静置可以让草莓出汁，与糖充分融合"
+    },
+    {
+      "step": 5,
+      "content": "将静置的草莓和糖的混合物倒入不粘锅中开大火烧开",
+      "duration_minutes": 5,
+      "tips": "使用不粘锅可以防止粘锅"
+    },
+    {
+      "step": 6,
+      "content": "烧开后转小火不断搅拌直至果酱呈粘稠状关火",
+      "duration_minutes": 15,
+      "tips": "需要持续搅拌防止糊底，观察果酱浓度"
+    },
+    {
+      "step": 7,
+      "content": "待草莓酱冷却后装入准备好的密封罐中",
+      "duration_minutes": null,
+      "tips": "冷却后装入密封罐可以延长保质期"
+    }
+  ],
+  "tips": [
+    "可以买那种一筐一筐卖的小草莓，主要是便宜",
+    "做好的酱抹在面包上非常好吃"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "name": "水煮玉米",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/水煮玉米.md",
+  "category": "主食",
+  "difficulty": "simple",
+  "total_time_minutes": 15,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "新鲜玉米",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "一个带皮玉米",
+      "original_quantity": "一个",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 300,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "淹过玉米约半节指头的水",
+      "original_quantity": "淹过玉米约半节指头",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "煮玉米时加入",
+      "original_quantity": "2克",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "糖",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "根据口味选择加或者不加",
+      "original_quantity": "可选",
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将新鲜玉米剥去外皮，剩部分玉米皮入锅",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "加入淹过玉米约半节指头的水，加盐和糖",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "水煮开之后转至小火，加盖继续煮 15-20 分钟，玉米煮久点没事",
+      "duration_minutes": 20,
+      "tips": "玉米煮久点没关系"
+    },
+    {
+      "step": 4,
+      "content": "煮熟后沥干水分，冷却后食用",
+      "duration_minutes": 2,
+      "tips": "冷却后食用口感更佳"
+    }
+  ],
+  "tips": []
+}

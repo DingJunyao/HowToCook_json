@@ -1,0 +1,84 @@
+{
+  "name": "米粥",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/soup/米粥.md",
+  "category": "汤与粥",
+  "difficulty": "medium",
+  "total_time_minutes": 18,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "大米",
+      "quantity": 85,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 60,
+        "max": 110
+      },
+      "is_optional": false,
+      "note": "洗净备用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 890,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 540,
+        "max": 1320
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "植物油",
+      "quantity": 8.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "与米混合后冷藏",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将 8.5ml 植物油与洗净的大米混合，尽量确保完全混合，即每粒米上至少都沾上少量油",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将米-油混合物品冷藏保存，冷藏时间约 8.5 分钟（可选步骤）",
+      "duration_minutes": 9,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "将米和水加入锅中",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "开大火加热到 1.5 分钟，然后在 T1 之前将火关小",
+      "duration_minutes": 1.5,
+      "tips": "如果忘记此步骤，水可能会漫出而熄灭火焰。非常危险！"
+    },
+    {
+      "step": 5,
+      "content": "继续加热到约 18 分钟，然后关闭火源",
+      "duration_minutes": 16.5,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "米粥具有补脾、和胃、清肺功效，老少皆宜",
+    "水体积是米饭体积的 9-12 倍"
+  ]
+}

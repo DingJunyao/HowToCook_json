@@ -1,0 +1,71 @@
+{
+  "name": "清蒸南瓜",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/清蒸南瓜.md",
+  "category": "素菜",
+  "difficulty": "simple",
+  "total_time_minutes": 17,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "南瓜",
+      "quantity": 300,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将南瓜外皮洗净，去除瓜瓤和籽",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将南瓜切成厚度大约 2 cm 的片，备用",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "在蒸锅中加入 1000 ml 饮用水",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "将切好的南瓜片均匀摆放在盘中",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "待蒸锅中的水烧开后，将装有南瓜的盘子放入蒸锅中",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "盖上锅盖，保持大火蒸 15-20 分钟，直至南瓜变软，可以用筷子轻松穿透",
+      "duration_minutes": 17,
+      "tips": "用筷子测试是判断是否蒸熟的好方法"
+    },
+    {
+      "step": 7,
+      "content": "关火，小心取出盘子",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "南瓜的品种不同，甜度和口感会有差异。老南瓜通常更甜更面",
+    "南瓜皮含有营养，如果喜欢也可以不去皮蒸，但需要彻底洗净",
+    "蒸的时间取决于南瓜块的大小和厚度，以及南瓜的品种"
+  ]
+}

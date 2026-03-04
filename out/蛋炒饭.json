@@ -1,0 +1,209 @@
+{
+  "name": "蛋炒饭",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/蛋炒饭.md",
+  "category": "主食",
+  "difficulty": "medium",
+  "total_time_minutes": 20,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "冷饭",
+      "quantity": 500,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "需将蛋白和蛋黄分开",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "火腿",
+      "quantity": 2,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "火腿肠",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黄瓜",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "胡萝卜",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 12,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 6,
+      "unit": "g",
+      "quantity_range": {
+        "min": 4,
+        "max": 6
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "胡椒粉",
+      "quantity": 8,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香葱",
+      "quantity": 1,
+      "unit": "颗",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "熟肉",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "可选灯影牛肉丝/午餐肉/腊肠/卤肉等",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "米饭提前用铲子铲成小块",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "火腿肠、胡萝卜、黄瓜等根据需求切片或者块状",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "如果家里有熟肉，准备好味道更佳",
+      "duration_minutes": 1,
+      "tips": "灯影牛肉丝/午餐肉/腊肠/卤肉等均可"
+    },
+    {
+      "step": 4,
+      "content": "将蛋白、蛋黄分开，分别打入一个大碗里，各自搅匀",
+      "duration_minutes": 1,
+      "tips": "不要在这一步加盐"
+    },
+    {
+      "step": 5,
+      "content": "大火热锅，待锅里冒烟放入食用油，放入蛋白，待主体凝固后盛出备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "如果油够，则直接放入蛋黄；如果油不够则放入食用油并等其升温到大火热锅",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "待蛋黄主体凝固后，将火调至中小火，倒入火腿肠、熟肉、胡萝卜、黄瓜等备料，翻炒 10 秒钟到爆香",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "重新倒入蛋白，翻炒 5 秒，迅速倒入米饭大火翻炒，为的就是每一粒饭都裹上鸡蛋",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "翻炒过程中将米饭的块状捣碎，待米饭全部捣碎再翻炒均匀即可",
+      "duration_minutes": 4,
+      "tips": "这一步过程会比较长"
+    },
+    {
+      "step": 10,
+      "content": "调至小火，加盐、胡椒粉、生抽",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "进一步翻炒均匀，能看到一些米饭在锅里有'跳起来'的时候其实就已经差不多了",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "最后倒入香葱再翻炒 10 秒",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 13,
+      "content": "关火、盛入碗中",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "使用隔夜的冷饭炒饭最佳，没有冷饭的同学也可以现煮（可以使用冰箱立马给米饭降温），不过要做到'粒粒分明'的口感就需要炒更久",
+    "炒饭要做到'粒粒分明'其实就是要将饭炒干。为什么要用隔夜的冷饭是因为隔夜已经流失了一定的水分"
+  ]
+}

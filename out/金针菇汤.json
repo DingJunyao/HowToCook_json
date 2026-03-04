@@ -1,0 +1,103 @@
+{
+  "name": "金针菇汤",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/soup/金针菇汤.md",
+  "category": "汤与粥",
+  "difficulty": "medium",
+  "total_time_minutes": 5,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "金针菇",
+      "quantity": 500,
+      "unit": "g",
+      "quantity_range": {
+        "min": 400,
+        "max": 500
+      },
+      "is_optional": false,
+      "note": "市场里面售卖的一袋即可",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食盐",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "味精",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "如需要，可在步骤 3 中水沸腾之后将打散的鸡蛋液倒入锅中",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香油",
+      "quantity": 0.5,
+      "unit": "mL",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "出锅后可加入 3-4 滴香油（或者麻油）增香",
+      "original_quantity": "3-4滴",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "金针菇徒手掰散，越散越好不然容易藏牙，洗净备用。",
+      "duration_minutes": null,
+      "tips": "掰散时注意不要太用力，避免弄断金针菇"
+    },
+    {
+      "step": 2,
+      "content": "用菜刀或者水果刀将上述金针菇段段切，可依据个人喜好，但长度不宜超过 5 cm。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "将金针菇放入锅中，加水没过约食材总高度 1.1 倍，沸腾后等待 3 分钟。",
+      "duration_minutes": 3,
+      "tips": "如果喜欢在汤里加入鸡蛋，可在水沸腾之后将打散的鸡蛋液倒入锅中"
+    },
+    {
+      "step": 4,
+      "content": "加入味精和食盐并搅拌。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "继续加热约 30 秒，关火装盘。",
+      "duration_minutes": 1,
+      "tips": "出锅后可加入 3-4 滴香油（或者麻油）增香"
+    }
+  ],
+  "tips": [
+    "金针菇掰散时越散越好，不然容易藏牙",
+    "切金针菇时长度不宜超过 5 cm，方便食用",
+    "可根据个人喜好加入打散的鸡蛋液",
+    "出锅后可加入香油或麻油增香"
+  ]
+}

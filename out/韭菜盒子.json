@@ -1,0 +1,118 @@
+{
+  "name": "韭菜盒子",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/韭菜盒子.md",
+  "category": "主食",
+  "difficulty": "medium",
+  "total_time_minutes": 150,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "韭菜",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "虾仁",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1.5,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "面粉",
+      "quantity": 125,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将面粉放入大碗中，加入水，搅拌成光滑的面团，静置 30 分钟。",
+      "duration_minutes": 35,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "韭菜洗净切碎，加入打散的鸡蛋、2.5g 盐，搅拌均匀。",
+      "duration_minutes": 10,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "将面团分成小剂子，擀成薄圆饼，包入韭菜、虾仁、鸡蛋液。",
+      "duration_minutes": 20,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "热锅，加入食用油，放入包好的韭菜盒子，煎至两面金黄，约 3-4 分钟。",
+      "duration_minutes": 5,
+      "tips": "注意煎制时火候，避免外焦内生"
+    },
+    {
+      "step": 5,
+      "content": "盛盘，稍凉后即可享用。",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "制作时可根据个人口味添加豆腐干等配料。",
+    "注意煎制时火候，避免外焦内生。"
+  ]
+}

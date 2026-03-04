@@ -1,0 +1,151 @@
+{
+  "name": "提拉米苏",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/dessert/提拉米苏/提拉米苏.md",
+  "category": "甜品",
+  "difficulty": "medium",
+  "total_time_minutes": 240,
+  "servings": 1,
+  "original_servings": 4,
+  "images": [
+    "images/提拉米苏_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "马斯卡彭芝士",
+      "quantity": 112.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "手指饼干",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "按容器大小适量使用",
+      "original_quantity": "1 包",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "浓缩咖啡",
+      "quantity": 87.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "放凉后使用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "无菌鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白砂糖",
+      "quantity": 12.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "可可粉",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于表面装饰",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "朗姆酒",
+      "quantity": 8.75,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "不喜欢酒的朋友可省略，可按照自己口味调节",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "分离蛋黄蛋清",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "盛有蛋白的碗中加 2.5g 白砂糖湿性打发",
+      "duration_minutes": 5,
+      "tips": "蛋白湿性打发至提起打蛋器尖端有小弯钩"
+    },
+    {
+      "step": 3,
+      "content": "盛有蛋黄的碗中将 10g 白砂糖分三次加入，搅拌至均匀",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "蛋黄中分三次加入马斯卡彭芝士，搅拌至均匀",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "蛋黄中最后加入朗姆酒，搅拌均匀",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "将打发好的蛋白分三次加入蛋黄芝士液中",
+      "duration_minutes": 3,
+      "tips": "用翻拌手法，避免消泡"
+    },
+    {
+      "step": 7,
+      "content": "手指饼干两面浸湿咖啡液，平铺入容器",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "两层芝士液两层饼干交替放入容器（按照意愿及容器高度酌情处理）",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "放入冰箱冷藏四个小时",
+      "duration_minutes": 240,
+      "tips": "心急的小伙伴可以提早拿出来"
+    },
+    {
+      "step": 10,
+      "content": "取出后在表面筛上可可粉，即可享用",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "蛋白湿性打发至提起打蛋器尖端有小弯钩",
+    "用翻拌手法，避免消泡",
+    "心急的小伙伴可以提早拿出来"
+  ]
+}

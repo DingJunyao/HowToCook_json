@@ -1,0 +1,172 @@
+{
+  "name": "辣椒炒肉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/辣椒炒肉.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "青椒",
+      "quantity": 180,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐用杭椒、螺丝椒，不吃辣的用尖椒、甜椒",
+      "original_quantity": "3个",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "猪瘦肉",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "3g用于腌制，2g用于干煸青椒",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 3,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 3,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生姜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": 2,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "豆豉",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 8,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将青椒洗净，去除青椒把以及青椒籽，再用滚刀手法切好备用",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "大蒜用刀拍一下，再横切成蒜瓣，生姜切碎成姜末",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "将猪瘦肉切成肉片（顺着猪肉的纹理切，即刀和肉的纹理呈水平线，出来的肉片，纹路呈\"川\"字）",
+      "duration_minutes": 2,
+      "tips": "顺着纹理切可以使肉片更嫩滑"
+    },
+    {
+      "step": 4,
+      "content": "将切好的猪肉洗净，放入空碗，再加入计算好的生抽、蚝油、盐搅拌均匀，腌制10分钟",
+      "duration_minutes": 10,
+      "tips": "腌制可以使肉片更入味"
+    },
+    {
+      "step": 5,
+      "content": "热锅，不用倒油，把切好的青椒放入锅中，大火干煸至虎皮状后，再加2g盐继续翻炒1分钟后捞起",
+      "duration_minutes": 4,
+      "tips": "干煸青椒可以去除青涩味"
+    },
+    {
+      "step": 6,
+      "content": "不用洗锅，大火热锅，加入8ml油，等待30s，加入蒜瓣、姜末翻炒15s",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "加入腌制好的猪肉倒入锅内翻炒2分钟，再加入干煸过的青椒翻炒1分钟",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "根据个人口味喜好加入豆豉，最后加入酱油，继续翻炒30s",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "出锅，盛盘",
+      "duration_minutes": 0,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "辣椒只能选择青椒，螺丝椒为最优解，切勿选择其他品种辣椒！",
+    "本道菜需要一定料理基础，不推荐新手尝试"
+  ]
+}

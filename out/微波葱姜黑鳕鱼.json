@@ -1,0 +1,153 @@
+{
+  "name": "微波葱姜黑鳕鱼",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/微波葱姜黑鳕鱼.md",
+  "category": "水产",
+  "difficulty": "medium",
+  "total_time_minutes": 5,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "黑鳕鱼",
+      "quantity": 225,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "带皮",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "青葱",
+      "quantity": 12.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "葱白，切丝",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "青葱",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "葱绿，切细丝",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 6.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "去皮后切丝",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 2.5,
+      "unit": "mL",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": 12.5,
+      "unit": "mL",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "芝麻油",
+      "quantity": 1,
+      "unit": "mL",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花生油",
+      "quantity": 25,
+      "unit": "mL",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "鱼片放入密封袋，鱼皮向下放在盘子中",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "取葱白切丝，姜去皮后切丝，混合在一起后分成两半，分别放在袋内鱼片上",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "袋子倒入料酒",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "封好密封袋，放入微波炉中，中火（800 瓦）微波至不透明且容易散开时（约 3.5-5 分钟），从袋中取出鱼片",
+      "duration_minutes": 4,
+      "tips": "每 2 份的微波时间为约 3.5-5 分钟"
+    },
+    {
+      "step": 5,
+      "content": "去除青葱和姜",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "取酱油、芝麻油，混合均匀后淋在鱼片上",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "取葱绿切细丝，姜去皮后切丝，混合后撒在鱼片上",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "取花生油，在小锅中加热至 190℃",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "将热油淋到放了葱绿的鱼片上，立刻上桌",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "可以使用海鲈鱼、罗非鱼、大比目鱼、龙脷鱼等鱼类替代",
+    "不同鱼类的密度有差别，烹饪时间需要调整。海鲈鱼（整条 450g）微波 6.5 分钟；罗非鱼（整条 800g）微波 6 分钟；大比目鱼（切片 170g）微波 2.25 分钟；龙脷鱼（切片 170g）微波 1.5 分钟",
+    "如果想让香气更为浓郁，在微波前可将葱姜与料酒均匀涂抹在鱼片的两侧，再进行微波加热"
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "name": "黄焖鸡",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/黄焖鸡.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 30,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡腿",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": {
+        "min": 200,
+        "max": 250
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菇（干）",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": {
+        "min": 15,
+        "max": 20
+      },
+      "is_optional": false,
+      "note": "干香菇最佳，需提前泡发并留香菇水备用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "青椒",
+      "quantity": 125,
+      "unit": "g",
+      "quantity_range": {
+        "min": 100,
+        "max": 150
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生姜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": {
+        "min": 3,
+        "max": 5
+      },
+      "is_optional": false,
+      "note": "切片",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "干辣椒",
+      "quantity": 3,
+      "unit": "个",
+      "quantity_range": {
+        "min": 2,
+        "max": 3
+      },
+      "is_optional": false,
+      "note": "切成小圈",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白胡椒粉",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于炒糖色",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": 2.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "味精",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "土豆",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": {
+        "min": 75,
+        "max": 100
+      },
+      "is_optional": true,
+      "note": "可使汤汁更粘稠",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "鸡腿洗净，剁成4cm大小的块",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "生姜切片、干辣椒切成小圈",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "香菇切片，青椒切成细长的马蹄状。若为干香菇，洗净灰尘后泡一晚上并留香菇水备用",
+      "duration_minutes": 4,
+      "tips": "若使用干香菇需提前一晚泡发"
+    },
+    {
+      "step": 4,
+      "content": "若有土豆，切为与鸡肉大小类似的滚刀块",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "炒糖色：锅里倒入底油，冷油时放入白糖",
+      "duration_minutes": 2,
+      "tips": "有一定难度，新手可跳至鸡肉炒制并使用老抽替代"
+    },
+    {
+      "step": 6,
+      "content": "小火慢慢加热，待油温逐渐升高，白糖开始融化并变成较深的棕色（期间要不断搅拌，防止糊锅）",
+      "duration_minutes": 3,
+      "tips": "需要不断搅拌防止糊锅"
+    },
+    {
+      "step": 7,
+      "content": "迅速倒入鸡块，转大火，快速翻炒！烹入料酒，继续翻炒片刻",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "将生姜片和干辣椒倒入",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "放入酱油，炒匀",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "倒入香菇水或清水，以能淹住鸡肉为准",
+      "duration_minutes": 1,
+      "tips": "使用香菇水味道更佳"
+    },
+    {
+      "step": 11,
+      "content": "倒入香菇片，白胡椒粉，盐，土豆，翻炒均匀后盖上锅盖焖煮，转中小火15-20分钟，有条件可以转至砂锅",
+      "duration_minutes": 18,
+      "tips": "有条件可转至砂锅焖煮"
+    },
+    {
+      "step": 12,
+      "content": "待鸡肉软烂，汤汁浓稠后（汤汁不要收的太干），最后放入青椒",
+      "duration_minutes": 2,
+      "tips": "汤汁不要收的太干"
+    },
+    {
+      "step": 13,
+      "content": "放入味精，兜炒均匀后关火！青椒基本断生即可，不要炒时间久了",
+      "duration_minutes": 1,
+      "tips": "青椒基本断生即可，不要炒时间久了"
+    }
+  ],
+  "tips": []
+}

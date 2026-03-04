@@ -1,0 +1,169 @@
+{
+  "name": "咸肉菜饭",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/咸肉菜饭.md",
+  "category": "主食",
+  "difficulty": "hard",
+  "total_time_minutes": 60,
+  "servings": 1,
+  "original_servings": 3,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "大米",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 312,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 300,
+        "max": 325
+      },
+      "is_optional": false,
+      "note": "偏硬300ml，偏软325ml，如果加入冬笋，额外加入20ml",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "青菜",
+      "quantity": 133.33,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐矮脚青菜，又称上海青",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "咸肉",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "淡咸肉",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "冬笋",
+      "quantity": 33.33,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "加入冬笋时，水需额外增加20ml",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "猪油",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": {
+        "min": 0,
+        "max": 3
+      },
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白胡椒粉",
+      "quantity": 0.33,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "如果加入冬笋，切薄片后冷水下锅煮10分钟去涩味",
+      "duration_minutes": 10,
+      "tips": "此步骤仅当使用冬笋时执行"
+    },
+    {
+      "step": 2,
+      "content": "咸肉切1 cm小丁",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "咸肉和冬笋冷锅下3.33g猪油、料酒、白糖，中小火煸炒到透明冒泡",
+      "duration_minutes": 8,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "青菜切碎，菜梗和菜叶分开放，菜梗切成0.5 cm边长的正方形小块，菜叶切成长2-3 cm，宽1-1.5 cm的长方形小块",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "菜梗下锅炒到翡翠色",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "米淘净后倒进电饭煲，加水",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "把炒好的咸肉和菜梗铺在米上",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "正常煮饭模式启动，最后10分钟开盖快速铺入菜叶",
+      "duration_minutes": 30,
+      "tips": "煮饭时千万不要搅匀"
+    },
+    {
+      "step": 9,
+      "content": "煮好后焖5分钟，再淋1.67g猪油、白胡椒粉疯狂翻拌均匀",
+      "duration_minutes": 5,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "炒好的咸肉和菜梗铺在饭上，煮饭时千万不要搅匀",
+    "尽量不要买\"家乡鲜肉\"，可以预期会很咸",
+    "如果不是淡咸肉可以混入新鲜五花肉丁，或减少咸肉的用量，或将瘦肉部分切下泡入5%糖水20分钟"
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "name": "烤茄子",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/烤茄子/烤茄子.md",
+  "category": "素菜",
+  "difficulty": "medium",
+  "total_time_minutes": 22,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/烤茄子_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "茄子",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 10,
+        "max": 15
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": {
+        "min": 2,
+        "max": 3
+      },
+      "is_optional": false,
+      "note": "生抽",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小米椒",
+      "quantity": 0.5,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切碎",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "蒜蓉",
+      "quantity": 2,
+      "unit": "瓣",
+      "quantity_range": {
+        "min": 1.5,
+        "max": 2
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "孜然",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": {
+        "min": 0.5,
+        "max": 1.5
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用盐",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": {
+        "min": 0.25,
+        "max": 1
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将酱油、孜然、食用盐、蒜蓉和切碎的小米椒置于碗中，均匀搅拌备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "茄子洗净，用纸巾擦干表面的水分",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "用叉子在茄子的一侧扎 4-8 下",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "使用 7-12ml 的食用油涂满茄子表面",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "将烤箱温度设置为 200℃ （打开烤箱风扇 大火），预热 2 分钟",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "将茄子放入烤箱中层或者上层，烤制 12-15 分钟 （茄子表面有褶皱，且能按压 0.3-0.5cm 的深度即可）",
+      "duration_minutes": 14,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "取出茄子，用刀在茄子上竖着划一个口子。口子居中，上下距 1-1.5cm",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "用小刀或者叉子伸入口子，竖着切割茄子内部",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "将口子微微掰开，倒入第一步准备的酱料",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "再次将茄子放入烤箱，将烤箱温度设置为 200℃ ，烤制 4-7 分钟",
+      "duration_minutes": 6,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "取出，关闭烤箱电源",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "茄子表面有水分、未涂满食用油或未使用叉子扎孔可能导致茄子在烤制的过程中爆裂",
+    "第一次用刀划口子的时候，可以直接将茄子竖直切成两半，然后切割出纹路后涂抹上酱料"
+  ]
+}

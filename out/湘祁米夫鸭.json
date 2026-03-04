@@ -1,0 +1,236 @@
+{
+  "name": "湘祁米夫鸭",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md",
+  "category": "荤菜",
+  "difficulty": "hard",
+  "total_time_minutes": 50,
+  "servings": 1,
+  "original_servings": 4,
+  "images": [
+    "images/湘祁米夫鸭_0.jpg",
+    "images/湘祁米夫鸭_1.jpg",
+    "images/湘祁米夫鸭_2.jpg",
+    "images/湘祁米夫鸭_3.jpg",
+    "images/湘祁米夫鸭_4.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "鸭子",
+      "quantity": 250,
+      "unit": "g",
+      "quantity_range": {
+        "min": 200,
+        "max": 333
+      },
+      "is_optional": false,
+      "note": "必须新鲜现杀的，水鸭或其他品种均可",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "糯米粉",
+      "quantity": 28,
+      "unit": "g",
+      "quantity_range": {
+        "min": 25,
+        "max": 33
+      },
+      "is_optional": false,
+      "note": "增加软糯口感",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "粘米粉",
+      "quantity": 85,
+      "unit": "g",
+      "quantity_range": {
+        "min": 75,
+        "max": 100
+      },
+      "is_optional": false,
+      "note": "主要粉子",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒸肉粉",
+      "quantity": 14,
+      "unit": "g",
+      "quantity_range": {
+        "min": 12,
+        "max": 17
+      },
+      "is_optional": false,
+      "note": "增加五香味道",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "细辣椒粉",
+      "quantity": 14,
+      "unit": "g",
+      "quantity_range": {
+        "min": 0,
+        "max": 14
+      },
+      "is_optional": true,
+      "note": "吃辣则加，增加复合香味",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白胡椒粉",
+      "quantity": 1.4,
+      "unit": "g",
+      "quantity_range": {
+        "min": 1.2,
+        "max": 1.7
+      },
+      "is_optional": false,
+      "note": "增加复合香味",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "五花肉",
+      "quantity": 14,
+      "unit": "g",
+      "quantity_range": {
+        "min": 0,
+        "max": 17
+      },
+      "is_optional": true,
+      "note": "可加可不加",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": {
+        "min": 5,
+        "max": 10
+      },
+      "is_optional": false,
+      "note": "切片",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": {
+        "min": 5,
+        "max": 10
+      },
+      "is_optional": false,
+      "note": "剥皮",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": {
+        "min": 2.5,
+        "max": 3.3
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": {
+        "min": 2.5,
+        "max": 3.3
+      },
+      "is_optional": false,
+      "note": "热锅凉油",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "开水",
+      "quantity": 28,
+      "unit": "g",
+      "quantity_range": {
+        "min": 25,
+        "max": 33
+      },
+      "is_optional": false,
+      "note": "少量多次的加，边加边翻炒",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "葱花",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": {
+        "min": 3,
+        "max": 8
+      },
+      "is_optional": true,
+      "note": "出锅前撒点",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将糯米粉、粘米粉、蒸肉粉、细辣椒粉、盐、白胡椒粉倒一起搅匀",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "鸭子让摊主剁成蒸煮块，姜切片，蒜子剥皮，五花肉切片即可",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "热锅凉油煸炒五花肉出油，再加食用油烧热，下入鸭子煸炒",
+      "duration_minutes": 8,
+      "tips": "五花肉可选"
+    },
+    {
+      "step": 4,
+      "content": "鸭子煸炒到表皮焦变色，下入姜蒜和剩余盐继续煸炒出香味",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "关小火倒入米粉翻炒，使鸭肉均匀裹满米粉子，加入开水少量多次边加边翻炒",
+      "duration_minutes": 5,
+      "tips": "保持小火，米粉要均匀裹上鸭肉"
+    },
+    {
+      "step": 6,
+      "content": "翻炒至鸭肉和米粉有湿感，铲出入碗中，高压锅放水蒸20-25分钟",
+      "duration_minutes": 25,
+      "tips": "是老鸭的话，蒸一个小时以上"
+    },
+    {
+      "step": 7,
+      "content": "出锅前撒点葱花即可享用",
+      "duration_minutes": 1,
+      "tips": "葱花可选"
+    }
+  ],
+  "tips": [
+    "鸭子品种不限，这里用的是水鸭",
+    "蒸20分钟，是老鸭的话，蒸一个小时以上",
+    "粘米粉是主要的粉子，糯米粉是加软糯口感，蒸肉粉是加五香味道，辣椒粉和胡椒粉是加复合香味"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "name": "酸辣蕨根粉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/酸辣蕨根粉.md",
+  "category": "主食",
+  "difficulty": "medium",
+  "total_time_minutes": 10,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "蕨根粉",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "酱料比例3:2:2中的酱油部分，具体量根据蕨根粉多少决定",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "醋",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "酱料比例3:2:2中的醋部分，具体量根据蕨根粉多少决定",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "油泼辣子",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "酱料比例3:2:2中的油泼辣子部分，具体量根据蕨根粉多少决定",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "小米辣",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 2,
+      "unit": "瓣",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "葱",
+      "quantity": 1,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": {
+        "min": 2,
+        "max": 5
+      },
+      "is_optional": true,
+      "note": "如果觉得酱料较为清淡时加入",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "糖",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "如果想要酱料鲜一些时加入",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "锅中加入约为深度 3/5 的水，烧开",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "水沸腾后加入蕨根粉，中小火煮 8 分钟，出锅",
+      "duration_minutes": 8,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "根据配比，加入酱油、醋、油泼辣子到碗中，用筷子蘸取，尝一口",
+      "duration_minutes": 1,
+      "tips": "如果觉得此时酱油味稍浓，加入准备好的盐；如果觉得此时不够鲜，加入准备好的糖"
+    },
+    {
+      "step": 4,
+      "content": "充分搅拌至大部分颗粒状调料溶解",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "将蕨根粉过冷水后放入调好的酱料中，充分搅拌",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "将准备的葱、蒜、小米辣切碎后撒在粉上，完成",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "葱姜蒜为附加调料，加入可以增添风味，不加也并无大碍",
+    "糖和盐根据个人口味，需要加入的具体量不同，请酌情加入",
+    "建议使用碗作为最终装盘餐具，因为使用盘子会使吃粉变得困难一些",
+    "整体口味偏辣，如果不能吃辣请减少油泼辣子的量并且不加入小米辣"
+  ]
+}

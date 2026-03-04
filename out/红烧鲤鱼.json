@@ -1,0 +1,208 @@
+{
+  "name": "红烧鲤鱼",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/红烧鲤鱼.md",
+  "category": "水产",
+  "difficulty": "hard",
+  "total_time_minutes": 40,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鲤鱼",
+      "quantity": 1000,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "大约 2 斤",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "五花肉",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大葱",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 40,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 2,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "蒜瓣",
+      "original_quantity": "3-4 个",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "干辣椒",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "两个",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 25,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "陈醋",
+      "quantity": 25,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "味极鲜",
+      "quantity": 25,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "调色用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 2.5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "提鲜用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2.5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "5g 匙",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "植物油",
+      "quantity": 25,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "炸鱼和煸炒用，倒出后留少量底油",
+      "original_quantity": "多倒点油",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "葱、姜、蒜、干辣椒分别清洗干净。葱白处切段，每段长度约 4cm，再将每段劈为四瓣。姜切片，每片厚度约 3mm。一个大蒜拍碎切末，其余蒜切为二瓣。干辣椒切四段。五花肉切片，约 4cm*4cm。",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "清洗鱼。鱼背肉厚处拉几道斜口，方便入味。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "锅里多倒点油，烧至 7 成热（刚刚开始冒烟），下入鱼炸 1 分钟至鱼皮稍稍变硬捞出备用（注意不要一下锅就拨弄鱼，等炸一会再拨弄、翻面），炸鱼的油倒出，锅里留一点底油。",
+      "duration_minutes": 4,
+      "tips": "不要一下锅就拨弄鱼，等炸一会再拨弄、翻面"
+    },
+    {
+      "step": 4,
+      "content": "将锅里底油烧热，下入五花肉，煸出香味。",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "放入干辣椒、葱、姜、蒜瓣，翻炒 1 分钟。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "将炸好的鱼倒入锅中。沿锅边倒入 25ml 料酒、25ml 陈醋、25ml 味极鲜、10ml 老抽调色、2.5ml 蚝油提鲜、2.5g 盐、25g 白糖，最后加清水没过鱼面。",
+      "duration_minutes": 2,
+      "tips": "沿锅边倒入调料"
+    },
+    {
+      "step": 7,
+      "content": "调至中火，将水烧开。然后调至小火，慢焖入味。15 分钟后，打开锅盖，挑出锅里的葱、姜、蒜、干辣椒。",
+      "duration_minutes": 17,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "调至大火收汁，汤汁剩余 1/4 时，撒点蒜末，关火盛出。红烧鲤鱼出锅！",
+      "duration_minutes": 5,
+      "tips": "汤汁剩余 1/4 时撒蒜末"
+    }
+  ],
+  "tips": [
+    "五花肉煸炒的时候会出猪油，相比较于植物油，动物油脂更香",
+    "煸炒炒至金黄的五花肉炖煮过后吃起来也很香的，相当于配菜",
+    "鱼类本身脂肪含量少，所以香味欠缺，着重的是肉质的口感。所以一般做鱼类菜都建议用猪油",
+    "猪油是做奶白香醇鱼汤的最佳选择"
+  ]
+}

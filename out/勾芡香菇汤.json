@@ -1,0 +1,135 @@
+{
+  "name": "勾芡香菇汤",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/soup/勾芡香菇汤/勾芡香菇汤.md",
+  "category": "汤与粥",
+  "difficulty": "medium",
+  "total_time_minutes": 24,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/勾芡香菇汤_0.jpeg",
+    "images/勾芡香菇汤_1.jpeg",
+    "images/勾芡香菇汤_2.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "鲜香菇",
+      "quantity": 2,
+      "unit": "朵",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香葱",
+      "quantity": 0.5,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用盐",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "2g用于浸泡，3g用于调味",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "开水",
+      "quantity": 300,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "煮制用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生粉",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于制作水淀粉",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 50,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于制作水淀粉",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "香菇切片（每片厚度 0.5-1 cm,厚点相对薄点更有嚼劲），放入大碗中，倒入 2g 食用盐 浸泡 15 分钟",
+      "duration_minutes": 15,
+      "tips": "厚片更有嚼劲"
+    },
+    {
+      "step": 2,
+      "content": "生粉倒入小碗中，加入 50ml 水，搅拌生粉直至融化没有颗粒（即水淀粉）",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "倒掉碗中的盐水，适当去掉香菇本身的水分（方便下一步煎炸）",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "小火，倒入油，待油开始冒小泡（小火 30s ，看每个锅的功率），倒入香菇，每面煎 10s",
+      "duration_minutes": 1,
+      "tips": "此步骤为可选"
+    },
+    {
+      "step": 5,
+      "content": "倒入开水 300ml，调中火再煮 3-5 分钟",
+      "duration_minutes": 4,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "倒入水淀粉，适当搅拌锅中汤汁后，加入 3g 盐、3g 鸡精，最后撒上葱花出锅",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": []
+}

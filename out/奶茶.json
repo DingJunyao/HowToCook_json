@@ -1,0 +1,79 @@
+{
+  "name": "奶茶",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/drink/奶茶.md",
+  "category": "饮料",
+  "difficulty": "simple",
+  "total_time_minutes": 30,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "袋泡红茶",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐立顿黄牌精选红茶",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "全脂奶粉或淡奶",
+      "quantity": 12,
+      "unit": "g",
+      "quantity_range": {
+        "min": 11,
+        "max": 12
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "砂糖",
+      "quantity": 7,
+      "unit": "g",
+      "quantity_range": {
+        "min": 5,
+        "max": 7
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "取袋泡红茶 2 包放入杯中，加入 180-200mL 沸水",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "等待 20 - 30 分钟",
+      "duration_minutes": 25,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "称取 11-12g 奶粉和 5-7g 砂糖，分别加入前一步骤得到的液体中",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "搅拌均匀即可饮用",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "加入沸水后，尽量保持杯子内部温暖，例如使用开口较小的杯子或盖上盖子",
+    "如果气温较低时，使用量杯量取可能导致沸水在冲入红茶前冷却，则可以不使用量杯量取而直接估计其体积",
+    "等待时间结束后可提起或搅动茶包以使冲泡更加均匀"
+  ]
+}

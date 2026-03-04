@@ -1,0 +1,156 @@
+{
+  "name": "凉拌鸡丝",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": 30,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/凉拌鸡丝_0.jpg",
+    "images/凉拌鸡丝_1.jpg",
+    "images/凉拌鸡丝_2.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡胸肉",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "麻油",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "花椒油",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 4,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香醋",
+      "quantity": 4,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 20,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "姜切片，备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "锅中倒入 4 升水",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "加入鸡胸肉、姜片，倒入 20 毫升料酒",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "开大火不盖盖将水烧开，水开后转中火，用勺子将浮沫捞出",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "继续煮 5-7 分钟，如果是非冷冻肉煮 5 分钟，冷冻肉煮 7 分钟。用筷子插入鸡胸肉，如果能轻松插入，代表鸡肉熟了，如果不熟需延长煮制时间",
+      "duration_minutes": 7,
+      "tips": "鸡胸肉大小会影响成熟时间，可以用筷子测试是否熟透"
+    },
+    {
+      "step": 6,
+      "content": "用凉白开水冲泡鸡胸肉，使鸡胸肉降至室温",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "顺着鸡胸肉纹理将鸡胸肉撕成细丝",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "准备一个碗，加入准备好的麻油、生抽、香醋、白糖、盐，搅拌料汁，使糖和盐尽量溶化",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "将料汁倒入鸡丝中，搅拌均匀",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "这道菜是隔离期间用现有材料做的，有条件可以加入香菜、小葱等进行调味",
+    "喜欢吃辣的可以加入辣椒油"
+  ]
+}

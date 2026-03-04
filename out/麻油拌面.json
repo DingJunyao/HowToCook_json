@@ -1,0 +1,131 @@
+{
+  "name": "麻油拌面",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/麻油拌面.md",
+  "category": "主食",
+  "difficulty": "simple",
+  "total_time_minutes": 10,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "快熟面",
+      "quantity": 1,
+      "unit": "块",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "风干快熟面/任何牌子的快熟面（不需要调味料）",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "麻油",
+      "quantity": 15,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "菜谱中煮面用盐30g，但不会被全部食用，实际食用量约2g",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "胡椒粉",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "可选",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 1000,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "煮面用水",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将水倒入锅中并煮沸",
+      "duration_minutes": 3,
+      "tips": "喜欢吃q弹面的同学，可在水里加入30克盐，用盐水煮出来的面会比较q弹"
+    },
+    {
+      "step": 2,
+      "content": "将快熟面放入锅中",
+      "duration_minutes": 0,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "煮3分钟（也可参考当下品牌快熟面的烹饪时间）",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "当面开始散了可以开始搅拌，让面受热均匀",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "将水滤干把面倒入碗中",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "按照上面的计量放入麻油，老抽，胡椒粉，生抽（可选）",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "筷子搅拌均匀",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "这是一道省吃俭用懒人的菜，不需要太多步骤，简单的煮、捞、吃",
+    "适合单身朋友懒得出门又不想花钱时简单解决一餐",
+    "也适合非单身朋友想存钱时的经济选择"
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "name": "中式馅饼",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/中式馅饼/中式馅饼.md",
+  "category": "主食",
+  "difficulty": "hard",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": null,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "面粉",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "非自发粉",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "肉沫",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "油",
+      "quantity": 30,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "宽油起锅、铺底油",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "糖",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生粉",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "酱油",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "风味调料",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "如鸡粉、孜然、椒盐",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蒜头",
+      "quantity": 2,
+      "unit": "瓣",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大葱",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "靠叶部分",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "胡萝卜",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "取肉沫（解冻），加入 1/2 所有调料（油、盐、糖、酱油、风味调料）和全部生粉，搅拌均匀，腌制 30 分钟。",
+      "duration_minutes": 30,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将面粉加入碗中，加入鸡蛋，加入剩下 1/2 所有调料，加入相当于面粉 1/2 的水（使得面粉相对粘稠但可以流动），搅拌均匀。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "蒜头切为蒜末。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "大葱切段。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "胡萝卜切末（作为馅料用，所以要求尽量细碎，可用乱刀）。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "热锅冷油，宽油起锅。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "待油烧热后，放入蒜末爆香。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "加入腌制的肉沫，翻炒，直至断生。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "将胡萝卜末加入肉沫中一同翻炒，直至油被染为金黄色（这是为了萃取胡萝卜的风味）。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "关火。冷却 2 分钟。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "将炒好的肉沫倒入生面糊中，搅匀。",
+      "duration_minutes": null,
+      "tips": "将肉沫和胡萝卜末加入面糊后，应该尽量搅匀，保证味道扩散到饼内各处。"
+    },
+    {
+      "step": 12,
+      "content": "重新开火，平底锅铺底油。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 13,
+      "content": "调至小火，将面糊倒入锅中均匀铺满。保证厚度不要过高。可以端起锅，让面糊流过锅底来完成这一操作。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 14,
+      "content": "在饼的表面尚为液态时，撒上大葱段。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 15,
+      "content": "保持小火，直到底面凝固。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 16,
+      "content": "将饼翻面，继续小火煎烤，直至另一侧凝固。",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 17,
+      "content": "之后，每一面再额外煎 20 秒。关火出锅。",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "将肉沫和胡萝卜末加入面糊后，应该尽量搅匀，保证味道扩散到饼内各处。",
+    "肉沫和胡萝卜末即馅料可以使用各类熟馅料替代。"
+  ]
+}

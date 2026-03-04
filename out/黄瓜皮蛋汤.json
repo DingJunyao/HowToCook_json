@@ -1,0 +1,146 @@
+{
+  "name": "黄瓜皮蛋汤",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/soup/黄瓜皮蛋汤.md",
+  "category": "汤与粥",
+  "difficulty": "easy",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "黄瓜",
+      "quantity": 0.5,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "皮蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 1,
+      "unit": "瓣",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小葱",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 7.5,
+      "unit": "g",
+      "quantity_range": {
+        "min": 5,
+        "max": 7.5
+      },
+      "is_optional": false,
+      "note": "推荐猪油",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 1.5,
+      "unit": "g",
+      "quantity_range": {
+        "min": 1,
+        "max": 1.5
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡精",
+      "quantity": 0.5,
+      "unit": "g",
+      "quantity_range": {
+        "min": 0.25,
+        "max": 0.5
+      },
+      "is_optional": true,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 250,
+      "unit": "ml",
+      "quantity_range": {
+        "min": 200,
+        "max": 250
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "黄瓜洗净，切成 0.5-1.2 mm 厚的薄片",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "葱洗净切成末，蒜用刀拍几下去皮，对半切一下",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "皮蛋剥去壳，然后每个切成 6-8 份。锅里倒入油，放入切好的皮蛋和大蒜",
+      "duration_minutes": 3,
+      "tips": "皮蛋切块时抹点香油不容易粘刀"
+    },
+    {
+      "step": 4,
+      "content": "小火炒至皮蛋和大蒜表面有些焦黄，加入水，转大火烧开",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "放入黄瓜片。水再次沸腾以后立马关火，放入盐、鸡精调味即可出锅",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "装入碗中，再撒上葱花即可",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "黄瓜可以根据喜好决定是否去皮",
+    "黄瓜薄片可以用刮皮刀刮"
+  ]
+}

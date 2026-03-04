@@ -1,0 +1,302 @@
+{
+  "name": "红芸豆拌饭",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/红芸豆拌饭.md",
+  "category": "主食",
+  "difficulty": "medium",
+  "total_time_minutes": 40,
+  "servings": 1,
+  "original_servings": 3,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "干红芸豆",
+      "quantity": 80,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "需提前浸泡 8 小时",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 80,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "番茄",
+      "quantity": 120,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生姜",
+      "quantity": 4,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "磨碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 4.8,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约 1.5 瓣，磨碎",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "青辣椒",
+      "quantity": 0.4,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "切缝",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 12,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "可用酥油替代",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "月桂叶",
+      "quantity": 0.8,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "姜黄粉",
+      "quantity": 1.2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "红辣椒粉",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜粉",
+      "quantity": 2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "孜然粉",
+      "quantity": 1.2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "印度综合香料粉",
+      "quantity": 1.2,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "Garam Masala",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 2.4,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 240,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "煮红芸豆用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "香菜叶",
+      "quantity": 6,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "装饰用",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大米",
+      "quantity": 80,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "可用巴斯马蒂香米",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 160,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "蒸米饭用",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将干红芸豆用清水浸泡至少 8 小时（过夜），浸泡后体积会膨胀约两倍",
+      "duration_minutes": 480,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将浸泡好的红芸豆沥干",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "使用高压锅：放入红芸豆和 240ml 水，盖好锅盖，大火上气后转中火，压 15-20 分钟，直至豆子用手指可轻松压碎。使用普通锅：放入红芸豆和足量水，大火煮沸后转中火，煮 60-90 分钟，直至豆子完全软烂",
+      "duration_minutes": 20,
+      "tips": "推荐使用高压锅，省时高效"
+    },
+    {
+      "step": 4,
+      "content": "煮好后保留煮豆汤水，备用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "在炒锅中倒入 12ml 食用油，中火加热",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "放入月桂叶，炸至散出香味（约 10 秒）",
+      "duration_minutes": 0,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "放入切碎的洋葱，翻炒至金棕色（约 6-8 分钟）",
+      "duration_minutes": 7,
+      "tips": null
+    },
+    {
+      "step": 8,
+      "content": "加入磨碎的生姜和大蒜，翻炒 1 分钟",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "加入切碎的番茄，翻炒至番茄完全软烂出油（约 5 分钟）",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "加入姜黄粉 1.2g、红辣椒粉 2g、香菜粉 2g、孜然粉 1.2g、盐 2.4g，翻炒 2 分钟，使香料与番茄融合",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 11,
+      "content": "将煮好的红芸豆连同汤水一起倒入锅中",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 12,
+      "content": "加入青辣椒，搅拌均匀",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 13,
+      "content": "大火煮沸后转小火，炖 15-20 分钟。期间用铲子背面压碎一部分豆子，使汤汁变得浓稠",
+      "duration_minutes": 18,
+      "tips": "压碎部分豆子可以增加汤汁的浓稠度"
+    },
+    {
+      "step": 14,
+      "content": "加入印度综合香料粉 1.2g，搅拌均匀，关火，撒上香菜叶",
+      "duration_minutes": 1,
+      "tips": "印度综合香料粉(Garam Masala)在最后关火后加入，以保留其香气"
+    },
+    {
+      "step": 15,
+      "content": "将大米淘洗干净",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 16,
+      "content": "放入电饭锅，加入 160ml 水，正常蒸煮即可",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 17,
+      "content": "将米饭盛入盘中，将红芸豆咖喱浇在米饭上或旁边，可搭配洋葱沙拉和柠檬角",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "红芸豆必须煮熟透才能食用，未熟的红芸豆含有植物血凝素(Phytohaemagglutinin)，可能导致食物中毒",
+    "在印度，Rajma Chawal 被认为是最有家的味道的食物，地位类似于中国的红烧肉配米饭",
+    "如果想要更浓郁的口感，可以加入 12ml 淡奶油",
+    "剩余的红芸豆咖喱冷藏保存可达 3-4 天，味道会更好"
+  ]
+}

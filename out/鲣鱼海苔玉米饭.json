@@ -1,0 +1,74 @@
+{
+  "name": "鲣鱼海苔玉米饭",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md",
+  "category": "主食",
+  "difficulty": "medium",
+  "total_time_minutes": 45,
+  "servings": 1,
+  "original_servings": null,
+  "images": [
+    "images/鲣鱼海苔玉米饭_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "东北米",
+      "quantity": 150,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "鲣鱼海苔碎",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "日式拌饭料",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "玉米粒",
+      "quantity": 80,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "即食",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "准备食材：东北米、鲣鱼海苔碎、玉米粒",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "使用电饭煲煮东北米，水没过米 3 毫米",
+      "duration_minutes": 40,
+      "tips": "不推荐使用高压锅煮饭，推荐使用米家 IH 电饭煲"
+    },
+    {
+      "step": 3,
+      "content": "盛好米饭，放入玉米粒拌好",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "放入鲣鱼海苔碎，拌匀即可",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "使用米家小饭煲煮东北米的话，水没过米 3 毫米就行，太多水煮出来不是一粒一粒的饭",
+    "推荐使用米家 IH 电饭煲煮饭，不推荐使用高压锅"
+  ]
+}

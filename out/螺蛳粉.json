@@ -1,0 +1,79 @@
+{
+  "name": "螺蛳粉",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/螺蛳粉.md",
+  "category": "主食",
+  "difficulty": "simple",
+  "total_time_minutes": 15,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "袋装螺蛳粉",
+      "quantity": 450,
+      "unit": "g",
+      "quantity_range": {
+        "min": 400,
+        "max": 500
+      },
+      "is_optional": false,
+      "note": "包含米粉和配料包",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "水",
+      "quantity": 1000,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "煮粉用",
+      "original_quantity": "1L",
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "锅中加水，将水烧开",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "下米粉，煮 3-5 分钟，期间用筷子搅拌，防止米粉粘在一起",
+      "duration_minutes": 5,
+      "tips": "如果想要更有嚼劲的粉，可以缩短煮粉的时间"
+    },
+    {
+      "step": 3,
+      "content": "下汤料包，按个人口味添加",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "下一部分配料包，如木耳，花生，螺蛳（这部分配料需要煮一会才入味）",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "下调味包（醋包、辣椒油），按个人口味添加，搅拌后捞出，放入碗中",
+      "duration_minutes": 1,
+      "tips": "配料的选择请依照个人口味"
+    },
+    {
+      "step": 6,
+      "content": "下剩下的配料包，如酸笋，豆皮（这部分配料不适合被汤泡太久），享用美食",
+      "duration_minutes": 1,
+      "tips": "如果想在螺蛳粉中添加炸蛋，请参考炸蛋的教程"
+    }
+  ],
+  "tips": [
+    "正宗的螺蛳粉是不臭的",
+    "如果想要更有嚼劲的粉，可以缩短煮粉的时间",
+    "如果想在螺蛳粉中添加炸蛋，请参考炸蛋的教程",
+    "配料的选择请依照个人口味"
+  ]
+}

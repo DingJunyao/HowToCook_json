@@ -1,0 +1,241 @@
+{
+  "name": "新疆大盘鸡",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
+  "category": "荤菜",
+  "difficulty": "hard",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [
+    "images/新疆大盘鸡_0.jpeg",
+    "images/新疆大盘鸡_1.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡肉（鸡腿肉）",
+      "quantity": 500,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "鸡腿肉最好",
+      "original_quantity": "1kg",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "土豆",
+      "quantity": 375,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "750g",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大葱",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "100g",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "菜椒",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "可以不用，加上配色好看",
+      "original_quantity": "50g",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "甜椒",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "可以不用，加上配色好看",
+      "original_quantity": "50g",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "白糖",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "20g",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "干线椒",
+      "quantity": 3,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "5个",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 2,
+      "unit": "瓣",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "4瓣",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "油",
+      "quantity": 25,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "50g",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "5g",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 4,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "7ml",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "蚝油",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "10g",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "料酒",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "可以用啤酒代替",
+      "original_quantity": "100g",
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "花椒",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "香叶",
+      "quantity": 2,
+      "unit": "片",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "适量",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "香果",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "肉先剁好，块状，用清水加盐浸泡 5 分钟，去除血水，去腥，然后空干水",
+      "duration_minutes": 5,
+      "tips": "用清水加盐可以有效去血水和腥味"
+    },
+    {
+      "step": 2,
+      "content": "葱蒜辣椒土豆等洗干净，土豆削皮",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "葱白切长段，长度 4cm 一段，菜椒和线椒切块状",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "土豆切成滚刀土豆，即切一刀动滚动一下，一块土豆大概有 4cm*4cm 大小即可",
+      "duration_minutes": 5,
+      "tips": "滚刀切法能增加土豆受热面积"
+    },
+    {
+      "step": 5,
+      "content": "炒糖色：先将油加入锅中，然后将白砂糖放入，用锅铲来回搅拌，将糖炒化，然后炒出焦黄色，此时将空干水的鸡肉倒入锅中翻炒，进行上色",
+      "duration_minutes": 5,
+      "tips": "炒糖色是关键步骤，火候要适中，糖炒至焦黄色即可"
+    },
+    {
+      "step": 6,
+      "content": "放入花椒，香叶，香果，干线椒等进行翻炒",
+      "duration_minutes": 2,
+      "tips": "香料炒出香味即可，不要炒糊"
+    },
+    {
+      "step": 7,
+      "content": "放入盐，生抽，蚝油，料酒，倒入 1 升清水，料酒可以用啤酒代替",
+      "duration_minutes": 2,
+      "tips": "清水倒入后注意观察水量，确保完全没过鸡肉"
+    },
+    {
+      "step": 8,
+      "content": "调至中火，将水烧开，调制中小火慢炖入味",
+      "duration_minutes": 20,
+      "tips": "慢炖是关键，让鸡肉充分入味"
+    },
+    {
+      "step": 9,
+      "content": "当水收至鸡肉即将露出时，将土豆放在锅表面：注意不要翻动土豆，就盖在表面，不然翻到下面容易粘锅，继续盖锅盖炖",
+      "duration_minutes": 10,
+      "tips": "不要翻动土豆，否则容易粘锅"
+    },
+    {
+      "step": 10,
+      "content": "炖一会后将大葱，菜椒和甜椒放入，继续炖。炖到汁收的差不多时可以进行翻面，将土豆与汤汁相吸，最后关火盛出",
+      "duration_minutes": 5,
+      "tips": "汁收得差不多时翻面，让土豆充分吸收汤汁"
+    }
+  ],
+  "tips": [
+    "此做法可以吃面，买粗面剂子，将粗面剂子压扁，然后用手拉成宽面，一定要是宽面，下好后可以放入到大盘鸡中，与汤汁搅拌味道极佳",
+    "土豆不要翻动，容易粘锅"
+  ]
+}

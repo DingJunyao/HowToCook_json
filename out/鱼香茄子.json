@@ -1,0 +1,227 @@
+{
+  "name": "鱼香茄子",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/鱼香茄子/鱼香茄子.md",
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/鱼香茄子_0.jpg",
+    "images/鱼香茄子_1.jpg",
+    "images/鱼香茄子_2.jpg",
+    "images/鱼香茄子_3.jpg",
+    "images/鱼香茄子_4.jpg",
+    "images/鱼香茄子_5.jpg",
+    "images/鱼香茄子_6.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "茄子",
+      "quantity": 2,
+      "unit": "根",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "肉末",
+      "quantity": 20,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": {
+        "min": 3,
+        "max": 5
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "糖",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": {
+        "min": 5,
+        "max": 10
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "味精",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生抽",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "老抽",
+      "quantity": 5,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "醋",
+      "quantity": 10,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "水淀粉",
+      "quantity": 100,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "豆瓣酱",
+      "quantity": 30,
+      "unit": "g",
+      "quantity_range": {
+        "min": 20,
+        "max": 30
+      },
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "小葱",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "根据自己口味",
+      "original_quantity": "根据自己口味",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "姜",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "根据自己口味",
+      "original_quantity": "根据自己口味",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "蒜",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "根据自己口味",
+      "original_quantity": "根据自己口味",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "小米辣",
+      "quantity": 2,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "根据自己口味",
+      "original_quantity": "根据自己口味",
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 300,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于炸茄子和炒菜，实际使用约 60-120ml，剩余可回收",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将茄子切成条",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将肉切成肉沫，葱姜蒜切碎、小米椒切丁",
+      "duration_minutes": 5,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "调鱼香汁：碗中放入盐、味精、糖、生抽、老抽、醋、水淀粉搅拌均匀",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "锅中倒入 300ml 油，开小火，等油温七成热（小火大约 40 秒，有烟冒出）放入茄子炸两分钟，当茄子边缘微黄就捞出。多出的油可以盛出以后炒菜用",
+      "duration_minutes": 5,
+      "tips": "小火容易掌控"
+    },
+    {
+      "step": 5,
+      "content": "锅中留 15-30ml 油，倒入肉沫炒至颜色变白就盛出来",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "锅中倒入 15-30ml 油，放入豆瓣酱、葱白、姜、蒜炒香，然后倒入肉沫翻炒均匀",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "加入 80-150ml 清水（水面预计茄子八成高度为准），倒入茄子、倒入料汁，爆炒入味收汁。最后放入葱翻炒均匀，就可以起锅了",
+      "duration_minutes": 5,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "茄子看个人喜好，可以去皮",
+    "肉沫也可以多放一点"
+  ]
+}

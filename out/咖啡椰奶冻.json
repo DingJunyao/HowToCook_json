@@ -1,0 +1,128 @@
+{
+  "name": "咖啡椰奶冻",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md",
+  "category": "甜品",
+  "difficulty": "medium",
+  "total_time_minutes": 60,
+  "servings": 1,
+  "original_servings": 3,
+  "images": [
+    "images/咖啡椰奶冻_0.png"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "淡奶油",
+      "quantity": 42,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "whipping cream, 35% M.E",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "椰树牌椰汁",
+      "quantity": 83,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "espresso 意式浓缩",
+      "quantity": 12,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "不推荐用 fruity 的咖啡豆",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "椰子水",
+      "quantity": 17,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推荐 vita coco coconut water",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "吉利丁",
+      "quantity": 3,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "gelatin",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "糖",
+      "quantity": null,
+      "unit": null,
+      "quantity_range": null,
+      "is_optional": true,
+      "note": "如果格外嗜甜可以加额外的糖",
+      "original_quantity": "适量",
+      "is_estimated": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "将定量淡奶油，椰树牌椰汁，espresso，椰子水混合备用。",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "将以上液体加热 1 分钟，温度达到 50-60 度即可。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "（可选）如果格外嗜甜可以加额外的糖。",
+      "duration_minutes": 1,
+      "tips": "根据个人口味调整"
+    },
+    {
+      "step": 4,
+      "content": "倒入吉利丁，搅拌至融化，煮 1 分钟。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "（可选）过筛，这一步可以让椰奶冻口感更佳顺畅。",
+      "duration_minutes": 2,
+      "tips": "过筛可使口感更顺滑"
+    },
+    {
+      "step": 6,
+      "content": "放入模具。",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "（可选）过滤掉表层的泡泡。这一步可以让椰奶冻口感更好，并且看着也会更棒。",
+      "duration_minutes": 1,
+      "tips": "过滤表层泡泡可提升口感和美观"
+    },
+    {
+      "step": 8,
+      "content": "放入冰箱冷藏区，等待 3 小时。",
+      "duration_minutes": 180,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "请务必不要让液体煮沸，也不要冒泡泡",
+    "建议直接用洗碗机清洗厨具，如果没有的话可以用温水洗（因为 gelatin 不好清洗）"
+  ]
+}

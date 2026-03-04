@@ -1,0 +1,194 @@
+{
+  "name": "咖喱炒蟹",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/咖喱炒蟹.md",
+  "category": "水产",
+  "difficulty": "hard",
+  "total_time_minutes": 20,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "青蟹",
+      "quantity": 300,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "别称肉蟹",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "咖喱块",
+      "quantity": 15,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "推介乐惠蟹黄咖喱",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "洋葱",
+      "quantity": 200,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "椰浆",
+      "quantity": 100,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "取蛋清",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "生粉",
+      "quantity": 5,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "别称淀粉，用于蘸蟹切口和蟹盖",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "大蒜",
+      "quantity": 5,
+      "unit": "瓣",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "食用油",
+      "quantity": 30,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "煎蟹20ml + 炒菜10ml",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "开水",
+      "quantity": 300,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "肉蟹掀盖后对半砍开，蟹钳用刀背轻轻拍裂，切口和蟹钳蘸一下生粉（不要太多），备用",
+      "duration_minutes": 3,
+      "tips": "拍裂蟹钳可以让味道更容易渗入"
+    },
+    {
+      "step": 2,
+      "content": "撒5g生粉到蟹盖中，盖住蟹黄，备用",
+      "duration_minutes": 1,
+      "tips": "生粉可以封住蟹黄，防止煮的时候流失"
+    },
+    {
+      "step": 3,
+      "content": "洋葱切成洋葱碎，备用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 4,
+      "content": "大蒜切碎，备用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "烧一壶开水，备用",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 6,
+      "content": "起锅烧油，倒入约20ml食用油，等待10秒让油温升高",
+      "duration_minutes": 1,
+      "tips": "油温要足够高才能封住蟹黄和蟹肉"
+    },
+    {
+      "step": 7,
+      "content": "将螃蟹切口朝下，轻轻放入锅中，煎20秒，这一步主要是封住蟹黄、蟹肉",
+      "duration_minutes": 1,
+      "tips": "切口朝下可以更好地封住蟹肉"
+    },
+    {
+      "step": 8,
+      "content": "翻面，每面煎10秒。煎完将螃蟹取出备用",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "将螃蟹盖放入锅中，使用勺子舀起锅中热油泼到蟹盖中，煎封住蟹盖中的蟹黄，煎20秒后取出备用",
+      "duration_minutes": 1,
+      "tips": "泼热油可以让蟹黄快速煎封"
+    },
+    {
+      "step": 10,
+      "content": "不用刷锅，再倒入10ml食用油，大火让油温升高至轻微冒烟，将大蒜末、洋葱碎倒入，炒10秒钟",
+      "duration_minutes": 1,
+      "tips": "大火快炒可以保持洋葱和蒜的香味"
+    },
+    {
+      "step": 11,
+      "content": "将咖喱块放入锅中炒化（10秒），放入煎好的螃蟹，翻炒均匀",
+      "duration_minutes": 1,
+      "tips": "咖喱块要完全炒化才能充分发挥味道"
+    },
+    {
+      "step": 12,
+      "content": "倒入开水300ml，焖煮3分钟",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 13,
+      "content": "焖煮完后，倒入椰浆和蛋清，关火，关火后不断翻炒，一直到酱汁变浓稠",
+      "duration_minutes": 2,
+      "tips": "关火后翻炒可以让酱汁更浓稠，椰浆和蛋清可以增加顺滑度"
+    },
+    {
+      "step": 14,
+      "content": "出锅",
+      "duration_minutes": 1,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "推荐使用乐惠蟹黄咖喱块，味道更正宗",
+    "煎蟹时油温要足够高，才能封住蟹黄和蟹肉，防止煮的时候流失",
+    "泼热油煎蟹盖可以快速封住蟹黄",
+    "关火后继续翻炒可以让椰浆和蛋清充分融合，酱汁更浓稠"
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "title": "菜谱数据结构",
+  "description": "HowToCook 菜谱解析后生成的标准 JSON 数据结构",
+  "required": [
+    "name",
+    "source_file",
+    "category",
+    "difficulty",
+    "total_time_minutes",
+    "servings",
+    "original_servings",
+    "images",
+    "ingredients",
+    "steps",
+    "tips"
+  ],
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "菜谱名称",
+      "example": "鸡蛋火腿炒黄瓜"
+    },
+    "source_file": {
+      "type": ["string", "null"],
+      "description": "原始文件路径（相对于 dishes/ 目录）",
+      "example": "vegetable_dish/鸡蛋火腿炒黄瓜.md"
+    },
+    "category": {
+      "type": ["string", "null"],
+      "description": "菜谱分类",
+      "enum": [
+        "素菜",
+        "荤菜",
+        "水产",
+        "早餐",
+        "主食",
+        "汤与粥",
+        "调料",
+        "甜品",
+        "饮料",
+        "半成品",
+        null
+      ],
+      "example": "素菜"
+    },
+    "difficulty": {
+      "type": "string",
+      "description": "烹饪难度等级",
+      "enum": ["simple", "easy", "medium", "hard", "expert"],
+      "example": "easy"
+    },
+    "total_time_minutes": {
+      "type": ["integer", "null"],
+      "description": "总耗时（分钟）",
+      "minimum": 0
+    },
+    "servings": {
+      "type": "integer",
+      "description": "分量（固定为1，表示已转换为一人份）",
+      "minimum": 1,
+      "example": 1
+    },
+    "original_servings": {
+      "type": ["integer", "null"],
+      "description": "原始分量（菜谱中标注的分量）",
+      "minimum": 1
+    },
+    "images": {
+      "type": "array",
+      "description": "菜谱相关图片链接数组",
+      "items": {
+        "type": "string",
+        "description": "图片链接地址"
+      },
+      "example": []
+    },
+    "ingredients": {
+      "type": "array",
+      "description": "食材列表",
+      "items": {
+        "$ref": "#/definitions/Ingredient"
+      }
+    },
+    "steps": {
+      "type": "array",
+      "description": "制作步骤列表",
+      "items": {
+        "$ref": "#/definitions/Step"
+      }
+    },
+    "tips": {
+      "type": "array",
+      "description": "小贴士列表",
+      "items": {
+        "type": "string",
+        "description": "一条小贴士"
+      }
+    }
+  },
+  "definitions": {
+    "Ingredient": {
+      "type": "object",
+      "title": "食材",
+      "description": "菜谱中的一种食材信息",
+      "required": [
+        "ingredient_name",
+        "quantity",
+        "unit",
+        "quantity_range",
+        "is_optional",
+        "note",
+        "original_quantity",
+        "is_estimated"
+      ],
+      "properties": {
+        "ingredient_name": {
+          "type": "string",
+          "description": "食材名称",
+          "example": "鸡蛋"
+        },
+        "quantity": {
+          "type": ["number", "null"],
+          "description": "食材数量（已转换为一人份）",
+          "example": 2
+        },
+        "unit": {
+          "type": ["string", "null"],
+          "description": "计量单位",
+          "example": "个"
+        },
+        "quantity_range": {
+          "type": ["object", "null"],
+          "description": "数量区间（如果有区间值）",
+          "properties": {
+            "min": {
+              "type": "number",
+              "description": "最小值"
+            },
+            "max": {
+              "type": "number",
+              "description": "最大值"
+            }
+          },
+          "required": ["min", "max"]
+        },
+        "is_optional": {
+          "type": "boolean",
+          "description": "是否为可选食材",
+          "example": false
+        },
+        "note": {
+          "type": ["string", "null"],
+          "description": "补充说明",
+          "example": "约 1 根"
+        },
+        "original_quantity": {
+          "type": ["string", "null"],
+          "description": "原始数量描述（用于模糊数量）",
+          "example": "适量"
+        },
+        "is_estimated": {
+          "type": "boolean",
+          "description": "是否为估算值（用于模糊数量）",
+          "example": false
+        }
+      }
+    },
+    "Step": {
+      "type": "object",
+      "title": "步骤",
+      "description": "菜谱制作的一个步骤",
+      "required": ["step", "content", "duration_minutes", "tips"],
+      "properties": {
+        "step": {
+          "type": "integer",
+          "description": "步骤序号",
+          "minimum": 1,
+          "example": 1
+        },
+        "content": {
+          "type": "string",
+          "description": "步骤具体内容",
+          "example": "黄瓜洗净，切半圆形片，备用"
+        },
+        "duration_minutes": {
+          "type": ["integer", "null"],
+          "description": "此步骤预计耗时（分钟）",
+          "minimum": 0
+        },
+        "tips": {
+          "type": ["string", "null"],
+          "description": "该步骤的小贴士或提示"
+        }
+      }
+    }
+  }
+}

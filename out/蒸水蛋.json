@@ -1,0 +1,78 @@
+{
+  "name": "蒸水蛋",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/蒸水蛋.md",
+  "category": "早餐",
+  "difficulty": "easy",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 2,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 1,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "新鲜",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "盐",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "热水",
+      "quantity": 130,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "温水，温度20~30℃",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "鸡蛋打入碗中，打散",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 2,
+      "content": "取其他容器，倒入1.5倍于蛋液的温水（温度20~30℃），将盐倒入水中化开",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "将盐水倒入鸡蛋液中，顺时针或逆时针单方向搅拌均匀",
+      "duration_minutes": null,
+      "tips": "气泡之类的可以用勺舀出丢弃，过筛则口感更加"
+    },
+    {
+      "step": 4,
+      "content": "使用锡纸包裹盛蛋液的碗（或用盘子盖住），置入提前带盖并加入大约3cm深度水的锅中",
+      "duration_minutes": null,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "中火烧至水开，转最小的火继续蒸4分钟",
+      "duration_minutes": 4,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "一般出锅稍晾即可食用，保留鸡蛋原香的终极口感",
+    "也可加入蒸鱼豉油，葱花香油作为佐料"
+  ]
+}

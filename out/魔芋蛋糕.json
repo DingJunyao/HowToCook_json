@@ -1,0 +1,140 @@
+{
+  "name": "魔芋蛋糕",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/dessert/魔芋蛋糕/魔芋蛋糕.md",
+  "category": "甜品",
+  "difficulty": "hard",
+  "total_time_minutes": 30,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "鸡蛋",
+      "quantity": 3,
+      "unit": "个",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "新鲜鸡蛋，需分离蛋清和蛋黄",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "赤藓糖醇",
+      "quantity": 50,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "无热量甜味剂，代替白砂糖",
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "可可粉",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "魔芋粉",
+      "quantity": 10,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "塔塔粉",
+      "quantity": 1,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "用于稳定蛋白泡沫",
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "预热烤箱至 350 ℉(150 ℃)",
+      "duration_minutes": 10,
+      "tips": "在准备蛋糕糊之前开始预热以节省时间"
+    },
+    {
+      "step": 2,
+      "content": "准备两个容器并擦干，分别盛放蛋清与蛋黄。盛放蛋清的容器不能有任何油，盛放蛋黄的容器不能有水珠",
+      "duration_minutes": 2,
+      "tips": "分离过程中蛋黄不能破碎，蛋清中不能混有任何蛋黄，否则会严重影响打发"
+    },
+    {
+      "step": 3,
+      "content": "打蛋，将蛋清与蛋黄分离到两个容器中",
+      "duration_minutes": 3,
+      "tips": "白色系带可进入蛋清，不影响；盛放蛋清的容器也是打蛋的容器，加入全部蛋清后不要超过容器的 1/8"
+    },
+    {
+      "step": 4,
+      "content": "蛋清中加入 1g 塔塔粉，打蛋器高速打发蛋白至粗大气泡的状态，加入 50g 赤藓糖醇",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 5,
+      "content": "打蛋器中低速，打发蛋白至干性发泡的状态（提起打蛋器头，有短小直立的尖角；倒扣容器，蛋白可粘住容器不掉下来）",
+      "duration_minutes": 5,
+      "tips": "打蛋器应尽量贴近容器底部，防止出现上面浮着的表层打发，底部仍然是液体的情况"
+    },
+    {
+      "step": 6,
+      "content": "把分离的蛋黄加入打发的蛋清中，打蛋器中低速搅拌均匀",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 7,
+      "content": "蛋清中加入 10g 可可粉和 10g 魔芋粉，先用餐刀翻拌",
+      "duration_minutes": 2,
+      "tips": "如果直接用打蛋器搅拌会造成粉末飞溅。翻拌手法：右手拿刮刀从搅拌盆中心插入面糊底部，向 8 点钟方向刮去直到碰到盆壁，顺势舀起面糊提到空中，然后再移回盆中心将面糊放入盆内；左手握住搅拌盆从 9 点钟方向转到 7 点钟方向，刚好旋转了 60 度，就完成了 1 次循环。速度大约是 1 秒钟 2 下"
+    },
+    {
+      "step": 8,
+      "content": "翻拌结束后，打蛋器低速搅拌均匀",
+      "duration_minutes": 1,
+      "tips": null
+    },
+    {
+      "step": 9,
+      "content": "模具铺好烘焙纸，贴合底部与内壁。将蛋糕糊倒入模具，然后用餐刀抹平，再然后震荡几下避免大气泡",
+      "duration_minutes": 2,
+      "tips": null
+    },
+    {
+      "step": 10,
+      "content": "烘烤 25 分钟",
+      "duration_minutes": 25,
+      "tips": "烤好后，戴好隔热手套取出"
+    },
+    {
+      "step": 11,
+      "content": "将模具从高处落下，震出其中的热气。模具倒扣 10 分钟，使蛋糕冷却",
+      "duration_minutes": 10,
+      "tips": "没有冷却的蛋糕立刻脱模会损伤蛋糕；此操作可能会烫手，注意戴好隔热手套"
+    },
+    {
+      "step": 12,
+      "content": "脱模，餐刀切块食用",
+      "duration_minutes": 2,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "本食谱主要参考视频 Keto Konjac Chocolate Cake｜生酮蛋糕",
+    "打发蛋白等部分大幅借鉴戚风蛋糕制作流程"
+  ]
+}

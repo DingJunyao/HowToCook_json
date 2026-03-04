@@ -1,0 +1,81 @@
+{
+  "name": "酱拌荞麦面",
+  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/酱拌荞麦面/酱拌荞麦面.md",
+  "category": "主食",
+  "difficulty": "easy",
+  "total_time_minutes": 12,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/酱拌荞麦面_0.jpeg",
+    "images/酱拌荞麦面_1.jpeg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "荞麦面",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    },
+    {
+      "ingredient_name": "黄瓜",
+      "quantity": 100,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约 0.5 根",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "红萝卜",
+      "quantity": 75,
+      "unit": "g",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": "约 0.5 根",
+      "original_quantity": null,
+      "is_estimated": true
+    },
+    {
+      "ingredient_name": "老干妈",
+      "quantity": 20,
+      "unit": "ml",
+      "quantity_range": null,
+      "is_optional": false,
+      "note": null,
+      "original_quantity": null,
+      "is_estimated": false
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "content": "荞麦面下冷水煮熟，8-10 分钟后捞出沥干备用",
+      "duration_minutes": 9,
+      "tips": "荞麦面沥干后可以放冰箱冰镇后口感更佳"
+    },
+    {
+      "step": 2,
+      "content": "黄瓜、萝卜切成小条",
+      "duration_minutes": 3,
+      "tips": null
+    },
+    {
+      "step": 3,
+      "content": "将荞麦面、黄瓜、萝卜放入盘子，放上老干妈，搅拌",
+      "duration_minutes": null,
+      "tips": null
+    }
+  ],
+  "tips": [
+    "荞麦面沥干后可以放冰箱冰镇后口感更佳",
+    "配料可以根据个人喜好选择其他，例如虾仁、肉沫等",
+    "酱料可以根据个人喜欢选择其他，例如花生酱、芝麻酱等",
+    "荞麦面跟其他面条热量几乎一致，所以不适合作为减脂的主食"
+  ]
+}
