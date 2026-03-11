@@ -101,10 +101,36 @@ python parse_recipes.py --parse-ingredient
 python parse_recipes.py --add-images
 ```
 
-### 仅生成营养信息
+### 流程A：匹配 USDA ID
+
+将食材匹配到 USDA SR Legacy 数据库的 ID，生成 `matched_ingredients.json`：
 
 ```bash
-python parse_recipes.py --match-nutritions
+python scripts/recipe_parser.py --match-usda-id
+```
+
+### 流程B：生成营养信息
+
+根据已匹配的 ID 生成营养信息，生成 `nutritions.json`：
+
+```bash
+python scripts/recipe_parser.py --match-nutrition
+```
+
+**注意：** 流程B 需要先运行流程A，生成 `matched_ingredients.json` 文件。
+
+### 执行完整流程（流程A + 流程B）
+
+同时匹配 USDA ID 和生成营养信息：
+
+```bash
+python scripts/recipe_parser.py --match-usda-id --match-nutrition
+```
+
+或直接运行完整流程（包含菜谱解析）：
+
+```bash
+python scripts/recipe_parser.py
 ```
 
 ### 仅解析指定数量的菜谱（测试模式）
@@ -144,7 +170,8 @@ python parse_recipes.py -v
 | `--parse-recipe` | 仅解析菜谱 | `False` |
 | `--parse-ingredient` | 仅解析食材 | `False` |
 | `--add-images` | 仅添加图片 | `False` |
-| `--match-nutritions` | 仅匹配营养信息 | `False` |
+| `--match-usda-id` | 流程A：匹配 USDA ID | `False` |
+| `--match-nutrition` | 流程B：生成营养信息 | `False` |
 | `--limit` | 限制解析的菜谱数量（测试用） | `None` |
 
 ## 📤 输出说明
@@ -160,6 +187,7 @@ out/
 ├── gongbaojiding.json      # 宫保鸡丁菜谱
 ├── ...
 ├── ingredients.json        # 标准化食材列表
+├── matched_ingredients.json  # 匹配的食材（包含 USDA ID）
 ├── nutritions.json         # 营养信息数据
 └── nutrition_map.json      # 食材与营养数据库映射
 ```
@@ -213,7 +241,7 @@ out/
     "ingredient_name": "低脂牛奶",
     "usda_name": "Milk, reduced fat, fluid, 2% milkfat, with added nonfat milk solids, without added vitamin A",
     "nutrients": {
-      "energy": {
+      "energy_kcal": {
         "value": 50,
         "unit": "kcal",
         "nrp_pct": 2.5,
@@ -225,15 +253,49 @@ out/
         "nrp_pct": 5.5,
         "standard": "中国GB标准"
       },
+      "carbohydrate": {
+        "value": 4.8,
+        "unit": "g",
+        "nrp_pct": 1.6,
+        "standard": "中国GB标准"
+      },
       "fat": {
         "value": 2.1,
         "unit": "g",
         "nrp_pct": 3.5,
         "standard": "中国GB标准"
+      },
+      "calcium": {
+        "value": 120,
+        "unit": "mg",
+        "nrp_pct": 15.0,
+        "standard": "中国GB标准"
       }
     }
   }
 ]
+```
+
+### 字段说明
+
+| 字段 | 说明 |
+|------|------|
+| `usda_id` | USDA SR Legacy 数据库中的唯一标识符 |
+| `ingredient_name` | 中文食材名称（来自匹配结果） |
+| `usda_name` | USDA 数据库中的食物英文名称 |
+| `nutrients` | 营养素详细信息字典 |
+
+### 营养素字段结构
+
+每个营养素包含以下字段：
+
+| 字段 | 说明 | 示例 |
+|------|------|------|
+| `value` | 营养素含量值 | `50` |
+| `unit` | 营养素单位 | `"kcal"`, `"g"`, `"mg"`, `"μg"` |
+| `nrp_pct` | 营养素参考值百分比（NRV/DV%） | `2.5` |
+| `standard` | 使用的标准（中国GB标准或美国FDA标准） | `"中国GB标准"` |
+| `note` | 备注（如有单位转换或其他说明） | `"单位已从 kJ 转换为 kcal"` |
 ```
 
 > 注意：由于菜谱格式不统一，尽管使用 AI 解析，但结果可能仍然存在错误，如有需要，请自行检查并手动修改。
@@ -244,6 +306,15 @@ out/
 新功能：现在项目支持生成食材的营养信息！
 
 ### 功能特点
+
+- **双流程设计**：将匹配 USDA ID 和生成营养信息拆分为两个独立流程
+- **多标准支持**：优先使用中国GB 28050-2011标准计算NRV%，如无对应标准则使用美国FDA标准计算DV%
+- **全面营养素覆盖**：包含能量、宏量营养素（蛋白质、脂肪、碳水化合物）、矿物质和维生素等
+- **智能匹配**：利用 match-ingredients 技能将食材与 USDA SR 数据库中的营养数据进行匹配
+- **标准化输出**：生成格式统一的 JSON 文件，包含详细的营养成分及 NRV/DV 百分比
+- **单位智能处理**：自动处理 Unicode 字符差异（µ vs μ）、单位转换（kJ ↔ kcal）、测量方法描述词（DFE, NE, RAE, α-TE）
+
+### 使用方法
 
 - **多标准支持**：优先使用中国GB 28050-2011标准计算NRV%，如无对应标准则使用美国FDA标准计算DV%
 - **全面营养素覆盖**：包含能量、宏量营养素（蛋白质、脂肪、碳水化合物）、矿物质和维生素等
@@ -273,6 +344,64 @@ python parse_recipes.py
 2. **食材匹配**：使用match-ingredients技能将食材与USDA数据库匹配
 3. **营养计算**：根据中国GB标准优先、美国FDA标准补充的原则计算NRV/DV值
 4. **数据输出**：生成标准化的营养信息JSON文件
+
+### 营养素含义说明
+
+#### 主要营养素（中国GB 28050-2011 标准）
+
+| 营养素键名 | 中文名称 | 标准值 | 单位 | 说明 |
+|-----------|---------|--------|------|------|
+| `energy_kcal` | 能量 | 2000 | kcal | 每100g/100ml食物提供的热量 |
+| `energy_kj` | 能量 | 8400 | kJ | 每公斤焦耳 |
+| `protein` | 蛋白质 | 60 | g | 构成人体组织的主要成分 |
+| `fat` | 脂肪 | 60 | g | 提供能量和必需脂肪酸 |
+| `carbohydrate` | 碳水化合物 | 300 | g | 主要的能量来源 |
+| `sugar` | 糖 | 50 | g | 碳水化合物中的一种 |
+| `fiber` | 膳食纤维 | 25 | g | 不能被人体消化吸收的碳水化合物 |
+| `saturated_fat` | 饱和脂肪 | 20 | g | 可能增加心血管疾病风险 |
+| `sodium` | 钠 | 2000 | mg | 调节体液平衡 |
+| `cholesterol` | 胆固醇 | 300 | mg | 细胞膜重要成分 |
+| `calcium` | 钙 | 800 | mg | 骨骼和牙齿健康必需 |
+| `iron` | 铁 | 15 | mg | 血红蛋白合成必需 |
+| `zinc` | 锌 | 15 | mg | 免疫系统功能必需 |
+| `selenium` | 硒 | 50 | μg | 抗氧化作用 |
+| `vitamin_a_rae` | 维生素A | 800 | μg RAE | 视觉和免疫功能 |
+| `vitamin_d` | 维生素D | 5 | μg | 钙吸收必需 |
+| `vitamin_e` | 维生素E | 10 | mg α-TE | 抗氧化作用 |
+| `vitamin_c` | 维生素C | 100 | mg | 抗氧化和免疫功能 |
+| `vitamin_b1` | 维生素B1（硫胺素） | 1.4 | mg | 能量代谢 |
+| `vitamin_b2` | 维生素B2（核黄素） | 1.4 | mg | 能量代谢 |
+| `vitamin_b6` | 维生素B6 | 1.4 | mg | 氨基酸代谢 |
+| `vitamin_b12` | 维生素B12 | 2.4 | μg | DNA合成 |
+| `folate` | 叶酸 | 400 | μg DFE | 细胞分裂和DNA合成 |
+| `niacin` | 烟酸 | 14 | mg NE | 能量代谢 |
+| `pantothenic_acid` | 泛酸 | 6 | mg | 能量代谢 |
+| `biotin` | 生物素 | 30 | μg | 碳水化合物和脂肪代谢 |
+| `vitamin_k` | 维生素K | 80 | μg | 血液凝固和骨骼健康 |
+
+#### 常见营养素说明
+
+**NRV（Nutrient Reference Values，营养素参考值）**：根据中国GB 28050-2011标准，表示成年人每日需要摄入的各种营养素参考值。
+
+**DV（Daily Values，每日值）**：根据美国FDA标准，表示成年人每日需要摄入的各种营养素参考值。
+
+**nrp_pct**：营养素参考值百分比，表示该食物提供的营养素占每日推荐摄入量的百分比。
+
+**单位说明**：
+- **kcal/kJ**：能量单位
+- **g**：克
+- **mg**：毫克（1g = 1000mg）
+- **μg**：微克（1mg = 1000μg）
+- **DFE**：膳食叶酸当量（Dietary Folate Equivalent）
+- **NE**：烟酸当量（Niacin Equivalent）
+- **RAE**：视黄醇活性当量（Retinol Activity Equivalent）
+- **α-TE**：α-生育酚当量（alpha-Tocopherol Equivalent）
+
+**重要提示**：
+1. 调料类食材（如盐、酱油）的某些营养素含量可能超过100%，这是正常的
+2. nrp_pct = 0 表示该营养素在食物中含量极低或不存在
+3. 标记为"无标准"的营养素是中国/美国标准未定义的营养素
+4. 部分营养素可能显示"单位已从 X 转换为 Y"，表示进行了单位转换
 
 ## ⚙️ 配置说明
 
@@ -318,7 +447,63 @@ A: 使用 `--parse-recipe` 或 `--parse-ingredient` 参数。
 A: 可以，使用 `--repo-path` 指定本地路径即可。
 
 ### Q: 如何生成营养信息？
-A: 使用 `--match-nutritions` 参数单独运行营养信息生成，或者在完整流程中自动运行。
+A: 使用 `--match-nutrition` 参数单独运行营养信息生成，或者在完整流程中自动运行。
+
+---
+
+### 详细脂肪酸营养素说明
+
+由于 USDA 数据库包含非常详细的脂肪酸分类，`nutritions.json` 中包含大量以 `mufa_`、`pufa_` 和 `sfa_` 开头的营养素键名。这些是专业的脂肪酸分类术语：
+
+#### 主要脂肪酸类型
+
+**MUFA (单不饱和脂肪酸)** - Monounsaturated Fatty Acids
+- `mufa_16:1` - 棕榈酸（16:1，棕榈油主要成分）
+- `mufa_18:1` / `mufa_18:1_c` - 油酸（18:1，植物油主要成分）
+
+**PUFA (多不饱和脂肪酸)** - Polyunsaturated Fatty Acids
+- `pufa_18:2_n_3_cc` - DHA（二十二碳六烯酸顺式，深海鱼，对大脑健康重要）
+- `pufa_20:5` - EPA（二十碳五烯酸，深海鱼）
+- `pufa_22:6_n_3` - DPA（二十二碳六烯酸n-3，藻油）
+
+**SFA (饱和脂肪酸)** - Saturated Fatty Acids
+- `sfa_14:0` - 肉豆蔻酸（14:0，椰子油主要成分）
+- `sfa_12:0` - 月桂酸（12:0，植物油）
+- `sfa_16:0` - 棕榈酸（16:0，动物脂肪）
+
+#### 键名规则
+
+- `:_n_3` 或 `:_n_6_cc`：碳原子位置的顺式/反式或同分异构体
+- `:_t` 或 `:_c`：反式或顺式结构
+- `:1`, `:0`：碳原子数量（14:1 表示14个碳原子）
+
+#### 常见食物示例
+
+| 食物 | 特点 | 主要脂肪酸 |
+|------|------|----------|
+| 深海鱼 | 高 ω-3 | EPA、DHA |
+| 亚麻籽油 | 高 ω-3 | α-亚麻酸 |
+| 橄榄油 | 高 MUFA | 油酸 |
+| 椰子油 | 高 ω-6 | 亚油酸 |
+| 椰油 | 高 SFA | 棕榈酸 |
+| 椰子油 | 低饱和脂肪 | 平衡脂肪酸 |
+
+#### 健康建议
+
+- **增加 ω-3（EPA/DHA）**：适量食用深海鱼、亚麻籽油
+- **控制 SFA**：减少动物脂肪摄入，多用植物油
+- **保持 ω-3/ω-6 比例**：现代饮食约 1:1-1:4，地中海饮食可达 1:2
+
+> 更多详细信息请参考：
+> - [docs/营养素分析摘要.md](docs/营养素分析摘要.md) - 快速了解 147 种营养素分类和统计数据
+> - [docs/营养素详细说明.md](docs/营养素详细说明.md) - 完整的 147 种营养素详细说明（含中英文对照）
+> - [docs/详细脂肪酸营养素说明.md](docs/详细脂肪酸营养素说明.md) - 专业的脂肪酸分类和健康影响
+> - [docs/营养匹配流程说明.md](docs/营养匹配流程说明.md) - 营养匹配流程使用指南
+> - [docs/功能更新总结_流程拆分与营养素说明.md](docs/功能更新总结_流程拆分与营养素说明.md) - 功能更新历史
+
+---
+
+## 🔍 常见问题
 
 ## 📝 许可证
 
