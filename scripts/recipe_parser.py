@@ -848,7 +848,8 @@ def main(args=None):
     parser.add_argument('--parse-ingredient', action='store_true', help='Only parse ingredients (steps 4-6)')
     parser.add_argument('--add-images', action='store_true', help='Only add images to existing parsed recipes')
     parser.add_argument('--limit', type=int, default=None, help='Limit number of recipes to parse (for testing), e.g., 2 for first 2 recipes')
-    parser.add_argument('--match-nutritions', action='store_true', help='Only match nutritions with USDA SR data (generates nutritions.json)')
+    parser.add_argument('--match-usda-id', action='store_true', help='流程A: 仅匹配食材到 USDA ID (生成 matched_ingredients.json)')
+    parser.add_argument('--match-nutrition', action='store_true', help='流程B: 仅根据已匹配的 ID 生成营养信息 (生成 nutritions.json)')
 
     args = parser.parse_args(args)
 
@@ -866,25 +867,45 @@ def main(args=None):
     parse_recipe_only = args.parse_recipe
     parse_ingredient_only = args.parse_ingredient
     add_images_only = args.add_images
-    match_nutritions_only = args.match_nutritions
-    full_process = not parse_recipe_only and not parse_ingredient_only and not add_images_only and not match_nutritions_only
+    match_usda_id_only = args.match_usda_id
+    match_nutrition_only = args.match_nutrition
+    full_process = (not parse_recipe_only and not parse_ingredient_only and
+                     not add_images_only and not match_usda_id_only and not match_nutrition_only)
 
     # Determine HowToCook repository path
     howtocook_path = args.repo_path
     temp_clone = False
 
-    # Handle --match-nutritions mode
-    if match_nutritions_only:
-        logger.info("Running in --match-nutritions mode...")
-        # Initialize and run nutrition data processor
+    # Handle --match-usda-id and --match-nutrition modes
+    if match_usda_id_only or match_nutrition_only:
         nutrition_processor = NutritionDataProcessor(output_dir=output_dir)
-        success = nutrition_processor.generate_nutrition_data()
-        if success:
-            logger.info("Nutrition matching completed successfully!")
-            return 0
-        else:
-            logger.error("Nutrition matching failed!")
-            return 1
+        success = True
+
+        # 流程A: 匹配 USDA ID
+        if match_usda_id_only:
+            logger.info("执行流程A: 匹配食材到 USDA ID...")
+            success = nutrition_processor.match_usda_ids()
+            if success:
+                logger.info("流程A（匹配 USDA ID）完成！")
+            else:
+                logger.error("流程A失败！")
+                return 1
+
+        # 流程B: 生成营养信息
+        if match_nutrition_only:
+            logger.info("执行流程B: 生成营养信息...")
+            success = nutrition_processor.generate_nutrition_data_from_matched()
+            if success:
+                logger.info("流程B（生成营养信息）完成！")
+            else:
+                logger.error("流程B失败！")
+                return 1
+
+        # 如果两个参数都添加了，都执行
+        if match_usda_id_only and match_nutrition_only:
+            logger.info("执行完整流程（流程A + 流程B）完成！")
+
+        return 0
 
     # Steps 1-3 require repository access
     if full_process or parse_recipe_only or add_images_only:
@@ -967,13 +988,13 @@ def main(args=None):
 
     # If not in specific modes, run nutrition matching after full process
     if full_process:
-        logger.info("Running nutrition matching after full process...")
+        logger.info("完整流程: 执行营养信息匹配（流程A + 流程B）...")
         nutrition_processor = NutritionDataProcessor(output_dir=output_dir)
         success = nutrition_processor.generate_nutrition_data()
         if success:
-            logger.info("Nutrition matching completed successfully!")
+            logger.info("营养信息匹配完成！")
         else:
-            logger.error("Nutrition matching failed!")
+            logger.error("营养信息匹配失败！")
 
     # Step 6: Clean up
     logger.info("Step 6: Cleaning up...")

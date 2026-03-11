@@ -234,40 +234,62 @@ class NutritionDataProcessor:
                         # 格式可能是 food_nutrients 数组
                         for nutrient_data in food['food_nutrients']:
                             if isinstance(nutrient_data, dict):
+                                # 尝试从 nutrient 对象中获取 unitName
+                                nutrient_obj = nutrient_data.get('nutrient', nutrient_data.get('Nutrient', {}))
+                                if isinstance(nutrient_obj, dict):
+                                    unit = nutrient_obj.get('unitName', nutrient_obj.get('unit', nutrient_obj.get('unit_name', 'g')))
+                                else:
+                                    unit = nutrient_data.get('unit', nutrient_data.get('unit_name', 'g'))
                                 nutrients.append({
-                                    "name": nutrient_data.get('nutrient_name', nutrient_data.get('name', 'Unknown Nutrient')),
+                                    "name": nutrient_obj.get('name') if isinstance(nutrient_obj, dict) else nutrient_data.get('nutrient_name', nutrient_data.get('name', 'Unknown Nutrient')),
                                     "value": nutrient_data.get('amount', nutrient_data.get('value', 0)),
-                                    "unit": nutrient_data.get('unit', nutrient_data.get('unit_name', 'g')),
+                                    "unit": unit,
                                     "fdc_id": food_id
                                 })
                     elif 'nutrients' in food:
                         # 格式可能是 nutrients 数组
                         for nutrient_data in food['nutrients']:
                             if isinstance(nutrient_data, dict):
+                                # 尝试从 nutrient 对象中获取 unitName
+                                nutrient_obj = nutrient_data.get('nutrient', nutrient_data.get('Nutrient', {}))
+                                if isinstance(nutrient_obj, dict):
+                                    unit = nutrient_obj.get('unitName', nutrient_obj.get('unit', nutrient_obj.get('unit_name', 'g')))
+                                else:
+                                    unit = nutrient_data.get('unit', nutrient_data.get('unit_name', 'g'))
                                 nutrients.append({
-                                    "name": nutrient_data.get('name', 'Unknown Nutrient'),
+                                    "name": nutrient_obj.get('name') if isinstance(nutrient_obj, dict) else nutrient_data.get('name', 'Unknown Nutrient'),
                                     "value": nutrient_data.get('amount', nutrient_data.get('value', 0)),
-                                    "unit": nutrient_data.get('unit', nutrient_data.get('unit_name', 'g')),
+                                    "unit": unit,
                                     "fdc_id": food_id
                                 })
                     elif 'FoodNutrients' in food:
-                        # 另一种可能的格式
+                        # 另一种可能的格式 (SR Legacy JSON 格式)
                         for nutrient_data in food['FoodNutrients']:
                             if isinstance(nutrient_data, dict):
+                                nutrient_obj = nutrient_data.get('Nutrient', nutrient_data.get('nutrient', {}))
+                                if isinstance(nutrient_obj, dict):
+                                    unit = nutrient_obj.get('unitName', nutrient_obj.get('unit', 'g'))
+                                else:
+                                    unit = 'g'
                                 nutrients.append({
-                                    "name": nutrient_data.get('Nutrient', {}).get('name', 'Unknown Nutrient') if isinstance(nutrient_data.get('Nutrient'), dict) else nutrient_data.get('Nutrient', 'Unknown Nutrient'),
+                                    "name": nutrient_obj.get('name') if isinstance(nutrient_obj, dict) else nutrient_data.get('Nutrient', 'Unknown Nutrient'),
                                     "value": nutrient_data.get('Amount', nutrient_data.get('amount', 0)),
-                                    "unit": nutrient_data.get('Nutrient', {}).get('unit', 'g') if isinstance(nutrient_data.get('Nutrient'), dict) else 'g',
+                                    "unit": unit,
                                     "fdc_id": food_id
                                 })
                     elif 'foodNutrients' in food:
-                        # 小写变体
+                        # 小写变体 (SR Legacy JSON 格式)
                         for nutrient_data in food['foodNutrients']:
                             if isinstance(nutrient_data, dict):
+                                nutrient_obj = nutrient_data.get('nutrient', nutrient_data.get('Nutrient', {}))
+                                if isinstance(nutrient_obj, dict):
+                                    unit = nutrient_obj.get('unitName', nutrient_obj.get('unit', 'g'))
+                                else:
+                                    unit = 'g'
                                 nutrients.append({
-                                    "name": nutrient_data.get('nutrient', {}).get('name', 'Unknown Nutrient') if isinstance(nutrient_data.get('nutrient'), dict) else nutrient_data.get('nutrient', 'Unknown Nutrient'),
+                                    "name": nutrient_obj.get('name') if isinstance(nutrient_obj, dict) else nutrient_data.get('nutrient', 'Unknown Nutrient'),
                                     "value": nutrient_data.get('amount', nutrient_data.get('value', 0)),
-                                    "unit": nutrient_data.get('unit', 'g'),
+                                    "unit": unit,
                                     "fdc_id": food_id
                                 })
 
@@ -431,40 +453,62 @@ class NutritionDataProcessor:
                             # 格式可能是 food_nutrients 数组
                             for nutrient_data in food['food_nutrients']:
                                 if isinstance(nutrient_data, dict):
+                                    # 尝试从 nutrient 对象中获取 unitName
+                                    nutrient_obj = nutrient_data.get('nutrient', nutrient_data.get('Nutrient', {}))
+                                    if isinstance(nutrient_obj, dict):
+                                        unit = nutrient_obj.get('unitName', nutrient_obj.get('unit', nutrient_obj.get('unit_name', 'g')))
+                                    else:
+                                        unit = nutrient_data.get('unit', nutrient_data.get('unit_name', 'g'))
                                     nutrients.append({
-                                        "name": nutrient_data.get('nutrient_name', nutrient_data.get('name', 'Unknown Nutrient')),
+                                        "name": nutrient_obj.get('name') if isinstance(nutrient_obj, dict) else nutrient_data.get('nutrient_name', nutrient_data.get('name', 'Unknown Nutrient')),
                                         "value": nutrient_data.get('amount', nutrient_data.get('value', 0)),
-                                        "unit": nutrient_data.get('unit', nutrient_data.get('unit_name', 'g')),
+                                        "unit": unit,
                                         "fdc_id": food_id
                                     })
                         elif 'nutrients' in food:
                             # 格式可能是 nutrients 数组
                             for nutrient_data in food['nutrients']:
                                 if isinstance(nutrient_data, dict):
+                                    # 尝试从 nutrient 对象中获取 unitName
+                                    nutrient_obj = nutrient_data.get('nutrient', nutrient_data.get('Nutrient', {}))
+                                    if isinstance(nutrient_obj, dict):
+                                        unit = nutrient_obj.get('unitName', nutrient_obj.get('unit', nutrient_obj.get('unit_name', 'g')))
+                                    else:
+                                        unit = nutrient_data.get('unit', nutrient_data.get('unit_name', 'g'))
                                     nutrients.append({
-                                        "name": nutrient_data.get('name', 'Unknown Nutrient'),
+                                        "name": nutrient_obj.get('name') if isinstance(nutrient_obj, dict) else nutrient_data.get('name', 'Unknown Nutrient'),
                                         "value": nutrient_data.get('amount', nutrient_data.get('value', 0)),
-                                        "unit": nutrient_data.get('unit', nutrient_data.get('unit_name', 'g')),
+                                        "unit": unit,
                                         "fdc_id": food_id
                                     })
                         elif 'FoodNutrients' in food:
-                            # 另一种可能的格式
+                            # 另一种可能的格式 (SR Legacy JSON 格式)
                             for nutrient_data in food['FoodNutrients']:
                                 if isinstance(nutrient_data, dict):
+                                    nutrient_obj = nutrient_data.get('Nutrient', nutrient_data.get('nutrient', {}))
+                                    if isinstance(nutrient_obj, dict):
+                                        unit = nutrient_obj.get('unitName', nutrient_obj.get('unit', 'g'))
+                                    else:
+                                        unit = 'g'
                                     nutrients.append({
-                                        "name": nutrient_data.get('Nutrient', {}).get('name', 'Unknown Nutrient') if isinstance(nutrient_data.get('Nutrient'), dict) else nutrient_data.get('Nutrient', 'Unknown Nutrient'),
+                                        "name": nutrient_obj.get('name') if isinstance(nutrient_obj, dict) else nutrient_data.get('Nutrient', 'Unknown Nutrient'),
                                         "value": nutrient_data.get('Amount', nutrient_data.get('amount', 0)),
-                                        "unit": nutrient_data.get('Nutrient', {}).get('unit', 'g') if isinstance(nutrient_data.get('Nutrient'), dict) else 'g',
+                                        "unit": unit,
                                         "fdc_id": food_id
                                     })
                         elif 'foodNutrients' in food:
-                            # 小写变体
+                            # 小写变体 (SR Legacy JSON 格式)
                             for nutrient_data in food['foodNutrients']:
                                 if isinstance(nutrient_data, dict):
+                                    nutrient_obj = nutrient_data.get('nutrient', nutrient_data.get('Nutrient', {}))
+                                    if isinstance(nutrient_obj, dict):
+                                        unit = nutrient_obj.get('unitName', nutrient_obj.get('unit', 'g'))
+                                    else:
+                                        unit = 'g'
                                     nutrients.append({
-                                        "name": nutrient_data.get('nutrient', {}).get('name', 'Unknown Nutrient') if isinstance(nutrient_data.get('nutrient'), dict) else nutrient_data.get('nutrient', 'Unknown Nutrient'),
+                                        "name": nutrient_obj.get('name') if isinstance(nutrient_obj, dict) else nutrient_data.get('nutrient', 'Unknown Nutrient'),
                                         "value": nutrient_data.get('amount', nutrient_data.get('value', 0)),
-                                        "unit": nutrient_data.get('unit', 'g'),
+                                        "unit": unit,
                                         "fdc_id": food_id
                                     })
 
@@ -765,6 +809,33 @@ class NutritionDataProcessor:
                 self.logger.error(f"调用match-ingredients技能时出错: {str(e)}")
                 return []
 
+    def normalize_unit(self, unit: str) -> str:
+        """
+        标准化单位名称，处理不同的 Unicode 字符和单位变体
+
+        移除测量方法描述词，如 "DFE", "NE", "RAE", "α-TE" 等
+        """
+        # 标准化希腊字母：µ (U+00B5) -> μ (U+03BC)
+        unit = unit.replace('µ', 'μ')
+
+        # 移除测量方法描述词（这些词表示不同的测量当量方法）
+        # 但营养素值是等价的，可以直接比较
+        method_descriptors = [
+            'DFE',  # Dietary Folate Equivalent (膳食叶酸当量)
+            'NE',   # Niacin Equivalent (烟酸当量)
+            'RAE',  # Retinol Activity Equivalent (视黄醇活性当量)
+            'α-TE', # alpha-Tocopherol Equivalent (α-生育酚当量)
+            'alpha-TE', # α-TE 的英文形式
+        ]
+
+        normalized = unit
+        for descriptor in method_descriptors:
+            # 移除描述词（可能前后有空格）
+            normalized = normalized.replace(f' {descriptor}', '')
+            normalized = normalized.replace(descriptor, '')
+
+        return normalized.strip()
+
     def calculate_nrv_values(self, nutrients: Dict[str, Dict]) -> Dict[str, Dict]:
         """
         计算营养素的NRV/DV值
@@ -774,13 +845,16 @@ class NutritionDataProcessor:
 
         for nutrient_key, nutrient_info in nutrients.items():
             value = nutrient_info.get("value", 0)
-            unit = nutrient_info.get("unit", "")
+            unit = self.normalize_unit(nutrient_info.get("unit", ""))
 
             # 首先尝试使用中国标准
             chinese_nrv = self.chinese_nrv_values.get(nutrient_key)
             if chinese_nrv:
+                # 标准化标准中的单位，用于比较
+                standard_unit = self.normalize_unit(chinese_nrv["unit"])
+
                 # 检查单位是否匹配
-                if chinese_nrv["unit"] == unit:
+                if standard_unit == unit:
                     nrp_pct = round((value / chinese_nrv["value"]) * 100, 2)
                     calculated_nutrients[nutrient_key] = {
                         "value": value,
@@ -789,19 +863,34 @@ class NutritionDataProcessor:
                         "standard": "中国GB标准"
                     }
                 else:
-                    # 单位不匹配，尝试进行单位转换（这里简化处理）
-                    calculated_nutrients[nutrient_key] = {
-                        "value": value,
-                        "unit": unit,
-                        "nrp_pct": 0,  # 无法计算百分比，因为单位不匹配
-                        "standard": "中国GB标准",
-                        "note": "单位不匹配，无法计算百分比"
-                    }
+                    # 尝试单位转换
+                    converted_value = self.convert_unit(value, unit, chinese_nrv["unit"])
+                    if converted_value is not None:
+                        nrp_pct = round((converted_value / chinese_nrv["value"]) * 100, 2)
+                        calculated_nutrients[nutrient_key] = {
+                            "value": value,
+                            "unit": unit,
+                            "nrp_pct": nrp_pct,
+                            "standard": "中国GB标准",
+                            "note": f"单位已从 {unit} 转换为 {chinese_nrv['unit']}"
+                        }
+                    else:
+                        # 单位不匹配，无法转换
+                        calculated_nutrients[nutrient_key] = {
+                            "value": value,
+                            "unit": unit,
+                            "nrp_pct": 0,  # 无法计算百分比，因为单位不匹配
+                            "standard": "中国GB标准",
+                            "note": "单位不匹配，无法计算百分比"
+                        }
             else:
                 # 尝试使用美国标准
                 usa_dv = self.usa_dv_values.get(nutrient_key)
                 if usa_dv:
-                    if usa_dv["unit"] == unit:
+                    # 标准化标准中的单位，用于比较
+                    standard_unit = self.normalize_unit(usa_dv["unit"])
+
+                    if standard_unit == unit:
                         nrp_pct = round((value / usa_dv["value"]) * 100, 2)
                         calculated_nutrients[nutrient_key] = {
                             "value": value,
@@ -810,14 +899,26 @@ class NutritionDataProcessor:
                             "standard": "美国FDA标准"
                         }
                     else:
-                        # 单位不匹配
-                        calculated_nutrients[nutrient_key] = {
-                            "value": value,
-                            "unit": unit,
-                            "nrp_pct": 0,
-                            "standard": "美国FDA标准",
-                            "note": "单位不匹配，无法计算百分比"
-                        }
+                        # 尝试单位转换
+                        converted_value = self.convert_unit(value, unit, usa_dv["unit"])
+                        if converted_value is not None:
+                            nrp_pct = round((converted_value / usa_dv["value"]) * 100, 2)
+                            calculated_nutrients[nutrient_key] = {
+                                "value": value,
+                                "unit": unit,
+                                "nrp_pct": nrp_pct,
+                                "standard": "美国FDA标准",
+                                "note": f"单位已从 {unit} 转换为 {usa_dv['unit']}"
+                            }
+                        else:
+                            # 单位不匹配
+                            calculated_nutrients[nutrient_key] = {
+                                "value": value,
+                                "unit": unit,
+                                "nrp_pct": 0,
+                                "standard": "美国FDA标准",
+                                "note": "单位不匹配，无法计算百分比"
+                            }
                 else:
                     # 两种标准都没有该营养素，但仍保存原始数据
                     calculated_nutrients[nutrient_key] = {
@@ -830,14 +931,50 @@ class NutritionDataProcessor:
 
         return calculated_nutrients
 
-    def generate_nutrition_data(self) -> bool:
+    def convert_unit(self, value: float, from_unit: str, to_unit: str) -> Optional[float]:
         """
-        生成营养信息数据的主要方法
+        在不同单位之间转换值
+
+        Args:
+            value: 要转换的值
+            from_unit: 原始单位
+            to_unit: 目标单位
+
+        Returns:
+            转换后的值，如果无法转换则返回 None
         """
-        self.logger.info("开始生成营养信息数据...")
+        # 能量单位转换
+        energy_conversions = {
+            ("kJ", "kcal"): lambda x: x / 4.184,  # 1 kcal = 4.184 kJ
+            ("kcal", "kJ"): lambda x: x * 4.184,
+        }
+
+        # 检查是否在转换表中
+        conversion_key = (from_unit, to_unit)
+        if conversion_key in energy_conversions:
+            return energy_conversions[conversion_key](value)
+
+        # 如果单位相同，直接返回
+        if from_unit == to_unit:
+            return value
+
+        # 无法转换
+        return None
+
+    def match_usda_ids(self, usda_data: Optional[Dict] = None) -> bool:
+        """
+        流程A: 匹配食材到 USDA ID，生成 matched_ingredients.json
+
+        Args:
+            usda_data: 可选的预下载USDA数据，如果为None则重新下载
+
+        Returns:
+            True if successful, False otherwise
+        """
+        self.logger.info("开始流程A: 匹配食材到 USDA ID...")
 
         # 步骤1: 下载USDA营养数据（必须成功，否则终止）
-        usda_data_full = self.download_usda_data()
+        usda_data_full = usda_data or self.download_usda_data()
         if not usda_data_full:
             self.logger.error("无法获取USDA SR营养数据，程序终止")
             return False
@@ -857,16 +994,66 @@ class NutritionDataProcessor:
             self.logger.error("食材匹配失败，程序终止")
             return False
 
-        # 步骤5: 生成最终的营养信息
+        # 保存匹配结果到 out/matched_ingredients.json
+        matched_output_path = os.path.join(self.output_dir, "matched_ingredients.json")
+        os.makedirs(self.output_dir, exist_ok=True)
+        with open(matched_output_path, 'w', encoding='utf-8') as f:
+            json.dump(matched_ingredients, f, ensure_ascii=False, indent=2)
+
+        self.logger.info(f"匹配结果已保存到: {matched_output_path}")
+        self.logger.info(f"成功匹配了 {len(matched_ingredients)} 个食材的 USDA ID")
+
+        return True
+
+    def generate_nutrition_data_from_matched(self, usda_data: Optional[Dict] = None) -> bool:
+        """
+        流程B: 根据 matched_ingredients.json 生成营养信息，生成 nutritions.json
+
+        Args:
+            usda_data: 可选的预下载USDA数据，如果为None则重新下载
+
+        Returns:
+            True if successful, False otherwise
+        """
+        self.logger.info("开始流程B: 根据匹配结果生成营养信息...")
+
+        # 步骤1: 下载USDA营养数据（必须成功，否则终止）
+        usda_data_full = usda_data or self.download_usda_data()
+        if not usda_data_full:
+            self.logger.error("无法获取USDA SR营养数据，程序终止")
+            return False
+
+        # 步骤2: 预处理USDA数据
+        usda_processed = self.preprocess_usda_data(usda_data_full)
+
+        # 步骤3: 加载已匹配的食材数据
+        matched_ingredients_path = os.path.join(self.output_dir, "matched_ingredients.json")
+        if not os.path.exists(matched_ingredients_path):
+            self.logger.error(f"已匹配的食材文件不存在: {matched_ingredients_path}")
+            self.logger.error("请先运行流程A (--match-usda-id) 生成匹配结果")
+            return False
+
+        try:
+            with open(matched_ingredients_path, 'r', encoding='utf-8') as f:
+                matched_ingredients = json.load(f)
+            self.logger.info(f"已加载 {len(matched_ingredients)} 个已匹配的食材")
+        except Exception as e:
+            self.logger.error(f"加载已匹配的食材文件失败: {str(e)}")
+            return False
+
+        # 步骤4: 生成最终的营养信息
         nutrition_data = []
 
         for matched_item in matched_ingredients:
-            usda_id = matched_item["usda_id"]
+            usda_id = matched_item.get("usda_id")
+            if not usda_id:
+                self.logger.warning(f"食材 {matched_item.get('ingredient_name')} 没有 usda_id，跳过")
+                continue
 
             # 查找对应的USDA营养数据
             usda_item = None
             for item in usda_processed:
-                if item["id"] == usda_id:
+                if item["id"] == str(usda_id):
                     usda_item = item
                     break
 
@@ -881,8 +1068,10 @@ class NutritionDataProcessor:
                     "nutrients": calculated_nutrients
                 }
                 nutrition_data.append(nutrition_entry)
+            else:
+                self.logger.warning(f"未找到 USDA ID {usda_id} 对应的营养数据")
 
-        # 步骤6: 保存营养信息结果到out目录
+        # 步骤5: 保存营养信息结果
         nutrition_output_path = os.path.join(self.output_dir, "nutritions.json")
         os.makedirs(self.output_dir, exist_ok=True)
 
@@ -892,6 +1081,31 @@ class NutritionDataProcessor:
         self.logger.info(f"营养信息数据已生成: {nutrition_output_path}")
         self.logger.info(f"总共处理了 {len(nutrition_data)} 个食材的营养信息")
 
+        return True
+
+    def generate_nutrition_data(self) -> bool:
+        """
+        生成营养信息数据的主要方法（完整流程：流程A + 流程B）
+        """
+        self.logger.info("开始生成营养信息数据（完整流程）...")
+
+        # 步骤1: 下载USDA营养数据（必须成功，否则终止）
+        usda_data_full = self.download_usda_data()
+        if not usda_data_full:
+            self.logger.error("无法获取USDA SR营养数据，程序终止")
+            return False
+
+        # 步骤2: 执行流程A（匹配 USDA ID）
+        if not self.match_usda_ids(usda_data=usda_data_full):
+            self.logger.error("流程A失败，程序终止")
+            return False
+
+        # 步骤3: 执行流程B（生成营养信息）
+        if not self.generate_nutrition_data_from_matched(usda_data=usda_data_full):
+            self.logger.error("流程B失败，程序终止")
+            return False
+
+        self.logger.info("完整流程执行完成！")
         return True
 
     def run(self):
