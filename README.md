@@ -13,12 +13,14 @@
 - [输出说明](#输出说明)
 - [配置说明](#配置说明)
 - [项目结构](#项目结构)
+- [营养信息生成功能](#营养信息生成功能)
 
 ## ✨ 功能特性
 
 - 📝 **菜谱解析**：自动解析 HowToCook 项目的 Markdown 菜谱文件
 - 🖼️ **图片提取**：从菜谱中提取并保存相关图片
 - 🥬 **食材标准化**：统一食材名称和单位格式
+- 🧪 **营养信息生成**：从USDA SR数据库获取营养数据并计算NRV/DV值
 - 🔄 **自动重试**：支持失败自动重试机制
 - ⚙️ **灵活配置**：支持通过配置类调整各项参数
 
@@ -75,7 +77,7 @@ claude --version
 
 ### 完整解析流程
 
-解析所有菜谱、提取图片、标准化食材：
+解析所有菜谱、提取图片、标准化食材，并生成营养信息：
 
 ```bash
 python parse_recipes.py
@@ -97,6 +99,12 @@ python parse_recipes.py --parse-ingredient
 
 ```bash
 python parse_recipes.py --add-images
+```
+
+### 仅生成营养信息
+
+```bash
+python parse_recipes.py --match-nutritions
 ```
 
 ### 仅解析指定数量的菜谱（测试模式）
@@ -136,6 +144,7 @@ python parse_recipes.py -v
 | `--parse-recipe` | 仅解析菜谱 | `False` |
 | `--parse-ingredient` | 仅解析食材 | `False` |
 | `--add-images` | 仅添加图片 | `False` |
+| `--match-nutritions` | 仅匹配营养信息 | `False` |
 | `--limit` | 限制解析的菜谱数量（测试用） | `None` |
 
 ## 📤 输出说明
@@ -150,7 +159,9 @@ out/
 ├── hongshaorou.json        # 红烧肉菜谱
 ├── gongbaojiding.json      # 宫保鸡丁菜谱
 ├── ...
-└── ingredients.json        # 标准化食材列表
+├── ingredients.json        # 标准化食材列表
+├── nutritions.json         # 营养信息数据
+└── nutrition_map.json      # 食材与营养数据库映射
 ```
 
 ### 菜谱 JSON 格式
@@ -193,8 +204,75 @@ out/
 ]
 ```
 
+### 营养信息 JSON 格式
+
+```json
+[
+  {
+    "usda_id": "172193",
+    "ingredient_name": "低脂牛奶",
+    "usda_name": "Milk, reduced fat, fluid, 2% milkfat, with added nonfat milk solids, without added vitamin A",
+    "nutrients": {
+      "energy": {
+        "value": 50,
+        "unit": "kcal",
+        "nrp_pct": 2.5,
+        "standard": "中国GB标准"
+      },
+      "protein": {
+        "value": 3.3,
+        "unit": "g",
+        "nrp_pct": 5.5,
+        "standard": "中国GB标准"
+      },
+      "fat": {
+        "value": 2.1,
+        "unit": "g",
+        "nrp_pct": 3.5,
+        "standard": "中国GB标准"
+      }
+    }
+  }
+]
+```
+
 > 注意：由于菜谱格式不统一，尽管使用 AI 解析，但结果可能仍然存在错误，如有需要，请自行检查并手动修改。
 > 你也可以创建 PR，为该项目做贡献。
+
+## 🧪 营养信息生成功能
+
+新功能：现在项目支持生成食材的营养信息！
+
+### 功能特点
+
+- **多标准支持**：优先使用中国GB 28050-2011标准计算NRV%，如无对应标准则使用美国FDA标准计算DV%
+- **全面营养素覆盖**：包含能量、宏量营养素（蛋白质、脂肪、碳水化合物）、矿物质和维生素等
+- **智能匹配**：利用match-ingredients技能将食材与USDA SR数据库中的营养数据进行匹配
+- **标准化输出**：生成格式统一的JSON文件，包含详细的营养成分及NRV/DV百分比
+
+### 使用方法
+
+运行营养信息匹配只需添加 `--match-nutritions` 参数：
+
+```bash
+# 仅运行营养信息匹配
+python parse_recipes.py --match-nutritions
+
+# 或在完整流程中（营养信息生成会自动在最后运行）
+python parse_recipes.py
+```
+
+### 输出文件
+
+- `out/nutritions.json` - 包含所有食材的详细营养信息和NRV/DV值
+- `out/nutrition_map.json` - 食材与USDA营养数据的匹配关系
+
+### 核心流程
+
+1. **数据获取**：从USDA SR数据库获取营养数据
+2. **食材匹配**：使用match-ingredients技能将食材与USDA数据库匹配
+3. **营养计算**：根据中国GB标准优先、美国FDA标准补充的原则计算NRV/DV值
+4. **数据输出**：生成标准化的营养信息JSON文件
 
 ## ⚙️ 配置说明
 
@@ -215,11 +293,14 @@ HowToCook_json/
 ├── parse_recipes.py      # 主入口脚本
 ├── scripts/
 │   ├── recipe_parser.py  # 核心解析器
+│   ├── nutrition_generator.py # 营养信息生成器
 │   └── recipe_schema.json # JSON Schema 定义
 └── out/                  # 输出目录（自动生成）
     ├── images/           # 图片资源
     ├── *.json           # 菜谱文件
-    └── ingredients.json  # 食材列表
+    ├── ingredients.json  # 食材列表
+    ├── nutritions.json   # 营养信息
+    └── nutrition_map.json # 食材营养映射
 ```
 
 ## 🔍 常见问题
@@ -235,6 +316,9 @@ A: 使用 `--parse-recipe` 或 `--parse-ingredient` 参数。
 
 ### Q: 可以解析 Fork 的 HowToCook 仓库吗？
 A: 可以，使用 `--repo-path` 指定本地路径即可。
+
+### Q: 如何生成营养信息？
+A: 使用 `--match-nutritions` 参数单独运行营养信息生成，或者在完整流程中自动运行。
 
 ## 📝 许可证
 

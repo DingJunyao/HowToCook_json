@@ -1,0 +1,4512 @@
+[
+  {
+    "ingredient_name": "西葫芦",
+    "usda_id": "169291",
+    "usda_name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+    "ingredient_name": "鸡蛋",
+    "usda_id": "171287",
+    "usda_name": "Egg, whole, raw, fresh"
+  },
+  {
+    "ingredient_name": "西红柿",
+    "usda_id": "170457",
+    "usda_name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+    "ingredient_name": "食用油",
+    "usda_id": "167737",
+    "usda_name": "Oil, corn, peanut, and olive"
+  },
+  {
+    "ingredient_name": "盐",
+    "usda_id": "173468",
+    "usda_name": "Salt, table"
+  },
+  {
+    "ingredient_name": "袋装螺蛳粉",
+    "usda_id": "174258",
+    "usda_name": "Noodles, chinese, cellophane or long rice (mung beans), dehydrated"
+  },
+  {
+    "ingredient_name": "水",
+    "usda_id": "171922",
+    "usda_name": "Beverages, water, bottled, non-carbonated, EVIAN"
+  },
+  {
+    "ingredient_name": "带脚、爪猪前肘",
+    "usda_id": "167810",
+    "usda_name": "Pork, fresh, composite of trimmed leg, loin, shoulder, and spareribs, (includes cuts to be cured), separable lean and fat, raw"
+  },
+  {
+    "ingredient_name": "红豆腐乳",
+    "usda_id": "174280",
+    "usda_name": "Tofu, salted and fermented (fuyu)"
+  },
+  {
+    "ingredient_name": "甜面酱",
+    "usda_id": "172886",
+    "usda_name": "Sauce, hoisin, ready-to-serve"
+  },
+  {
+    "ingredient_name": "红酱油",
+    "usda_id": "172473",
+    "usda_name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+    "ingredient_name": "白酱油",
+    "usda_id": "172473",
+    "usda_name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+    "ingredient_name": "料酒",
+    "usda_id": "169070",
+    "usda_name": "Alcoholic beverage, wine, cooking"
+  },
+  {
+    "ingredient_name": "蒜片",
+    "usda_id": "169230",
+    "usda_name": "Garlic, raw"
+  },
+  {
+    "ingredient_name": "姜末",
+    "usda_id": "169231",
+    "usda_name": "Ginger root, raw"
+  },
+  {
+    "ingredient_name": "八角",
+    "usda_id": "171316",
+    "usda_name": "Spices, anise seed"
+  },
+  {
+    "ingredient_name": "桂皮",
+    "usda_id": "171320",
+    "usda_name": "Spices, cinnamon, ground"
+  },
+  {
+    "ingredient_name": "葱",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "猪肉",
+    "usda_id": "167811",
+    "usda_name": "Pork, fresh, backfat, raw"
+  },
+  {
+    "ingredient_name": "面粉",
+    "usda_id": "171237",
+    "usda_name": "Flour, wheat, bread, unenriched"
+  },
+  {
+    "ingredient_name": "红薯淀粉",
+    "usda_id": "171021",
+    "usda_name": "Cornstarch"
+  },
+  {
+    "ingredient_name": "老姜",
+    "usda_id": "169231",
+    "usda_name": "Ginger root, raw"
+  },
+  {
+    "ingredient_name": "小葱",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "清水",
+    "usda_id": "173647",
+    "usda_name": "Beverages, water, tap, drinking"
+  },
+  {
+    "ingredient_name": "十三香",
+    "usda_id": "172242",
+    "usda_name": "Seasoning mix, dry, sazon, coriander & annatto"
+  },
+  {
+    "ingredient_name": "胡椒粉",
+    "usda_id": "170931",
+    "usda_name": "Spices, pepper, black"
+  },
+  {
+    "ingredient_name": "味精",
+    "usda_id": "171208",
+    "usda_name": "Seasoning, MSG, powder"
+  },
+  {
+    "ingredient_name": "鸡精",
+    "usda_id": "171563",
+    "usda_name": "Soup, chicken broth cubes, dry"
+  },
+  {
+    "ingredient_name": "花椒碎",
+    "usda_id": "170932",
+    "usda_name": "Spices, pepper, red or cayenne"
+  },
+  {
+    "ingredient_name": "花椒粒",
+    "usda_id": "170932",
+    "usda_name": "Spices, pepper, red or cayenne"
+  },
+  {
+    "ingredient_name": "生抽",
+    "usda_id": "174279",
+    "usda_name": "Soy sauce made from hydrolyzed vegetable protein"
+  },
+  {
+    "ingredient_name": "植物油",
+    "usda_id": "169867",
+    "usda_name": "Oil, corn and canola"
+  },
+  {
+    "ingredient_name": "白砂糖",
+    "usda_id": "169655",
+    "usda_name": "Sugars, granulated"
+  },
+  {
+    "ingredient_name": "姜",
+    "usda_id": "169231",
+    "usda_name": "Ginger root, raw"
+  },
+  {
+    "ingredient_name": "蒜",
+    "usda_id": "169230",
+    "usda_name": "Garlic, raw"
+  },
+  {
+    "ingredient_name": "鲤鱼",
+    "usda_id": "174187",
+    "usda_name": "Fish, mixed species, fresh, meat only, raw"
+  },
+  {
+    "ingredient_name": "娃娃菜",
+    "usda_id": "169335",
+    "usda_name": "Cabbage, common (danish, domestic, and pointed types), freshly harvest, raw"
+  },
+  {
+    "ingredient_name": "老抽",
+    "usda_id": "174279",
+    "usda_name": "Soy sauce made from hydrolyzed vegetable protein"
+  },
+  {
+    "ingredient_name": "郫县豆瓣酱",
+    "usda_id": "174277",
+    "usda_name": "Soy sauce made from soy and wheat (shoyu)"
+  },
+  {
+    "ingredient_name": "干辣椒",
+    "usda_id": "168570",
+    "usda_name": "Peppers, hot chile, sun-dried"
+  },
+  {
+    "ingredient_name": "金酒",
+    "usda_id": "171919",
+    "usda_name": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 86 proof"
+  },
+  {
+    "ingredient_name": "苏打气泡水",
+    "usda_id": "174842",
+    "usda_name": "Beverages, carbonated, club soda"
+  },
+  {
+    "ingredient_name": "柠檬",
+    "usda_id": "167746",
+    "usda_name": "Lemons, raw, without peel"
+  },
+  {
+    "ingredient_name": "柠檬汁",
+    "usda_id": "167747",
+    "usda_name": "Lemon juice, raw"
+  },
+  {
+    "ingredient_name": "蔗糖糖浆",
+    "usda_id": "171266",
+    "usda_name": "Syrups, corn, light"
+  },
+  {
+    "ingredient_name": "冰块",
+    "usda_id": "171922",
+    "usda_name": "Beverages, water, bottled, non-carbonated, EVIAN"
+  },
+  {
+    "ingredient_name": "新鲜绿叶",
+    "usda_id": "168462",
+    "usda_name": "Spinach, raw"
+  },
+  {
+    "ingredient_name": "鸡胸肉",
+    "usda_id": "171509",
+    "usda_name": "Chicken, broilers or fryers, breast, skinless, boneless, meat only, with added solution, raw"
+  },
+  {
+    "ingredient_name": "麻油",
+    "usda_id": "171016",
+    "usda_name": "Oil, sesame, salad or cooking"
+  },
+  {
+    "ingredient_name": "香醋",
+    "usda_id": "172237",
+    "usda_name": "Vinegar, distilled"
+  },
+  {
+    "ingredient_name": "白糖",
+    "usda_id": "169655",
+    "usda_name": "Sugars, granulated"
+  },
+  {
+    "ingredient_name": "黔式腊肠",
+    "usda_id": "167694",
+    "usda_name": "Sausage, Chinese, pork"
+  },
+  {
+    "ingredient_name": "排骨",
+    "usda_id": "167853",
+    "usda_name": "Pork, fresh, spareribs, separable lean and fat, raw"
+  },
+  {
+    "ingredient_name": "五香粉",
+    "usda_id": "170924",
+    "usda_name": "Spices, curry powder"
+  },
+  {
+    "ingredient_name": "蚝油",
+    "usda_id": "174529",
+    "usda_name": "Sauce, oyster, ready-to-serve"
+  },
+  {
+    "ingredient_name": "小米椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "莴笋叶",
+    "usda_id": "169256",
+    "usda_name": "Mustard greens, raw"
+  },
+  {
+    "ingredient_name": "淀粉",
+    "usda_id": "171021",
+    "usda_name": "Cornstarch"
+  },
+  {
+    "ingredient_name": "青椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "猪瘦肉",
+    "usda_id": "167818",
+    "usda_name": "Pork, fresh, loin, whole, separable lean and fat, raw"
+  },
+  {
+    "ingredient_name": "大蒜",
+    "usda_id": "169230",
+    "usda_name": "Garlic, raw"
+  },
+  {
+    "ingredient_name": "生姜",
+    "usda_id": "169231",
+    "usda_name": "Ginger root, raw"
+  },
+  {
+    "ingredient_name": "酱油",
+    "usda_id": "174279",
+    "usda_name": "Soy sauce made from hydrolyzed vegetable protein"
+  },
+  {
+    "ingredient_name": "豆豉",
+    "usda_id": "174280",
+    "usda_name": "Tofu, salted and fermented (fuyu)"
+  },
+  {
+    "ingredient_name": "玉米粒",
+    "usda_id": "167631",
+    "usda_name": "Corn, sweet, yellow, frozen, kernels cut off cob, unprepared"
+  },
+  {
+    "ingredient_name": "椒盐粉",
+    "usda_id": "170932",
+    "usda_name": "Spices, pepper, red or cayenne"
+  },
+  {
+    "ingredient_name": "芝麻粒",
+    "usda_id": "169412",
+    "usda_name": "Seeds, sesame seed kernels, dried (decorticated)"
+  },
+  {
+    "ingredient_name": "牛腱子肉",
+    "usda_id": "168118",
+    "usda_name": "Beef, tenderloin, separable lean and fat, trimmed to 0' fat, all grades, raw"
+  },
+  {
+    "ingredient_name": "香叶",
+    "usda_id": "170917",
+    "usda_name": "Spices, bay leaf"
+  },
+  {
+    "ingredient_name": "冰糖",
+    "usda_id": "169655",
+    "usda_name": "Sugars, granulated"
+  },
+  {
+    "ingredient_name": "花椒",
+    "usda_id": "170932",
+    "usda_name": "Spices, pepper, red or cayenne"
+  },
+  {
+    "ingredient_name": "黄豆酱",
+    "usda_id": "174277",
+    "usda_name": "Soy sauce made from soy and wheat (shoyu)"
+  },
+  {
+    "ingredient_name": "猪肉末",
+    "usda_id": "167712",
+    "usda_name": "Pork, fresh, composite of trimmed retail cuts, separable lean and fat, raw"
+  },
+  {
+    "ingredient_name": "冬瓜",
+    "usda_id": "170069",
+    "usda_name": "Waxgourd, (chinese preserving melon), raw"
+  },
+  {
+    "ingredient_name": "葱花",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "鳝丝",
+    "usda_id": "174193",
+    "usda_name": "Fish, eel, mixed species, raw"
+  },
+  {
+    "ingredient_name": "老抽",
+    "usda_id": "174279",
+    "usda_name": "Soy sauce made from hydrolyzed vegetable protein"
+  },
+  {
+    "ingredient_name": "蒜末",
+    "usda_id": "169230",
+    "usda_name": "Garlic, raw"
+  },
+  {
+    "ingredient_name": "猪油",
+    "usda_id": "171401",
+    "usda_name": "Lard"
+  },
+  {
+    "ingredient_name": "鲜面条",
+    "usda_id": "168919",
+    "usda_name": "Noodles, egg, cooked, enriched, with added salt"
+  },
+  {
+    "ingredient_name": "干辣椒面",
+    "usda_id": "171319",
+    "usda_name": "Spices, chili powder"
+  },
+  {
+    "ingredient_name": "青菜",
+    "usda_id": "168429",
+    "usda_name": "Lettuce, butterhead (includes boston and bibb types), raw"
+  },
+  {
+    "ingredient_name": "豆芽",
+    "usda_id": "170383",
+    "usda_name": "Brussels sprouts, raw"
+  },
+  {
+    "ingredient_name": "洋葱",
+    "usda_id": "170000",
+    "usda_name": "Onions, raw"
+  },
+  {
+    "ingredient_name": "干面条",
+    "usda_id": "169731",
+    "usda_name": "Noodles, egg, dry, enriched"
+  },
+  {
+    "ingredient_name": "饮用水",
+    "usda_id": "173647",
+    "usda_name": "Beverages, water, tap, drinking"
+  },
+  {
+    "ingredient_name": "炸好的葱段",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "五花肉条",
+    "usda_id": "167812",
+    "usda_name": "Pork, fresh, belly, raw"
+  },
+  {
+    "ingredient_name": "生菜",
+    "usda_id": "168429",
+    "usda_name": "Lettuce, butterhead (includes boston and bibb types), raw"
+  },
+  {
+    "ingredient_name": "豆瓣酱",
+    "usda_id": "169328",
+    "usda_name": "Broadbeans, immature seeds, cooked, boiled, drained, with salt"
+  },
+  {
+    "ingredient_name": "鸭子",
+    "usda_id": "172408",
+    "usda_name": "Duck, domesticated, meat and skin, raw"
+  },
+  {
+    "ingredient_name": "糯米粉",
+    "usda_id": "169714",
+    "usda_name": "Rice flour, white, unenriched"
+  },
+  {
+    "ingredient_name": "粘米粉",
+    "usda_id": "169714",
+    "usda_name": "Rice flour, white, unenriched"
+  },
+  {
+    "ingredient_name": "蒸肉粉",
+    "usda_id": "169756",
+    "usda_name": "Rice, white, long-grain, regular, raw, unenriched"
+  },
+  {
+    "ingredient_name": "白胡椒粉",
+    "usda_id": "170933",
+    "usda_name": "Spices, pepper, white"
+  },
+  {
+    "ingredient_name": "五花肉",
+    "usda_id": "167811",
+    "usda_name": "Pork, fresh, backfat, raw"
+  },
+  {
+    "ingredient_name": "食用油",
+    "usda_id": "167737",
+    "usda_name": "Oil, corn, peanut, and olive"
+  },
+  {
+    "ingredient_name": "开水",
+    "usda_id": "171165",
+    "usda_name": "Water, bottled, non-carbonated, CALISTOGA"
+  },
+  {
+    "ingredient_name": "里脊肉",
+    "usda_id": "167818",
+    "usda_name": "Pork, fresh, loin, whole, separable lean and fat, raw"
+  },
+  {
+    "ingredient_name": "醋",
+    "usda_id": "172237",
+    "usda_name": "Vinegar, distilled"
+  },
+  {
+    "ingredient_name": "番茄酱",
+    "usda_id": "168556",
+    "usda_name": "Catsup"
+  },
+  {
+    "ingredient_name": "黄瓜",
+    "usda_id": "168409",
+    "usda_name": "Cucumber, with peel, raw"
+  },
+  {
+    "ingredient_name": "皮蛋",
+    "usda_id": "171287",
+    "usda_name": "Egg, whole, raw, fresh"
+  },
+  {
+    "ingredient_name": "高筋面粉",
+    "usda_id": "169761",
+    "usda_name": "Wheat flour, white, all-purpose, unenriched"
+  },
+  {
+    "ingredient_name": "牛奶",
+    "usda_id": "168554",
+    "usda_name": "Milk, whole, fresh"
+  },
+  {
+    "ingredient_name": "酵母",
+    "usda_id": "167717",
+    "usda_name": "Yeast extract spread"
+  },
+  {
+    "ingredient_name": "黄油",
+    "usda_id": "173430",
+    "usda_name": "Butter, without salt"
+  },
+  {
+    "ingredient_name": "蜂蜜",
+    "usda_id": "169640",
+    "usda_name": "Honey"
+  },
+  {
+    "ingredient_name": "黑芝麻",
+    "usda_id": "169412",
+    "usda_name": "Seeds, sesame seed kernels, dried (decorticated)"
+  },
+  {
+    "ingredient_name": "花生油",
+    "usda_id": "172336",
+    "usda_name": "Oil, canola"
+  },
+  {
+    "ingredient_name": "土豆",
+    "usda_id": "170026",
+    "usda_name": "Potatoes, flesh and skin, raw"
+  },
+  {
+    "ingredient_name": "蕨根粉",
+    "usda_id": "174258",
+    "usda_name": "Noodles, chinese, cellophane or long rice (mung beans), dehydrated"
+  },
+  {
+    "ingredient_name": "醋",
+    "usda_id": "172237",
+    "usda_name": "Vinegar, distilled"
+  },
+  {
+    "ingredient_name": "油泼辣子",
+    "usda_id": "171186",
+    "usda_name": "Sauce, hot chile, sriracha"
+  },
+  {
+    "ingredient_name": "糖",
+    "usda_id": "169655",
+    "usda_name": "Sugars, granulated"
+  },
+  {
+    "ingredient_name": "米粉",
+    "usda_id": "168914",
+    "usda_name": "Rice noodles, cooked"
+  },
+  {
+    "ingredient_name": "酸笋",
+    "usda_id": "169212",
+    "usda_name": "Bamboo shoots, canned, drained solids"
+  },
+  {
+    "ingredient_name": "剁椒",
+    "usda_id": "168547",
+    "usda_name": "Peppers, sweet, red, frozen, chopped, unprepared"
+  },
+  {
+    "ingredient_name": "米醋",
+    "usda_id": "172237",
+    "usda_name": "Vinegar, distilled"
+  },
+  {
+    "ingredient_name": "生粉",
+    "usda_id": "171021",
+    "usda_name": "Cornstarch"
+  },
+  {
+    "ingredient_name": "木耳",
+    "usda_id": "168422",
+    "usda_name": "Mushrooms, Chanterelle, raw"
+  },
+  {
+    "ingredient_name": "蒜瓣",
+    "usda_id": "169230",
+    "usda_name": "Garlic, raw"
+  },
+  {
+    "ingredient_name": "芥末",
+    "usda_id": "168438",
+    "usda_name": "Mustard spinach, (tendergreen), raw"
+  },
+  {
+    "ingredient_name": "冷饭",
+    "usda_id": "168878",
+    "usda_name": "Rice, white, long-grain, regular, enriched, cooked"
+  },
+  {
+    "ingredient_name": "冷冻去头去皮基围虾",
+    "usda_id": "174210",
+    "usda_name": "Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)"
+  },
+  {
+    "ingredient_name": "午餐肉罐头",
+    "usda_id": "172951",
+    "usda_name": "Luncheon meat, pork with ham, minced, canned, includes Spam (Hormel)"
+  },
+  {
+    "ingredient_name": "青豆",
+    "usda_id": "169049",
+    "usda_name": "Babyfood, green beans and turkey, strained"
+  },
+  {
+    "ingredient_name": "胡萝卜",
+    "usda_id": "168568",
+    "usda_name": "Carrots, baby, raw"
+  },
+  {
+    "ingredient_name": "油",
+    "usda_id": "171411",
+    "usda_name": "Oil, soybean, salad or cooking"
+  },
+  {
+    "ingredient_name": "东北米",
+    "usda_id": "169756",
+    "usda_name": "Rice, white, long-grain, regular, raw, unenriched"
+  },
+  {
+    "ingredient_name": "鲣鱼海苔碎",
+    "usda_id": "167602",
+    "usda_name": "Seaweed, Canadian Cultivated EMI-TSUNOMATA, dry"
+  },
+  {
+    "ingredient_name": "内脂豆腐",
+    "usda_id": "174292",
+    "usda_name": "MORI-NU, Tofu, silken, soft"
+  },
+  {
+    "ingredient_name": "咸鸭蛋",
+    "usda_id": "171287",
+    "usda_name": "Egg, whole, raw, fresh"
+  },
+  {
+    "ingredient_name": "小米椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "蒜蓉辣酱",
+    "usda_id": "168125",
+    "usda_name": "Salsa, medium"
+  },
+  {
+    "ingredient_name": "羊肉",
+    "usda_id": "168534",
+    "usda_name": "Lambsquarters, cooked, boiled, drained, with salt"
+  },
+  {
+    "ingredient_name": "大葱",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "孜然粉",
+    "usda_id": "170923",
+    "usda_name": "Spices, cumin seed"
+  },
+  {
+    "ingredient_name": "香菜",
+    "usda_id": "170416",
+    "usda_name": "Parsley, fresh"
+  },
+  {
+    "ingredient_name": "冷冻花卷",
+    "usda_id": "171237",
+    "usda_name": "Flour, wheat, bread, unenriched"
+  },
+  {
+    "ingredient_name": "小汤圆",
+    "usda_id": "169711",
+    "usda_name": "Rice, white, glutinous, unenriched, cooked"
+  },
+  {
+    "ingredient_name": "醪糟",
+    "usda_id": "167723",
+    "usda_name": "Alcoholic beverage, rice (sake)"
+  },
+  {
+    "ingredient_name": "枸杞",
+    "usda_id": "173032",
+    "usda_name": "Goji berries, dried"
+  },
+  {
+    "ingredient_name": "金针菇",
+    "usda_id": "168423",
+    "usda_name": "Mushrooms, morel, raw"
+  },
+  {
+    "ingredient_name": "辣椒油",
+    "usda_id": "168577",
+    "usda_name": "Peppers, chili, green, canned"
+  },
+  {
+    "ingredient_name": "土豆淀粉",
+    "usda_id": "170087",
+    "usda_name": "Potato flour"
+  },
+  {
+    "ingredient_name": "羊排",
+    "usda_id": "168534",
+    "usda_name": "Lambsquarters, cooked, boiled, drained, with salt"
+  },
+  {
+    "ingredient_name": "白芷",
+    "usda_id": "171323",
+    "usda_name": "Spices, unspecified"
+  },
+  {
+    "ingredient_name": "孜然粒",
+    "usda_id": "170923",
+    "usda_name": "Spices, cumin seed"
+  },
+  {
+    "ingredient_name": "烧烤撒料",
+    "usda_id": "172242",
+    "usda_name": "Seasoning mix, dry, sazon, coriander & annatto"
+  },
+  {
+    "ingredient_name": "白芝麻",
+    "usda_id": "170079",
+    "usda_name": "Seeds, sesame, whole, roasted and toasted"
+  },
+  {
+    "ingredient_name": "菜心",
+    "usda_id": "168429",
+    "usda_name": "Lettuce, butterhead (includes boston and bibb types), raw"
+  },
+  {
+    "ingredient_name": "牛肉",
+    "usda_id": "175296",
+    "usda_name": "Game meat, beefalo, composite of cuts, raw"
+  },
+  {
+    "ingredient_name": "番茄",
+    "usda_id": "170457",
+    "usda_name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+    "ingredient_name": "玉米",
+    "usda_id": "167525",
+    "usda_name": "Tostada shells, corn"
+  },
+  {
+    "ingredient_name": "香葱",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "黑胡椒粉",
+    "usda_id": "170931",
+    "usda_name": "Spices, pepper, black"
+  },
+  {
+    "ingredient_name": "热干面特有的碱水面",
+    "usda_id": "174258",
+    "usda_name": "Noodles, chinese, cellophane or long rice (mung beans), dehydrated"
+  },
+  {
+    "ingredient_name": "酸豆角",
+    "usda_id": "167870",
+    "usda_name": "Pork, cured, feet, pickled"
+  },
+  {
+    "ingredient_name": "蒜水",
+    "usda_id": "170003",
+    "usda_name": "Garlic, raw"
+  },
+  {
+    "ingredient_name": "肉汤汁",
+    "usda_id": "171099",
+    "usda_name": "Chicken, canned, meat only, with broth"
+  },
+  {
+    "ingredient_name": "萝卜干",
+    "usda_id": "168451",
+    "usda_name": "Radishes, oriental, raw"
+  },
+  {
+    "ingredient_name": "芝麻酱",
+    "usda_id": "170079",
+    "usda_name": "Seeds, sesame, whole, roasted and toasted"
+  },
+  {
+    "ingredient_name": "花菜",
+    "usda_id": "168520",
+    "usda_name": "Cauliflower, cooked, boiled, drained, with salt"
+  },
+  {
+    "ingredient_name": "青辣椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "孜然籽",
+    "usda_id": "170923",
+    "usda_name": "Spices, cumin seed"
+  },
+  {
+    "ingredient_name": "姜黄粉",
+    "usda_id": "172231",
+    "usda_name": "Spices, turmeric, ground"
+  },
+  {
+    "ingredient_name": "红辣椒粉",
+    "usda_id": "168577",
+    "usda_name": "Peppers, chili, green, canned"
+  },
+  {
+    "ingredient_name": "香菜粉",
+    "usda_id": "169997",
+    "usda_name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+    "ingredient_name": "印度综合香料粉",
+    "usda_id": "170924",
+    "usda_name": "Spices, curry powder"
+  },
+  {
+    "ingredient_name": "姜末",
+    "usda_id": "169231",
+    "usda_name": "Ginger root, raw"
+  },
+  {
+    "ingredient_name": "豆角",
+    "usda_id": "170976",
+    "usda_name": "Beans, green, canned, regular pack, drained solids"
+  },
+  {
+    "ingredient_name": "蛋挞皮",
+    "usda_id": "171237",
+    "usda_name": "Flour, wheat, bread, unenriched"
+  },
+  {
+    "ingredient_name": "淡奶油",
+    "usda_id": "170857",
+    "usda_name": "Cream, fluid, light (coffee cream or table cream)"
+  },
+  {
+    "ingredient_name": "蛋黄",
+    "usda_id": "173436",
+    "usda_name": "Egg, yolk, raw, frozen, salted, pasteurized"
+  },
+  {
+    "ingredient_name": "玉米淀粉",
+    "usda_id": "169698",
+    "usda_name": "Cornstarch"
+  },
+  {
+    "ingredient_name": "面包糠",
+    "usda_id": "174924",
+    "usda_name": "Bread, white, commercially prepared (includes soft bread crumbs)"
+  },
+  {
+    "ingredient_name": "皮蛋",
+    "usda_id": "171287",
+    "usda_name": "Egg, whole, raw, fresh"
+  },
+  {
+    "ingredient_name": "瘦肉",
+    "usda_id": "168650",
+    "usda_name": "Beef, ground, 70% lean meat / 30% fat, patty cooked, pan-broiled"
+  },
+  {
+    "ingredient_name": "大米",
+    "usda_id": "169756",
+    "usda_name": "Rice, white, long-grain, regular, raw, unenriched"
+  },
+  {
+    "ingredient_name": "小葱",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "香菜",
+    "usda_id": "170416",
+    "usda_name": "Parsley, fresh"
+  },
+  {
+    "ingredient_name": "生菜",
+    "usda_id": "168429",
+    "usda_name": "Lettuce, butterhead (includes boston and bibb types), raw"
+  },
+  {
+    "ingredient_name": "生姜",
+    "usda_id": "169231",
+    "usda_name": "Ginger root, raw"
+  },
+  {
+    "ingredient_name": "白萝卜",
+    "usda_id": "168451",
+    "usda_name": "Radishes, oriental, raw"
+  },
+  {
+    "ingredient_name": "料酒或者黄酒",
+    "usda_id": "169070",
+    "usda_name": "Alcoholic beverage, wine, cooking"
+  },
+  {
+    "ingredient_name": "白芷",
+    "usda_id": "171323",
+    "usda_name": "Spices, unspecified"
+  },
+  {
+    "ingredient_name": "香干",
+    "usda_id": "16120",
+    "usda_name": "Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)"
+  },
+  {
+    "ingredient_name": "青椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "包菜",
+    "usda_id": "168514",
+    "usda_name": "Cabbage, common, cooked, boiled, drained, with salt"
+  },
+  {
+    "ingredient_name": "粉丝",
+    "usda_id": "174258",
+    "usda_name": "Noodles, chinese, cellophane or long rice (mung beans), dehydrated"
+  },
+  {
+    "ingredient_name": "菜籽油",
+    "usda_id": "172336",
+    "usda_name": "Oil, canola"
+  },
+  {
+    "ingredient_name": "蒜瓣",
+    "usda_id": "169230",
+    "usda_name": "Garlic, raw"
+  },
+  {
+    "ingredient_name": "干辣椒",
+    "usda_id": "168570",
+    "usda_name": "Peppers, hot chile, sun-dried"
+  },
+  {
+    "ingredient_name": "昂刺鱼",
+    "usda_id": "174187",
+    "usda_name": "Fish, mixed species, fresh, meat only, raw"
+  },
+  {
+    "ingredient_name": "豆腐",
+    "usda_id": "172475",
+    "usda_name": "Tofu, raw, firm, prepared with calcium sulfate"
+  },
+  {
+    "ingredient_name": "姜",
+    "usda_id": "169231",
+    "usda_name": "Ginger root, raw"
+  },
+  {
+    "ingredient_name": "黄瓜",
+    "usda_id": "168409",
+    "usda_name": "Cucumber, with peel, raw"
+  },
+  {
+    "ingredient_name": "南瓜",
+    "usda_id": "11406",
+    "usda_name": "Pumpkin, raw"
+  },
+  {
+    "ingredient_name": "花椒粉",
+    "usda_id": "168459",
+    "usda_name": "Sesbania flower, raw"
+  },
+  {
+    "ingredient_name": "麻辣鲜",
+    "usda_id": "172242",
+    "usda_name": "Seasoning mix, dry, sazon, coriander & annatto"
+  },
+  {
+    "ingredient_name": "花椒油",
+    "usda_id": "171016",
+    "usda_name": "Oil, sesame, salad or cooking"
+  },
+  {
+    "ingredient_name": "红柚果肉",
+    "usda_id": "167774",
+    "usda_name": "Grapefruit juice, pink, raw"
+  },
+  {
+    "ingredient_name": "波旁威士忌",
+    "usda_id": "171919",
+    "usda_name": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 86 proof"
+  },
+  {
+    "ingredient_name": "可口可乐",
+    "usda_id": "174852",
+    "usda_name": "Beverages, carbonated, cola, regular"
+  },
+  {
+    "ingredient_name": "河粉",
+    "usda_id": "168914",
+    "usda_name": "Rice noodles, cooked"
+  },
+  {
+    "ingredient_name": "面筋块",
+    "usda_id": "168147",
+    "usda_name": "Vital wheat gluten"
+  },
+  {
+    "ingredient_name": "小葱",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "河粉炒料",
+    "usda_id": "172242",
+    "usda_name": "Seasoning mix, dry, sazon, coriander & annatto"
+  },
+  {
+    "ingredient_name": "辣椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "蒜",
+    "usda_id": "169230",
+    "usda_name": "Garlic, raw"
+  },
+  {
+    "ingredient_name": "生鸡肝",
+    "usda_id": "2 poultry-composition",
+    "usda_name": "Chicken, liver, all classes, raw"
+  },
+  {
+    "ingredient_name": "蒜苗",
+    "usda_id": "169230",
+    "usda_name": "Garlic, raw"
+  },
+  {
+    "ingredient_name": "烧烤料或孜然粉",
+    "usda_id": "170923",
+    "usda_name": "Spices, cumin seed"
+  },
+  {
+    "ingredient_name": "风味调料",
+    "usda_id": "172242",
+    "usda_name": "Seasoning mix, dry, sazon, coriander & annatto"
+  },
+  {
+    "ingredient_name": "白蘑菇",
+    "usda_id": "168423",
+    "usda_name": "Mushrooms, morel, raw"
+  },
+  {
+    "ingredient_name": "牛奶",
+    "usda_id": "168554",
+    "usda_name": "Milk, whole, fresh"
+  },
+  {
+    "ingredient_name": "淡奶油",
+    "usda_id": "170857",
+    "usda_name": "Cream, fluid, light (coffee cream or table cream)"
+  },
+  {
+    "ingredient_name": "清水",
+    "usda_id": "173647",
+    "usda_name": "Beverages, water, tap, drinking"
+  },
+  {
+    "ingredient_name": "黑胡椒碎",
+    "usda_id": "170931",
+    "usda_name": "Spices, pepper, black"
+  },
+  {
+    "ingredient_name": "荔浦芋头",
+    "usda_id": "168486",
+    "usda_name": "Taro, cooked, without salt"
+  },
+  {
+    "ingredient_name": "紫薯粉",
+    "usda_id": "167681",
+    "usda_name": "Beverages, fruit-flavored drink, dry powdered mix, low calorie, with aspartame"
+  },
+  {
+    "ingredient_name": "面",
+    "usda_id": "171237",
+    "usda_name": "Flour, wheat, bread, unenriched"
+  },
+  {
+    "ingredient_name": "老干妈",
+    "usda_id": "171186",
+    "usda_name": "Sauce, hot chile, sriracha"
+  },
+  {
+    "ingredient_name": "饮用水",
+    "usda_id": "173647",
+    "usda_name": "Beverages, water, tap, drinking"
+  },
+  {
+    "ingredient_name": "酸梅晶固体饮料",
+    "usda_id": "173219",
+    "usda_name": "Beverages, Malted drink mix, natural, with added nutrients, powder, prepared with whole milk"
+  },
+  {
+    "ingredient_name": "方糖",
+    "usda_id": "169655",
+    "usda_name": "Sugars, granulated"
+  },
+  {
+    "ingredient_name": "北京二锅头酒",
+    "usda_id": "171907",
+    "usda_name": "Beverages, Malt liquor beverage"
+  },
+  {
+    "ingredient_name": "咖喱块",
+    "usda_id": "170924",
+    "usda_name": "Spices, curry powder"
+  },
+  {
+    "ingredient_name": "速冻馄饨",
+    "usda_id": "168042",
+    "usda_name": "Stew, dumpling with mutton (Navajo)"
+  },
+  {
+    "ingredient_name": "香菜",
+    "usda_id": "170416",
+    "usda_name": "Parsley, fresh"
+  },
+  {
+    "ingredient_name": "小龙虾",
+    "usda_id": "174206",
+    "usda_name": "Crustaceans, crayfish, mixed species, wild, raw"
+  },
+  {
+    "ingredient_name": "油",
+    "usda_id": "171411",
+    "usda_name": "Oil, soybean, salad or cooking"
+  },
+  {
+    "ingredient_name": "青花椒",
+    "usda_id": "168459",
+    "usda_name": "Sesbania flower, raw"
+  },
+  {
+    "ingredient_name": "子弹头辣椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "啤酒",
+    "usda_id": "168746",
+    "usda_name": "Alcoholic beverage, beer, regular, all"
+  },
+  {
+    "ingredient_name": "生抽",
+    "usda_id": "174279",
+    "usda_name": "Soy sauce made from hydrolyzed vegetable protein"
+  },
+  {
+    "ingredient_name": "半成品意大利面",
+    "usda_id": "174258",
+    "usda_name": "Noodles, chinese, cellophane or long rice (mung beans), dehydrated"
+  },
+  {
+    "ingredient_name": "意面酱料",
+    "usda_id": "171190",
+    "usda_name": "Sauce, pasta, meat lasagna, ready-to-serve"
+  },
+  {
+    "ingredient_name": "米饭",
+    "usda_id": "169756",
+    "usda_name": "Rice, white, long-grain, regular, raw, unenriched"
+  },
+  {
+    "ingredient_name": "火锅牛肉卷",
+    "usda_id": "172121",
+    "usda_name": "Beef, chuck, shoulder clod, stew meat, separable lean and fat, raw"
+  },
+  {
+    "ingredient_name": "蘑菇",
+    "usda_id": "168423",
+    "usda_name": "Mushrooms, morel, raw"
+  },
+  {
+    "ingredient_name": "韩式辣酱",
+    "usda_id": "171186",
+    "usda_name": "Sauce, hot chile, sriracha"
+  },
+  {
+    "ingredient_name": "雪碧",
+    "usda_id": "173206",
+    "usda_name": "Beverages, carbonated, SPRITE, lemon-lime, without caffeine"
+  },
+  {
+    "ingredient_name": "芝麻油",
+    "usda_id": "171016",
+    "usda_name": "Oil, sesame, salad or cooking"
+  },
+  {
+    "ingredient_name": "凤尾",
+    "usda_id": "168429",
+    "usda_name": "Lettuce, butterhead (includes boston and bibb types), raw"
+  },
+  {
+    "ingredient_name": "芹菜",
+    "usda_id": "169342",
+    "usda_name": "Celery, cooked, boiled, drained, with salt"
+  },
+  {
+    "ingredient_name": "红泡椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "鸡蛋清",
+    "usda_id": "173427",
+    "usda_name": "Egg, white, dried, powder, stabilized, glucose reduced"
+  },
+  {
+    "ingredient_name": "小米辣干辣椒",
+    "usda_id": "168577",
+    "usda_name": "Peppers, chili, green, canned"
+  },
+  {
+    "ingredient_name": "植物油",
+    "usda_id": "169867",
+    "usda_name": "Oil, corn and canola"
+  },
+  {
+    "ingredient_name": "菜籽油",
+    "usda_id": "172336",
+    "usda_name": "Oil, canola"
+  },
+  {
+    "ingredient_name": "生抽酱油",
+    "usda_id": "172473",
+    "usda_name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+    "ingredient_name": "水淀粉",
+    "usda_id": "171021",
+    "usda_name": "Cornstarch"
+  },
+  {
+    "ingredient_name": "淡奶油",
+    "usda_id": "170857",
+    "usda_name": "Cream, fluid, light (coffee cream or table cream)"
+  },
+  {
+    "ingredient_name": "椰树牌椰汁",
+    "usda_id": "170174",
+    "usda_name": "Nuts, coconut water (liquid from coconuts)"
+  },
+  {
+    "ingredient_name": "espresso 意式浓缩",
+    "usda_id": "168122",
+    "usda_name": "Beverages, coffee, instant, with whitener, reduced calorie"
+  },
+  {
+    "ingredient_name": "椰子水",
+    "usda_id": "170174",
+    "usda_name": "Nuts, coconut water (liquid from coconuts)"
+  },
+  {
+    "ingredient_name": "吉利丁",
+    "usda_id": "168775",
+    "usda_name": "Gelatin desserts, dry mix"
+  },
+  {
+    "ingredient_name": "糖",
+    "usda_id": "169655",
+    "usda_name": "Sugars, granulated"
+  },
+  {
+    "ingredient_name": "干酵母",
+    "usda_id": "167717",
+    "usda_name": "Yeast extract spread"
+  },
+  {
+    "ingredient_name": "奶制品",
+    "usda_id": "170326",
+    "usda_name": "WENDY'S, Frosty Dairy Dessert"
+  },
+  {
+    "ingredient_name": "谷朊粉",
+    "usda_id": "168147",
+    "usda_name": "Vital wheat gluten"
+  },
+  {
+    "ingredient_name": "香草精",
+    "usda_id": "172235",
+    "usda_name": "Vanilla extract, imitation, alcohol"
+  },
+  {
+    "ingredient_name": "草莓",
+    "usda_id": "171252",
+    "usda_name": "Strawberries, raw"
+  },
+  {
+    "ingredient_name": "重奶油",
+    "usda_id": "170857",
+    "usda_name": "Cream, fluid, light (coffee cream or table cream)"
+  },
+  {
+    "ingredient_name": "加糖炼乳",
+    "usda_id": "171257",
+    "usda_name": "Milk, dry, whole, with added vitamin D"
+  },
+  {
+    "ingredient_name": "猪蹄",
+    "usda_id": "170046",
+    "usda_name": "Pork, fresh, variety meats and by-products, feet, raw"
+  },
+  {
+    "ingredient_name": "鸭肉",
+    "usda_id": "167617",
+    "usda_name": "Duck, scoter, white-winged, meat (Alaska Native)"
+  },
+  {
+    "ingredient_name": "啤酒",
+    "usda_id": "168746",
+    "usda_name": "Alcoholic beverage, beer, regular, all"
+  },
+  {
+    "ingredient_name": "生抽酱油",
+    "usda_id": "172473",
+    "usda_name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+    "ingredient_name": "老抽酱油",
+    "usda_id": "172473",
+    "usda_name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+    "ingredient_name": "冰糖",
+    "usda_id": "169655",
+    "usda_name": "Sugars, granulated"
+  },
+  {
+    "ingredient_name": "丁香",
+    "usda_id": "171321",
+    "usda_name": "Spices, cloves, ground"
+  },
+  {
+    "ingredient_name": "红石榴糖浆",
+    "usda_id": "168088",
+    "usda_name": "Syrups, grenadine"
+  },
+  {
+    "ingredient_name": "NFC 橙汁",
+    "usda_id": "167794",
+    "usda_name": "Orange juice, chilled, includes from concentrate, with added calcium and vitamins A, D, E"
+  },
+  {
+    "ingredient_name": "苏打水",
+    "usda_id": "174821",
+    "usda_name": "Beverages, Energy Drink with carbonated water and high fructose corn syrup"
+  },
+  {
+    "ingredient_name": "白朗姆",
+    "usda_id": "171157",
+    "usda_name": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 86 proof"
+  },
+  {
+    "ingredient_name": "蓝橙力娇酒",
+    "usda_id": "173665",
+    "usda_name": "Alcoholic beverage, liqueur, coffee, 63 proof"
+  },
+  {
+    "ingredient_name": "冰块",
+    "usda_id": "171922",
+    "usda_name": "Beverages, water, bottled, non-carbonated, EVIAN"
+  },
+  {
+    "ingredient_name": "柠檬",
+    "usda_id": "167746",
+    "usda_name": "Lemons, raw, without peel"
+  },
+  {
+    "ingredient_name": "香油",
+    "usda_id": "171016",
+    "usda_name": "Oil, sesame, salad or cooking"
+  },
+  {
+    "ingredient_name": "螺丝椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "原味酸奶",
+    "usda_id": "171260",
+    "usda_name": "Yogurt, Greek, vanilla, lowfat"
+  },
+  {
+    "ingredient_name": "Masala 粉",
+    "usda_id": "172242",
+    "usda_name": "Seasoning mix, dry, sazon, coriander & annatto"
+  },
+  {
+    "ingredient_name": "蒜粉",
+    "usda_id": "171325",
+    "usda_name": "Spices, garlic powder"
+  },
+  {
+    "ingredient_name": "姜粉",
+    "usda_id": "169231",
+    "usda_name": "Ginger root, raw"
+  },
+  {
+    "ingredient_name": "速冻水饺",
+    "usda_id": "174258",
+    "usda_name": "Noodles, chinese, cellophane or long rice (mung beans), dehydrated"
+  },
+  {
+    "ingredient_name": "黑芝麻",
+    "usda_id": "169412",
+    "usda_name": "Seeds, sesame seed kernels, dried (decorticated)"
+  },
+  {
+    "ingredient_name": "葱花",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "茄子",
+    "usda_id": "169228",
+    "usda_name": "Eggplant, raw"
+  },
+  {
+    "ingredient_name": "虾皮",
+    "usda_id": "174210",
+    "usda_name": "Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)"
+  },
+  {
+    "ingredient_name": "香葱",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "茭白",
+    "usda_id": "168489",
+    "usda_name": "Taro shoots, raw"
+  },
+  {
+    "ingredient_name": "午餐肉",
+    "usda_id": "170202",
+    "usda_name": "Beef, cured, luncheon meat, jellied"
+  },
+  {
+    "ingredient_name": "马斯卡彭芝士",
+    "usda_id": "167526",
+    "usda_name": "Bread, salvadoran sweet cheese (quesadilla salvadorena)"
+  },
+  {
+    "ingredient_name": "手指饼干",
+    "usda_id": "171219",
+    "usda_name": "Cookies, sugar, commercially prepared"
+  },
+  {
+    "ingredient_name": "浓缩咖啡",
+    "usda_id": "171256",
+    "usda_name": "Beverages, coffee, brewed, espresso"
+  },
+  {
+    "ingredient_name": "无菌鸡蛋",
+    "usda_id": "167643",
+    "usda_name": "Fish, whitefish, eggs (Alaska Native)"
+  },
+  {
+    "ingredient_name": "可可粉",
+    "usda_id": "168774",
+    "usda_name": "Cocoa, dry powder, unsweetened, HERSHEY'S European Style Cocoa"
+  },
+  {
+    "ingredient_name": "黑醋",
+    "usda_id": "171156",
+    "usda_name": "Vinegar, balsamic"
+  },
+  {
+    "ingredient_name": "香油",
+    "usda_id": "171016",
+    "usda_name": "Oil, sesame, salad or cooking"
+  },
+  {
+    "ingredient_name": "牛蛙肉",
+    "usda_id": "168148",
+    "usda_name": "Frog legs, raw"
+  },
+  {
+    "ingredient_name": "泡姜",
+    "usda_id": "169231",
+    "usda_name": "Ginger root, raw"
+  },
+  {
+    "ingredient_name": "泡椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "野山椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "青红辣椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "藤椒油",
+    "usda_id": "171016",
+    "usda_name": "Oil, sesame, salad or cooking"
+  },
+  {
+    "ingredient_name": "猪油",
+    "usda_id": "171401",
+    "usda_name": "Lard"
+  },
+  {
+    "ingredient_name": "意大利面",
+    "usda_id": "174258",
+    "usda_name": "Noodles, chinese, cellophane or long rice (mung beans), dehydrated"
+  },
+  {
+    "ingredient_name": "肥牛片",
+    "usda_id": "172121",
+    "usda_name": "Beef, chuck, shoulder clod, stew meat, separable lean and fat, raw"
+  },
+  {
+    "ingredient_name": "番茄酱",
+    "usda_id": "168556",
+    "usda_name": "Catsup"
+  },
+  {
+    "ingredient_name": "通心粉",
+    "usda_id": "174258",
+    "usda_name": "Noodles, chinese, cellophane or long rice (mung beans), dehydrated"
+  },
+  {
+    "ingredient_name": "奶酪",
+    "usda_id": "167526",
+    "usda_name": "Bread, salvadoran sweet cheese (quesadilla salvadorena)"
+  },
+  {
+    "ingredient_name": "培根",
+    "usda_id": "167704",
+    "usda_name": "Salad dressing, bacon and tomato"
+  },
+  {
+    "ingredient_name": "牛奶",
+    "usda_id": "168554",
+    "usda_name": "Milk, whole, fresh"
+  },
+  {
+    "ingredient_name": "豆干",
+    "usda_id": "167695",
+    "usda_name": "Mayonnaise, made with tofu"
+  },
+  {
+    "ingredient_name": "香芹",
+    "usda_id": "170416",
+    "usda_name": "Parsley, fresh"
+  },
+  {
+    "ingredient_name": "辣椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "猪皮",
+    "usda_id": "167811",
+    "usda_name": "Pork, fresh, backfat, raw"
+  },
+  {
+    "ingredient_name": "白醋",
+    "usda_id": "172237",
+    "usda_name": "Vinegar, distilled"
+  },
+  {
+    "ingredient_name": "八角",
+    "usda_id": "171316",
+    "usda_name": "Spices, anise seed"
+  },
+  {
+    "ingredient_name": "丁香",
+    "usda_id": "171321",
+    "usda_name": "Spices, cloves, ground"
+  },
+  {
+    "ingredient_name": "小茴香",
+    "usda_id": "169385",
+    "usda_name": "Fennel, bulb, raw"
+  },
+  {
+    "ingredient_name": "桂皮",
+    "usda_id": "171320",
+    "usda_name": "Spices, cinnamon, ground"
+  },
+  {
+    "ingredient_name": "冰糖",
+    "usda_id": "169655",
+    "usda_name": "Sugars, granulated"
+  },
+  {
+    "ingredient_name": "干小米椒",
+    "usda_id": "168577",
+    "usda_name": "Peppers, chili, green, canned"
+  },
+  {
+    "ingredient_name": "鸡肉（鸡腿肉）",
+    "usda_id": "170339",
+    "usda_name": "Chicken, broilers, meat and skin, raw"
+  },
+  {
+    "ingredient_name": "菜椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "甜椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "油",
+    "usda_id": "171411",
+    "usda_name": "Oil, soybean, salad or cooking"
+  },
+  {
+    "ingredient_name": "香果",
+    "usda_id": "171075",
+    "usda_name": "Apples, raw, with skin"
+  },
+  {
+    "ingredient_name": "日本豆腐",
+    "usda_id": "167695",
+    "usda_name": "Mayonnaise, made with tofu"
+  },
+  {
+    "ingredient_name": "火腿肠",
+    "usda_id": "167694",
+    "usda_name": "Sausage, turkey and pork, fresh, bulk, patty or link, cooked"
+  },
+  {
+    "ingredient_name": "蛏子",
+    "usda_id": "171151",
+    "usda_name": "Soup, clam chowder, manhattan style, canned, chunky, ready-to-serve"
+  },
+  {
+    "ingredient_name": "洋葱",
+    "usda_id": "170000",
+    "usda_name": "Onions, raw"
+  },
+  {
+    "ingredient_name": "鸡精",
+    "usda_id": "171563",
+    "usda_name": "Soup, chicken broth cubes, dry"
+  },
+  {
+    "ingredient_name": "普通面粉",
+    "usda_id": "171237",
+    "usda_name": "Flour, wheat, bread, unenriched"
+  },
+  {
+    "ingredient_name": "冷水",
+    "usda_id": "167765",
+    "usda_name": "Watermelon, raw"
+  },
+  {
+    "ingredient_name": "火腿",
+    "usda_id": "170048",
+    "usda_name": "Ham, chopped, loaf, refrigerated, cooked, heated"
+  },
+  {
+    "ingredient_name": "芝士片",
+    "usda_id": "167526",
+    "usda_name": "Bread, salvadoran sweet cheese (quesadilla salvadorena)"
+  },
+  {
+    "ingredient_name": "烧卖皮",
+    "usda_id": "169773",
+    "usda_name": "Potsticker or wonton, pork and vegetable, frozen, unprepared"
+  },
+  {
+    "ingredient_name": "生姜末",
+    "usda_id": "169231",
+    "usda_name": "Ginger root, raw"
+  },
+  {
+    "ingredient_name": "葱末",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "料酒",
+    "usda_id": "169070",
+    "usda_name": "Alcoholic beverage, wine, cooking"
+  },
+  {
+    "ingredient_name": "芝麻油",
+    "usda_id": "171016",
+    "usda_name": "Oil, sesame, salad or cooking"
+  },
+  {
+    "ingredient_name": "高汤",
+    "usda_id": "171099",
+    "usda_name": "Chicken, canned, meat only, with broth"
+  },
+  {
+    "ingredient_name": "浓汤宝",
+    "usda_id": "171538",
+    "usda_name": "Soup, beef broth or bouillon canned, ready-to-serve"
+  },
+  {
+    "ingredient_name": "冬笋",
+    "usda_id": "169210",
+    "usda_name": "Bamboo shoots, raw"
+  },
+  {
+    "ingredient_name": "皮冻",
+    "usda_id": "174187",
+    "usda_name": "Soup, stock, beef, home-prepared"
+  },
+  {
+    "ingredient_name": "香菇",
+    "usda_id": "169242",
+    "usda_name": "Mushrooms, shiitake, raw"
+  },
+  {
+    "ingredient_name": "虾仁",
+    "usda_id": "174210",
+    "usda_name": "Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)"
+  },
+  {
+    "ingredient_name": "复配食品增稠剂",
+    "usda_id": "172242",
+    "usda_name": "Food additive, thickening agent (closest match)"
+  },
+  {
+    "ingredient_name": "鸡肉",
+    "usda_id": "174502",
+    "usda_name": "Chicken, skin (drumsticks and thighs), with added solution, raw"
+  },
+  {
+    "ingredient_name": "白醋",
+    "usda_id": "172237",
+    "usda_name": "Vinegar, distilled"
+  },
+  {
+    "ingredient_name": "丽滋饼干",
+    "usda_id": "171219",
+    "usda_name": "Cookies, sugar, commercially prepared"
+  },
+  {
+    "ingredient_name": "面条",
+    "usda_id": "174258",
+    "usda_name": "Noodles, chinese, cellophane or long rice (mung beans), dehydrated"
+  },
+  {
+    "ingredient_name": "肉类",
+    "usda_id": "170339",
+    "usda_name": "Chicken, broilers, meat and skin, raw"
+  },
+  {
+    "ingredient_name": "蛋类",
+    "usda_id": "167643",
+    "usda_name": "Fish, whitefish, eggs (Alaska Native)"
+  },
+  {
+    "ingredient_name": "豆制品",
+    "usda_id": "167695",
+    "usda_name": "Mayonnaise, made with tofu"
+  },
+  {
+    "ingredient_name": "蔬菜",
+    "usda_id": "170964",
+    "usda_name": "Vegetables, mixed (frozen), unprepared"
+  },
+  {
+    "ingredient_name": "年糕",
+    "usda_id": "169711",
+    "usda_name": "Rice, white, glutinous, unenriched, cooked"
+  },
+  {
+    "ingredient_name": "朝天椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "小米椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "油麦菜",
+    "usda_id": "168429",
+    "usda_name": "Lettuce, butterhead (includes boston and bibb types), raw"
+  },
+  {
+    "ingredient_name": "香叶",
+    "usda_id": "170917",
+    "usda_name": "Spices, bay leaf"
+  },
+  {
+    "ingredient_name": "茴香",
+    "usda_id": "169385",
+    "usda_name": "Fennel, bulb, raw"
+  },
+  {
+    "ingredient_name": "红茶",
+    "usda_id": "167620",
+    "usda_name": "Tea, tundra, herb and laborador combination (Alaska Native)"
+  },
+  {
+    "ingredient_name": "蒜头",
+    "usda_id": "169230",
+    "usda_name": "Garlic, raw"
+  },
+  {
+    "ingredient_name": "熟白芝麻",
+    "usda_id": "170079",
+    "usda_name": "Seeds, sesame, whole, roasted and toasted"
+  },
+  {
+    "ingredient_name": "花生油",
+    "usda_id": "172336",
+    "usda_name": "Oil, canola"
+  },
+  {
+    "ingredient_name": "草寇",
+    "usda_id": "170919",
+    "usda_name": "Spices, cardamom"
+  },
+  {
+    "ingredient_name": "白芷",
+    "usda_id": "171323",
+    "usda_name": "Spices, unspecified"
+  },
+  {
+    "ingredient_name": "姜片",
+    "usda_id": "169231",
+    "usda_name": "Ginger root, raw"
+  },
+  {
+    "ingredient_name": "梅菜",
+    "usda_id": "168438",
+    "usda_name": "Mustard spinach, (tendergreen), raw"
+  },
+  {
+    "ingredient_name": "活虾",
+    "usda_id": "174210",
+    "usda_name": "Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)"
+  },
+  {
+    "ingredient_name": "红辣椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "蛋挞皮",
+    "usda_id": "171237",
+    "usda_name": "Flour, wheat, bread, unenriched"
+  },
+  {
+    "ingredient_name": "蛋挞液",
+    "usda_id": "171287",
+    "usda_name": "Egg, whole, raw, fresh"
+  },
+  {
+    "ingredient_name": "纯净水",
+    "usda_id": "167765",
+    "usda_name": "Watermelon, raw"
+  },
+  {
+    "ingredient_name": "大蒜",
+    "usda_id": "169230",
+    "usda_name": "Garlic, raw"
+  },
+  {
+    "ingredient_name": "陈醋",
+    "usda_id": "171156",
+    "usda_name": "Vinegar, balsamic"
+  },
+  {
+    "ingredient_name": "味极鲜",
+    "usda_id": "172473",
+    "usda_name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+    "ingredient_name": "植物油",
+    "usda_id": "169867",
+    "usda_name": "Oil, corn and canola"
+  },
+  {
+    "ingredient_name": "青椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "红椒",
+    "usda_id": "170014",
+    "usda_name": "Peppers, sweet, red, raw"
+  },
+  {
+    "ingredient_name": "大蒜",
+    "usda_id": "169230",
+    "usda_name": "Garlic, raw"
+  },
+  {
+    "ingredient_name": "生姜",
+    "usda_id": "169231",
+    "usda_name": "Ginger root, raw"
+  },
+  {
+    "ingredient_name": "小米辣",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "草果",
+    "usda_id": "170919",
+    "usda_name": "Spices, cardamom"
+  },
+  {
+    "ingredient_name": "桂皮",
+    "usda_id": "171320",
+    "usda_name": "Spices, cinnamon, ground"
+  },
+  {
+    "ingredient_name": "干辣椒",
+    "usda_id": "168570",
+    "usda_name": "Peppers, hot chile, sun-dried"
+  },
+  {
+    "ingredient_name": "花椒",
+    "usda_id": "170932",
+    "usda_name": "Spices, pepper, red or cayenne"
+  },
+  {
+    "ingredient_name": "青柠",
+    "usda_id": "168155",
+    "usda_name": "Limes, raw"
+  },
+  {
+    "ingredient_name": "薄荷叶",
+    "usda_id": "170077",
+    "usda_name": "Spices, mint, dried"
+  },
+  {
+    "ingredient_name": "糖浆",
+    "usda_id": "171266",
+    "usda_name": "Syrups, corn, light"
+  },
+  {
+    "ingredient_name": "伏特加",
+    "usda_id": "171919",
+    "usda_name": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 86 proof"
+  },
+  {
+    "ingredient_name": "鸡腿",
+    "usda_id": "174502",
+    "usda_name": "Chicken, skin (drumsticks and thighs), with added solution, raw"
+  },
+  {
+    "ingredient_name": "蜂蜜",
+    "usda_id": "169640",
+    "usda_name": "Honey"
+  },
+  {
+    "ingredient_name": "黑椒碎",
+    "usda_id": "171323",
+    "usda_name": "Spices, unspecified"
+  },
+  {
+    "ingredient_name": "西兰花",
+    "usda_id": "168510",
+    "usda_name": "Broccoli, cooked, boiled, drained, with salt"
+  },
+  {
+    "ingredient_name": "鸡",
+    "usda_id": "170339",
+    "usda_name": "Chicken, broilers, meat and skin, raw"
+  },
+  {
+    "ingredient_name": "小米椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "美人辣",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "空心菜",
+    "usda_id": "168429",
+    "usda_name": "Lettuce, butterhead (includes boston and bibb types), raw"
+  },
+  {
+    "ingredient_name": "鸡腿肉",
+    "usda_id": "170339",
+    "usda_name": "Chicken, broilers, meat and skin, raw"
+  },
+  {
+    "ingredient_name": "蒜瓣",
+    "usda_id": "169230",
+    "usda_name": "Garlic, raw"
+  },
+  {
+    "ingredient_name": "食用油",
+    "usda_id": "167737",
+    "usda_name": "Oil, corn, peanut, and olive"
+  },
+  {
+    "ingredient_name": "鸡翅",
+    "usda_id": "174502",
+    "usda_name": "Chicken, skin (drumsticks and thighs), with added solution, raw"
+  },
+  {
+    "ingredient_name": "黄酒或料酒",
+    "usda_id": "169070",
+    "usda_name": "Alcoholic beverage, wine, cooking"
+  },
+  {
+    "ingredient_name": "可乐",
+    "usda_id": "174852",
+    "usda_name": "Beverages, carbonated, cola, regular"
+  },
+  {
+    "ingredient_name": "翘嘴鱼",
+    "usda_id": "174187",
+    "usda_name": "Fish, mixed species, fresh, meat only, raw"
+  },
+  {
+    "ingredient_name": "鸡爪",
+    "usda_id": "170078",
+    "usda_name": "Eppaw, raw"
+  },
+  {
+    "ingredient_name": "大葱",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "陈醋",
+    "usda_id": "171156",
+    "usda_name": "Vinegar, balsamic"
+  },
+  {
+    "ingredient_name": "柠檬",
+    "usda_id": "167746",
+    "usda_name": "Lemons, raw, without peel"
+  },
+  {
+    "ingredient_name": "大鸡腿",
+    "usda_id": "170339",
+    "usda_name": "Chicken, broilers, meat and skin, raw"
+  },
+  {
+    "ingredient_name": "干香菇",
+    "usda_id": "169242",
+    "usda_name": "Mushrooms, shiitake, raw"
+  },
+  {
+    "ingredient_name": "葱",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "糖",
+    "usda_id": "169655",
+    "usda_name": "Sugars, granulated"
+  },
+  {
+    "ingredient_name": "莴笋",
+    "usda_id": "167657",
+    "usda_name": "ON THE BORDER, soft taco with ground beef, cheese and lettuce"
+  },
+  {
+    "ingredient_name": "萝卜",
+    "usda_id": "168451",
+    "usda_name": "Radishes, oriental, raw"
+  },
+  {
+    "ingredient_name": "蒜头",
+    "usda_id": "169230",
+    "usda_name": "Garlic, raw"
+  },
+  {
+    "ingredient_name": "无骨肉",
+    "usda_id": "170339",
+    "usda_name": "Chicken, broilers, meat and skin, raw"
+  },
+  {
+    "ingredient_name": "干豆腐",
+    "usda_id": "167695",
+    "usda_name": "Mayonnaise, made with tofu"
+  },
+  {
+    "ingredient_name": "北京麻辣方便面",
+    "usda_id": "171177",
+    "usda_name": "Soup, ramen noodle, any flavor, dry"
+  },
+  {
+    "ingredient_name": "干辣椒",
+    "usda_id": "168570",
+    "usda_name": "Peppers, hot chile, sun-dried"
+  },
+  {
+    "ingredient_name": "麻辣香锅调料",
+    "usda_id": "168956",
+    "usda_name": "Yellow rice with seasoning, dry packet mix, unprepared"
+  },
+  {
+    "ingredient_name": "大米",
+    "usda_id": "169756",
+    "usda_name": "Rice, white, long-grain, regular, raw, unenriched"
+  },
+  {
+    "ingredient_name": "糯米",
+    "usda_id": "169756",
+    "usda_name": "Rice, white, long-grain, regular, raw, unenriched"
+  },
+  {
+    "ingredient_name": "花生",
+    "usda_id": "170067",
+    "usda_name": "Nuts, peanuts, all types, raw"
+  },
+  {
+    "ingredient_name": "红豆",
+    "usda_id": "171007",
+    "usda_name": "Beans, kidney, all types, raw"
+  },
+  {
+    "ingredient_name": "红枣",
+    "usda_id": "168191",
+    "usda_name": "Dates, medjool"
+  },
+  {
+    "ingredient_name": "薏米",
+    "usda_id": "169756",
+    "usda_name": "Rice, white, long-grain, regular, raw, unenriched"
+  },
+  {
+    "ingredient_name": "黑米",
+    "usda_id": "169756",
+    "usda_name": "Rice, white, long-grain, regular, raw, unenriched"
+  },
+  {
+    "ingredient_name": "小米",
+    "usda_id": "167724",
+    "usda_name": "Millet, puffed"
+  },
+  {
+    "ingredient_name": "莲子",
+    "usda_id": "168591",
+    "usda_name": "Seeds, lotus seeds, raw"
+  },
+  {
+    "ingredient_name": "绿豆",
+    "usda_id": "168499",
+    "usda_name": "Mung beans, mature seeds, sprouted, cooked, boiled, drained, with salt"
+  },
+  {
+    "ingredient_name": "黄豆",
+    "usda_id": "168460",
+    "usda_name": "Soybeans, mature seeds, sprouted, cooked, steamed"
+  },
+  {
+    "ingredient_name": "豌豆",
+    "usda_id": "171038",
+    "usda_name": "Peas, edible-podded, raw"
+  },
+  {
+    "ingredient_name": "红腰豆",
+    "usda_id": "169885",
+    "usda_name": "Beans, liquid from stewed kidney beans"
+  },
+  {
+    "ingredient_name": "桂圆",
+    "usda_id": "169089",
+    "usda_name": "Longans, raw"
+  },
+  {
+    "ingredient_name": "栗子",
+    "usda_id": "168589",
+    "usda_name": "Nuts, chestnuts, japanese, boiled and steamed"
+  },
+  {
+    "ingredient_name": "核桃",
+    "usda_id": "170186",
+    "usda_name": "Nuts, walnuts, black, dried"
+  },
+  {
+    "ingredient_name": "葡萄干",
+    "usda_id": "171271",
+    "usda_name": "Raisins, seedless"
+  },
+  {
+    "ingredient_name": "全脂牛奶",
+    "usda_id": "171254",
+    "usda_name": "Milk, whole, 3.25% milkfat, without added vitamin D"
+  },
+  {
+    "ingredient_name": "绿色小豆蔻",
+    "usda_id": "170919",
+    "usda_name": "Spices, cardamom"
+  },
+  {
+    "ingredient_name": "肉桂棒",
+    "usda_id": "171322",
+    "usda_name": "Spices, cinnamon, ground"
+  },
+  {
+    "ingredient_name": "黑胡椒粒",
+    "usda_id": "171323",
+    "usda_name": "Spices, unspecified"
+  },
+  {
+    "ingredient_name": "牛腩",
+    "usda_id": "175296",
+    "usda_name": "Game meat, beefalo, composite of cuts, raw"
+  },
+  {
+    "ingredient_name": "白萝卜",
+    "usda_id": "168451",
+    "usda_name": "Radishes, oriental, raw"
+  },
+  {
+    "ingredient_name": "姜片",
+    "usda_id": "169231",
+    "usda_name": "Ginger root, raw"
+  },
+  {
+    "ingredient_name": "八角",
+    "usda_id": "171316",
+    "usda_name": "Spices, anise seed"
+  },
+  {
+    "ingredient_name": "南乳",
+    "usda_id": "172242",
+    "usda_name": "Seasoning mix, dry, sazon, coriander & annatto"
+  },
+  {
+    "ingredient_name": "柱侯酱",
+    "usda_id": "172473",
+    "usda_name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+    "ingredient_name": "瓶装椰汁",
+    "usda_id": "169409",
+    "usda_name": "Nuts, coconut milk, frozen (liquid expressed from grated meat and water)"
+  },
+  {
+    "ingredient_name": "咖啡调糖",
+    "usda_id": "169655",
+    "usda_name": "Sugars, granulated"
+  },
+  {
+    "ingredient_name": "坚果碎",
+    "usda_id": "170068",
+    "usda_name": "Nuts, mixed, unblanched, raw"
+  },
+  {
+    "ingredient_name": "味淋",
+    "usda_id": "167723",
+    "usda_name": "Alcoholic beverage, rice (sake)"
+  },
+  {
+    "ingredient_name": "清酒",
+    "usda_id": "167723",
+    "usda_name": "Alcoholic beverage, rice (sake)"
+  },
+  {
+    "ingredient_name": "温泉蛋",
+    "usda_id": "167643",
+    "usda_name": "Fish, whitefish, eggs (Alaska Native)"
+  },
+  {
+    "ingredient_name": "鱼头",
+    "usda_id": "174187",
+    "usda_name": "Fish, mixed species, fresh, meat only, raw"
+  },
+  {
+    "ingredient_name": "美人椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "米",
+    "usda_id": "169756",
+    "usda_name": "Rice, white, long-grain, regular, raw, unenriched"
+  },
+  {
+    "ingredient_name": "腊肠",
+    "usda_id": "167694",
+    "usda_name": "Sausage, turkey and pork, fresh, bulk, patty or link, cooked"
+  },
+  {
+    "ingredient_name": "红萝卜",
+    "usda_id": "168518",
+    "usda_name": "Carrots, canned, no salt added, drained solids"
+  },
+  {
+    "ingredient_name": "低筋面粉",
+    "usda_id": "171237",
+    "usda_name": "Flour, wheat, bread, unenriched"
+  },
+  {
+    "ingredient_name": "柠檬汁",
+    "usda_id": "167747",
+    "usda_name": "Lemon juice, raw"
+  },
+  {
+    "ingredient_name": "大白菜",
+    "usda_id": "168514",
+    "usda_name": "Cabbage, common, cooked, boiled, drained, with salt"
+  },
+  {
+    "ingredient_name": "土豆干粉条",
+    "usda_id": "174258",
+    "usda_name": "Noodles, chinese, cellophane or long rice (mung beans), dehydrated"
+  },
+  {
+    "ingredient_name": "中筋面粉",
+    "usda_id": "169761",
+    "usda_name": "Wheat flour, white, all-purpose, unenriched"
+  },
+  {
+    "ingredient_name": "酥油或黄油",
+    "usda_id": "171024",
+    "usda_name": "Butter, without salt"
+  },
+  {
+    "ingredient_name": "鳊鱼",
+    "usda_id": "174187",
+    "usda_name": "Fish, mixed species, fresh, meat only, raw"
+  },
+  {
+    "ingredient_name": "老豆腐",
+    "usda_id": "167695",
+    "usda_name": "Mayonnaise, made with tofu"
+  },
+  {
+    "ingredient_name": "冰糖",
+    "usda_id": "169655",
+    "usda_name": "Sugars, granulated"
+  },
+  {
+    "ingredient_name": "热水",
+    "usda_id": "167765",
+    "usda_name": "Watermelon, raw"
+  },
+  {
+    "ingredient_name": "姜",
+    "usda_id": "169231",
+    "usda_name": "Ginger root, raw"
+  },
+  {
+    "ingredient_name": "蒜",
+    "usda_id": "169230",
+    "usda_name": "Garlic, raw"
+  },
+  {
+    "ingredient_name": "尖椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "毛豆",
+    "usda_id": "168410",
+    "usda_name": "Edamame, frozen, unprepared"
+  },
+  {
+    "ingredient_name": "话梅",
+    "usda_id": "167751",
+    "usda_name": "Plums, dried (prunes), stewed, without added sugar"
+  },
+  {
+    "ingredient_name": "牛腱子",
+    "usda_id": "172121",
+    "usda_name": "Beef, chuck, shoulder clod, stew meat, separable lean and fat, raw"
+  },
+  {
+    "ingredient_name": "卤料包",
+    "usda_id": "172242",
+    "usda_name": "Seasoning mix, dry, sazon, coriander & annatto"
+  },
+  {
+    "ingredient_name": "豆瓣酱",
+    "usda_id": "169328",
+    "usda_name": "Broadbeans, immature seeds, cooked, boiled, drained, with salt"
+  },
+  {
+    "ingredient_name": "南腐乳",
+    "usda_id": "16120",
+    "usda_name": "Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)"
+  },
+  {
+    "ingredient_name": "清水",
+    "usda_id": "173647",
+    "usda_name": "Beverages, water, tap, drinking"
+  },
+  {
+    "ingredient_name": "卤汤",
+    "usda_id": "171099",
+    "usda_name": "Chicken, canned, meat only, with broth"
+  },
+  {
+    "ingredient_name": "木耳（干）",
+    "usda_id": "168422",
+    "usda_name": "Mushrooms, Chanterelle, raw"
+  },
+  {
+    "ingredient_name": "蛋清",
+    "usda_id": "173427",
+    "usda_name": "Egg, white, dried, powder, stabilized, glucose reduced"
+  },
+  {
+    "ingredient_name": "味素",
+    "usda_id": "168956",
+    "usda_name": "Yellow rice with seasoning, dry packet mix, unprepared"
+  },
+  {
+    "ingredient_name": "冰粉籽",
+    "usda_id": "170051",
+    "usda_name": "Seeds, chia seeds, dried"
+  },
+  {
+    "ingredient_name": "凉白开",
+    "usda_id": "171165",
+    "usda_name": "Water, bottled, non-carbonated, CALISTOGA"
+  },
+  {
+    "ingredient_name": "薄荷汁",
+    "usda_id": "170077",
+    "usda_name": "Spices, mint, dried"
+  },
+  {
+    "ingredient_name": "薄荷粉",
+    "usda_id": "170077",
+    "usda_name": "Spices, mint, dried"
+  },
+  {
+    "ingredient_name": "遇水发光冰块",
+    "usda_id": "171165",
+    "usda_name": "Water, bottled, non-carbonated, CALISTOGA"
+  },
+  {
+    "ingredient_name": "牛里脊",
+    "usda_id": "175296",
+    "usda_name": "Game meat, beefalo, composite of cuts, raw"
+  },
+  {
+    "ingredient_name": "蒜头",
+    "usda_id": "169230",
+    "usda_name": "Garlic, raw"
+  },
+  {
+    "ingredient_name": "肉",
+    "usda_id": "172121",
+    "usda_name": "Beef, chuck, shoulder clod, stew meat, separable lean and fat, raw"
+  },
+  {
+    "ingredient_name": "花椰菜",
+    "usda_id": "168520",
+    "usda_name": "Cauliflower, cooked, boiled, drained, with salt"
+  },
+  {
+    "ingredient_name": "煎蛋",
+    "usda_id": "167643",
+    "usda_name": "Fish, whitefish, eggs (Alaska Native)"
+  },
+  {
+    "ingredient_name": "猪前肘",
+    "usda_id": "172121",
+    "usda_name": "Pork, fresh, loin, blade (chops, roasts), bone-in, separable lean and fat, raw"
+  },
+  {
+    "ingredient_name": "食用植物油",
+    "usda_id": "171411",
+    "usda_name": "Oil, soybean, salad or cooking"
+  },
+  {
+    "ingredient_name": "肉桂皮",
+    "usda_id": "171322",
+    "usda_name": "Spices, cinnamon, ground"
+  },
+  {
+    "ingredient_name": "豆蔻",
+    "usda_id": "170919",
+    "usda_name": "Spices, cardamom"
+  },
+  {
+    "ingredient_name": "花椒",
+    "usda_id": "170932",
+    "usda_name": "Spices, pepper, red or cayenne"
+  },
+  {
+    "ingredient_name": "大料",
+    "usda_id": "171323",
+    "usda_name": "Spices, unspecified"
+  },
+  {
+    "ingredient_name": "淀粉",
+    "usda_id": "171021",
+    "usda_name": "Cornstarch"
+  },
+  {
+    "ingredient_name": "葱",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "蒜苔",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "五花肉薄片",
+    "usda_id": "167811",
+    "usda_name": "Pork, fresh, backfat, raw"
+  },
+  {
+    "ingredient_name": "蒜瓣",
+    "usda_id": "169230",
+    "usda_name": "Garlic, raw"
+  },
+  {
+    "ingredient_name": "温水或高汤",
+    "usda_id": "167765",
+    "usda_name": "Watermelon, raw"
+  },
+  {
+    "ingredient_name": "熟松子仁",
+    "usda_id": "170591",
+    "usda_name": "Nuts, pine nuts, dried"
+  },
+  {
+    "ingredient_name": "虾",
+    "usda_id": "175181",
+    "usda_name": "Fish, trout, brook, raw, New York State"
+  },
+  {
+    "ingredient_name": "黄酒",
+    "usda_id": "169070",
+    "usda_name": "Alcoholic beverage, wine, cooking"
+  },
+  {
+    "ingredient_name": "黑胡椒粒",
+    "usda_id": "171323",
+    "usda_name": "Spices, unspecified"
+  },
+  {
+    "ingredient_name": "米酒",
+    "usda_id": "169070",
+    "usda_name": "Alcoholic beverage, wine, cooking"
+  },
+  {
+    "ingredient_name": "白糖",
+    "usda_id": "169655",
+    "usda_name": "Sugars, granulated"
+  },
+  {
+    "ingredient_name": "盐",
+    "usda_id": "173468",
+    "usda_name": "Salt, table"
+  },
+  {
+    "ingredient_name": "无盐黄油",
+    "usda_id": "171024",
+    "usda_name": "Butter, without salt"
+  },
+  {
+    "ingredient_name": "泡打粉",
+    "usda_id": "172803",
+    "usda_name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+    "ingredient_name": "奶油奶酪",
+    "usda_id": "169081",
+    "usda_name": "Cheese spread, cream cheese base"
+  },
+  {
+    "ingredient_name": "肉蟹",
+    "usda_id": "174210",
+    "usda_name": "Crustaceans, crab, imitation, made from surimi, unprepared"
+  },
+  {
+    "ingredient_name": "虾",
+    "usda_id": "175181",
+    "usda_name": "Fish, trout, brook, raw, New York State"
+  },
+  {
+    "ingredient_name": "红椒",
+    "usda_id": "170014",
+    "usda_name": "Peppers, sweet, red, raw"
+  },
+  {
+    "ingredient_name": "海鲜酱",
+    "usda_id": "171202",
+    "usda_name": "Sauce, oyster, prepared"
+  },
+  {
+    "ingredient_name": "前腿肉",
+    "usda_id": "167811",
+    "usda_name": "Pork, fresh, backfat, raw"
+  },
+  {
+    "ingredient_name": "葱姜花椒水",
+    "usda_id": "172242",
+    "usda_name": "Seasoning mix, dry, sazon, coriander & annatto"
+  },
+  {
+    "ingredient_name": "熟豆油",
+    "usda_id": "171411",
+    "usda_name": "Oil, soybean, salad or cooking"
+  },
+  {
+    "ingredient_name": "黄花",
+    "usda_id": "170964",
+    "usda_name": "Vegetables, mixed (frozen), unprepared"
+  },
+  {
+    "ingredient_name": "小香葱",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "鸡粉",
+    "usda_id": "172242",
+    "usda_name": "Seasoning mix, dry, sazon, coriander & annatto"
+  },
+  {
+    "ingredient_name": "桂圆干",
+    "usda_id": "171272",
+    "usda_name": "Lemons, raw, without peel"
+  },
+  {
+    "ingredient_name": "棉花糖",
+    "usda_id": "167995",
+    "usda_name": "Candies, marshmallows"
+  },
+  {
+    "ingredient_name": "全脂奶粉",
+    "usda_id": "171258",
+    "usda_name": "Milk, dry, whole, with added vitamin D"
+  },
+  {
+    "ingredient_name": "饼干",
+    "usda_id": "171219",
+    "usda_name": "Cookies, sugar, commercially prepared"
+  },
+  {
+    "ingredient_name": "凉粉",
+    "usda_id": "169280",
+    "usda_name": "Seaweed, agar, raw"
+  },
+  {
+    "ingredient_name": "玉米油",
+    "usda_id": "172336",
+    "usda_name": "Oil, canola"
+  },
+  {
+    "ingredient_name": "香葱",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "青蟹",
+    "usda_id": "174210",
+    "usda_name": "Crustaceans, crab, imitation, made from surimi, unprepared"
+  },
+  {
+    "ingredient_name": "椰浆",
+    "usda_id": "169409",
+    "usda_name": "Nuts, coconut milk, frozen (liquid expressed from grated meat and water)"
+  },
+  {
+    "ingredient_name": "农村玉米鸡",
+    "usda_id": "170339",
+    "usda_name": "Chicken, broilers, meat and skin, raw"
+  },
+  {
+    "ingredient_name": "大蒜",
+    "usda_id": "169230",
+    "usda_name": "Garlic, raw"
+  },
+  {
+    "ingredient_name": "糍粑辣椒",
+    "usda_id": "171186",
+    "usda_name": "Sauce, hot chile, sriracha"
+  },
+  {
+    "ingredient_name": "酒糟",
+    "usda_id": "167723",
+    "usda_name": "Alcoholic beverage, rice (sake)"
+  },
+  {
+    "ingredient_name": "红葱头",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "米饭",
+    "usda_id": "169756",
+    "usda_name": "Rice, white, long-grain, regular, raw, unenriched"
+  },
+  {
+    "ingredient_name": "海虾",
+    "usda_id": "175181",
+    "usda_name": "Fish, trout, brook, raw, New York State"
+  },
+  {
+    "ingredient_name": "蒜蓉酱",
+    "usda_id": "171186",
+    "usda_name": "Sauce, hot chile, sriracha"
+  },
+  {
+    "ingredient_name": "蒸肉米粉",
+    "usda_id": "169756",
+    "usda_name": "Rice, white, long-grain, regular, raw, unenriched"
+  },
+  {
+    "ingredient_name": "芝麻香油",
+    "usda_id": "171016",
+    "usda_name": "Oil, sesame, salad or cooking"
+  },
+  {
+    "ingredient_name": "奥利奥",
+    "usda_id": "171217",
+    "usda_name": "Cookies, animal crackers, with milk chocolate"
+  },
+  {
+    "ingredient_name": "白砂糖",
+    "usda_id": "169655",
+    "usda_name": "Sugars, granulated"
+  },
+  {
+    "ingredient_name": "淡奶油",
+    "usda_id": "170857",
+    "usda_name": "Cream, fluid, light (coffee cream or table cream)"
+  },
+  {
+    "ingredient_name": "柠檬",
+    "usda_id": "167746",
+    "usda_name": "Lemons, raw, without peel"
+  },
+  {
+    "ingredient_name": "果蜜",
+    "usda_id": "167706",
+    "usda_name": "Jams, preserves, marmalade, reduced sugar"
+  },
+  {
+    "ingredient_name": "冰",
+    "usda_id": "171165",
+    "usda_name": "Water, bottled, non-carbonated, CALISTOGA"
+  },
+  {
+    "ingredient_name": "鱼露",
+    "usda_id": "171203",
+    "usda_name": "Sauce, fish, vietnamese, nuoc mam"
+  },
+  {
+    "ingredient_name": "地瓜粉",
+    "usda_id": "171861",
+    "usda_name": "Rolls, gluten-free, white, made with brown rice flour, tapioca starch, and potato starch"
+  },
+  {
+    "ingredient_name": "鸡蛋黄",
+    "usda_id": "173436",
+    "usda_name": "Egg, yolk, raw, frozen, salted, pasteurized"
+  },
+  {
+    "ingredient_name": "龙舌兰酒",
+    "usda_id": "168753",
+    "usda_name": "Alcoholic beverage, tequila sunrise, canned"
+  },
+  {
+    "ingredient_name": "橙味甜酒",
+    "usda_id": "173665",
+    "usda_name": "Alcoholic beverage, liqueur, coffee, 63 proof"
+  },
+  {
+    "ingredient_name": "枫糖浆",
+    "usda_id": "171265",
+    "usda_name": "Syrups, table blends, maple"
+  },
+  {
+    "ingredient_name": "大虾",
+    "usda_id": "174210",
+    "usda_name": "Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)"
+  },
+  {
+    "ingredient_name": "白葡萄酒",
+    "usda_id": "169070",
+    "usda_name": "Alcoholic beverage, wine, cooking"
+  },
+  {
+    "ingredient_name": "橄榄油",
+    "usda_id": "171443",
+    "usda_name": "Mayonnaise, reduced fat, with olive oil"
+  },
+  {
+    "ingredient_name": "梅头猪肉",
+    "usda_id": "167811",
+    "usda_name": "Pork, fresh, backfat, raw"
+  },
+  {
+    "ingredient_name": "罐头菠萝片",
+    "usda_id": "167764",
+    "usda_name": "Fruit salad, (pineapple and papaya and banana and guava), tropical, canned, heavy syrup, solids and liquids"
+  },
+  {
+    "ingredient_name": "茄汁",
+    "usda_id": "168125",
+    "usda_name": "Babyfood, dinner, macaroni, beef and tomato sauce, toddler"
+  },
+  {
+    "ingredient_name": "冷冻青豆",
+    "usda_id": "170978",
+    "usda_name": "Peas, green, frozen, unprepared"
+  },
+  {
+    "ingredient_name": "冷冻玉米粒",
+    "usda_id": "167525",
+    "usda_name": "Tostada shells, corn"
+  },
+  {
+    "ingredient_name": "海苔碎",
+    "usda_id": "167602",
+    "usda_name": "Seaweed, Canadian Cultivated EMI-TSUNOMATA, dry"
+  },
+  {
+    "ingredient_name": "沙拉酱",
+    "usda_id": "167695",
+    "usda_name": "Mayonnaise, made with tofu"
+  },
+  {
+    "ingredient_name": "莲藕",
+    "usda_id": "168430",
+    "usda_name": "Lotus root, cooked, boiled, drained, without salt"
+  },
+  {
+    "ingredient_name": "耗油",
+    "usda_id": "171202",
+    "usda_name": "Sauce, oyster, prepared"
+  },
+  {
+    "ingredient_name": "凉水",
+    "usda_id": "167765",
+    "usda_name": "Watermelon, raw"
+  },
+  {
+    "ingredient_name": "螃蟹",
+    "usda_id": "174210",
+    "usda_name": "Crustaceans, crab, imitation, made from surimi, unprepared"
+  },
+  {
+    "ingredient_name": "菜油",
+    "usda_id": "171411",
+    "usda_name": "Oil, soybean, salad or cooking"
+  },
+  {
+    "ingredient_name": "水",
+    "usda_id": "171922",
+    "usda_name": "Beverages, water, bottled, non-carbonated, EVIAN"
+  },
+  {
+    "ingredient_name": "全麦面粉",
+    "usda_id": "171237",
+    "usda_name": "Flour, wheat, bread, unenriched"
+  },
+  {
+    "ingredient_name": "烤鹰嘴豆粉",
+    "usda_id": "174288",
+    "usda_name": "Chickpea flour (besan)"
+  },
+  {
+    "ingredient_name": "芥末油",
+    "usda_id": "171411",
+    "usda_name": "Oil, soybean, salad or cooking"
+  },
+  {
+    "ingredient_name": "柠檬",
+    "usda_id": "167746",
+    "usda_name": "Lemons, raw, without peel"
+  },
+  {
+    "ingredient_name": "印度黑盐",
+    "usda_id": "171212",
+    "usda_name": "Salt, table of last resort, ultra fine grind"
+  },
+  {
+    "ingredient_name": "酥油",
+    "usda_id": "171314",
+    "usda_name": "Butter, Clarified butter (ghee)"
+  },
+  {
+    "ingredient_name": "土豆",
+    "usda_id": "170026",
+    "usda_name": "Potatoes, flesh and skin, raw"
+  },
+  {
+    "ingredient_name": "阿根廷红虾",
+    "usda_id": "174210",
+    "usda_name": "Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)"
+  },
+  {
+    "ingredient_name": "海盐",
+    "usda_id": "171212",
+    "usda_name": "Salt, table of last resort, ultra fine grind"
+  },
+  {
+    "ingredient_name": "香菜",
+    "usda_id": "170416",
+    "usda_name": "Parsley, fresh"
+  },
+  {
+    "ingredient_name": "挂面",
+    "usda_id": "174258",
+    "usda_name": "Noodles, chinese, cellophane or long rice (mung beans), dehydrated"
+  },
+  {
+    "ingredient_name": "牛排",
+    "usda_id": "172121",
+    "usda_name": "Beef, chuck, shoulder clod, stew meat, separable lean and fat, raw"
+  },
+  {
+    "ingredient_name": "口蘑",
+    "usda_id": "168423",
+    "usda_name": "Mushrooms, morel, raw"
+  },
+  {
+    "ingredient_name": "小土豆",
+    "usda_id": "170026",
+    "usda_name": "Potatoes, flesh and skin, raw"
+  },
+  {
+    "ingredient_name": "小番茄",
+    "usda_id": "170457",
+    "usda_name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+    "ingredient_name": "百里香",
+    "usda_id": "170938",
+    "usda_name": "Spices, thyme, dried"
+  },
+  {
+    "ingredient_name": "预制牛排酱汁",
+    "usda_id": "168965",
+    "usda_name": "Salisbury steak with gravy, frozen"
+  },
+  {
+    "ingredient_name": "迷迭香",
+    "usda_id": "171333",
+    "usda_name": "Spices, rosemary, dried"
+  },
+  {
+    "ingredient_name": "纯牛奶",
+    "usda_id": "171254",
+    "usda_name": "Milk, whole, 3.25% milkfat, without added vitamin D"
+  },
+  {
+    "ingredient_name": "咖喱块",
+    "usda_id": "170924",
+    "usda_name": "Spices, curry powder"
+  },
+  {
+    "ingredient_name": "酱油",
+    "usda_id": "174279",
+    "usda_name": "Soy sauce made from hydrolyzed vegetable protein"
+  },
+  {
+    "ingredient_name": "碎牛肉",
+    "usda_id": "167657",
+    "usda_name": "ON THE BORDER, soft taco with ground beef, cheese and lettuce"
+  },
+  {
+    "ingredient_name": "肋排",
+    "usda_id": "167810",
+    "usda_name": "Pork, fresh, composite of trimmed leg, loin, shoulder, and spareribs, (includes cuts to be cured), separable lean and fat, raw"
+  },
+  {
+    "ingredient_name": "阳江豆豉",
+    "usda_id": "170632",
+    "usda_name": "Soybeans, mature, cooked, roasted, without salt"
+  },
+  {
+    "ingredient_name": "猪油渣",
+    "usda_id": "171033",
+    "usda_name": "Lard"
+  },
+  {
+    "ingredient_name": "巧克力",
+    "usda_id": "171276",
+    "usda_name": "Candies, milk chocolate"
+  },
+  {
+    "ingredient_name": "红薯粉丝",
+    "usda_id": "174258",
+    "usda_name": "Noodles, chinese, cellophane or long rice (mung beans), dehydrated"
+  },
+  {
+    "ingredient_name": "青茄子",
+    "usda_id": "169228",
+    "usda_name": "Eggplant, raw"
+  },
+  {
+    "ingredient_name": "青辣椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "烧烤料",
+    "usda_id": "168956",
+    "usda_name": "Yellow rice with seasoning, dry packet mix, unprepared"
+  },
+  {
+    "ingredient_name": "罗勒碎",
+    "usda_id": "171185",
+    "usda_name": "Sauce, pesto, MEZZETTA, NAPA VALLEY BISTRO, basil pesto, ready-to-serve"
+  },
+  {
+    "ingredient_name": "乳鸽",
+    "usda_id": "170439",
+    "usda_name": "Pigeon, squab, meat only, raw"
+  },
+  {
+    "ingredient_name": "玉米",
+    "usda_id": "167525",
+    "usda_name": "Tostada shells, corn"
+  },
+  {
+    "ingredient_name": "内酯豆腐",
+    "usda_id": "167695",
+    "usda_name": "Mayonnaise, made with tofu"
+  },
+  {
+    "ingredient_name": "花生碎",
+    "usda_id": "170067",
+    "usda_name": "Nuts, peanuts, all types, raw"
+  },
+  {
+    "ingredient_name": "银耳",
+    "usda_id": "171029",
+    "usda_name": "Mushrooms, oyster, raw"
+  },
+  {
+    "ingredient_name": "韭菜",
+    "usda_id": "168426",
+    "usda_name": "Leeks, (bulb and lower leaf-portion), cooked, boiled, drained, without salt"
+  },
+  {
+    "ingredient_name": "巴斯马蒂香米",
+    "usda_id": "169756",
+    "usda_name": "Rice, white, long-grain, regular, raw, unenriched"
+  },
+  {
+    "ingredient_name": "月桂叶",
+    "usda_id": "170917",
+    "usda_name": "Spices, bay leaf"
+  },
+  {
+    "ingredient_name": "小豆蔻",
+    "usda_id": "170919",
+    "usda_name": "Spices, cardamom"
+  },
+  {
+    "ingredient_name": "肉桂棒",
+    "usda_id": "171322",
+    "usda_name": "Spices, cinnamon, ground"
+  },
+  {
+    "ingredient_name": "藏红花",
+    "usda_id": "170934",
+    "usda_name": "Spices, saffron"
+  },
+  {
+    "ingredient_name": "泡面",
+    "usda_id": "171177",
+    "usda_name": "Soup, ramen noodle, any flavor, dry"
+  },
+  {
+    "ingredient_name": "糍粑",
+    "usda_id": "169711",
+    "usda_name": "Rice, white, glutinous, unenriched, cooked"
+  },
+  {
+    "ingredient_name": "红糖",
+    "usda_id": "169655",
+    "usda_name": "Sugars, granulated"
+  },
+  {
+    "ingredient_name": "香菇（干）",
+    "usda_id": "169242",
+    "usda_name": "Mushrooms, shiitake, raw"
+  },
+  {
+    "ingredient_name": "牛油",
+    "usda_id": "171400",
+    "usda_name": "Fat, beef tallow"
+  },
+  {
+    "ingredient_name": "色拉油或菜籽油",
+    "usda_id": "172336",
+    "usda_name": "Oil, canola"
+  },
+  {
+    "ingredient_name": "纯猪油",
+    "usda_id": "171033",
+    "usda_name": "Lard"
+  },
+  {
+    "ingredient_name": "豆瓣酱（郫县）",
+    "usda_id": "172242",
+    "usda_name": "Seasoning mix, dry, sazon, coriander & annatto"
+  },
+  {
+    "ingredient_name": "豆豉（永川）",
+    "usda_id": "170632",
+    "usda_name": "Soybeans, mature, cooked, roasted, without salt"
+  },
+  {
+    "ingredient_name": "豆母子",
+    "usda_id": "171007",
+    "usda_name": "Beans, kidney, all types, raw"
+  },
+  {
+    "ingredient_name": "红花椒",
+    "usda_id": "171316",
+    "usda_name": "Spices, anise seed"
+  },
+  {
+    "ingredient_name": "山奈",
+    "usda_id": "170076",
+    "usda_name": "Ginger root, raw"
+  },
+  {
+    "ingredient_name": "草果",
+    "usda_id": "170919",
+    "usda_name": "Spices, cardamom"
+  },
+  {
+    "ingredient_name": "肉桂",
+    "usda_id": "171322",
+    "usda_name": "Spices, cinnamon, ground"
+  },
+  {
+    "ingredient_name": "荜拨",
+    "usda_id": "171323",
+    "usda_name": "Spices, unspecified"
+  },
+  {
+    "ingredient_name": "香草",
+    "usda_id": "170077",
+    "usda_name": "Spices, mint, dried"
+  },
+  {
+    "ingredient_name": "香果",
+    "usda_id": "171075",
+    "usda_name": "Apples, raw, with skin"
+  },
+  {
+    "ingredient_name": "山楂",
+    "usda_id": "171075",
+    "usda_name": "Apples, raw, with skin"
+  },
+  {
+    "ingredient_name": "陈皮",
+    "usda_id": "169103",
+    "usda_name": "Orange peel, raw"
+  },
+  {
+    "ingredient_name": "香茅",
+    "usda_id": "171184",
+    "usda_name": "SMART SOUP, Vietnamese Carrot Lemongrass"
+  },
+  {
+    "ingredient_name": "砂仁",
+    "usda_id": "170919",
+    "usda_name": "Spices, cardamom"
+  },
+  {
+    "ingredient_name": "白蔻",
+    "usda_id": "170919",
+    "usda_name": "Spices, cardamom"
+  },
+  {
+    "ingredient_name": "麦芽粉（肉香）",
+    "usda_id": "169660",
+    "usda_name": "Syrups, malt"
+  },
+  {
+    "ingredient_name": "颗粒香料",
+    "usda_id": "171323",
+    "usda_name": "Spices, unspecified"
+  },
+  {
+    "ingredient_name": "整形香料",
+    "usda_id": "171323",
+    "usda_name": "Spices, unspecified"
+  },
+  {
+    "ingredient_name": "猪五花肉",
+    "usda_id": "167811",
+    "usda_name": "Pork, fresh, backfat, raw"
+  },
+  {
+    "ingredient_name": "牛柳或牛肩肉",
+    "usda_id": "172121",
+    "usda_name": "Beef, chuck, shoulder clod, stew meat, separable lean and fat, raw"
+  },
+  {
+    "ingredient_name": "孜然",
+    "usda_id": "170923",
+    "usda_name": "Spices, cumin seed"
+  },
+  {
+    "ingredient_name": "辣椒面",
+    "usda_id": "171319",
+    "usda_name": "Spices, chili powder"
+  },
+  {
+    "ingredient_name": "血肠",
+    "usda_id": "171618",
+    "usda_name": "Blood sausage"
+  },
+  {
+    "ingredient_name": "酸菜",
+    "usda_id": "168514",
+    "usda_name": "Cabbage, common, cooked, boiled, drained, with salt"
+  },
+  {
+    "ingredient_name": "辣椒油",
+    "usda_id": "168577",
+    "usda_name": "Peppers, chili, green, canned"
+  },
+  {
+    "ingredient_name": "鲮鱼罐头",
+    "usda_id": "174187",
+    "usda_name": "Fish, mixed species, fresh, meat only, raw"
+  },
+  {
+    "ingredient_name": "大葱",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "瓠瓜",
+    "usda_id": "169232",
+    "usda_name": "Gourd, white-flowered (calabash), raw"
+  },
+  {
+    "ingredient_name": "赤藓糖醇",
+    "usda_id": "168132",
+    "usda_name": "Frozen novelties, ice type, pop, with low calorie sweetener"
+  },
+  {
+    "ingredient_name": "魔芋粉",
+    "usda_id": "171237",
+    "usda_name": "Flour, wheat, bread, unenriched"
+  },
+  {
+    "ingredient_name": "塔塔粉",
+    "usda_id": "175041",
+    "usda_name": "Leavening agents, cream of tartar"
+  },
+  {
+    "ingredient_name": "米",
+    "usda_id": "169756",
+    "usda_name": "Rice, white, long-grain, regular, raw, unenriched"
+  },
+  {
+    "ingredient_name": "鲈鱼",
+    "usda_id": "174190",
+    "usda_name": "Fish, croaker, Atlantic, fresh, meat only, raw"
+  },
+  {
+    "ingredient_name": "蒸鱼豉油",
+    "usda_id": "172473",
+    "usda_name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+    "ingredient_name": "鸡蛋",
+    "usda_id": "171287",
+    "usda_name": "Egg, whole, raw, fresh"
+  },
+  {
+    "ingredient_name": "白（红）糖",
+    "usda_id": "169655",
+    "usda_name": "Sugars, granulated"
+  },
+  {
+    "ingredient_name": "咖啡粉",
+    "usda_id": "168122",
+    "usda_name": "Beverages, coffee, instant, with whitener, reduced calorie"
+  },
+  {
+    "ingredient_name": "巧克力",
+    "usda_id": "171276",
+    "usda_name": "Candies, milk chocolate"
+  },
+  {
+    "ingredient_name": "麦片",
+    "usda_id": "172160",
+    "usda_name": "Cereals ready-to-eat, QUAKER, Quick Oats, Regular"
+  },
+  {
+    "ingredient_name": "牛奶",
+    "usda_id": "168554",
+    "usda_name": "Milk, whole, fresh"
+  },
+  {
+    "ingredient_name": "坚果",
+    "usda_id": "170068",
+    "usda_name": "Nuts, mixed, unblanched, raw"
+  },
+  {
+    "ingredient_name": "饼干屑",
+    "usda_id": "169191",
+    "usda_name": "Pork, ground, 72% lean / 28% fat, cooked, crumbles"
+  },
+  {
+    "ingredient_name": "香蕉",
+    "usda_id": "171279",
+    "usda_name": "Bananas, raw"
+  },
+  {
+    "ingredient_name": "麻油",
+    "usda_id": "171016",
+    "usda_name": "Oil, sesame, salad or cooking"
+  },
+  {
+    "ingredient_name": "温水",
+    "usda_id": "167765",
+    "usda_name": "Watermelon, raw"
+  },
+  {
+    "ingredient_name": "全脂牛奶",
+    "usda_id": "171254",
+    "usda_name": "Milk, whole, 3.25% milkfat, without added vitamin D"
+  },
+  {
+    "ingredient_name": "鲜香菇",
+    "usda_id": "169242",
+    "usda_name": "Mushrooms, shiitake, raw"
+  },
+  {
+    "ingredient_name": "丁香",
+    "usda_id": "171321",
+    "usda_name": "Spices, cloves, ground"
+  },
+  {
+    "ingredient_name": "甘草",
+    "usda_id": "170077",
+    "usda_name": "Spices, mint, dried"
+  },
+  {
+    "ingredient_name": "南腐乳",
+    "usda_id": "16120",
+    "usda_name": "Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)"
+  },
+  {
+    "ingredient_name": "柱候酱",
+    "usda_id": "172473",
+    "usda_name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+    "ingredient_name": "叉烧酱",
+    "usda_id": "171190",
+    "usda_name": "Sauce, pasta, meat lasagna, ready-to-serve"
+  },
+  {
+    "ingredient_name": "萝卜",
+    "usda_id": "168451",
+    "usda_name": "Radishes, oriental, raw"
+  },
+  {
+    "ingredient_name": "巴沙鱼",
+    "usda_id": "174187",
+    "usda_name": "Fish, mixed species, fresh, meat only, raw"
+  },
+  {
+    "ingredient_name": "茄子",
+    "usda_id": "169228",
+    "usda_name": "Eggplant, raw"
+  },
+  {
+    "ingredient_name": "尖椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "奶油",
+    "usda_id": "170857",
+    "usda_name": "Cream, fluid, light (coffee cream or table cream)"
+  },
+  {
+    "ingredient_name": "葱",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "蒜",
+    "usda_id": "169230",
+    "usda_name": "Garlic, raw"
+  },
+  {
+    "ingredient_name": "西红柿",
+    "usda_id": "170457",
+    "usda_name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+    "ingredient_name": "方便面",
+    "usda_id": "171177",
+    "usda_name": "Soup, ramen noodle, any flavor, dry"
+  },
+  {
+    "ingredient_name": "火腿肠",
+    "usda_id": "167694",
+    "usda_name": "Sausage, turkey and pork, fresh, bulk, patty or link, cooked"
+  },
+  {
+    "ingredient_name": "方便面菜包",
+    "usda_id": "170964",
+    "usda_name": "Vegetables, mixed (frozen), unprepared"
+  },
+  {
+    "ingredient_name": "方便面酱包",
+    "usda_id": "171190",
+    "usda_name": "Sauce, pasta, meat lasagna, ready-to-serve"
+  },
+  {
+    "ingredient_name": "方便面粉包",
+    "usda_id": "172242",
+    "usda_name": "Seasoning mix, dry, sazon, coriander & annatto"
+  },
+  {
+    "ingredient_name": "安琪干酵母粉",
+    "usda_id": "167717",
+    "usda_name": "Yeast extract spread"
+  },
+  {
+    "ingredient_name": "橄榄油",
+    "usda_id": "171443",
+    "usda_name": "Mayonnaise, reduced fat, with olive oil"
+  },
+  {
+    "ingredient_name": "干面粉",
+    "usda_id": "171237",
+    "usda_name": "Flour, wheat, bread, unenriched"
+  },
+  {
+    "ingredient_name": "芝士碎",
+    "usda_id": "167526",
+    "usda_name": "Bread, salvadoran sweet cheese (quesadilla salvadorena)"
+  },
+  {
+    "ingredient_name": "沙拉酱",
+    "usda_id": "167695",
+    "usda_name": "Mayonnaise, made with tofu"
+  },
+  {
+    "ingredient_name": "披萨馅料",
+    "usda_id": "171190",
+    "usda_name": "Sauce, pasta, meat lasagna, ready-to-serve"
+  },
+  {
+    "ingredient_name": "干鹰嘴豆",
+    "usda_id": "173756",
+    "usda_name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, raw"
+  },
+  {
+    "ingredient_name": "红茶包",
+    "usda_id": "167620",
+    "usda_name": "Tea, tundra, herb and laborador combination (Alaska Native)"
+  },
+  {
+    "ingredient_name": "石榴粉",
+    "usda_id": "167787",
+    "usda_name": "Pomegranate juice, bottled"
+  },
+  {
+    "ingredient_name": "小苏打",
+    "usda_id": "175040",
+    "usda_name": "Leavening agents, baking soda"
+  },
+  {
+    "ingredient_name": "猪排骨或五花肉",
+    "usda_id": "167811",
+    "usda_name": "Pork, fresh, backfat, raw"
+  },
+  {
+    "ingredient_name": "大料",
+    "usda_id": "171323",
+    "usda_name": "Spices, unspecified"
+  },
+  {
+    "ingredient_name": "馒头",
+    "usda_id": "167526",
+    "usda_name": "Bread, salvadoran sweet cheese (quesadilla salvadorena)"
+  },
+  {
+    "ingredient_name": "袋泡红茶",
+    "usda_id": "167620",
+    "usda_name": "Tea, tundra, herb and laborador combination (Alaska Native)"
+  },
+  {
+    "ingredient_name": "砂糖",
+    "usda_id": "169655",
+    "usda_name": "Sugars, granulated"
+  },
+  {
+    "ingredient_name": "干燕麦片",
+    "usda_id": "172160",
+    "usda_name": "Cereals ready-to-eat, QUAKER, Quick Oats, Regular"
+  },
+  {
+    "ingredient_name": "胡椒",
+    "usda_id": "171323",
+    "usda_name": "Spices, unspecified"
+  },
+  {
+    "ingredient_name": "豌豆淀粉",
+    "usda_id": "171021",
+    "usda_name": "Cornstarch"
+  },
+  {
+    "ingredient_name": "葱姜蒜",
+    "usda_id": "168956",
+    "usda_name": "Yellow rice with seasoning, dry packet mix, unprepared"
+  },
+  {
+    "ingredient_name": "葱头",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "小豆蔻粉",
+    "usda_id": "170919",
+    "usda_name": "Spices, cardamom"
+  },
+  {
+    "ingredient_name": "腰果",
+    "usda_id": "168597",
+    "usda_name": "Nuts, cashew butter, plain, with salt added"
+  },
+  {
+    "ingredient_name": "杏仁",
+    "usda_id": "168592",
+    "usda_name": "Nuts, almonds, honey roasted, unblanched"
+  },
+  {
+    "ingredient_name": "牛肉高汤",
+    "usda_id": "171099",
+    "usda_name": "Chicken, canned, meat only, with broth"
+  },
+  {
+    "ingredient_name": "番茄罐头",
+    "usda_id": "167704",
+    "usda_name": "Salad dressing, bacon and tomato"
+  },
+  {
+    "ingredient_name": "番茄膏",
+    "usda_id": "167739",
+    "usda_name": "Beverages, Cocktail mix, non-alcoholic, concentrated, frozen"
+  },
+  {
+    "ingredient_name": "马铃薯",
+    "usda_id": "170026",
+    "usda_name": "Potatoes, flesh and skin, raw"
+  },
+  {
+    "ingredient_name": "欧芹",
+    "usda_id": "170416",
+    "usda_name": "Parsley, fresh"
+  },
+  {
+    "ingredient_name": "红肠",
+    "usda_id": "167694",
+    "usda_name": "Sausage, turkey and pork, fresh, bulk, patty or link, cooked"
+  },
+  {
+    "ingredient_name": "橄榄油",
+    "usda_id": "171443",
+    "usda_name": "Mayonnaise, reduced fat, with olive oil"
+  },
+  {
+    "ingredient_name": "植物油",
+    "usda_id": "169867",
+    "usda_name": "Oil, corn and canola"
+  },
+  {
+    "ingredient_name": "肉馅",
+    "usda_id": "172950",
+    "usda_name": "Luncheon meat, pork, ham, and chicken, minced, canned, reduced sodium, added ascorbic acid, includes SPAM, 25% less sodium"
+  },
+  {
+    "ingredient_name": "红葱油",
+    "usda_id": "171411",
+    "usda_name": "Oil, soybean, salad or cooking"
+  },
+  {
+    "ingredient_name": "冷饭",
+    "usda_id": "168878",
+    "usda_name": "Rice, white, long-grain, regular, enriched, cooked"
+  },
+  {
+    "ingredient_name": "火腿",
+    "usda_id": "170048",
+    "usda_name": "Ham, chopped, loaf, refrigerated, cooked, heated"
+  },
+  {
+    "ingredient_name": "熟肉",
+    "usda_id": "170339",
+    "usda_name": "Chicken, broilers, meat and skin, raw"
+  },
+  {
+    "ingredient_name": "奇异果",
+    "usda_id": "168153",
+    "usda_name": "Kiwifruit, green, raw"
+  },
+  {
+    "ingredient_name": "苹果",
+    "usda_id": "171075",
+    "usda_name": "Apples, raw, with skin"
+  },
+  {
+    "ingredient_name": "菠菜叶",
+    "usda_id": "168429",
+    "usda_name": "Lettuce, butterhead (includes boston and bibb types), raw"
+  },
+  {
+    "ingredient_name": "吐司",
+    "usda_id": "171234",
+    "usda_name": "Bread, white, commercially prepared"
+  },
+  {
+    "ingredient_name": "培根",
+    "usda_id": "167704",
+    "usda_name": "Salad dressing, bacon and tomato"
+  },
+  {
+    "ingredient_name": "蛋黄酱",
+    "usda_id": "171187",
+    "usda_name": "Mayonnaise, regular, all fats, without cholesterol"
+  },
+  {
+    "ingredient_name": "芝士",
+    "usda_id": "167526",
+    "usda_name": "Bread, salvadoran sweet cheese (quesadilla salvadorena)"
+  },
+  {
+    "ingredient_name": "酸黄瓜",
+    "usda_id": "167870",
+    "usda_name": "Pork, cured, feet, pickled"
+  },
+  {
+    "ingredient_name": "燕麦",
+    "usda_id": "170054",
+    "usda_name": "Cereal grains, oats"
+  },
+  {
+    "ingredient_name": "底油",
+    "usda_id": "171411",
+    "usda_name": "Oil, soybean, salad or cooking"
+  },
+  {
+    "ingredient_name": "椒盐",
+    "usda_id": "168956",
+    "usda_name": "Yellow rice with seasoning, dry packet mix, unprepared"
+  },
+  {
+    "ingredient_name": "白鱔",
+    "usda_id": "167633",
+    "usda_name": "Bread, kneel down (Navajo)"
+  },
+  {
+    "ingredient_name": "豆豉",
+    "usda_id": "174280",
+    "usda_name": "Tofu, salted and fermented (fuyu)"
+  },
+  {
+    "ingredient_name": "生抽",
+    "usda_id": "174279",
+    "usda_name": "Soy sauce made from hydrolyzed vegetable protein"
+  },
+  {
+    "ingredient_name": "老抽",
+    "usda_id": "174279",
+    "usda_name": "Soy sauce made from hydrolyzed vegetable protein"
+  },
+  {
+    "ingredient_name": "糖",
+    "usda_id": "169655",
+    "usda_name": "Sugars, granulated"
+  },
+  {
+    "ingredient_name": "麻油",
+    "usda_id": "171016",
+    "usda_name": "Oil, sesame, salad or cooking"
+  },
+  {
+    "ingredient_name": "水",
+    "usda_id": "171922",
+    "usda_name": "Beverages, water, bottled, non-carbonated, EVIAN"
+  },
+  {
+    "ingredient_name": "生粉",
+    "usda_id": "171021",
+    "usda_name": "Cornstarch"
+  },
+  {
+    "ingredient_name": "姜",
+    "usda_id": "169231",
+    "usda_name": "Ginger root, raw"
+  },
+  {
+    "ingredient_name": "苦瓜",
+    "usda_id": "170966",
+    "usda_name": "Cucumber, with peel, raw"
+  },
+  {
+    "ingredient_name": "白胡椒",
+    "usda_id": "171323",
+    "usda_name": "Spices, unspecified"
+  },
+  {
+    "ingredient_name": "草鱼",
+    "usda_id": "174187",
+    "usda_name": "Fish, mixed species, fresh, meat only, raw"
+  },
+  {
+    "ingredient_name": "桂皮",
+    "usda_id": "171320",
+    "usda_name": "Spices, cinnamon, ground"
+  },
+  {
+    "ingredient_name": "灯笼椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "火锅底料",
+    "usda_id": "171190",
+    "usda_name": "Sauce, chili, hot, ready to serve"
+  },
+  {
+    "ingredient_name": "千张",
+    "usda_id": "167695",
+    "usda_name": "Mayonnaise, made with tofu"
+  },
+  {
+    "ingredient_name": "果酱",
+    "usda_id": "167706",
+    "usda_name": "Jams, preserves, marmalade, reduced sugar"
+  },
+  {
+    "ingredient_name": "菜椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "黑椒腌料",
+    "usda_id": "172242",
+    "usda_name": "Seasoning mix, dry, sazon, coriander & annatto"
+  },
+  {
+    "ingredient_name": "手枪腿（或者鸡胸脯肉）",
+    "usda_id": "170339",
+    "usda_name": "Chicken, broilers, meat and skin, raw"
+  },
+  {
+    "ingredient_name": "干辣椒（或者二荆条）",
+    "usda_id": "168577",
+    "usda_name": "Peppers, chili, green, canned"
+  },
+  {
+    "ingredient_name": "芝麻油",
+    "usda_id": "171016",
+    "usda_name": "Oil, sesame, salad or cooking"
+  },
+  {
+    "ingredient_name": "油泼辣子",
+    "usda_id": "171186",
+    "usda_name": "Sauce, hot chile, sriracha"
+  },
+  {
+    "ingredient_name": "生花生",
+    "usda_id": "170067",
+    "usda_name": "Nuts, peanuts, all types, raw"
+  },
+  {
+    "ingredient_name": "鸡腿肉",
+    "usda_id": "170339",
+    "usda_name": "Chicken, broilers, meat and skin, raw"
+  },
+  {
+    "ingredient_name": "咸肉",
+    "usda_id": "170048",
+    "usda_name": "Ham, chopped, loaf, refrigerated, cooked, heated"
+  },
+  {
+    "ingredient_name": "食用油",
+    "usda_id": "167737",
+    "usda_name": "Oil, corn, peanut, and olive"
+  },
+  {
+    "ingredient_name": "面包片",
+    "usda_id": "171234",
+    "usda_name": "Bread, white, commercially prepared"
+  },
+  {
+    "ingredient_name": "生蚝",
+    "usda_id": "168580",
+    "usda_name": "Mushrooms, oyster, raw"
+  },
+  {
+    "ingredient_name": "乌枣",
+    "usda_id": "168191",
+    "usda_name": "Dates, medjool"
+  },
+  {
+    "ingredient_name": "乌梅",
+    "usda_id": "167751",
+    "usda_name": "Plums, dried (prunes), stewed, without added sugar"
+  },
+  {
+    "ingredient_name": "红豆蔻",
+    "usda_id": "170919",
+    "usda_name": "Spices, cardamom"
+  },
+  {
+    "ingredient_name": "干桂花",
+    "usda_id": "168459",
+    "usda_name": "Sesbania flower, raw"
+  },
+  {
+    "ingredient_name": "半成品薯条",
+    "usda_id": "170152",
+    "usda_name": "Potatoes, frozen, french fried, par fried, frozen, unprepared"
+  },
+  {
+    "ingredient_name": "甘露咖啡酒",
+    "usda_id": "173665",
+    "usda_name": "Alcoholic beverage, liqueur, coffee, 63 proof"
+  },
+  {
+    "ingredient_name": "爱尔兰百利甜酒",
+    "usda_id": "173665",
+    "usda_name": "Alcoholic beverage, liqueur, coffee, 63 proof"
+  },
+  {
+    "ingredient_name": "蓝天原味伏特加",
+    "usda_id": "171919",
+    "usda_name": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 86 proof"
+  },
+  {
+    "ingredient_name": "百香果",
+    "usda_id": "171930",
+    "usda_name": "Beverages, V8 SPLASH Juice Drinks, Guava Passion Fruit"
+  },
+  {
+    "ingredient_name": "橙子",
+    "usda_id": "171267",
+    "usda_name": "Oranges, raw, all commercial varieties"
+  },
+  {
+    "ingredient_name": "茉莉绿茶茶叶",
+    "usda_id": "167620",
+    "usda_name": "Tea, tundra, herb and laborador combination (Alaska Native)"
+  },
+  {
+    "ingredient_name": "薄荷叶",
+    "usda_id": "170077",
+    "usda_name": "Spices, mint, dried"
+  },
+  {
+    "ingredient_name": "八角",
+    "usda_id": "171316",
+    "usda_name": "Spices, anise seed"
+  },
+  {
+    "ingredient_name": "凉皮",
+    "usda_id": "174258",
+    "usda_name": "Noodles, chinese, cellophane or long rice (mung beans), dehydrated"
+  },
+  {
+    "ingredient_name": "面筋",
+    "usda_id": "168147",
+    "usda_name": "Vital wheat gluten"
+  },
+  {
+    "ingredient_name": "芝麻酱",
+    "usda_id": "170079",
+    "usda_name": "Seeds, sesame, whole, roasted and toasted"
+  },
+  {
+    "ingredient_name": "温开水",
+    "usda_id": "167765",
+    "usda_name": "Watermelon, raw"
+  },
+  {
+    "ingredient_name": "辣椒油",
+    "usda_id": "168577",
+    "usda_name": "Peppers, chili, green, canned"
+  },
+  {
+    "ingredient_name": "小麦粉",
+    "usda_id": "171237",
+    "usda_name": "Flour, wheat, bread, unenriched"
+  },
+  {
+    "ingredient_name": "腊肉",
+    "usda_id": "170048",
+    "usda_name": "Ham, chopped, loaf, refrigerated, cooked, heated"
+  },
+  {
+    "ingredient_name": "茄子",
+    "usda_id": "169228",
+    "usda_name": "Eggplant, raw"
+  },
+  {
+    "ingredient_name": "清水",
+    "usda_id": "173647",
+    "usda_name": "Beverages, water, tap, drinking"
+  },
+  {
+    "ingredient_name": "盐焗鸡粉",
+    "usda_id": "168956",
+    "usda_name": "Yellow rice with seasoning, dry packet mix, unprepared"
+  },
+  {
+    "ingredient_name": "龟苓膏粉",
+    "usda_id": "169828",
+    "usda_name": "Tea, herbal, brewed, Hohoysi (Hopi)"
+  },
+  {
+    "ingredient_name": "肉丁/肉末",
+    "usda_id": "170339",
+    "usda_name": "Chicken, broilers, meat and skin, raw"
+  },
+  {
+    "ingredient_name": "普通面条",
+    "usda_id": "174258",
+    "usda_name": "Noodles, chinese, cellophane or long rice (mung beans), dehydrated"
+  },
+  {
+    "ingredient_name": "菜码",
+    "usda_id": "170964",
+    "usda_name": "Vegetables, mixed (frozen), unprepared"
+  },
+  {
+    "ingredient_name": "包菜",
+    "usda_id": "168514",
+    "usda_name": "Cabbage, common, cooked, boiled, drained, with salt"
+  },
+  {
+    "ingredient_name": "紫菜",
+    "usda_id": "167602",
+    "usda_name": "Seaweed, Canadian Cultivated EMI-TSUNOMATA, dry"
+  },
+  {
+    "ingredient_name": "虾仁",
+    "usda_id": "174210",
+    "usda_name": "Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)"
+  },
+  {
+    "ingredient_name": "虾皮",
+    "usda_id": "174210",
+    "usda_name": "Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)"
+  },
+  {
+    "ingredient_name": "叶菜类蔬菜",
+    "usda_id": "168119",
+    "usda_name": "Turnip greens, canned, no salt added"
+  },
+  {
+    "ingredient_name": "大排",
+    "usda_id": "170339",
+    "usda_name": "Chicken, broilers, meat and skin, raw"
+  },
+  {
+    "ingredient_name": "葱姜水",
+    "usda_id": "171165",
+    "usda_name": "Water, bottled, non-carbonated, CALISTOGA"
+  },
+  {
+    "ingredient_name": "吉士粉",
+    "usda_id": "167681",
+    "usda_name": "Beverages, fruit-flavored drink, dry powdered mix, low calorie, with aspartame"
+  },
+  {
+    "ingredient_name": "小葱",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "鳜鱼",
+    "usda_id": "174187",
+    "usda_name": "Fish, mixed species, fresh, meat only, raw"
+  },
+  {
+    "ingredient_name": "大葱",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "红辣椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "鲜仔鸭肉",
+    "usda_id": "167617",
+    "usda_name": "Duck, scoter, white-winged, meat (Alaska Native)"
+  },
+  {
+    "ingredient_name": "鲜鸭血",
+    "usda_id": "167617",
+    "usda_name": "Duck, scoter, white-winged, meat (Alaska Native)"
+  },
+  {
+    "ingredient_name": "辣椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "山胡椒油",
+    "usda_id": "171016",
+    "usda_name": "Oil, sesame, salad or cooking"
+  },
+  {
+    "ingredient_name": "半干荞麦面",
+    "usda_id": "174258",
+    "usda_name": "Noodles, chinese, cellophane or long rice (mung beans), dehydrated"
+  },
+  {
+    "ingredient_name": "花生酱",
+    "usda_id": "170072",
+    "usda_name": "Nuts, peanut butter, chunk style, without salt"
+  },
+  {
+    "ingredient_name": "鸡翅中",
+    "usda_id": "170352",
+    "usda_name": "Chicken, wing, meat and skin, raw"
+  },
+  {
+    "ingredient_name": "罗勒碎",
+    "usda_id": "171185",
+    "usda_name": "Sauce, pesto, MEZZETTA, NAPA VALLEY BISTRO, basil pesto, ready-to-serve"
+  },
+  {
+    "ingredient_name": "云南单山蘸水",
+    "usda_id": "172242",
+    "usda_name": "Seasoning mix, dry, sazon, coriander & annatto"
+  },
+  {
+    "ingredient_name": "茶粉",
+    "usda_id": "167681",
+    "usda_name": "Beverages, fruit-flavored drink, dry powdered mix, low calorie, with aspartame"
+  },
+  {
+    "ingredient_name": "炼乳",
+    "usda_id": "171259",
+    "usda_name": "Milk, condensed, canned, sweetened"
+  },
+  {
+    "ingredient_name": "开洋",
+    "usda_id": "174213",
+    "usda_name": "Crustaceans, crab, imitation, made from surimi, unprepared"
+  },
+  {
+    "ingredient_name": "猪蹄",
+    "usda_id": "170046",
+    "usda_name": "Pork, fresh, variety meats and by-products, feet, raw"
+  },
+  {
+    "ingredient_name": "陈皮",
+    "usda_id": "169103",
+    "usda_name": "Orange peel, raw"
+  },
+  {
+    "ingredient_name": "西洋参",
+    "usda_id": "170077",
+    "usda_name": "Spices, unspecified"
+  },
+  {
+    "ingredient_name": "石斛",
+    "usda_id": "170077",
+    "usda_name": "Spices, unspecified"
+  },
+  {
+    "ingredient_name": "玉竹",
+    "usda_id": "170077",
+    "usda_name": "Spices, unspecified"
+  },
+  {
+    "ingredient_name": "麦冬",
+    "usda_id": "170077",
+    "usda_name": "Spices, unspecified"
+  },
+  {
+    "ingredient_name": "蟹味菇",
+    "usda_id": "168423",
+    "usda_name": "Mushrooms, morel, raw"
+  },
+  {
+    "ingredient_name": "凤梨",
+    "usda_id": "171274",
+    "usda_name": "Pineapple, raw, all varieties"
+  },
+  {
+    "ingredient_name": "鸡全翅",
+    "usda_id": "170352",
+    "usda_name": "Chicken, wing, meat and skin, raw"
+  },
+  {
+    "ingredient_name": "甜椒粉",
+    "usda_id": "171321",
+    "usda_name": "Spices, paprika"
+  },
+  {
+    "ingredient_name": "罗氏虾",
+    "usda_id": "174210",
+    "usda_name": "Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)"
+  },
+  {
+    "ingredient_name": "青芥末",
+    "usda_id": "171186",
+    "usda_name": "Sauce, hot chile, sriracha"
+  },
+  {
+    "ingredient_name": "鹌鹑蛋",
+    "usda_id": "167643",
+    "usda_name": "Fish, whitefish, eggs (Alaska Native)"
+  },
+  {
+    "ingredient_name": "豆皮",
+    "usda_id": "16120",
+    "usda_name": "Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)"
+  },
+  {
+    "ingredient_name": "猪通脊肉",
+    "usda_id": "167811",
+    "usda_name": "Pork, fresh, backfat, raw"
+  },
+  {
+    "ingredient_name": "白熟芝麻",
+    "usda_id": "170079",
+    "usda_name": "Seeds, sesame, whole, roasted and toasted"
+  },
+  {
+    "ingredient_name": "荷兰豆",
+    "usda_id": "171038",
+    "usda_name": "Peas, edible-podded, raw"
+  },
+  {
+    "ingredient_name": "腊肠",
+    "usda_id": "167694",
+    "usda_name": "Sausage, turkey and pork, fresh, bulk, patty or link, cooked"
+  },
+  {
+    "ingredient_name": "意大利面酱",
+    "usda_id": "171190",
+    "usda_name": "Sauce, pasta, meat lasagna, ready-to-serve"
+  },
+  {
+    "ingredient_name": "兔肉",
+    "usda_id": "170339",
+    "usda_name": "Chicken, broilers, meat and skin, raw"
+  },
+  {
+    "ingredient_name": "八角",
+    "usda_id": "171316",
+    "usda_name": "Spices, anise seed"
+  },
+  {
+    "ingredient_name": "白蔻",
+    "usda_id": "170919",
+    "usda_name": "Spices, cardamom"
+  },
+  {
+    "ingredient_name": "干淀粉",
+    "usda_id": "171021",
+    "usda_name": "Cornstarch"
+  },
+  {
+    "ingredient_name": "四季豆",
+    "usda_id": "170976",
+    "usda_name": "Beans, green, canned, regular pack, drained solids"
+  },
+  {
+    "ingredient_name": "橄榄菜",
+    "usda_id": "167737",
+    "usda_name": "Oil, corn, peanut, and olive"
+  },
+  {
+    "ingredient_name": "闽星茶树菇",
+    "usda_id": "169242",
+    "usda_name": "Mushrooms, shiitake, raw"
+  },
+  {
+    "ingredient_name": "奇亚籽",
+    "usda_id": "170051",
+    "usda_name": "Seeds, chia seeds, dried"
+  },
+  {
+    "ingredient_name": "冰块",
+    "usda_id": "171922",
+    "usda_name": "Beverages, water, bottled, non-carbonated, EVIAN"
+  },
+  {
+    "ingredient_name": "芒果",
+    "usda_id": "171277",
+    "usda_name": "Mango, raw"
+  },
+  {
+    "ingredient_name": "葡萄柚",
+    "usda_id": "171244",
+    "usda_name": "Grapefruit, raw, pink and red and white, all areas"
+  },
+  {
+    "ingredient_name": "椰奶",
+    "usda_id": "169409",
+    "usda_name": "Nuts, coconut milk, frozen (liquid expressed from grated meat and water)"
+  },
+  {
+    "ingredient_name": "芒果干",
+    "usda_id": "167785",
+    "usda_name": "Mango nectar, canned"
+  },
+  {
+    "ingredient_name": "柳橙干",
+    "usda_id": "171267",
+    "usda_name": "Oranges, raw, all commercial varieties"
+  },
+  {
+    "ingredient_name": "带皮猪五花肉",
+    "usda_id": "167811",
+    "usda_name": "Pork, fresh, backfat, raw"
+  },
+  {
+    "ingredient_name": "商芝",
+    "usda_id": "170964",
+    "usda_name": "Vegetables, mixed (frozen), unprepared"
+  },
+  {
+    "ingredient_name": "鸡蛋皮",
+    "usda_id": "167643",
+    "usda_name": "Fish, whitefish, eggs (Alaska Native)"
+  },
+  {
+    "ingredient_name": "鸡汤",
+    "usda_id": "171542",
+    "usda_name": "Soup, chicken broth, canned, condensed"
+  },
+  {
+    "ingredient_name": "熟猪油",
+    "usda_id": "171033",
+    "usda_name": "Lard"
+  },
+  {
+    "ingredient_name": "蒜蓉",
+    "usda_id": "169230",
+    "usda_name": "Garlic, raw"
+  },
+  {
+    "ingredient_name": "带皮羊排肉",
+    "usda_id": "172033",
+    "usda_name": "Lamb, domestic, rib chop, bone-in, separable lean and fat, trimmed to 1/8\" fat, raw"
+  },
+  {
+    "ingredient_name": "甜椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "芥末",
+    "usda_id": "168438",
+    "usda_name": "Mustard spinach, (tendergreen), raw"
+  },
+  {
+    "ingredient_name": "香菜",
+    "usda_id": "170416",
+    "usda_name": "Parsley, fresh"
+  },
+  {
+    "ingredient_name": "羊腩",
+    "usda_id": "168534",
+    "usda_name": "Lambsquarters, cooked, boiled, drained, with salt"
+  },
+  {
+    "ingredient_name": "炸腐竹",
+    "usda_id": "167730",
+    "usda_name": "Milk, imitation, non-soy"
+  },
+  {
+    "ingredient_name": "腐乳",
+    "usda_id": "16120",
+    "usda_name": "Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)"
+  },
+  {
+    "ingredient_name": "南乳",
+    "usda_id": "168145",
+    "usda_name": "Jellies, reduced sugar, home preserved"
+  },
+  {
+    "ingredient_name": "香菇",
+    "usda_id": "169242",
+    "usda_name": "Mushrooms, shiitake, raw"
+  },
+  {
+    "ingredient_name": "白玉菇",
+    "usda_id": "168423",
+    "usda_name": "Mushrooms, morel, raw"
+  },
+  {
+    "ingredient_name": "菜椒",
+    "usda_id": "168576",
+    "usda_name": "Peppers, jalapeno, raw"
+  },
+  {
+    "ingredient_name": "西蓝花",
+    "usda_id": "168510",
+    "usda_name": "Broccoli, cooked, boiled, drained, with salt"
+  },
+  {
+    "ingredient_name": "熟蛋黄",
+    "usda_id": "171291",
+    "usda_name": "Egg, yolk, raw, frozen, pasteurized"
+  },
+  {
+    "ingredient_name": "有盐牛油",
+    "usda_id": "171023",
+    "usda_name": "Butter, with salt"
+  },
+  {
+    "ingredient_name": "三文鱼",
+    "usda_id": "174188",
+    "usda_name": "Fish, salmon, Atlantic, wild, raw"
+  },
+  {
+    "ingredient_name": "粟米",
+    "usda_id": "169998",
+    "usda_name": "Corn, sweet, yellow, raw"
+  },
+  {
+    "ingredient_name": "金菇",
+    "usda_id": "168423",
+    "usda_name": "Mushrooms, morel, raw"
+  },
+  {
+    "ingredient_name": "冬菇",
+    "usda_id": "168422",
+    "usda_name": "Mushrooms, Chanterelle, raw"
+  },
+  {
+    "ingredient_name": "干葫芦巴叶",
+    "usda_id": "171324",
+    "usda_name": "Spices, fenugreek seed"
+  },
+  {
+    "ingredient_name": "耙耙柑",
+    "usda_id": "171281",
+    "usda_name": "Citrus, oranges, raw"
+  },
+  {
+    "ingredient_name": "荞麦面",
+    "usda_id": "174258",
+    "usda_name": "Noodles, cooked, without added salt"
+  },
+  {
+    "ingredient_name": "安琪甜酒曲",
+    "usda_id": "167717",
+    "usda_name": "Yeast extract spread"
+  },
+  {
+    "ingredient_name": "桂花",
+    "usda_id": "168459",
+    "usda_name": "Sesbania flower, raw"
+  },
+  {
+    "ingredient_name": "水淀粉",
+    "usda_id": "171021",
+    "usda_name": "Cornstarch"
+  },
+  {
+    "ingredient_name": "黑鳕鱼",
+    "usda_id": "174198",
+    "usda_name": "Fish, cod, Pacific, raw"
+  },
+  {
+    "ingredient_name": "青葱",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+    "ingredient_name": "酱油",
+    "usda_id": "174279",
+    "usda_name": "Soy sauce made from hydrolyzed vegetable protein"
+  },
+  {
+    "ingredient_name": "花生油",
+    "usda_id": "172336",
+    "usda_name": "Oil, canola"
+  },
+  {
+    "ingredient_name": "手抓饼",
+    "usda_id": "167945",
+    "usda_name": "Focaccia, Italian flatbread, plain"
+  },
+  {
+    "ingredient_name": "培根片",
+    "usda_id": "170047",
+    "usda_name": "Bacon, pre-sliced, cooked"
+  },
+  {
+    "ingredient_name": "鱼",
+    "usda_id": "174187",
+    "usda_name": "Fish, mixed species, fresh, meat only, raw"
+  },
+  {
+    "ingredient_name": "水浸金枪鱼",
+    "usda_id": "174192",
+    "usda_name": "Fish, tuna, light, canned in oil, drained solids"
+  },
+  {
+    "ingredient_name": "方形吐司片",
+    "usda_id": "171234",
+    "usda_name": "Bread, white, commercially prepared"
+  },
+  {
+    "ingredient_name": "蛋黄酱",
+    "usda_id": "171187",
+    "usda_name": "Mayonnaise, regular, all fats, without cholesterol"
+  },
+  {
+    "ingredient_name": "俄式酸黄瓜汁",
+    "usda_id": "167615",
+    "usda_name": "Fish, salmon, king, chinook, smoked, brined (Alaska Native)"
+  },
+  {
+    "ingredient_name": "火腿片",
+    "usda_id": "170048",
+    "usda_name": "Ham, chopped, loaf, refrigerated, cooked, heated"
+  },
+  {
+    "ingredient_name": "海参",
+    "usda_id": "167618",
+    "usda_name": "Sea cucumber, yane (Alaska Native)"
+  },
+  {
+    "ingredient_name": "桂鱼",
+    "usda_id": "174187",
+    "usda_name": "Fish, mixed species, fresh, meat only, raw"
+  },
+  {
+    "ingredient_name": "蒸鱼豉油",
+    "usda_id": "172473",
+    "usda_name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+    "ingredient_name": "菠菜",
+    "usda_id": "168429",
+    "usda_name": "Lettuce, butterhead (includes boston and bibb types), raw"
+  },
+  {
+    "ingredient_name": "红腐乳",
+    "usda_id": "16120",
+    "usda_name": "Tofu, pickled"
+  },
+  {
+    "ingredient_name": "腐乳汁",
+    "usda_id": "172242",
+    "usda_name": "Seasoning mix, dry, sazon, coriander & annatto"
+  },
+  {
+    "ingredient_name": "葱白",
+    "usda_id": "170005",
+    "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+  }
+]

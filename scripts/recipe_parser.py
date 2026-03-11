@@ -16,6 +16,10 @@ import sys
 from typing import List, Dict, Any, Optional
 import re
 import logging
+try:
+    from .nutrition_generator import NutritionDataProcessor  # 相对导入
+except ImportError:
+    from nutrition_generator import NutritionDataProcessor  # 绝对导入，用于直接运行
 
 # 配置日志
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -24,33 +28,35 @@ logger = logging.getLogger(__name__)
 
 class RecipeParserConfig:
     """配置类，集中管理所有硬编码的配置项"""
-    
+
     # 仓库配置
     REPO_URL = "https://github.com/Anduin2017/HowToCook.git"
     DISHES_DIR = "dishes"
-    
+
     # 超时配置（秒）
     CLAUDE_COMMAND_TIMEOUT = 1800  # 30 minutes
     GIT_CLONE_TIMEOUT = 300  # 5 minutes
     GIT_LFS_PULL_TIMEOUT = 600  # 10 minutes
     GIT_LFS_CHECK_TIMEOUT = 30  # 30 seconds
-    
+
     # 重试配置
     MAX_RETRIES = 3
-    
+
     # 图片配置 - 默认扩展名仅在无法从原文件获取时使用
     DEFAULT_IMAGE_EXTENSION = ".jpg"  # 更通用的图片格式
     SUPPORTED_IMAGE_EXTENSIONS = ('.jpg', '.jpeg', '.png', '.gif', '.webp', '.bmp')
-    
+
     # 输出配置
     DEFAULT_OUTPUT_DIR = "out"
     INGREDIENTS_RAW_FILE = "ingredients_raw.json"
     INGREDIENTS_FILE = "ingredients.json"
-    
+    NUTRITION_MAP_FILE = "nutrition_map.json"  # 营养映射文件
+    NUTRITIONS_FILE = "nutritions.json"  # 营养信息文件
+
     # 解析配置
     REQUIRED_RECIPE_FIELDS = ['name', 'source_file', 'category', 'difficulty', 'servings', 'ingredients', 'steps']
     REQUIRED_INGREDIENT_FIELDS = ['ingredient_name', 'unit']
-    
+
     # 跳过的外部 URL 前缀
     EXTERNAL_URL_PREFIXES = ('http://', 'https://', 'data:')
 
@@ -842,6 +848,7 @@ def main(args=None):
     parser.add_argument('--parse-ingredient', action='store_true', help='Only parse ingredients (steps 4-6)')
     parser.add_argument('--add-images', action='store_true', help='Only add images to existing parsed recipes')
     parser.add_argument('--limit', type=int, default=None, help='Limit number of recipes to parse (for testing), e.g., 2 for first 2 recipes')
+    parser.add_argument('--match-nutritions', action='store_true', help='Only match nutritions with USDA SR data (generates nutritions.json)')
 
     args = parser.parse_args(args)
 
@@ -859,11 +866,25 @@ def main(args=None):
     parse_recipe_only = args.parse_recipe
     parse_ingredient_only = args.parse_ingredient
     add_images_only = args.add_images
-    full_process = not parse_recipe_only and not parse_ingredient_only and not add_images_only
+    match_nutritions_only = args.match_nutritions
+    full_process = not parse_recipe_only and not parse_ingredient_only and not add_images_only and not match_nutritions_only
 
     # Determine HowToCook repository path
     howtocook_path = args.repo_path
     temp_clone = False
+
+    # Handle --match-nutritions mode
+    if match_nutritions_only:
+        logger.info("Running in --match-nutritions mode...")
+        # Initialize and run nutrition data processor
+        nutrition_processor = NutritionDataProcessor(output_dir=output_dir)
+        success = nutrition_processor.generate_nutrition_data()
+        if success:
+            logger.info("Nutrition matching completed successfully!")
+            return 0
+        else:
+            logger.error("Nutrition matching failed!")
+            return 1
 
     # Steps 1-3 require repository access
     if full_process or parse_recipe_only or add_images_only:
@@ -943,6 +964,16 @@ def main(args=None):
                 logger.warning("Failed to parse ingredients")
         else:
             logger.warning("No ingredients found to parse")
+
+    # If not in specific modes, run nutrition matching after full process
+    if full_process:
+        logger.info("Running nutrition matching after full process...")
+        nutrition_processor = NutritionDataProcessor(output_dir=output_dir)
+        success = nutrition_processor.generate_nutrition_data()
+        if success:
+            logger.info("Nutrition matching completed successfully!")
+        else:
+            logger.error("Nutrition matching failed!")
 
     # Step 6: Clean up
     logger.info("Step 6: Cleaning up...")
