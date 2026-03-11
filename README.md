@@ -109,6 +109,8 @@ python parse_recipes.py --add-images
 python scripts/recipe_parser.py --match-usda-id
 ```
 
+> **注意**：该步骤还不完善，匹配成功率极低。一定要检查生成文件，确认匹配正常。
+
 ### 流程B：生成营养信息
 
 根据已匹配的 ID 生成营养信息，生成 `nutritions.json`：
@@ -296,7 +298,6 @@ out/
 | `nrp_pct` | 营养素参考值百分比（NRV/DV%） | `2.5` |
 | `standard` | 使用的标准（中国GB标准或美国FDA标准） | `"中国GB标准"` |
 | `note` | 备注（如有单位转换或其他说明） | `"单位已从 kJ 转换为 kcal"` |
-```
 
 > 注意：由于菜谱格式不统一，尽管使用 AI 解析，但结果可能仍然存在错误，如有需要，请自行检查并手动修改。
 > 你也可以创建 PR，为该项目做贡献。
