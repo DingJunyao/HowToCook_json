@@ -96,8 +96,8 @@
   },
   {
     "ingredient_name": "面粉",
-    "usda_id": "171237",
-    "usda_name": "Flour, wheat, bread, unenriched"
+    "usda_id": "169761",
+    "usda_name": "Wheat flour, white, all-purpose, unenriched"
   },
   {
     "ingredient_name": "红薯淀粉",
@@ -516,8 +516,8 @@
   },
   {
     "ingredient_name": "高筋面粉",
-    "usda_id": "169761",
-    "usda_name": "Wheat flour, white, all-purpose, unenriched"
+    "usda_id": "168896",
+    "usda_name": "Wheat flour, white, bread, enriched"
   },
   {
     "ingredient_name": "牛奶",
@@ -936,8 +936,8 @@
   },
   {
     "ingredient_name": "香干",
-    "usda_id": "16120",
-    "usda_name": "Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)"
+    "usda_id": "172450",
+    "usda_name": "Tofu, dried-frozen (koyadofu)"
   },
   {
     "ingredient_name": "青椒",
@@ -991,7 +991,7 @@
   },
   {
     "ingredient_name": "南瓜",
-    "usda_id": "11406",
+    "usda_id": "168448",
     "usda_name": "Pumpkin, raw"
   },
   {
@@ -1056,7 +1056,7 @@
   },
   {
     "ingredient_name": "生鸡肝",
-    "usda_id": "2 poultry-composition",
+    "usda_id": "171060",
     "usda_name": "Chicken, liver, all classes, raw"
   },
   {
@@ -1111,8 +1111,8 @@
   },
   {
     "ingredient_name": "面",
-    "usda_id": "171237",
-    "usda_name": "Flour, wheat, bread, unenriched"
+    "usda_id": "168894",
+    "usda_name": "Wheat flour, white, all-purpose, enriched, bleached"
   },
   {
     "ingredient_name": "老干妈",
@@ -1686,8 +1686,8 @@
   },
   {
     "ingredient_name": "普通面粉",
-    "usda_id": "171237",
-    "usda_name": "Flour, wheat, bread, unenriched"
+    "usda_id": "169761",
+    "usda_name": "Wheat flour, white, all-purpose, unenriched"
   },
   {
     "ingredient_name": "冷水",
@@ -2331,8 +2331,8 @@
   },
   {
     "ingredient_name": "低筋面粉",
-    "usda_id": "171237",
-    "usda_name": "Flour, wheat, bread, unenriched"
+    "usda_id": "169723",
+    "usda_name": "Wheat flour, white, cake, enriched"
   },
   {
     "ingredient_name": "柠檬汁",
@@ -2366,8 +2366,8 @@
   },
   {
     "ingredient_name": "老豆腐",
-    "usda_id": "167695",
-    "usda_name": "Mayonnaise, made with tofu"
+    "usda_id": "174290",
+    "usda_name": "Tofu, extra firm, prepared with nigari"
   },
   {
     "ingredient_name": "冰糖",
@@ -2421,8 +2421,8 @@
   },
   {
     "ingredient_name": "南腐乳",
-    "usda_id": "16120",
-    "usda_name": "Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)"
+    "usda_id": "174280",
+    "usda_name": "Tofu, salted and fermented (fuyu)"
   },
   {
     "ingredient_name": "清水",
@@ -3386,8 +3386,8 @@
   },
   {
     "ingredient_name": "南腐乳",
-    "usda_id": "16120",
-    "usda_name": "Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)"
+    "usda_id": "174280",
+    "usda_name": "Tofu, salted and fermented (fuyu)"
   },
   {
     "ingredient_name": "柱候酱",
@@ -3476,8 +3476,8 @@
   },
   {
     "ingredient_name": "干面粉",
-    "usda_id": "171237",
-    "usda_name": "Flour, wheat, bread, unenriched"
+    "usda_id": "169761",
+    "usda_name": "Wheat flour, white, all-purpose, unenriched"
   },
   {
     "ingredient_name": "芝士碎",
@@ -4166,8 +4166,8 @@
   },
   {
     "ingredient_name": "豆皮",
-    "usda_id": "16120",
-    "usda_name": "Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)"
+    "usda_id": "172450",
+    "usda_name": "Tofu, dried-frozen (koyadofu)"
   },
   {
     "ingredient_name": "猪通脊肉",
@@ -4321,18 +4321,18 @@
   },
   {
     "ingredient_name": "炸腐竹",
-    "usda_id": "167730",
-    "usda_name": "Milk, imitation, non-soy"
+    "usda_id": "172451",
+    "usda_name": "Tofu, fried"
   },
   {
     "ingredient_name": "腐乳",
-    "usda_id": "16120",
-    "usda_name": "Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)"
+    "usda_id": "174280",
+    "usda_name": "Tofu, salted and fermented (fuyu)"
   },
   {
     "ingredient_name": "南乳",
-    "usda_id": "168145",
-    "usda_name": "Jellies, reduced sugar, home preserved"
+    "usda_id": "174280",
+    "usda_name": "Tofu, salted and fermented (fuyu)"
   },
   {
     "ingredient_name": "香菇",
@@ -4496,8 +4496,8 @@
   },
   {
     "ingredient_name": "红腐乳",
-    "usda_id": "16120",
-    "usda_name": "Tofu, pickled"
+    "usda_id": "174280",
+    "usda_name": "Tofu, salted and fermented (fuyu)"
   },
   {
     "ingredient_name": "腐乳汁",
