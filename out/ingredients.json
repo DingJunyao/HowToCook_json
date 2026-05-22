@@ -5197,5 +5197,12 @@
     "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
+  },
+  "红油豆瓣酱": {
+    "name": "红油豆瓣酱",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   }
 }

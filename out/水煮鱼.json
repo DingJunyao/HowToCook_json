@@ -1,165 +1,199 @@
 {
   "name": "水煮鱼",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/水煮鱼.md",
+  "source_file": "dishes\\aquatic\\水煮鱼.md",
   "category": "水产",
   "difficulty": "medium",
-  "total_time_minutes": 120,
-  "servings": 1,
+  "total_time_minutes": null,
+  "servings": 3,
   "original_servings": 5,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "巴沙鱼",
-      "quantity": 100,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 500.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "蔬菜",
-      "quantity": 100,
-      "unit": "g",
-      "quantity_range": {
-        "min": 60,
-        "max": 100
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "如土豆片、豆芽、花菜、生菜等，可自由搭配",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 500.0,
+        "min": 300.0
+      },
+      "unit": "g"
     },
     {
       "ingredient_name": "红油豆瓣酱",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "如想更辣可额外增加2-4g",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "不怕辣想多加红油就多加 10 至 20g",
+      "original_quantity": "",
+      "quantity": 40.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "豆豉",
-      "quantity": 2,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "藤椒油",
-      "quantity": 2,
-      "unit": "ml",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "ml"
     },
     {
       "ingredient_name": "菜籽油",
-      "quantity": 5,
-      "unit": "ml",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 25.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "ml"
     },
     {
       "ingredient_name": "白胡椒粉",
-      "quantity": 0.6,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "大蒜",
-      "quantity": 0.4,
-      "unit": "瓣",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "切成蒜末",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "瓣"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 1,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "糖",
-      "quantity": 0.4,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "巴沙鱼从冷冻柜取出，放室温自然解冻后进行切片处理。将巴沙鱼撇成薄片，约5cm长，3cm宽。切片技巧：可垂直于鱼片长条方向先剁成5cm的鱼块，然后翻转90度斜着撇成薄片。",
-      "duration_minutes": 10,
-      "tips": null
+      "content": "准备：巴沙鱼若是从冷冻柜里取出，需要放室温自然解冻 5 小时再做切片处理。",
+      "duration_minutes": 300.0,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "将切好片的巴沙鱼放入大不锈钢碗中，加入6g红油豆瓣酱、0.6g盐、2ml藤椒油、0.6g白胡椒粉，用手抓匀后加入2ml菜籽油收尾封住口味。",
-      "duration_minutes": 5,
-      "tips": "腌制时注意不要太用力抓"
+      "content": "切片：巴沙鱼撇成薄片，约 5cm 长，3cm 宽。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "常温静置至少30分钟入味。同时将大蒜切成蒜末，将蔬菜（如花菜、生菜）洗净。",
-      "duration_minutes": 30,
-      "tips": null
+      "content": "腌制：将切好片的巴沙鱼放入大不锈钢碗中",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "花菜开水锅焯水备用；将生菜洗净晾干，炒熟备用（不用放油）。",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "加入 30g 豆瓣酱，3g 盐，10ml 藤椒油，3g 白胡椒粉",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "热锅冷油（使用剩余3ml菜籽油），加入4g红油豆瓣酱、2g豆豉（可选）、蒜末，中火慢炒。",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "用手抓匀后加入 5ml 菜籽油收尾封住口味",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 6,
-      "content": "加入30ml热水，水很快开后加入腌制好的鱼片，轻轻翻动让鱼片在水中散开，加入0.4g盐和0.4g糖调味（此时可根据个人口味调整盐的用量）。",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "常温静置至少 30 分钟入味。",
+      "duration_minutes": 30.0,
+      "tips": ""
     },
     {
-      "step": 7,
-      "content": "水再次沸腾后即可盛盘。先将熟的蔬菜盛至大碗中，然后将热的鱼片盛在蔬菜上面，浇上锅中剩余热汤即可！",
-      "duration_minutes": 3,
-      "tips": null
+      "content": "备菜：大蒜切成蒜末。以 300g 花菜，200g 生菜为例，将花菜与生菜洗净。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "焯水与炒菜：花菜开水锅焯水]备用；将生菜洗净晾干，炒熟备用（不用放油）。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "炒豆瓣酱：热锅冷油（菜籽油 20ml），加入 10g 豆瓣酱，10g 豆豉（可选），加入蒜末，中火慢炒。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "汆鱼片：加入 150ml 热水，水很快开后加入腌制好的鱼片，轻轻翻动让鱼片在水中散开，加入 2g 盐和 2g 糖调味（此时可根据个人口味调整盐的用量）。水再次沸腾后即可盛盘。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "盛盘：先将熟的蔬菜盛至大碗中，然后将热的鱼片盛在蔬菜上面，浇上锅中剩余热汤即可！",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
     "垫底的蔬菜组合及用量可自由发挥，但需要注意各种蔬菜的特点，比如改成土豆的时候，需要将土豆片/土豆块煮熟（可以用筷子戳一戳确认）。",
     "红油豆瓣酱（辣度）以及盐的用量可根据个人口味调整。",
-    "切鱼片的时候可以垂直于鱼片长条的方向先剁成5cm的鱼块，然后翻转90度斜着撇成薄片。",
+    "注意切鱼片的时候可以垂直于鱼片长条的方向先剁成 5cm 的鱼块，然后翻转 90 度斜着撇成薄片。",
     "腌制的时候注意不要太用力抓。"
-  ]
+  ],
+  "description": "水煮鱼是一道做法中等难度的硬菜。巴沙鱼富含优质蛋白且脂肪含量低，配合各种时令蔬菜十分营养健康。初学者一般需要 2 小时即可完成。"
 }
