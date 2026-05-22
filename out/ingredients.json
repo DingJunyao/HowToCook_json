@@ -1,5414 +1,5201 @@
-[
-  {
-    "ingredient_name": "西葫芦",
+{
+  "西葫芦": {
+    "name": "西葫芦",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鸡蛋",
+  "鸡蛋": {
+    "name": "鸡蛋",
     "aliases": [],
-    "category": "eggs",
-    "unit": "个"
+    "category": "禽蛋",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "西红柿",
-    "aliases": ["番茄"],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "食用油",
-    "aliases": ["油"],
-    "category": "oil",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "盐",
-    "aliases": ["食用盐", "精盐", "食盐"],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "袋装螺蛳粉",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "水",
-    "aliases": [],
-    "category": "others",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "带脚、爪猪前肘",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "红豆腐乳",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "甜面酱",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "红酱油",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "白酱油",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "料酒",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "蒜片",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "姜末",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "八角",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "桂皮",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "葱",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "猪肉",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "面粉",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "红薯淀粉",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "老姜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "小葱",
-    "aliases": ["香葱", "小香葱", "青葱"],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "清水",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "十三香",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "胡椒粉",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "味精",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "鸡精",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "花椒碎",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "花椒粒",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "生抽",
-    "aliases": ["生抽酱油", "味极鲜", "昆布酱油"],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "植物油",
-    "aliases": [],
-    "category": "oil",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "白砂糖",
-    "aliases": ["白糖", "砂糖"],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "姜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "片"
-  },
-  {
-    "ingredient_name": "蒜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "瓣"
-  },
-  {
-    "ingredient_name": "鲤鱼",
-    "aliases": [],
-    "category": "seafood",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "娃娃菜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "片"
-  },
-  {
-    "ingredient_name": "老抽",
-    "aliases": ["老抽酱油"],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "郫县豆瓣酱",
-    "aliases": ["郫县红油豆瓣酱", "红油豆瓣", "豆瓣酱"],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "干辣椒",
-    "aliases": ["干红椒", "干线椒", "干小米椒"],
-    "category": "seasoning",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "金酒",
-    "aliases": [],
-    "category": "beverages",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "苏打气泡水",
-    "aliases": ["苏打水", "汤力水气泡水"],
-    "category": "beverages",
-    "unit": "罐"
-  },
-  {
-    "ingredient_name": "柠檬",
-    "aliases": [],
-    "category": "fruits",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "柠檬汁",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "蔗糖糖浆",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "冰块",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "新鲜绿叶",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "份"
-  },
-  {
-    "ingredient_name": "鸡胸肉",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "麻油",
-    "aliases": ["香油", "芝麻香油"],
-    "category": "oil",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "香醋",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "白糖",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "黔式腊肠",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "排骨",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "五香粉",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "蚝油",
-    "aliases": ["耗油"],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "小米椒",
-    "aliases": ["小米辣"],
-    "category": "vegetables",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "莴笋叶",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "淀粉",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "青椒",
-    "aliases": ["青辣椒"],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "猪瘦肉",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "大蒜",
-    "aliases": ["蒜", "蒜头"],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "生姜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "酱油",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "豆豉",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "玉米粒",
-    "aliases": ["冷冻玉米粒", "玉米"],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "椒盐粉",
-    "aliases": ["椒盐"],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "芝麻粒",
-    "aliases": ["芝麻", "白芝麻", "熟白芝麻"],
-    "category": "nuts",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "牛腱子肉",
-    "aliases": ["牛腱子"],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "香叶",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "片"
-  },
-  {
-    "ingredient_name": "冰糖",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "粒"
-  },
-  {
-    "ingredient_name": "花椒",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "粒"
-  },
-  {
-    "ingredient_name": "黄豆酱",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "猪肉末",
-    "aliases": ["肉末", "肉沫", "瘦肉末"],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "冬瓜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "葱花",
-    "aliases": ["小葱花", "葱末"],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "鳝丝",
-    "aliases": [],
-    "category": "seafood",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "老抽",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "蒜末",
-    "aliases": ["蒜蓉", "蒜仔"],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "猪油",
-    "aliases": [],
-    "category": "oil",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "鲜面条",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "干辣椒面",
-    "aliases": ["辣椒粉", "辣椒面", "干辣椒粉", "细辣椒粉", "中粗辣椒面"],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "青菜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "豆芽",
-    "aliases": ["绿豆芽"],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "洋葱",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "干面条",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "饮用水",
-    "aliases": ["纯净水", "矿泉水", "凉白开"],
-    "category": "others",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "炸好的葱段",
-    "aliases": [],
-    "category": "others",
-    "unit": null
-  },
-  {
-    "ingredient_name": "五花肉条",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "生菜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "豆瓣酱",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "鸭子",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "糯米粉",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "粘米粉",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "蒸肉粉",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "白胡椒粉",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "五花肉",
-    "aliases": ["猪五花肉", "带皮五花肉", "五花肉条", "五花肉薄片"],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "食用油",
-    "aliases": [],
-    "category": "oil",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "开水",
-    "aliases": ["热水", "温水", "沸水"],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "里脊肉",
-    "aliases": ["猪里脊"],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "醋",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "番茄酱",
-    "aliases": ["茄汁"],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "黄瓜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "根"
-  },
-  {
-    "ingredient_name": "皮蛋",
-    "aliases": [],
-    "category": "eggs",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "高筋面粉",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "牛奶",
-    "aliases": [],
-    "category": "dairy",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "酵母",
-    "aliases": ["酵母粉", "安琪干酵母粉", "干酵母"],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "黄油",
-    "aliases": ["无盐黄油", "酥油或黄油"],
-    "category": "dairy",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "蜂蜜",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "黑芝麻",
-    "aliases": [],
-    "category": "nuts",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "花生油",
-    "aliases": ["菜籽油或花生油"],
-    "category": "oil",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "土豆",
-    "aliases": ["马铃薯"],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "蕨根粉",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "醋",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "油泼辣子",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "糖",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "米粉",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "酸笋",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "剁椒",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "米醋",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "生粉",
-    "aliases": ["玉米淀粉"],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "木耳",
-    "aliases": ["黑木耳"],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "蒜瓣",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "芥末",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": null
-  },
-  {
-    "ingredient_name": "冷饭",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "冷冻去头去皮基围虾",
-    "aliases": [],
-    "category": "seafood",
-    "unit": "只"
-  },
-  {
-    "ingredient_name": "午餐肉罐头",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "青豆",
-    "aliases": ["冷冻青豆"],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "胡萝卜",
-    "aliases": ["红萝卜"],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "油",
-    "aliases": [],
-    "category": "oil",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "东北米",
-    "aliases": ["北方大米", "大米"],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "鲣鱼海苔碎",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "内脂豆腐",
-    "aliases": ["内酯豆腐"],
-    "category": "others",
-    "unit": "盒"
-  },
-  {
-    "ingredient_name": "咸鸭蛋",
-    "aliases": [],
-    "category": "eggs",
-    "unit": "枚"
-  },
-  {
-    "ingredient_name": "小米椒",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "根"
-  },
-  {
-    "ingredient_name": "蒜蓉辣酱",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "羊肉",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "大葱",
-    "aliases": ["葱结"],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "孜然粉",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "香菜",
-    "aliases": ["香菜叶"],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "冷冻花卷",
-    "aliases": [],
-    "category": "grains",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "小汤圆",
-    "aliases": ["速冻汤圆"],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "醪糟",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "枸杞",
-    "aliases": [],
-    "category": "others",
-    "unit": "颗"
-  },
-  {
-    "ingredient_name": "金针菇",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "辣椒油",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "土豆淀粉",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "羊排",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "白芷",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "孜然粒",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "烧烤撒料",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "白芝麻",
-    "aliases": [],
-    "category": "nuts",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "菜心",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "牛肉",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "番茄",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "玉米",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "根"
-  },
-  {
-    "ingredient_name": "香葱",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "根"
-  },
-  {
-    "ingredient_name": "黑胡椒粉",
-    "aliases": ["黑胡椒"],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "热干面特有的碱水面",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "酸豆角",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "蒜水",
-    "aliases": [],
-    "category": "others",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "肉汤汁",
-    "aliases": [],
-    "category": "others",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "萝卜干",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "芝麻酱",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "花菜",
-    "aliases": ["花椰菜"],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "青辣椒",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "根"
-  },
-  {
-    "ingredient_name": "孜然籽",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "姜黄粉",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "红辣椒粉",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "香菜粉",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "印度综合香料粉",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "姜末",
-    "aliases": ["生姜末"],
-    "category": "vegetables",
-    "unit": "粒"
-  },
-  {
-    "ingredient_name": "豆角",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "蛋挞皮",
-    "aliases": [],
-    "category": "others",
-    "unit": "只"
-  },
-  {
-    "ingredient_name": "淡奶油",
-    "aliases": [],
-    "category": "dairy",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "蛋黄",
-    "aliases": ["鸡蛋黄"],
-    "category": "eggs",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "玉米淀粉",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "面包糠",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "皮蛋",
-    "aliases": [],
-    "category": "eggs",
-    "unit": "颗"
-  },
-  {
-    "ingredient_name": "瘦肉",
-    "aliases": ["纯瘦肉"],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "大米",
-    "aliases": [],
-    "category": "grains",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "小葱",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "棵"
-  },
-  {
-    "ingredient_name": "香菜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "棵"
-  },
-  {
-    "ingredient_name": "生菜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "叶"
-  },
-  {
-    "ingredient_name": "生姜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "块"
-  },
-  {
-    "ingredient_name": "白萝卜",
-    "aliases": ["萝卜"],
-    "category": "vegetables",
-    "unit": "根"
-  },
-  {
-    "ingredient_name": "料酒或者黄酒",
-    "aliases": ["黄酒", "花雕酒"],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "白芷",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": null
-  },
-  {
-    "ingredient_name": "香干",
-    "aliases": ["豆干"],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "青椒",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "包菜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "粉丝",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "菜籽油",
-    "aliases": [],
-    "category": "oil",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "蒜瓣",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "片"
-  },
-  {
-    "ingredient_name": "干辣椒",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "根"
-  },
-  {
-    "ingredient_name": "昂刺鱼",
-    "aliases": [],
-    "category": "seafood",
-    "unit": "条"
-  },
-  {
-    "ingredient_name": "豆腐",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "姜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "块"
-  },
-  {
-    "ingredient_name": "黄瓜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "南瓜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "花椒粉",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "麻辣鲜",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "花椒油",
-    "aliases": [],
-    "category": "oil",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "红柚果肉",
-    "aliases": [],
-    "category": "fruits",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "波旁威士忌",
-    "aliases": [],
-    "category": "beverages",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "可口可乐",
-    "aliases": ["可乐"],
-    "category": "beverages",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "河粉",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "面筋块",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "小葱",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "根"
-  },
-  {
-    "ingredient_name": "河粉炒料",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "辣椒",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "根"
-  },
-  {
-    "ingredient_name": "蒜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "生鸡肝",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "蒜苗",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "烧烤料或孜然粉",
-    "aliases": ["烧烤料", "麻辣香锅调料"],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "风味调料",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "白蘑菇",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "牛奶",
-    "aliases": [],
-    "category": "dairy",
-    "unit": "mL"
-  },
-  {
-    "ingredient_name": "淡奶油",
-    "aliases": [],
-    "category": "dairy",
-    "unit": "mL"
-  },
-  {
-    "ingredient_name": "清水",
-    "aliases": [],
-    "category": "others",
-    "unit": "mL"
-  },
-  {
-    "ingredient_name": "黑胡椒碎",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "荔浦芋头",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "紫薯粉",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "面",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "老干妈",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "饮用水",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "酸梅晶固体饮料",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "方糖",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "北京二锅头酒",
-    "aliases": ["白酒", "高度白酒", "白酒（52%VOL）"],
-    "category": "beverages",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "咖喱块",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "速冻馄饨",
-    "aliases": [],
-    "category": "grains",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "香菜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "根"
-  },
-  {
-    "ingredient_name": "小龙虾",
-    "aliases": [],
-    "category": "seafood",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "油",
-    "aliases": [],
-    "category": "oil",
-    "unit": "mL"
-  },
-  {
-    "ingredient_name": "青花椒",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "子弹头辣椒",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "啤酒",
-    "aliases": [],
-    "category": "beverages",
-    "unit": "mL"
-  },
-  {
-    "ingredient_name": "生抽",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "mL"
-  },
-  {
-    "ingredient_name": "半成品意大利面",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "意面酱料",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "袋"
-  },
-  {
-    "ingredient_name": "米饭",
-    "aliases": ["冷饭"],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "火锅牛肉卷",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "蘑菇",
-    "aliases": ["菌菇"],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "韩式辣酱",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "雪碧",
-    "aliases": [],
-    "category": "beverages",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "芝麻油",
-    "aliases": [],
-    "category": "oil",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "凤尾",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "根"
-  },
-  {
-    "ingredient_name": "芹菜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "根"
-  },
-  {
-    "ingredient_name": "红泡椒",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "鸡蛋清",
-    "aliases": ["蛋清"],
-    "category": "eggs",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "小米辣干辣椒",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "植物油",
-    "aliases": [],
-    "category": "oil",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "菜籽油",
-    "aliases": [],
-    "category": "oil",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "生抽酱油",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "水淀粉",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "淡奶油",
-    "aliases": [],
-    "category": "dairy",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "椰树牌椰汁",
-    "aliases": ["椰汁", "瓶装椰汁"],
-    "category": "beverages",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "espresso 意式浓缩",
-    "aliases": ["浓缩咖啡", "咖啡液"],
-    "category": "beverages",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "椰子水",
-    "aliases": [],
-    "category": "beverages",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "吉利丁",
-    "aliases": ["吉利丁片"],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "糖",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": null
-  },
-  {
-    "ingredient_name": "干酵母",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "奶制品",
-    "aliases": [],
-    "category": "dairy",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "谷朊粉",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "香草精",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "草莓",
-    "aliases": [],
-    "category": "fruits",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "重奶油",
-    "aliases": [],
-    "category": "dairy",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "加糖炼乳",
-    "aliases": [],
-    "category": "dairy",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "猪蹄",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "鸭肉",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "啤酒",
-    "aliases": [],
-    "category": "beverages",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "生抽酱油",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "老抽酱油",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "冰糖",
-    "aliases": ["黄冰糖"],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "丁香",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "颗"
-  },
-  {
-    "ingredient_name": "红石榴糖浆",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "NFC 橙汁",
-    "aliases": [],
-    "category": "beverages",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "苏打水",
-    "aliases": [],
-    "category": "beverages",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "白朗姆",
-    "aliases": ["白朗姆酒", "金色朗姆酒", "朗姆酒"],
-    "category": "beverages",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "蓝橙力娇酒",
-    "aliases": [],
-    "category": "beverages",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "冰块",
-    "aliases": [],
-    "category": "others",
-    "unit": "块"
-  },
-  {
-    "ingredient_name": "柠檬",
-    "aliases": [],
-    "category": "fruits",
-    "unit": "片"
-  },
-  {
-    "ingredient_name": "香油",
-    "aliases": [],
-    "category": "oil",
-    "unit": "mL"
-  },
-  {
-    "ingredient_name": "螺丝椒",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "原味酸奶",
-    "aliases": ["酸奶"],
-    "category": "dairy",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "Masala 粉",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "蒜粉",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "姜粉",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "速冻水饺",
-    "aliases": [],
-    "category": "grains",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "黑芝麻",
-    "aliases": [],
-    "category": "nuts",
-    "unit": null
-  },
-  {
-    "ingredient_name": "葱花",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": null
-  },
-  {
-    "ingredient_name": "茄子",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "虾皮",
-    "aliases": [],
-    "category": "seafood",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "香葱",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "颗"
-  },
-  {
-    "ingredient_name": "茭白",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "根"
-  },
-  {
-    "ingredient_name": "午餐肉",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "马斯卡彭芝士",
-    "aliases": [],
-    "category": "dairy",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "手指饼干",
-    "aliases": [],
-    "category": "others",
-    "unit": null
-  },
-  {
-    "ingredient_name": "浓缩咖啡",
-    "aliases": [],
-    "category": "beverages",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "无菌鸡蛋",
-    "aliases": [],
-    "category": "eggs",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "可可粉",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "黑醋",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "香油",
-    "aliases": [],
-    "category": "oil",
-    "unit": "滴"
-  },
-  {
-    "ingredient_name": "牛蛙肉",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "泡姜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "泡椒",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "野山椒",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "青红辣椒",
-    "aliases": ["青红椒"],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "藤椒油",
-    "aliases": [],
-    "category": "oil",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "猪油",
-    "aliases": [],
-    "category": "oil",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "意大利面",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "肥牛片",
-    "aliases": ["肥牛卷", "肥牛"],
-    "category": "meat",
-    "unit": "片"
-  },
-  {
-    "ingredient_name": "番茄酱",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "通心粉",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "奶酪",
-    "aliases": [],
-    "category": "dairy",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "培根",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "牛奶",
-    "aliases": [],
-    "category": "dairy",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "豆干",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "香芹",
-    "aliases": ["欧芹"],
-    "category": "vegetables",
-    "unit": "根"
-  },
-  {
-    "ingredient_name": "辣椒",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "猪皮",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "白醋",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "八角",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "丁香",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "小茴香",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "桂皮",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "小块"
-  },
-  {
-    "ingredient_name": "冰糖",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "颗"
-  },
-  {
-    "ingredient_name": "干小米椒",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "鸡肉（鸡腿肉）",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "菜椒",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "甜椒",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "油",
-    "aliases": [],
-    "category": "oil",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "香果",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "日本豆腐",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "火腿肠",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "蛏子",
-    "aliases": [],
-    "category": "seafood",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "洋葱",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "鸡精",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "普通面粉",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "冷水",
-    "aliases": ["凉水"],
-    "category": "others",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "火腿",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "芝士片",
-    "aliases": [],
-    "category": "dairy",
-    "unit": "片"
-  },
-  {
-    "ingredient_name": "烧卖皮",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "生姜末",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "葱末",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "料酒",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "mL"
-  },
-  {
-    "ingredient_name": "芝麻油",
-    "aliases": [],
-    "category": "oil",
-    "unit": "mL"
-  },
-  {
-    "ingredient_name": "高汤",
-    "aliases": [],
-    "category": "others",
-    "unit": "mL"
-  },
-  {
-    "ingredient_name": "浓汤宝",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "冬笋",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "皮冻",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "香菇",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "虾仁",
-    "aliases": [],
-    "category": "seafood",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "复配食品增稠剂",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "鸡肉",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "白醋",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "丽滋饼干",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "面条",
-    "aliases": ["鲜面条", "普通面条"],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "肉类",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "蛋类",
-    "aliases": [],
-    "category": "eggs",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "豆制品",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "蔬菜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "年糕",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "朝天椒",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "条"
-  },
-  {
-    "ingredient_name": "小米椒",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "颗"
-  },
-  {
-    "ingredient_name": "油麦菜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "香叶",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "茴香",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "红茶",
-    "aliases": [],
-    "category": "beverages",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "蒜头",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "熟白芝麻",
-    "aliases": [],
-    "category": "nuts",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "花生油",
-    "aliases": [],
-    "category": "oil",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "草寇",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "白芷",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "片"
-  },
-  {
-    "ingredient_name": "姜片",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "梅菜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "活虾",
-    "aliases": ["鲜虾"],
-    "category": "seafood",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "红辣椒",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "根"
-  },
-  {
-    "ingredient_name": "蛋挞皮",
-    "aliases": [],
-    "category": "others",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "蛋挞液",
-    "aliases": [],
-    "category": "others",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "纯净水",
-    "aliases": [],
-    "category": "others",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "大蒜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "陈醋",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "味极鲜",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "植物油",
-    "aliases": [],
-    "category": "oil",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "青椒",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "条"
-  },
-  {
-    "ingredient_name": "红椒",
+  "西红柿": {
+    "name": "西红柿",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "条"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "大蒜",
+  "食用油": {
+    "name": "食用油",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "颗"
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "生姜",
+  "盐": {
+    "name": "盐",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "厘米"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "小米辣",
+  "袋装螺蛳粉": {
+    "name": "袋装螺蛳粉",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "颗"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "草果",
+  "水": {
+    "name": "水",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "颗"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "桂皮",
+  "带脚、爪猪前肘": {
+    "name": "带脚、爪猪前肘",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "厘米"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "干辣椒",
+  "红豆腐乳": {
+    "name": "红豆腐乳",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "条"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "花椒",
+  "甜面酱": {
+    "name": "甜面酱",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "颗"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "青柠",
+  "红酱油": {
+    "name": "红酱油",
     "aliases": [],
-    "category": "fruits",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "薄荷叶",
+  "白酱油": {
+    "name": "白酱油",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "糖浆",
+  "料酒": {
+    "name": "料酒",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "伏特加",
+  "蒜片": {
+    "name": "蒜片",
     "aliases": [],
-    "category": "beverages",
-    "unit": "ml"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鸡腿",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "蜂蜜",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "黑椒碎",
-    "aliases": ["黑椒粉", "黑胡椒"],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "西兰花",
-    "aliases": ["西蓝花"],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "鸡",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "小米椒",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "美人辣",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "空心菜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "鸡腿肉",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "蒜瓣",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "食用油",
-    "aliases": [],
-    "category": "oil",
-    "unit": null
-  },
-  {
-    "ingredient_name": "鸡翅",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "黄酒或料酒",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "可乐",
-    "aliases": [],
-    "category": "beverages",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "翘嘴鱼",
-    "aliases": [],
-    "category": "seafood",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "鸡爪",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "大葱",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "段"
-  },
-  {
-    "ingredient_name": "陈醋",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "柠檬",
-    "aliases": [],
-    "category": "fruits",
-    "unit": "颗"
-  },
-  {
-    "ingredient_name": "大鸡腿",
-    "aliases": [],
-    "category": "meat",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "干香菇",
-    "aliases": ["香菇（干）"],
-    "category": "vegetables",
-    "unit": "粒"
-  },
-  {
-    "ingredient_name": "葱",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "颗"
-  },
-  {
-    "ingredient_name": "糖",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "莴笋",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "根"
-  },
-  {
-    "ingredient_name": "萝卜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "根"
-  },
-  {
-    "ingredient_name": "蒜头",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "粒"
-  },
-  {
-    "ingredient_name": "无骨肉",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "干豆腐",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "北京麻辣方便面",
-    "aliases": [],
-    "category": "grains",
-    "unit": "袋"
-  },
-  {
-    "ingredient_name": "干辣椒",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "麻辣香锅调料",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "大米",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "糯米",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "花生",
-    "aliases": ["油炸花生米", "熟花生米", "熟花生"],
-    "category": "nuts",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "红豆",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "红枣",
-    "aliases": ["干红枣"],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "薏米",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "黑米",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "小米",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "莲子",
-    "aliases": ["去心莲子"],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "绿豆",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "黄豆",
-    "aliases": [],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "豌豆",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "红腰豆",
-    "aliases": ["干红芸豆", "白芸豆"],
-    "category": "grains",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "桂圆",
-    "aliases": ["桂圆干"],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "栗子",
-    "aliases": [],
-    "category": "nuts",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "核桃",
-    "aliases": [],
-    "category": "nuts",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "葡萄干",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "全脂牛奶",
-    "aliases": [],
-    "category": "dairy",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "绿色小豆蔻",
-    "aliases": ["小豆蔻"],
-    "category": "seasoning",
-    "unit": "颗"
-  },
-  {
-    "ingredient_name": "肉桂棒",
-    "aliases": ["肉桂"],
-    "category": "seasoning",
-    "unit": "段"
-  },
-  {
-    "ingredient_name": "黑胡椒粒",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "颗"
-  },
-  {
-    "ingredient_name": "牛腩",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "白萝卜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "姜片",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "片"
-  },
-  {
-    "ingredient_name": "八角",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "片"
-  },
-  {
-    "ingredient_name": "南乳",
-    "aliases": ["南腐乳"],
-    "category": "seasoning",
-    "unit": "块"
-  },
-  {
-    "ingredient_name": "柱侯酱",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+  "姜末": {
+    "name": "姜末",
+    "aliases": [
+      "生姜末"
+    ],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "瓶装椰汁",
+  "八角": {
+    "name": "八角",
     "aliases": [],
-    "category": "beverages",
-    "unit": "ml"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "咖啡调糖",
+  "桂皮": {
+    "name": "桂皮",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "坚果碎",
-    "aliases": ["混合坚果"],
-    "category": "nuts",
-    "unit": null
-  },
-  {
-    "ingredient_name": "味淋",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "清酒",
+  "葱": {
+    "name": "葱",
     "aliases": [],
-    "category": "beverages",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "温泉蛋",
+  "猪肉": {
+    "name": "猪肉",
     "aliases": [],
-    "category": "eggs",
-    "unit": "个"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鱼头",
+  "面粉": {
+    "name": "面粉",
     "aliases": [],
-    "category": "seafood",
-    "unit": "个"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "美人椒",
+  "红薯淀粉": {
+    "name": "红薯淀粉",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "米",
+  "老姜": {
+    "name": "老姜",
     "aliases": [],
-    "category": "grains",
-    "unit": "ml"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "腊肠",
+  "小葱": {
+    "name": "小葱",
     "aliases": [],
-    "category": "meat",
-    "unit": "根"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "红萝卜",
+  "清水": {
+    "name": "清水",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "低筋面粉",
+  "十三香": {
+    "name": "十三香",
     "aliases": [],
-    "category": "grains",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "柠檬汁",
+  "胡椒粉": {
+    "name": "胡椒粉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "滴"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "大白菜",
+  "味精": {
+    "name": "味精",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "土豆干粉条",
+  "鸡精": {
+    "name": "鸡精",
     "aliases": [],
-    "category": "grains",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "中筋面粉",
+  "花椒碎": {
+    "name": "花椒碎",
     "aliases": [],
-    "category": "grains",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "酥油或黄油",
+  "花椒粒": {
+    "name": "花椒粒",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鳊鱼",
+  "生抽": {
+    "name": "生抽",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "老豆腐",
+  "植物油": {
+    "name": "植物油",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "冰糖",
+  "白砂糖": {
+    "name": "白砂糖",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "块"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "热水",
+  "姜": {
+    "name": "姜",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "姜",
+  "蒜": {
+    "name": "蒜",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "蒜",
+  "鲤鱼": {
+    "name": "鲤鱼",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "头"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "尖椒",
+  "娃娃菜": {
+    "name": "娃娃菜",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "毛豆",
+  "老抽": {
+    "name": "老抽",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "话梅",
+  "干辣椒": {
+    "name": "干辣椒",
     "aliases": [],
-    "category": "others",
-    "unit": "颗"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "牛腱子",
+  "金酒": {
+    "name": "金酒",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "卤料包",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
+  "苏打气泡水": {
+    "name": "苏打气泡水",
+    "aliases": [
+      "苏打水",
+      "汤力水气泡水"
+    ],
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "豆瓣酱",
+  "柠檬": {
+    "name": "柠檬",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "南腐乳",
+  "柠檬汁": {
+    "name": "柠檬汁",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "清水",
+  "蔗糖糖浆": {
+    "name": "蔗糖糖浆",
     "aliases": [],
-    "category": "others",
-    "unit": "L"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "卤汤",
+  "冰块": {
+    "name": "冰块",
     "aliases": [],
-    "category": "others",
-    "unit": "ml"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "木耳（干）",
+  "新鲜绿叶": {
+    "name": "新鲜绿叶",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "蛋清",
+  "鸡胸肉": {
+    "name": "鸡胸肉",
     "aliases": [],
-    "category": "eggs",
-    "unit": "个"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "味素",
+  "麻油": {
+    "name": "麻油",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "冰粉籽",
+  "香醋": {
+    "name": "香醋",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "凉白开",
+  "白糖": {
+    "name": "白糖",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "薄荷汁",
+  "黔式腊肠": {
+    "name": "黔式腊肠",
     "aliases": [],
-    "category": "others",
-    "unit": "ml"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "薄荷粉",
+  "排骨": {
+    "name": "排骨",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "遇水发光冰块",
+  "五香粉": {
+    "name": "五香粉",
     "aliases": [],
-    "category": "others",
-    "unit": "块"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "牛里脊",
-    "aliases": [],
-    "category": "meat",
-    "unit": "g"
+  "蚝油": {
+    "name": "蚝油",
+    "aliases": [
+      "耗油"
+    ],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "蒜头",
+  "小米椒": {
+    "name": "小米椒",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "肉",
+  "莴笋叶": {
+    "name": "莴笋叶",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "花椰菜",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+  "淀粉": {
+    "name": "淀粉",
+    "aliases": [
+      "生粉"
+    ],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "煎蛋",
+  "青椒": {
+    "name": "青椒",
     "aliases": [],
-    "category": "eggs",
-    "unit": "个"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "猪前肘",
+  "猪瘦肉": {
+    "name": "猪瘦肉",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "食用植物油",
+  "大蒜": {
+    "name": "大蒜",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "生姜": {
+    "name": "生姜",
     "aliases": [],
-    "category": "oil",
-    "unit": "ml"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "肉桂皮",
+  "酱油": {
+    "name": "酱油",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "豆蔻",
-    "aliases": ["白蔻", "红豆蔻"],
-    "category": "seasoning",
-    "unit": "个"
-  },
-  {
-    "ingredient_name": "花椒",
+  "豆豉": {
+    "name": "豆豉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "个"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "大料",
+  "玉米粒": {
+    "name": "玉米粒",
+    "aliases": [
+      "冷冻玉米粒",
+      "玉米"
+    ],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "椒盐粉": {
+    "name": "椒盐粉",
+    "aliases": [
+      "椒盐"
+    ],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "芝麻粒": {
+    "name": "芝麻粒",
+    "aliases": [
+      "芝麻",
+      "白芝麻",
+      "熟白芝麻"
+    ],
+    "category": "坚果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "牛腱子肉": {
+    "name": "牛腱子肉",
+    "aliases": [
+      "牛腱子"
+    ],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "香叶": {
+    "name": "香叶",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "冰糖": {
+    "name": "冰糖",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "花椒": {
+    "name": "花椒",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "黄豆酱": {
+    "name": "黄豆酱",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "猪肉末": {
+    "name": "猪肉末",
+    "aliases": [
+      "肉末",
+      "肉沫",
+      "瘦肉末"
+    ],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "冬瓜": {
+    "name": "冬瓜",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "葱花": {
+    "name": "葱花",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "鳝丝": {
+    "name": "鳝丝",
+    "aliases": [],
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "蒜末": {
+    "name": "蒜末",
+    "aliases": [
+      "蒜蓉",
+      "蒜仔"
+    ],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "猪油": {
+    "name": "猪油",
+    "aliases": [],
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "鲜面条": {
+    "name": "鲜面条",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "干辣椒面": {
+    "name": "干辣椒面",
+    "aliases": [
+      "辣椒粉",
+      "辣椒面",
+      "干辣椒粉",
+      "细辣椒粉",
+      "中粗辣椒面"
+    ],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "青菜": {
+    "name": "青菜",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "豆芽": {
+    "name": "豆芽",
+    "aliases": [
+      "绿豆芽"
+    ],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "洋葱": {
+    "name": "洋葱",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "干面条": {
+    "name": "干面条",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "饮用水": {
+    "name": "饮用水",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "炸好的葱段": {
+    "name": "炸好的葱段",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "五花肉条": {
+    "name": "五花肉条",
+    "aliases": [],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "生菜": {
+    "name": "生菜",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "豆瓣酱": {
+    "name": "豆瓣酱",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "鸭子": {
+    "name": "鸭子",
+    "aliases": [],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "糯米粉": {
+    "name": "糯米粉",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "粘米粉": {
+    "name": "粘米粉",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "蒸肉粉": {
+    "name": "蒸肉粉",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "白胡椒粉": {
+    "name": "白胡椒粉",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "五花肉": {
+    "name": "五花肉",
+    "aliases": [
+      "猪五花肉",
+      "带皮五花肉",
+      "五花肉条",
+      "五花肉薄片"
+    ],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "开水": {
+    "name": "开水",
+    "aliases": [
+      "热水",
+      "温水",
+      "沸水"
+    ],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "里脊肉": {
+    "name": "里脊肉",
+    "aliases": [
+      "猪里脊"
+    ],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "醋": {
+    "name": "醋",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "番茄酱": {
+    "name": "番茄酱",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "黄瓜": {
+    "name": "黄瓜",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "皮蛋": {
+    "name": "皮蛋",
+    "aliases": [],
+    "category": "禽蛋",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "高筋面粉": {
+    "name": "高筋面粉",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "牛奶": {
+    "name": "牛奶",
+    "aliases": [],
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "酵母": {
+    "name": "酵母",
+    "aliases": [
+      "酵母粉",
+      "安琪干酵母粉",
+      "干酵母"
+    ],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "黄油": {
+    "name": "黄油",
+    "aliases": [
+      "无盐黄油",
+      "酥油或黄油"
+    ],
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "蜂蜜": {
+    "name": "蜂蜜",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "黑芝麻": {
+    "name": "黑芝麻",
+    "aliases": [],
+    "category": "坚果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "花生油": {
+    "name": "花生油",
+    "aliases": [],
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "土豆": {
+    "name": "土豆",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "蕨根粉": {
+    "name": "蕨根粉",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "油泼辣子": {
+    "name": "油泼辣子",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "糖": {
+    "name": "糖",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "米粉": {
+    "name": "米粉",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "酸笋": {
+    "name": "酸笋",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "剁椒": {
+    "name": "剁椒",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "米醋": {
+    "name": "米醋",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "木耳": {
+    "name": "木耳",
+    "aliases": [
+      "黑木耳"
+    ],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "蒜瓣": {
+    "name": "蒜瓣",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "芥末": {
+    "name": "芥末",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "冷饭": {
+    "name": "冷饭",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "冷冻去头去皮基围虾": {
+    "name": "冷冻去头去皮基围虾",
+    "aliases": [],
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "午餐肉罐头": {
+    "name": "午餐肉罐头",
+    "aliases": [],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "青豆": {
+    "name": "青豆",
+    "aliases": [
+      "冷冻青豆"
+    ],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "胡萝卜": {
+    "name": "胡萝卜",
+    "aliases": [
+      "红萝卜"
+    ],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "油": {
+    "name": "油",
+    "aliases": [],
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "东北米": {
+    "name": "东北米",
+    "aliases": [
+      "北方大米",
+      "大米"
+    ],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "鲣鱼海苔碎": {
+    "name": "鲣鱼海苔碎",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "内脂豆腐": {
+    "name": "内脂豆腐",
+    "aliases": [
+      "内酯豆腐"
+    ],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "咸鸭蛋": {
+    "name": "咸鸭蛋",
+    "aliases": [],
+    "category": "禽蛋",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "蒜蓉辣酱": {
+    "name": "蒜蓉辣酱",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "羊肉": {
+    "name": "羊肉",
+    "aliases": [],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "大葱": {
+    "name": "大葱",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "孜然粉": {
+    "name": "孜然粉",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "香菜": {
+    "name": "香菜",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "冷冻花卷": {
+    "name": "冷冻花卷",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "小汤圆": {
+    "name": "小汤圆",
+    "aliases": [
+      "速冻汤圆"
+    ],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "醪糟": {
+    "name": "醪糟",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "枸杞": {
+    "name": "枸杞",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "金针菇": {
+    "name": "金针菇",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "辣椒油": {
+    "name": "辣椒油",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "土豆淀粉": {
+    "name": "土豆淀粉",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "羊排": {
+    "name": "羊排",
+    "aliases": [],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "白芷": {
+    "name": "白芷",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "孜然粒": {
+    "name": "孜然粒",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "烧烤撒料": {
+    "name": "烧烤撒料",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "白芝麻": {
+    "name": "白芝麻",
+    "aliases": [],
+    "category": "坚果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "菜心": {
+    "name": "菜心",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "牛肉": {
+    "name": "牛肉",
+    "aliases": [],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "番茄": {
+    "name": "番茄",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "玉米": {
+    "name": "玉米",
+    "aliases": [
+      "新鲜玉米"
+    ],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "香葱": {
+    "name": "香葱",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "黑胡椒粉": {
+    "name": "黑胡椒粉",
+    "aliases": [
+      "黑胡椒"
+    ],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "热干面特有的碱水面": {
+    "name": "热干面特有的碱水面",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "酸豆角": {
+    "name": "酸豆角",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "蒜水": {
+    "name": "蒜水",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "肉汤汁": {
+    "name": "肉汤汁",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "萝卜干": {
+    "name": "萝卜干",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "芝麻酱": {
+    "name": "芝麻酱",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "花菜": {
+    "name": "花菜",
+    "aliases": [
+      "花椰菜"
+    ],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "青辣椒": {
+    "name": "青辣椒",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "孜然籽": {
+    "name": "孜然籽",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "姜黄粉": {
+    "name": "姜黄粉",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "红辣椒粉": {
+    "name": "红辣椒粉",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "香菜粉": {
+    "name": "香菜粉",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "印度综合香料粉": {
+    "name": "印度综合香料粉",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "豆角": {
+    "name": "豆角",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "蛋挞皮": {
+    "name": "蛋挞皮",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "淡奶油": {
+    "name": "淡奶油",
+    "aliases": [],
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "蛋黄": {
+    "name": "蛋黄",
+    "aliases": [
+      "鸡蛋黄"
+    ],
+    "category": "禽蛋",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "玉米淀粉": {
+    "name": "玉米淀粉",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "面包糠": {
+    "name": "面包糠",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "瘦肉": {
+    "name": "瘦肉",
+    "aliases": [
+      "纯瘦肉"
+    ],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "大米": {
+    "name": "大米",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "白萝卜": {
+    "name": "白萝卜",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "料酒或者黄酒": {
+    "name": "料酒或者黄酒",
+    "aliases": [
+      "黄酒",
+      "花雕酒"
+    ],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "香干": {
+    "name": "香干",
+    "aliases": [
+      "豆干"
+    ],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "包菜": {
+    "name": "包菜",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "粉丝": {
+    "name": "粉丝",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "菜籽油": {
+    "name": "菜籽油",
+    "aliases": [],
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "昂刺鱼": {
+    "name": "昂刺鱼",
+    "aliases": [],
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "豆腐": {
+    "name": "豆腐",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "南瓜": {
+    "name": "南瓜",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "花椒粉": {
+    "name": "花椒粉",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "麻辣鲜": {
+    "name": "麻辣鲜",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "花椒油": {
+    "name": "花椒油",
+    "aliases": [],
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "红柚果肉": {
+    "name": "红柚果肉",
+    "aliases": [],
+    "category": "水果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "波旁威士忌": {
+    "name": "波旁威士忌",
+    "aliases": [],
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "可口可乐": {
+    "name": "可口可乐",
+    "aliases": [
+      "可乐"
+    ],
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "河粉": {
+    "name": "河粉",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "面筋块": {
+    "name": "面筋块",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "河粉炒料": {
+    "name": "河粉炒料",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "辣椒": {
+    "name": "辣椒",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "生鸡肝": {
+    "name": "生鸡肝",
+    "aliases": [],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "蒜苗": {
+    "name": "蒜苗",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "烧烤料或孜然粉": {
+    "name": "烧烤料或孜然粉",
+    "aliases": [
+      "烧烤料",
+      "麻辣香锅调料"
+    ],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "风味调料": {
+    "name": "风味调料",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "白蘑菇": {
+    "name": "白蘑菇",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "黑胡椒碎": {
+    "name": "黑胡椒碎",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "荔浦芋头": {
+    "name": "荔浦芋头",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "紫薯粉": {
+    "name": "紫薯粉",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "面": {
+    "name": "面",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "老干妈": {
+    "name": "老干妈",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "酸梅晶固体饮料": {
+    "name": "酸梅晶固体饮料",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "方糖": {
+    "name": "方糖",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "北京二锅头酒": {
+    "name": "北京二锅头酒",
+    "aliases": [
+      "白酒",
+      "高度白酒",
+      "白酒（52%VOL）"
+    ],
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "咖喱块": {
+    "name": "咖喱块",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "速冻馄饨": {
+    "name": "速冻馄饨",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "小龙虾": {
+    "name": "小龙虾",
+    "aliases": [],
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "青花椒": {
+    "name": "青花椒",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "子弹头辣椒": {
+    "name": "子弹头辣椒",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "啤酒": {
+    "name": "啤酒",
+    "aliases": [],
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "半成品意大利面": {
+    "name": "半成品意大利面",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "意面酱料": {
+    "name": "意面酱料",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "米饭": {
+    "name": "米饭",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "火锅牛肉卷": {
+    "name": "火锅牛肉卷",
+    "aliases": [],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "蘑菇": {
+    "name": "蘑菇",
+    "aliases": [
+      "菌菇"
+    ],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "韩式辣酱": {
+    "name": "韩式辣酱",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "雪碧": {
+    "name": "雪碧",
+    "aliases": [],
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "芝麻油": {
+    "name": "芝麻油",
+    "aliases": [],
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "凤尾": {
+    "name": "凤尾",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "芹菜": {
+    "name": "芹菜",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "红泡椒": {
+    "name": "红泡椒",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "鸡蛋清": {
+    "name": "鸡蛋清",
+    "aliases": [
+      "蛋清"
+    ],
+    "category": "禽蛋",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "小米辣干辣椒": {
+    "name": "小米辣干辣椒",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "生抽酱油": {
+    "name": "生抽酱油",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "水淀粉": {
+    "name": "水淀粉",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "椰树牌椰汁": {
+    "name": "椰树牌椰汁",
+    "aliases": [
+      "椰汁",
+      "瓶装椰汁"
+    ],
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "espresso_意式浓缩": {
+    "name": "espresso 意式浓缩",
+    "aliases": [
+      "浓缩咖啡",
+      "咖啡液"
+    ],
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "椰子水": {
+    "name": "椰子水",
+    "aliases": [],
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "吉利丁": {
+    "name": "吉利丁",
+    "aliases": [
+      "吉利丁片"
+    ],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "干酵母": {
+    "name": "干酵母",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "奶制品": {
+    "name": "奶制品",
+    "aliases": [],
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "谷朊粉": {
+    "name": "谷朊粉",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "香草精": {
+    "name": "香草精",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "草莓": {
+    "name": "草莓",
+    "aliases": [],
+    "category": "水果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "重奶油": {
+    "name": "重奶油",
+    "aliases": [],
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "加糖炼乳": {
+    "name": "加糖炼乳",
+    "aliases": [],
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "猪蹄": {
+    "name": "猪蹄",
+    "aliases": [],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "鸭肉": {
+    "name": "鸭肉",
+    "aliases": [],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "老抽酱油": {
+    "name": "老抽酱油",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "丁香": {
+    "name": "丁香",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "红石榴糖浆": {
+    "name": "红石榴糖浆",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "nfc_橙汁": {
+    "name": "NFC 橙汁",
+    "aliases": [],
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "苏打水": {
+    "name": "苏打水",
+    "aliases": [],
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "白朗姆": {
+    "name": "白朗姆",
+    "aliases": [
+      "白朗姆酒",
+      "金色朗姆酒",
+      "朗姆酒"
+    ],
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "蓝橙力娇酒": {
+    "name": "蓝橙力娇酒",
+    "aliases": [],
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "香油": {
+    "name": "香油",
+    "aliases": [],
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "螺丝椒": {
+    "name": "螺丝椒",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "原味酸奶": {
+    "name": "原味酸奶",
+    "aliases": [
+      "酸奶"
+    ],
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "masala_粉": {
+    "name": "Masala 粉",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "蒜粉": {
+    "name": "蒜粉",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "姜粉": {
+    "name": "姜粉",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "速冻水饺": {
+    "name": "速冻水饺",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "茄子": {
+    "name": "茄子",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "虾皮": {
+    "name": "虾皮",
+    "aliases": [],
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "茭白": {
+    "name": "茭白",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "午餐肉": {
+    "name": "午餐肉",
+    "aliases": [],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "马斯卡彭芝士": {
+    "name": "马斯卡彭芝士",
+    "aliases": [],
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "手指饼干": {
+    "name": "手指饼干",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "浓缩咖啡": {
+    "name": "浓缩咖啡",
+    "aliases": [],
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "无菌鸡蛋": {
+    "name": "无菌鸡蛋",
+    "aliases": [],
+    "category": "禽蛋",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "可可粉": {
+    "name": "可可粉",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "黑醋": {
+    "name": "黑醋",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "牛蛙肉": {
+    "name": "牛蛙肉",
+    "aliases": [],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "泡姜": {
+    "name": "泡姜",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "泡椒": {
+    "name": "泡椒",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "野山椒": {
+    "name": "野山椒",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "青红辣椒": {
+    "name": "青红辣椒",
+    "aliases": [
+      "青红椒"
+    ],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "藤椒油": {
+    "name": "藤椒油",
+    "aliases": [],
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "意大利面": {
+    "name": "意大利面",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "肥牛片": {
+    "name": "肥牛片",
+    "aliases": [
+      "肥牛卷",
+      "肥牛"
+    ],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "通心粉": {
+    "name": "通心粉",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "奶酪": {
+    "name": "奶酪",
+    "aliases": [],
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "培根": {
+    "name": "培根",
+    "aliases": [],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "豆干": {
+    "name": "豆干",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "香芹": {
+    "name": "香芹",
+    "aliases": [
+      "欧芹"
+    ],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "猪皮": {
+    "name": "猪皮",
+    "aliases": [],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "白醋": {
+    "name": "白醋",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "小茴香": {
+    "name": "小茴香",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "干小米椒": {
+    "name": "干小米椒",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "鸡肉（鸡腿肉）": {
+    "name": "鸡肉（鸡腿肉）",
+    "aliases": [],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "菜椒": {
+    "name": "菜椒",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "甜椒": {
+    "name": "甜椒",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "香果": {
+    "name": "香果",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "日本豆腐": {
+    "name": "日本豆腐",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "火腿肠": {
+    "name": "火腿肠",
+    "aliases": [],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "蛏子": {
+    "name": "蛏子",
+    "aliases": [],
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "普通面粉": {
+    "name": "普通面粉",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "冷水": {
+    "name": "冷水",
+    "aliases": [
+      "凉水"
+    ],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "火腿": {
+    "name": "火腿",
+    "aliases": [],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "芝士片": {
+    "name": "芝士片",
+    "aliases": [],
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "烧卖皮": {
+    "name": "烧卖皮",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "生姜末": {
+    "name": "生姜末",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "葱末": {
+    "name": "葱末",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "高汤": {
+    "name": "高汤",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "浓汤宝": {
+    "name": "浓汤宝",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "冬笋": {
+    "name": "冬笋",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "皮冻": {
+    "name": "皮冻",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "香菇": {
+    "name": "香菇",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "虾仁": {
+    "name": "虾仁",
+    "aliases": [],
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "复配食品增稠剂": {
+    "name": "复配食品增稠剂",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "鸡肉": {
+    "name": "鸡肉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "个"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "淀粉",
+  "丽滋饼干": {
+    "name": "丽滋饼干",
     "aliases": [],
-    "category": "others",
-    "unit": "ml"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "葱",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "棵"
+  "面条": {
+    "name": "面条",
+    "aliases": [
+      "鲜面条",
+      "普通面条"
+    ],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "蒜苔",
+  "肉类": {
+    "name": "肉类",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "五花肉薄片",
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "蛋类": {
+    "name": "蛋类",
+    "aliases": [],
+    "category": "禽蛋",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "豆制品": {
+    "name": "豆制品",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "蔬菜": {
+    "name": "蔬菜",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "年糕": {
+    "name": "年糕",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "蒜瓣",
+  "朝天椒": {
+    "name": "朝天椒",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "瓣"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "温水或高汤",
+  "油麦菜": {
+    "name": "油麦菜",
     "aliases": [],
-    "category": "others",
-    "unit": "ml"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "熟松子仁",
+  "茴香": {
+    "name": "茴香",
     "aliases": [],
-    "category": "nuts",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "虾",
+  "红茶": {
+    "name": "红茶",
     "aliases": [],
-    "category": "seafood",
-    "unit": "只"
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "黄酒",
+  "蒜头": {
+    "name": "蒜头",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "黑胡椒粒",
+  "熟白芝麻": {
+    "name": "熟白芝麻",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
+    "category": "坚果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "米酒",
+  "草寇": {
+    "name": "草寇",
     "aliases": [],
-    "category": "beverages",
-    "unit": "ml"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "白糖",
+  "姜片": {
+    "name": "姜片",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "盐",
+  "梅菜": {
+    "name": "梅菜",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "无盐黄油",
-    "aliases": [],
-    "category": "dairy",
-    "unit": "g"
+  "活虾": {
+    "name": "活虾",
+    "aliases": [
+      "鲜虾"
+    ],
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "泡打粉",
+  "红辣椒": {
+    "name": "红辣椒",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "奶油奶酪",
-    "aliases": [],
-    "category": "dairy",
-    "unit": "g"
+  "蛋挞液": {
+    "name": "蛋挞液",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "肉蟹",
-    "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+  "纯净水": {
+    "name": "纯净水",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "虾",
+  "陈醋": {
+    "name": "陈醋",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "红椒",
+  "味极鲜": {
+    "name": "味极鲜",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "海鲜酱",
+  "红椒": {
+    "name": "红椒",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "前腿肉",
+  "小米辣": {
+    "name": "小米辣",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "葱姜花椒水",
+  "草果": {
+    "name": "草果",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "熟豆油",
+  "青柠": {
+    "name": "青柠",
     "aliases": [],
-    "category": "oil",
-    "unit": "ml"
+    "category": "水果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "黄花",
+  "薄荷叶": {
+    "name": "薄荷叶",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "小香葱",
+  "糖浆": {
+    "name": "糖浆",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鸡粉",
+  "伏特加": {
+    "name": "伏特加",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "桂圆干",
+  "鸡腿": {
+    "name": "鸡腿",
     "aliases": [],
-    "category": "others",
-    "unit": "颗"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "棉花糖",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
+  "黑椒碎": {
+    "name": "黑椒碎",
+    "aliases": [
+      "黑椒粉",
+      "黑胡椒"
+    ],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "全脂奶粉",
-    "aliases": ["全脂奶粉或淡奶"],
-    "category": "dairy",
-    "unit": "g"
+  "西兰花": {
+    "name": "西兰花",
+    "aliases": [
+      "西蓝花"
+    ],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "饼干",
+  "鸡": {
+    "name": "鸡",
     "aliases": [],
-    "category": "grains",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "凉粉",
+  "美人辣": {
+    "name": "美人辣",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "玉米油",
+  "空心菜": {
+    "name": "空心菜",
     "aliases": [],
-    "category": "oil",
-    "unit": "ml"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "香葱",
+  "鸡腿肉": {
+    "name": "鸡腿肉",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "青蟹",
+  "鸡翅": {
+    "name": "鸡翅",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "椰浆",
+  "黄酒或料酒": {
+    "name": "黄酒或料酒",
     "aliases": [],
-    "category": "dairy",
-    "unit": "ml"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "农村玉米鸡",
+  "可乐": {
+    "name": "可乐",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "大蒜",
+  "翘嘴鱼": {
+    "name": "翘嘴鱼",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "头"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "糍粑辣椒",
+  "鸡爪": {
+    "name": "鸡爪",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "酒糟",
+  "大鸡腿": {
+    "name": "大鸡腿",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "红葱头",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+  "干香菇": {
+    "name": "干香菇",
+    "aliases": [
+      "香菇（干）"
+    ],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "米饭",
+  "莴笋": {
+    "name": "莴笋",
     "aliases": [],
-    "category": "grains",
-    "unit": "碗"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "海虾",
+  "萝卜": {
+    "name": "萝卜",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "蒜蓉酱",
+  "无骨肉": {
+    "name": "无骨肉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "蒸肉米粉",
+  "干豆腐": {
+    "name": "干豆腐",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "芝麻香油",
+  "北京麻辣方便面": {
+    "name": "北京麻辣方便面",
     "aliases": [],
-    "category": "oil",
-    "unit": "ml"
-  },
-  {
-    "ingredient_name": "奥利奥",
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "麻辣香锅调料": {
+    "name": "麻辣香锅调料",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "糯米": {
+    "name": "糯米",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "花生": {
+    "name": "花生",
+    "aliases": [
+      "油炸花生米",
+      "熟花生米",
+      "熟花生"
+    ],
+    "category": "坚果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "红豆": {
+    "name": "红豆",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "红枣": {
+    "name": "红枣",
+    "aliases": [
+      "干红枣"
+    ],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "薏米": {
+    "name": "薏米",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "黑米": {
+    "name": "黑米",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "小米": {
+    "name": "小米",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "莲子": {
+    "name": "莲子",
+    "aliases": [
+      "去心莲子"
+    ],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "绿豆": {
+    "name": "绿豆",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "黄豆": {
+    "name": "黄豆",
+    "aliases": [],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "豌豆": {
+    "name": "豌豆",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "红腰豆": {
+    "name": "红腰豆",
+    "aliases": [
+      "干红芸豆",
+      "白芸豆"
+    ],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "桂圆": {
+    "name": "桂圆",
+    "aliases": [
+      "桂圆干"
+    ],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "栗子": {
+    "name": "栗子",
+    "aliases": [],
+    "category": "坚果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "核桃": {
+    "name": "核桃",
+    "aliases": [],
+    "category": "坚果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "葡萄干": {
+    "name": "葡萄干",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "全脂牛奶": {
+    "name": "全脂牛奶",
+    "aliases": [],
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "绿色小豆蔻": {
+    "name": "绿色小豆蔻",
+    "aliases": [
+      "小豆蔻"
+    ],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "肉桂棒": {
+    "name": "肉桂棒",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "黑胡椒粒": {
+    "name": "黑胡椒粒",
+    "aliases": [],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "牛腩": {
+    "name": "牛腩",
+    "aliases": [],
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "南乳": {
+    "name": "南乳",
     "aliases": [],
-    "category": "others",
-    "unit": "块"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "白砂糖",
+  "柱侯酱": {
+    "name": "柱侯酱",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "克"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "淡奶油",
+  "瓶装椰汁": {
+    "name": "瓶装椰汁",
     "aliases": [],
-    "category": "dairy",
-    "unit": "毫升"
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "柠檬",
+  "咖啡调糖": {
+    "name": "咖啡调糖",
     "aliases": [],
-    "category": "fruits",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "果蜜",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+  "坚果碎": {
+    "name": "坚果碎",
+    "aliases": [
+      "混合坚果"
+    ],
+    "category": "坚果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "冰",
+  "味淋": {
+    "name": "味淋",
     "aliases": [],
-    "category": "others",
-    "unit": null
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鱼露",
+  "清酒": {
+    "name": "清酒",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "地瓜粉",
+  "温泉蛋": {
+    "name": "温泉蛋",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "禽蛋",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鸡蛋黄",
+  "鱼头": {
+    "name": "鱼头",
     "aliases": [],
-    "category": "eggs",
-    "unit": "个"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "龙舌兰酒",
+  "美人椒": {
+    "name": "美人椒",
     "aliases": [],
-    "category": "beverages",
-    "unit": "ml"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "橙味甜酒",
+  "米": {
+    "name": "米",
     "aliases": [],
-    "category": "beverages",
-    "unit": "ml"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "枫糖浆",
+  "腊肠": {
+    "name": "腊肠",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "大虾",
+  "红萝卜": {
+    "name": "红萝卜",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "白葡萄酒",
+  "低筋面粉": {
+    "name": "低筋面粉",
     "aliases": [],
-    "category": "beverages",
-    "unit": "ml"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "橄榄油",
+  "大白菜": {
+    "name": "大白菜",
     "aliases": [],
-    "category": "oil",
-    "unit": "ml"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "梅头猪肉",
+  "土豆干粉条": {
+    "name": "土豆干粉条",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "罐头菠萝片",
+  "中筋面粉": {
+    "name": "中筋面粉",
     "aliases": [],
-    "category": "fruits",
-    "unit": "g"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "茄汁",
+  "酥油或黄油": {
+    "name": "酥油或黄油",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "冷冻青豆",
+  "鳊鱼": {
+    "name": "鳊鱼",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "冷冻玉米粒",
+  "老豆腐": {
+    "name": "老豆腐",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "海苔碎",
+  "热水": {
+    "name": "热水",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "沙拉酱",
+  "尖椒": {
+    "name": "尖椒",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "莲藕",
+  "毛豆": {
+    "name": "毛豆",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "段"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "耗油",
+  "话梅": {
+    "name": "话梅",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "凉水",
+  "牛腱子": {
+    "name": "牛腱子",
     "aliases": [],
-    "category": "others",
-    "unit": "ml"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "螃蟹",
+  "卤料包": {
+    "name": "卤料包",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "菜油",
+  "南腐乳": {
+    "name": "南腐乳",
     "aliases": [],
-    "category": "oil",
-    "unit": "ml"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "水",
+  "卤汤": {
+    "name": "卤汤",
     "aliases": [],
-    "category": "others",
-    "unit": "mL"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "全麦面粉",
+  "木耳（干）": {
+    "name": "木耳（干）",
     "aliases": [],
-    "category": "grains",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "烤鹰嘴豆粉",
+  "蛋清": {
+    "name": "蛋清",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "禽蛋",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "芥末油",
+  "味素": {
+    "name": "味素",
     "aliases": [],
-    "category": "oil",
-    "unit": "ml"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "柠檬",
+  "冰粉籽": {
+    "name": "冰粉籽",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "印度黑盐",
+  "凉白开": {
+    "name": "凉白开",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "酥油",
+  "薄荷汁": {
+    "name": "薄荷汁",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "土豆",
+  "薄荷粉": {
+    "name": "薄荷粉",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "阿根廷红虾",
+  "遇水发光冰块": {
+    "name": "遇水发光冰块",
     "aliases": [],
-    "category": "seafood",
-    "unit": "只"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "海盐",
+  "牛里脊": {
+    "name": "牛里脊",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "香菜",
+  "肉": {
+    "name": "肉",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "片"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "挂面",
+  "花椰菜": {
+    "name": "花椰菜",
     "aliases": [],
-    "category": "grains",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "牛排",
+  "煎蛋": {
+    "name": "煎蛋",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "禽蛋",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "口蘑",
+  "猪前肘": {
+    "name": "猪前肘",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "小土豆",
+  "食用植物油": {
+    "name": "食用植物油",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "小番茄",
+  "肉桂皮": {
+    "name": "肉桂皮",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "百里香",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+  "豆蔻": {
+    "name": "豆蔻",
+    "aliases": [
+      "白蔻",
+      "红豆蔻"
+    ],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "预制牛排酱汁",
+  "大料": {
+    "name": "大料",
     "aliases": [],
-    "category": "others",
-    "unit": null
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "迷迭香",
+  "蒜苔": {
+    "name": "蒜苔",
     "aliases": [],
-    "category": "seasoning",
-    "unit": null
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "纯牛奶",
+  "五花肉薄片": {
+    "name": "五花肉薄片",
     "aliases": [],
-    "category": "dairy",
-    "unit": "ml"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "咖喱块",
+  "温水或高汤": {
+    "name": "温水或高汤",
     "aliases": [],
-    "category": "others",
-    "unit": "块"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "酱油",
+  "熟松子仁": {
+    "name": "熟松子仁",
     "aliases": [],
-    "category": "seasoning",
-    "unit": null
+    "category": "坚果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "碎牛肉",
+  "虾": {
+    "name": "虾",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "肋排",
+  "黄酒": {
+    "name": "黄酒",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "阳江豆豉",
+  "米酒": {
+    "name": "米酒",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "猪油渣",
+  "无盐黄油": {
+    "name": "无盐黄油",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "巧克力",
+  "泡打粉": {
+    "name": "泡打粉",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "红薯粉丝",
+  "奶油奶酪": {
+    "name": "奶油奶酪",
     "aliases": [],
-    "category": "grains",
-    "unit": "g"
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "青茄子",
+  "肉蟹": {
+    "name": "肉蟹",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "青辣椒",
+  "海鲜酱": {
+    "name": "海鲜酱",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "烧烤料",
+  "前腿肉": {
+    "name": "前腿肉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "罗勒碎",
+  "葱姜花椒水": {
+    "name": "葱姜花椒水",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "乳鸽",
+  "熟豆油": {
+    "name": "熟豆油",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "玉米",
-    "aliases": ["新鲜玉米"],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "内酯豆腐",
+  "黄花": {
+    "name": "黄花",
     "aliases": [],
-    "category": "others",
-    "unit": "盒"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "花生碎",
+  "小香葱": {
+    "name": "小香葱",
     "aliases": [],
-    "category": "nuts",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "银耳",
+  "鸡粉": {
+    "name": "鸡粉",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "韭菜",
+  "桂圆干": {
+    "name": "桂圆干",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "巴斯马蒂香米",
+  "棉花糖": {
+    "name": "棉花糖",
     "aliases": [],
-    "category": "grains",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "月桂叶",
-    "aliases": [],
-    "category": "seasoning",
-    "unit": "片"
+  "全脂奶粉": {
+    "name": "全脂奶粉",
+    "aliases": [
+      "全脂奶粉或淡奶"
+    ],
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "小豆蔻",
+  "饼干": {
+    "name": "饼干",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "颗"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "肉桂棒",
+  "凉粉": {
+    "name": "凉粉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "根"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "藏红花",
+  "玉米油": {
+    "name": "玉米油",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "泡面",
-    "aliases": ["方便面", "快熟面"],
-    "category": "grains",
-    "unit": "包"
+  "青蟹": {
+    "name": "青蟹",
+    "aliases": [
+      "肉蟹"
+    ],
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "糍粑",
+  "椰浆": {
+    "name": "椰浆",
     "aliases": [],
-    "category": "grains",
-    "unit": "g"
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "红糖",
+  "农村玉米鸡": {
+    "name": "农村玉米鸡",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "香菇（干）",
+  "糍粑辣椒": {
+    "name": "糍粑辣椒",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "牛油",
+  "酒糟": {
+    "name": "酒糟",
     "aliases": [],
-    "category": "oil",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "色拉油或菜籽油",
+  "红葱头": {
+    "name": "红葱头",
     "aliases": [],
-    "category": "oil",
-    "unit": "ml"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "纯猪油",
+  "海虾": {
+    "name": "海虾",
     "aliases": [],
-    "category": "oil",
-    "unit": "g"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "豆瓣酱（郫县）",
+  "蒜蓉酱": {
+    "name": "蒜蓉酱",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "豆豉（永川）",
+  "蒸肉米粉": {
+    "name": "蒸肉米粉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "豆母子",
+  "芝麻香油": {
+    "name": "芝麻香油",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "红花椒",
+  "奥利奥": {
+    "name": "奥利奥",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "山奈",
+  "果蜜": {
+    "name": "果蜜",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "草果",
+  "冰": {
+    "name": "冰",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "肉桂",
+  "鱼露": {
+    "name": "鱼露",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "荜拨",
+  "地瓜粉": {
+    "name": "地瓜粉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "香草",
+  "鸡蛋黄": {
+    "name": "鸡蛋黄",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "禽蛋",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "香果",
+  "龙舌兰酒": {
+    "name": "龙舌兰酒",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "山楂",
-    "aliases": ["山楂片"],
-    "category": "others",
-    "unit": "g"
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "陈皮",
+  "橙味甜酒": {
+    "name": "橙味甜酒",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "香茅",
+  "枫糖浆": {
+    "name": "枫糖浆",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "砂仁",
+  "大虾": {
+    "name": "大虾",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "白蔻",
+  "白葡萄酒": {
+    "name": "白葡萄酒",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "麦芽粉（肉香）",
+  "橄榄油": {
+    "name": "橄榄油",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "颗粒香料",
+  "梅头猪肉": {
+    "name": "梅头猪肉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "整形香料",
+  "罐头菠萝片": {
+    "name": "罐头菠萝片",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "水果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "猪五花肉",
+  "茄汁": {
+    "name": "茄汁",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "牛柳或牛肩肉",
+  "冷冻青豆": {
+    "name": "冷冻青豆",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "孜然",
+  "冷冻玉米粒": {
+    "name": "冷冻玉米粒",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "辣椒面",
+  "海苔碎": {
+    "name": "海苔碎",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "血肠",
+  "沙拉酱": {
+    "name": "沙拉酱",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "酸菜",
-    "aliases": ["东北酸菜"],
-    "category": "vegetables",
-    "unit": "g"
-  },
-  {
-    "ingredient_name": "辣椒油",
+  "莲藕": {
+    "name": "莲藕",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鲮鱼罐头",
+  "耗油": {
+    "name": "耗油",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "大葱",
+  "凉水": {
+    "name": "凉水",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "cm"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "瓠瓜",
+  "螃蟹": {
+    "name": "螃蟹",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "赤藓糖醇",
+  "菜油": {
+    "name": "菜油",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "魔芋粉",
+  "全麦面粉": {
+    "name": "全麦面粉",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "塔塔粉",
+  "烤鹰嘴豆粉": {
+    "name": "烤鹰嘴豆粉",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "米",
+  "芥末油": {
+    "name": "芥末油",
     "aliases": [],
-    "category": "grains",
-    "unit": "g"
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鲈鱼",
+  "印度黑盐": {
+    "name": "印度黑盐",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "蒸鱼豉油",
+  "酥油": {
+    "name": "酥油",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鸡蛋",
+  "阿根廷红虾": {
+    "name": "阿根廷红虾",
     "aliases": [],
-    "category": "eggs",
-    "unit": "颗"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "白（红）糖",
+  "海盐": {
+    "name": "海盐",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "咖啡粉",
+  "挂面": {
+    "name": "挂面",
     "aliases": [],
-    "category": "others",
-    "unit": null
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "巧克力",
+  "牛排": {
+    "name": "牛排",
     "aliases": [],
-    "category": "others",
-    "unit": null
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "麦片",
+  "口蘑": {
+    "name": "口蘑",
     "aliases": [],
-    "category": "grains",
-    "unit": null
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "牛奶",
+  "小土豆": {
+    "name": "小土豆",
     "aliases": [],
-    "category": "dairy",
-    "unit": null
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "坚果",
+  "小番茄": {
+    "name": "小番茄",
     "aliases": [],
-    "category": "nuts",
-    "unit": null
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "饼干屑",
+  "百里香": {
+    "name": "百里香",
     "aliases": [],
-    "category": "grains",
-    "unit": null
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "香蕉",
+  "预制牛排酱汁": {
+    "name": "预制牛排酱汁",
     "aliases": [],
-    "category": "fruits",
-    "unit": null
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "麻油",
+  "迷迭香": {
+    "name": "迷迭香",
     "aliases": [],
-    "category": "oil",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "温水",
+  "纯牛奶": {
+    "name": "纯牛奶",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "全脂牛奶",
+  "碎牛肉": {
+    "name": "碎牛肉",
     "aliases": [],
-    "category": "dairy",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鲜香菇",
+  "肋排": {
+    "name": "肋排",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "朵"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "丁香",
+  "阳江豆豉": {
+    "name": "阳江豆豉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "个"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "甘草",
+  "猪油渣": {
+    "name": "猪油渣",
     "aliases": [],
-    "category": "others",
-    "unit": "片"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "南腐乳",
+  "巧克力": {
+    "name": "巧克力",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "块"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "柱候酱",
+  "红薯粉丝": {
+    "name": "红薯粉丝",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "叉烧酱",
+  "青茄子": {
+    "name": "青茄子",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "萝卜",
+  "烧烤料": {
+    "name": "烧烤料",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "巴沙鱼",
+  "罗勒碎": {
+    "name": "罗勒碎",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "茄子",
+  "乳鸽": {
+    "name": "乳鸽",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "尖椒",
+  "内酯豆腐": {
+    "name": "内酯豆腐",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "奶油",
+  "花生碎": {
+    "name": "花生碎",
     "aliases": [],
-    "category": "dairy",
-    "unit": "ml"
+    "category": "坚果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "葱",
+  "银耳": {
+    "name": "银耳",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "圈"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "蒜",
+  "韭菜": {
+    "name": "韭菜",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "颗"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "西红柿",
+  "巴斯马蒂香米": {
+    "name": "巴斯马蒂香米",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "方便面",
+  "月桂叶": {
+    "name": "月桂叶",
     "aliases": [],
-    "category": "grains",
-    "unit": "包"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "火腿肠",
+  "小豆蔻": {
+    "name": "小豆蔻",
     "aliases": [],
-    "category": "meat",
-    "unit": "个"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "方便面菜包",
+  "藏红花": {
+    "name": "藏红花",
     "aliases": [],
-    "category": "others",
-    "unit": "包"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "方便面酱包",
-    "aliases": [],
-    "category": "others",
-    "unit": "包"
+  "泡面": {
+    "name": "泡面",
+    "aliases": [
+      "方便面",
+      "快熟面"
+    ],
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "方便面粉包",
+  "糍粑": {
+    "name": "糍粑",
     "aliases": [],
-    "category": "others",
-    "unit": "包"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "安琪干酵母粉",
+  "红糖": {
+    "name": "红糖",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "橄榄油",
+  "香菇（干）": {
+    "name": "香菇（干）",
     "aliases": [],
-    "category": "oil",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "干面粉",
+  "牛油": {
+    "name": "牛油",
     "aliases": [],
-    "category": "grains",
-    "unit": null
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "芝士碎",
+  "色拉油或菜籽油": {
+    "name": "色拉油或菜籽油",
     "aliases": [],
-    "category": "dairy",
-    "unit": null
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "沙拉酱",
+  "纯猪油": {
+    "name": "纯猪油",
     "aliases": [],
-    "category": "seasoning",
-    "unit": null
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "披萨馅料",
+  "豆豉（永川）": {
+    "name": "豆豉（永川）",
     "aliases": [],
-    "category": "others",
-    "unit": null
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "干鹰嘴豆",
+  "豆母子": {
+    "name": "豆母子",
     "aliases": [],
-    "category": "grains",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "红茶包",
+  "红花椒": {
+    "name": "红花椒",
     "aliases": [],
-    "category": "beverages",
-    "unit": "个"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "石榴粉",
+  "山奈": {
+    "name": "山奈",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "小苏打",
+  "肉桂": {
+    "name": "肉桂",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "猪排骨或五花肉",
+  "荜拨": {
+    "name": "荜拨",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "大料",
+  "香草": {
+    "name": "香草",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "颗"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "馒头",
-    "aliases": [],
-    "category": "grains",
-    "unit": "个"
+  "山楂": {
+    "name": "山楂",
+    "aliases": [
+      "山楂片"
+    ],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "袋泡红茶",
+  "陈皮": {
+    "name": "陈皮",
     "aliases": [],
-    "category": "beverages",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "砂糖",
+  "香茅": {
+    "name": "香茅",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "干燕麦片",
+  "砂仁": {
+    "name": "砂仁",
     "aliases": [],
-    "category": "grains",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "胡椒",
+  "白蔻": {
+    "name": "白蔻",
     "aliases": [],
-    "category": "seasoning",
-    "unit": null
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "豌豆淀粉",
+  "麦芽粉（肉香）": {
+    "name": "麦芽粉（肉香）",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "葱姜蒜",
+  "颗粒香料": {
+    "name": "颗粒香料",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "葱头",
+  "整形香料": {
+    "name": "整形香料",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "小豆蔻粉",
+  "猪五花肉": {
+    "name": "猪五花肉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "腰果",
+  "牛柳或牛肩肉": {
+    "name": "牛柳或牛肩肉",
     "aliases": [],
-    "category": "nuts",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "杏仁",
+  "孜然": {
+    "name": "孜然",
     "aliases": [],
-    "category": "nuts",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "牛肉高汤",
+  "辣椒面": {
+    "name": "辣椒面",
     "aliases": [],
-    "category": "others",
-    "unit": "mL"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "番茄罐头",
+  "血肠": {
+    "name": "血肠",
     "aliases": [],
-    "category": "others",
-    "unit": "罐"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "番茄膏",
-    "aliases": [],
-    "category": "others",
-    "unit": "g"
+  "酸菜": {
+    "name": "酸菜",
+    "aliases": [
+      "东北酸菜"
+    ],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "马铃薯",
+  "鲮鱼罐头": {
+    "name": "鲮鱼罐头",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "欧芹",
+  "瓠瓜": {
+    "name": "瓠瓜",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "红肠",
+  "赤藓糖醇": {
+    "name": "赤藓糖醇",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "橄榄油",
+  "魔芋粉": {
+    "name": "魔芋粉",
     "aliases": [],
-    "category": "oil",
-    "unit": "mL"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "植物油",
+  "塔塔粉": {
+    "name": "塔塔粉",
     "aliases": [],
-    "category": "oil",
-    "unit": "mL"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "肉馅",
+  "鲈鱼": {
+    "name": "鲈鱼",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "红葱油",
+  "蒸鱼豉油": {
+    "name": "蒸鱼豉油",
     "aliases": [],
-    "category": "oil",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "冷饭",
+  "白（红）糖": {
+    "name": "白（红）糖",
     "aliases": [],
-    "category": "grains",
-    "unit": "ml"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "火腿",
+  "咖啡粉": {
+    "name": "咖啡粉",
     "aliases": [],
-    "category": "meat",
-    "unit": "个"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "熟肉",
+  "麦片": {
+    "name": "麦片",
     "aliases": [],
-    "category": "meat",
-    "unit": null
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "奇异果",
+  "坚果": {
+    "name": "坚果",
     "aliases": [],
-    "category": "fruits",
-    "unit": "个"
+    "category": "坚果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "苹果",
+  "饼干屑": {
+    "name": "饼干屑",
     "aliases": [],
-    "category": "fruits",
-    "unit": "个"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "菠菜叶",
+  "香蕉": {
+    "name": "香蕉",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "叶"
+    "category": "水果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "吐司",
+  "温水": {
+    "name": "温水",
     "aliases": [],
-    "category": "grains",
-    "unit": "片"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "培根",
+  "鲜香菇": {
+    "name": "鲜香菇",
     "aliases": [],
-    "category": "meat",
-    "unit": "片"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "蛋黄酱",
+  "甘草": {
+    "name": "甘草",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "芝士",
+  "柱候酱": {
+    "name": "柱候酱",
     "aliases": [],
-    "category": "dairy",
-    "unit": null
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "酸黄瓜",
+  "叉烧酱": {
+    "name": "叉烧酱",
     "aliases": [],
-    "category": "vegetables",
-    "unit": null
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "燕麦",
+  "巴沙鱼": {
+    "name": "巴沙鱼",
     "aliases": [],
-    "category": "grains",
-    "unit": "g"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "底油",
+  "奶油": {
+    "name": "奶油",
     "aliases": [],
-    "category": "oil",
-    "unit": "g"
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "椒盐",
+  "方便面": {
+    "name": "方便面",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "白鱔",
+  "方便面菜包": {
+    "name": "方便面菜包",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "豆豉",
+  "方便面酱包": {
+    "name": "方便面酱包",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "汤匙"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "生抽",
+  "方便面粉包": {
+    "name": "方便面粉包",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "汤匙"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "老抽",
+  "安琪干酵母粉": {
+    "name": "安琪干酵母粉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "茶匙"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "糖",
+  "干面粉": {
+    "name": "干面粉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "茶匙"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "麻油",
+  "芝士碎": {
+    "name": "芝士碎",
     "aliases": [],
-    "category": "oil",
-    "unit": "茶匙"
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "水",
+  "披萨馅料": {
+    "name": "披萨馅料",
     "aliases": [],
-    "category": "others",
-    "unit": "汤匙"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "生粉",
+  "干鹰嘴豆": {
+    "name": "干鹰嘴豆",
     "aliases": [],
-    "category": "others",
-    "unit": "茶匙"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "姜",
+  "红茶包": {
+    "name": "红茶包",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "ml"
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "苦瓜",
+  "石榴粉": {
+    "name": "石榴粉",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "白胡椒",
+  "小苏打": {
+    "name": "小苏打",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "草鱼",
+  "猪排骨或五花肉": {
+    "name": "猪排骨或五花肉",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "桂皮",
+  "馒头": {
+    "name": "馒头",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "片"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "灯笼椒",
+  "袋泡红茶": {
+    "name": "袋泡红茶",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "火锅底料",
+  "砂糖": {
+    "name": "砂糖",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "千张",
+  "干燕麦片": {
+    "name": "干燕麦片",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "果酱",
+  "胡椒": {
+    "name": "胡椒",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "菜椒",
+  "豌豆淀粉": {
+    "name": "豌豆淀粉",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "黑椒腌料",
+  "葱姜蒜": {
+    "name": "葱姜蒜",
     "aliases": [],
-    "category": "others",
-    "unit": null
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "手枪腿（或者鸡胸脯肉）",
+  "葱头": {
+    "name": "葱头",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "干辣椒（或者二荆条）",
+  "小豆蔻粉": {
+    "name": "小豆蔻粉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "芝麻油",
+  "腰果": {
+    "name": "腰果",
     "aliases": [],
-    "category": "oil",
-    "unit": "g"
+    "category": "坚果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "油泼辣子",
+  "杏仁": {
+    "name": "杏仁",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "坚果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "生花生",
+  "牛肉高汤": {
+    "name": "牛肉高汤",
     "aliases": [],
-    "category": "nuts",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鸡腿肉",
+  "番茄罐头": {
+    "name": "番茄罐头",
     "aliases": [],
-    "category": "meat",
-    "unit": "个"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "咸肉",
+  "番茄膏": {
+    "name": "番茄膏",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "食用油",
+  "马铃薯": {
+    "name": "马铃薯",
     "aliases": [],
-    "category": "oil",
-    "unit": "mL"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "面包片",
+  "欧芹": {
+    "name": "欧芹",
     "aliases": [],
-    "category": "grains",
-    "unit": "片"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "生蚝",
+  "红肠": {
+    "name": "红肠",
     "aliases": [],
-    "category": "seafood",
-    "unit": "个"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "乌枣",
+  "肉馅": {
+    "name": "肉馅",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "乌梅",
+  "红葱油": {
+    "name": "红葱油",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "红豆蔻",
+  "熟肉": {
+    "name": "熟肉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "干桂花",
+  "奇异果": {
+    "name": "奇异果",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "水果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "半成品薯条",
+  "苹果": {
+    "name": "苹果",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "水果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "甘露咖啡酒",
+  "菠菜叶": {
+    "name": "菠菜叶",
     "aliases": [],
-    "category": "beverages",
-    "unit": "ml"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "爱尔兰百利甜酒",
+  "吐司": {
+    "name": "吐司",
     "aliases": [],
-    "category": "beverages",
-    "unit": "ml"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "蓝天原味伏特加",
+  "蛋黄酱": {
+    "name": "蛋黄酱",
     "aliases": [],
-    "category": "beverages",
-    "unit": "ml"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "百香果",
+  "芝士": {
+    "name": "芝士",
     "aliases": [],
-    "category": "fruits",
-    "unit": "个"
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "橙子",
+  "酸黄瓜": {
+    "name": "酸黄瓜",
     "aliases": [],
-    "category": "fruits",
-    "unit": "个"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "茉莉绿茶茶叶",
+  "燕麦": {
+    "name": "燕麦",
     "aliases": [],
-    "category": "beverages",
-    "unit": "g"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "薄荷叶",
+  "底油": {
+    "name": "底油",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "片"
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "八角",
+  "椒盐": {
+    "name": "椒盐",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "小片"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "凉皮",
+  "白鱔": {
+    "name": "白鱔",
     "aliases": [],
-    "category": "grains",
-    "unit": "g"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "面筋",
+  "苦瓜": {
+    "name": "苦瓜",
     "aliases": [],
-    "category": "others",
-    "unit": null
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "芝麻酱",
+  "白胡椒": {
+    "name": "白胡椒",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "温开水",
+  "草鱼": {
+    "name": "草鱼",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "辣椒油",
+  "灯笼椒": {
+    "name": "灯笼椒",
     "aliases": [],
-    "category": "seasoning",
-    "unit": null
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "小麦粉",
+  "火锅底料": {
+    "name": "火锅底料",
     "aliases": [],
-    "category": "grains",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "腊肉",
+  "千张": {
+    "name": "千张",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "茄子",
+  "果酱": {
+    "name": "果酱",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "根"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "清水",
+  "黑椒腌料": {
+    "name": "黑椒腌料",
     "aliases": [],
-    "category": "others",
-    "unit": null
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "盐焗鸡粉",
+  "手枪腿（或者鸡胸脯肉）": {
+    "name": "手枪腿（或者鸡胸脯肉）",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "龟苓膏粉",
+  "干辣椒（或者二荆条）": {
+    "name": "干辣椒（或者二荆条）",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "肉丁/肉末",
+  "生花生": {
+    "name": "生花生",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "坚果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "普通面条",
+  "咸肉": {
+    "name": "咸肉",
     "aliases": [],
-    "category": "grains",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "菜码",
+  "面包片": {
+    "name": "面包片",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "包菜",
+  "生蚝": {
+    "name": "生蚝",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "颗"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "紫菜",
+  "乌枣": {
+    "name": "乌枣",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "虾仁",
+  "乌梅": {
+    "name": "乌梅",
     "aliases": [],
-    "category": "seafood",
-    "unit": null
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "虾皮",
+  "红豆蔻": {
+    "name": "红豆蔻",
     "aliases": [],
-    "category": "seafood",
-    "unit": null
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "叶菜类蔬菜",
+  "干桂花": {
+    "name": "干桂花",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "大排",
+  "半成品薯条": {
+    "name": "半成品薯条",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "葱姜水",
+  "甘露咖啡酒": {
+    "name": "甘露咖啡酒",
     "aliases": [],
-    "category": "others",
-    "unit": "ml"
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "吉士粉",
+  "爱尔兰百利甜酒": {
+    "name": "爱尔兰百利甜酒",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "小葱",
+  "蓝天原味伏特加": {
+    "name": "蓝天原味伏特加",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "颗"
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鳜鱼",
+  "百香果": {
+    "name": "百香果",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "水果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "大葱",
+  "橙子": {
+    "name": "橙子",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "节"
+    "category": "水果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "红辣椒",
+  "茉莉绿茶茶叶": {
+    "name": "茉莉绿茶茶叶",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "颗"
+    "category": "饮品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鲜仔鸭肉",
+  "凉皮": {
+    "name": "凉皮",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鲜鸭血",
+  "面筋": {
+    "name": "面筋",
     "aliases": [],
-    "category": "meat",
-    "unit": "ml"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "辣椒",
+  "温开水": {
+    "name": "温开水",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "山胡椒油",
+  "小麦粉": {
+    "name": "小麦粉",
     "aliases": [],
-    "category": "oil",
-    "unit": "滴"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "半干荞麦面",
+  "腊肉": {
+    "name": "腊肉",
     "aliases": [],
-    "category": "grains",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "花生酱",
+  "盐焗鸡粉": {
+    "name": "盐焗鸡粉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鸡翅中",
+  "龟苓膏粉": {
+    "name": "龟苓膏粉",
     "aliases": [],
-    "category": "meat",
-    "unit": "个"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "罗勒碎",
+  "肉丁/肉末": {
+    "name": "肉丁/肉末",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "撮"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "云南单山蘸水",
+  "普通面条": {
+    "name": "普通面条",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "撮"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "茶粉",
+  "菜码": {
+    "name": "菜码",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "炼乳",
+  "紫菜": {
+    "name": "紫菜",
     "aliases": [],
-    "category": "dairy",
-    "unit": "g"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "开洋",
+  "叶菜类蔬菜": {
+    "name": "叶菜类蔬菜",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "猪蹄",
+  "大排": {
+    "name": "大排",
     "aliases": [],
-    "category": "meat",
-    "unit": "根"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "陈皮",
+  "葱姜水": {
+    "name": "葱姜水",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "瓣"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "西洋参",
+  "吉士粉": {
+    "name": "吉士粉",
     "aliases": [],
-    "category": "others",
-    "unit": "片"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "石斛",
+  "鳜鱼": {
+    "name": "鳜鱼",
     "aliases": [],
-    "category": "others",
-    "unit": "颗"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "玉竹",
+  "鲜仔鸭肉": {
+    "name": "鲜仔鸭肉",
     "aliases": [],
-    "category": "others",
-    "unit": "片"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "麦冬",
+  "鲜鸭血": {
+    "name": "鲜鸭血",
     "aliases": [],
-    "category": "others",
-    "unit": "个"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "蟹味菇",
+  "山胡椒油": {
+    "name": "山胡椒油",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "凤梨",
+  "半干荞麦面": {
+    "name": "半干荞麦面",
     "aliases": [],
-    "category": "fruits",
-    "unit": "g"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鸡全翅",
+  "花生酱": {
+    "name": "花生酱",
     "aliases": [],
-    "category": "meat",
-    "unit": "个"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "甜椒粉",
+  "鸡翅中": {
+    "name": "鸡翅中",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "罗氏虾",
+  "云南单山蘸水": {
+    "name": "云南单山蘸水",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "青芥末",
+  "茶粉": {
+    "name": "茶粉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鹌鹑蛋",
+  "炼乳": {
+    "name": "炼乳",
     "aliases": [],
-    "category": "eggs",
-    "unit": "个"
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "豆皮",
+  "开洋": {
+    "name": "开洋",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "猪通脊肉",
+  "西洋参": {
+    "name": "西洋参",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "白熟芝麻",
+  "石斛": {
+    "name": "石斛",
     "aliases": [],
-    "category": "nuts",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "荷兰豆",
+  "玉竹": {
+    "name": "玉竹",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "腊肠",
+  "麦冬": {
+    "name": "麦冬",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "意大利面酱",
+  "蟹味菇": {
+    "name": "蟹味菇",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "兔肉",
+  "凤梨": {
+    "name": "凤梨",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "水果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "八角",
+  "鸡全翅": {
+    "name": "鸡全翅",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "粒"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "白蔻",
+  "甜椒粉": {
+    "name": "甜椒粉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "粒"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "干淀粉",
+  "罗氏虾": {
+    "name": "罗氏虾",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "四季豆",
+  "青芥末": {
+    "name": "青芥末",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "橄榄菜",
+  "鹌鹑蛋": {
+    "name": "鹌鹑蛋",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "禽蛋",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "闽星茶树菇",
+  "豆皮": {
+    "name": "豆皮",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "奇亚籽",
+  "猪通脊肉": {
+    "name": "猪通脊肉",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "冰块",
+  "白熟芝麻": {
+    "name": "白熟芝麻",
     "aliases": [],
-    "category": "others",
-    "unit": "小块"
+    "category": "坚果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "芒果",
+  "荷兰豆": {
+    "name": "荷兰豆",
     "aliases": [],
-    "category": "fruits",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "葡萄柚",
+  "意大利面酱": {
+    "name": "意大利面酱",
     "aliases": [],
-    "category": "fruits",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "椰奶",
+  "兔肉": {
+    "name": "兔肉",
     "aliases": [],
-    "category": "dairy",
-    "unit": "ml"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "芒果干",
+  "干淀粉": {
+    "name": "干淀粉",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "柳橙干",
+  "四季豆": {
+    "name": "四季豆",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "带皮猪五花肉",
+  "橄榄菜": {
+    "name": "橄榄菜",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "商芝",
+  "闽星茶树菇": {
+    "name": "闽星茶树菇",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鸡蛋皮",
+  "奇亚籽": {
+    "name": "奇亚籽",
     "aliases": [],
-    "category": "eggs",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鸡汤",
+  "芒果": {
+    "name": "芒果",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "水果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "熟猪油",
+  "葡萄柚": {
+    "name": "葡萄柚",
     "aliases": [],
-    "category": "oil",
-    "unit": "g"
+    "category": "水果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "蒜蓉",
+  "椰奶": {
+    "name": "椰奶",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "瓣"
+    "category": "豆制品",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "带皮羊排肉",
+  "芒果干": {
+    "name": "芒果干",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "甜椒",
+  "柳橙干": {
+    "name": "柳橙干",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "芥末",
+  "带皮猪五花肉": {
+    "name": "带皮猪五花肉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "香菜",
+  "商芝": {
+    "name": "商芝",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "条"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "羊腩",
+  "鸡蛋皮": {
+    "name": "鸡蛋皮",
     "aliases": [],
-    "category": "meat",
-    "unit": "g"
+    "category": "禽蛋",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "炸腐竹",
+  "鸡汤": {
+    "name": "鸡汤",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "腐乳",
+  "熟猪油": {
+    "name": "熟猪油",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "南乳",
+  "蒜蓉": {
+    "name": "蒜蓉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "香菇",
+  "带皮羊排肉": {
+    "name": "带皮羊排肉",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "个"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "白玉菇",
+  "羊腩": {
+    "name": "羊腩",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "菜椒",
+  "炸腐竹": {
+    "name": "炸腐竹",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "颗"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "西蓝花",
+  "腐乳": {
+    "name": "腐乳",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "熟蛋黄",
+  "白玉菇": {
+    "name": "白玉菇",
     "aliases": [],
-    "category": "eggs",
-    "unit": "个"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "有盐牛油",
+  "西蓝花": {
+    "name": "西蓝花",
     "aliases": [],
-    "category": "oil",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "三文鱼",
+  "熟蛋黄": {
+    "name": "熟蛋黄",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "禽蛋",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "粟米",
+  "有盐牛油": {
+    "name": "有盐牛油",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "干货",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "金菇",
+  "三文鱼": {
+    "name": "三文鱼",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "冬菇",
+  "粟米": {
+    "name": "粟米",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "干葫芦巴叶",
+  "金菇": {
+    "name": "金菇",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "耙耙柑",
+  "冬菇": {
+    "name": "冬菇",
     "aliases": [],
-    "category": "fruits",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "荞麦面",
+  "干葫芦巴叶": {
+    "name": "干葫芦巴叶",
     "aliases": [],
-    "category": "grains",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "安琪甜酒曲",
+  "耙耙柑": {
+    "name": "耙耙柑",
     "aliases": [],
-    "category": "others",
-    "unit": "g"
+    "category": "水果",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "桂花",
+  "荞麦面": {
+    "name": "荞麦面",
     "aliases": [],
-    "category": "others",
-    "unit": null
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "水淀粉",
+  "安琪甜酒曲": {
+    "name": "安琪甜酒曲",
     "aliases": [],
-    "category": "others",
-    "unit": "ml"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "黑鳕鱼",
+  "桂花": {
+    "name": "桂花",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "青葱",
+  "黑鳕鱼": {
+    "name": "黑鳕鱼",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "酱油",
+  "青葱": {
+    "name": "青葱",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "mL"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "花生油",
+  "手抓饼": {
+    "name": "手抓饼",
     "aliases": [],
-    "category": "oil",
-    "unit": "mL"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "手抓饼",
+  "培根片": {
+    "name": "培根片",
     "aliases": [],
-    "category": "grains",
-    "unit": "份"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "培根片",
+  "鱼": {
+    "name": "鱼",
     "aliases": [],
-    "category": "meat",
-    "unit": "片"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "鱼",
+  "水浸金枪鱼": {
+    "name": "水浸金枪鱼",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "水浸金枪鱼",
+  "方形吐司片": {
+    "name": "方形吐司片",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "主食/谷物",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "方形吐司片",
+  "俄式酸黄瓜汁": {
+    "name": "俄式酸黄瓜汁",
     "aliases": [],
-    "category": "grains",
-    "unit": "片"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "蛋黄酱",
+  "火腿片": {
+    "name": "火腿片",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "mL"
+    "category": "肉类",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "俄式酸黄瓜汁",
+  "海参": {
+    "name": "海参",
     "aliases": [],
-    "category": "others",
-    "unit": "mL"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "火腿片",
+  "桂鱼": {
+    "name": "桂鱼",
     "aliases": [],
-    "category": "meat",
-    "unit": "片"
+    "category": "水产",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "海参",
+  "菠菜": {
+    "name": "菠菜",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "桂鱼",
+  "红腐乳": {
+    "name": "红腐乳",
     "aliases": [],
-    "category": "seafood",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "蒸鱼豉油",
+  "腐乳汁": {
+    "name": "腐乳汁",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "菠菜",
+  "葱白": {
+    "name": "葱白",
     "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "红腐乳",
+  "生粉": {
+    "name": "生粉",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "g"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "腐乳汁",
+  "鳝鱼": {
+    "name": "鳝鱼",
     "aliases": [],
-    "category": "seasoning",
-    "unit": "ml"
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   },
-  {
-    "ingredient_name": "葱白",
-    "aliases": [],
-    "category": "vegetables",
-    "unit": "g"
+  "郫县豆瓣": {
+    "name": "郫县豆瓣",
+    "aliases": [
+      "红油豆瓣",
+      "豆瓣酱",
+      "豆瓣酱（郫县）",
+      "郫县红油豆瓣酱",
+      "郫县豆瓣酱"
+    ],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   }
-]
+}
