@@ -64,7 +64,7 @@
     {
       "ingredient_name": "花生油",
       "quantity": 150,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "可用菜籽油替换",
@@ -176,7 +176,7 @@
     {
       "ingredient_name": "白醋",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "增香，添加后重新沸腾",

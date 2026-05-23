@@ -114,7 +114,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 4,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

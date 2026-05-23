@@ -24,7 +24,7 @@
     {
       "ingredient_name": "可乐",
       "quantity": 500,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -84,7 +84,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 20,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 10,
         "max": 20

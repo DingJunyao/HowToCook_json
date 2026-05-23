@@ -44,7 +44,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -54,7 +54,7 @@
     {
       "ingredient_name": "香油",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -64,7 +64,7 @@
     {
       "ingredient_name": "醋",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": null,
@@ -84,7 +84,7 @@
     {
       "ingredient_name": "辣椒油",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": null,

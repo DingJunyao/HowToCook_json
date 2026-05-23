@@ -13,7 +13,7 @@
     {
       "ingredient_name": "饮用水",
       "quantity": 700,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

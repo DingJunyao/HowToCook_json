@@ -31,7 +31,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 50,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "30ml制葱油，20ml炒制",
@@ -41,7 +41,7 @@
     {
       "ingredient_name": "酱油",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

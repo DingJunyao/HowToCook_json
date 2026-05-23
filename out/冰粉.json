@@ -31,7 +31,7 @@
     {
       "ingredient_name": "薄荷汁",
       "quantity": 2,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": "与薄荷粉二选一，也可使用柠檬汁、山楂汁、桑椹汁",

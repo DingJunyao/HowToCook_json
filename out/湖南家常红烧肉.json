@@ -66,7 +66,7 @@
     {
       "ingredient_name": "冰糖",
       "quantity": 3,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": "锁油上色",
@@ -116,7 +116,7 @@
     {
       "ingredient_name": "八角",
       "quantity": 2,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -136,7 +136,7 @@
     {
       "ingredient_name": "开水",
       "quantity": 250,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "没过肉",

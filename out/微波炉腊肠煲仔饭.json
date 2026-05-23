@@ -13,7 +13,7 @@
     {
       "ingredient_name": "米",
       "quantity": 200,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -63,7 +63,7 @@
     {
       "ingredient_name": "油",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -73,7 +73,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -83,7 +83,7 @@
     {
       "ingredient_name": "香葱",
       "quantity": 1,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

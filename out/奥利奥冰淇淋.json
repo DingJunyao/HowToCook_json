@@ -21,7 +21,7 @@
     {
       "ingredient_name": "白砂糖",
       "quantity": 18,
-      "unit": "克",
+      "unit": "g",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -31,7 +31,7 @@
     {
       "ingredient_name": "淡奶油",
       "quantity": 250,
-      "unit": "毫升",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "推荐品牌 安佳动物淡奶油",

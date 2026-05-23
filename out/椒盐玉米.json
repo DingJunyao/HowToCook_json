@@ -56,7 +56,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "铺满锅底但不要太多",

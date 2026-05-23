@@ -21,7 +21,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -31,7 +31,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 30,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -41,7 +41,7 @@
     {
       "ingredient_name": "蜂蜜",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": "没有时使用白糖 20 g + 玉米淀粉 5 g + 0.5 ml 柠檬汁或醋代替",
@@ -101,7 +101,7 @@
     {
       "ingredient_name": "老抽",
       "quantity": 12,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -131,7 +131,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 25,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 15,
         "max": 25
@@ -144,7 +144,7 @@
     {
       "ingredient_name": "清水",
       "quantity": 30,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

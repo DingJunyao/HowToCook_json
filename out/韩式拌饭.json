@@ -83,7 +83,7 @@
     {
       "ingredient_name": "韩式辣酱",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "甜辣口",
@@ -93,7 +93,7 @@
     {
       "ingredient_name": "雪碧",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "减肥的话可以放无糖雪碧",
@@ -113,7 +113,7 @@
     {
       "ingredient_name": "芝麻油",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -123,7 +123,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 20,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

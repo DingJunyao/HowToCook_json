@@ -13,7 +13,7 @@
     {
       "ingredient_name": "瓶装椰汁",
       "quantity": 300,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "500ml 瓶装，倒掉 200ml 后使用 300ml",

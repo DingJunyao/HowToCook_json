@@ -29,7 +29,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 150,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 100,
         "max": 150
@@ -62,7 +62,7 @@
     {
       "ingredient_name": "水",
       "quantity": 50,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "熬糖用",

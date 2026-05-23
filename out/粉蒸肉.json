@@ -31,7 +31,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 2.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -41,7 +41,7 @@
     {
       "ingredient_name": "老抽",
       "quantity": 1.67,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -51,7 +51,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 2.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -111,7 +111,7 @@
     {
       "ingredient_name": "清水",
       "quantity": 333.33,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "蒸锅用",

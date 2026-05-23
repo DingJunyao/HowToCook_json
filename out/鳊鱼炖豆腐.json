@@ -80,7 +80,7 @@
       "quantity": 2.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "桂皮",
@@ -131,7 +131,7 @@
       "quantity": 5.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "生抽",
@@ -143,7 +143,7 @@
       "quantity": 4.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "盐",
@@ -197,7 +197,7 @@
       "quantity": 40.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "热水",

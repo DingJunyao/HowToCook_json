@@ -26,7 +26,7 @@
     {
       "ingredient_name": "开水",
       "quantity": 300,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "直至浸没汤圆",

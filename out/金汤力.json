@@ -13,7 +13,7 @@
     {
       "ingredient_name": "金酒",
       "quantity": 40,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 30,
         "max": 40
@@ -26,7 +26,7 @@
     {
       "ingredient_name": "汤力水气泡水",
       "quantity": 250,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "1罐",

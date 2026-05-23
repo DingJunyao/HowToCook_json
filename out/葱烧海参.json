@@ -51,7 +51,7 @@
         "max": 25.0,
         "min": 20.0
       },
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "蚝油",
@@ -111,7 +111,7 @@
       "quantity": 120.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     }
   ],
   "steps": [

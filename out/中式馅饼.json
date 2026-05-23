@@ -31,7 +31,7 @@
     {
       "ingredient_name": "油",
       "quantity": 30,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "宽油起锅、铺底油",

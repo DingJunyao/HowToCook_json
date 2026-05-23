@@ -61,7 +61,7 @@
     {
       "ingredient_name": "橄榄油",
       "quantity": 20,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "分两次使用，每次10ml",
@@ -111,7 +111,7 @@
     {
       "ingredient_name": "牛奶",
       "quantity": 300,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

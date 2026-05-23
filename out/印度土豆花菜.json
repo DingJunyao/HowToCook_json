@@ -81,7 +81,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 12,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

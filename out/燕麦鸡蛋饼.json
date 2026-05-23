@@ -31,7 +31,7 @@
     {
       "ingredient_name": "牛奶",
       "quantity": 250,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 50,
         "max": 250

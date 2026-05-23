@@ -44,7 +44,7 @@
     {
       "ingredient_name": "油",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -54,7 +54,7 @@
     {
       "ingredient_name": "水",
       "quantity": 80,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

@@ -35,7 +35,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 30,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -45,7 +45,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

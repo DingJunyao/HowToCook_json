@@ -49,7 +49,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 18,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 15,
         "max": 20
@@ -92,7 +92,7 @@
     {
       "ingredient_name": "油",
       "quantity": 8,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 5,
         "max": 8
@@ -115,7 +115,7 @@
     {
       "ingredient_name": "酱油",
       "quantity": 8,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": "生抽，千禾酿造无添加",
@@ -125,7 +125,7 @@
     {
       "ingredient_name": "老抽",
       "quantity": 3,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -181,7 +181,7 @@
     {
       "ingredient_name": "番茄酱",
       "quantity": 3,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 2,
         "max": 5

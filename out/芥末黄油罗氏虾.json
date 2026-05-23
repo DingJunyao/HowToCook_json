@@ -107,7 +107,7 @@
         "max": 30.0,
         "min": 15.0
       },
-      "unit": "克"
+      "unit": "g"
     },
     {
       "ingredient_name": "香菜",
@@ -119,7 +119,7 @@
       "quantity": 5.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "条"
+      "unit": "根"
     },
     {
       "ingredient_name": "蒜",
@@ -131,7 +131,7 @@
       "quantity": 5.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "颗"
+      "unit": "个"
     }
   ],
   "steps": [

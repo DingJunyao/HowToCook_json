@@ -24,7 +24,7 @@
     {
       "ingredient_name": "冷水",
       "quantity": 400,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 200,
         "max": 400
@@ -117,7 +117,7 @@
     {
       "ingredient_name": "香油",
       "quantity": 3,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "可根据个人喜好调整",

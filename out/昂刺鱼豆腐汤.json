@@ -15,7 +15,7 @@
     {
       "ingredient_name": "昂刺鱼",
       "quantity": 1,
-      "unit": "条",
+      "unit": "根",
       "quantity_range": null,
       "is_optional": false,
       "note": "也可用沙光鱼",
@@ -55,7 +55,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -65,7 +65,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -101,7 +101,7 @@
     {
       "ingredient_name": "开水",
       "quantity": 1000,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

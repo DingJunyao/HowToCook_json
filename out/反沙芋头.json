@@ -53,7 +53,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 200,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "用于炸芋头，可重复使用",

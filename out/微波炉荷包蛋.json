@@ -21,7 +21,7 @@
     {
       "ingredient_name": "饮用水",
       "quantity": 35,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "常温",
@@ -31,7 +31,7 @@
     {
       "ingredient_name": "芝麻油",
       "quantity": 3,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

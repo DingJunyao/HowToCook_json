@@ -21,7 +21,7 @@
     {
       "ingredient_name": "昆布酱油",
       "quantity": 2,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": "日式少盐酱油，用于为温泉蛋调味",

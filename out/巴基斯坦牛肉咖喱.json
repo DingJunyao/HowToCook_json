@@ -49,7 +49,7 @@
     {
       "ingredient_name": "原味酸奶",
       "quantity": 80,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "一盒约400ml",
@@ -89,7 +89,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 6,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "一层油",
@@ -99,7 +99,7 @@
     {
       "ingredient_name": "水",
       "quantity": 50,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

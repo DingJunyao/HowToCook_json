@@ -21,7 +21,7 @@
     {
       "ingredient_name": "酱油",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "酱料比例3:2:2中的酱油部分，具体量根据蕨根粉多少决定",
@@ -31,7 +31,7 @@
     {
       "ingredient_name": "醋",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "酱料比例3:2:2中的醋部分，具体量根据蕨根粉多少决定",
@@ -41,7 +41,7 @@
     {
       "ingredient_name": "油泼辣子",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "酱料比例3:2:2中的油泼辣子部分，具体量根据蕨根粉多少决定",

@@ -44,7 +44,7 @@
     {
       "ingredient_name": "橄榄油",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -64,7 +64,7 @@
     {
       "ingredient_name": "柠檬汁",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

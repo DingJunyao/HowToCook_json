@@ -23,7 +23,7 @@
     {
       "ingredient_name": "水",
       "quantity": 66.67,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -63,7 +63,7 @@
     {
       "ingredient_name": "芝麻油",
       "quantity": 0.33,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": "香油",

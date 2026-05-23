@@ -175,7 +175,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 100,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "宽油炸制用油",
@@ -185,7 +185,7 @@
     {
       "ingredient_name": "清水",
       "quantity": 20,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

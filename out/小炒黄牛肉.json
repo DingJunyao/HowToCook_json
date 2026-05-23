@@ -63,7 +63,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -73,7 +73,7 @@
     {
       "ingredient_name": "酱油",
       "quantity": 6,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "用于腌制牛肉",

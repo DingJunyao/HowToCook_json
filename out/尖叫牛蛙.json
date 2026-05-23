@@ -115,7 +115,7 @@
     {
       "ingredient_name": "啤酒",
       "quantity": 450,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 400,
         "max": 500
@@ -128,7 +128,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -138,7 +138,7 @@
     {
       "ingredient_name": "藤椒油",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 5,
         "max": 10
@@ -161,7 +161,7 @@
     {
       "ingredient_name": "猪油",
       "quantity": 20,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": "没有猪油也可，用食用油替代",
@@ -171,7 +171,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 250,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "炸制用200ml，炸后保留30ml，如无猪油则保留50ml",

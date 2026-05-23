@@ -11,7 +11,7 @@
     {
       "ingredient_name": "大米",
       "quantity": 85,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 60,
         "max": 110
@@ -24,7 +24,7 @@
     {
       "ingredient_name": "水",
       "quantity": 890,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 540,
         "max": 1320
@@ -37,7 +37,7 @@
     {
       "ingredient_name": "植物油",
       "quantity": 8.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": "与米混合后冷藏",

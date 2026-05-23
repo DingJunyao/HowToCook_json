@@ -11,7 +11,7 @@
     {
       "ingredient_name": "牛奶",
       "quantity": 280,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "巴氏奶口感更好",

@@ -84,7 +84,7 @@
     {
       "ingredient_name": "豆瓣酱",
       "quantity": 6.7,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -94,7 +94,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 3.3,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -124,7 +124,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 13.3,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "包括初始25ml和可能补充15ml",
@@ -134,7 +134,7 @@
     {
       "ingredient_name": "水",
       "quantity": 66.7,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

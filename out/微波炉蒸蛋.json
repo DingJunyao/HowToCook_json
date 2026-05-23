@@ -21,7 +21,7 @@
     {
       "ingredient_name": "温水或高汤",
       "quantity": 60,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 50,
         "max": 60
@@ -44,7 +44,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 1,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": "可选",
@@ -54,7 +54,7 @@
     {
       "ingredient_name": "香油",
       "quantity": 1,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "出锅用",

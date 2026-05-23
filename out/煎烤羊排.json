@@ -41,7 +41,7 @@
     {
       "ingredient_name": "八角",
       "quantity": 0.3,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -81,7 +81,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 2.9,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

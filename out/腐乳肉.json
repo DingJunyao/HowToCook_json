@@ -31,7 +31,7 @@
     {
       "ingredient_name": "腐乳汁",
       "quantity": 7.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -51,7 +51,7 @@
     {
       "ingredient_name": "老抽",
       "quantity": 2.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -61,7 +61,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 7.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -101,7 +101,7 @@
     {
       "ingredient_name": "清水",
       "quantity": 250,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -111,7 +111,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

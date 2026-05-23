@@ -36,7 +36,7 @@
     {
       "ingredient_name": "冷冻去头去皮基围虾",
       "quantity": 8.0,
-      "unit": "只",
+      "unit": "个",
       "quantity_range": {
         "min": 5,
         "max": 8
@@ -99,7 +99,7 @@
     {
       "ingredient_name": "油",
       "quantity": 20.0,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 15,
         "max": 20

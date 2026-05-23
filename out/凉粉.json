@@ -43,7 +43,7 @@
     {
       "ingredient_name": "小米辣",
       "quantity": 3,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -63,7 +63,7 @@
     {
       "ingredient_name": "酱油",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -73,7 +73,7 @@
     {
       "ingredient_name": "醋",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

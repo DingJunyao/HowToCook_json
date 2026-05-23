@@ -31,7 +31,7 @@
     {
       "ingredient_name": "花生油",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -41,7 +41,7 @@
     {
       "ingredient_name": "酱油",
       "quantity": 30,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

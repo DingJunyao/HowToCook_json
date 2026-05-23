@@ -41,7 +41,7 @@
     {
       "ingredient_name": "香葱",
       "quantity": 2,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": true,
       "note": null,
@@ -61,7 +61,7 @@
     {
       "ingredient_name": "酱油",
       "quantity": 40,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -81,7 +81,7 @@
     {
       "ingredient_name": "醋",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": null,
@@ -91,7 +91,7 @@
     {
       "ingredient_name": "菜籽油或花生油",
       "quantity": 30,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "没过锅底的两倍",

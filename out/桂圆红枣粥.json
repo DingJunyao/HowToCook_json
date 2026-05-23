@@ -21,7 +21,7 @@
     {
       "ingredient_name": "水",
       "quantity": 2000,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "可酌情增减调整粥的稀稠程度",
@@ -31,7 +31,7 @@
     {
       "ingredient_name": "桂圆干",
       "quantity": 15,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": "桂圆肉",
@@ -41,7 +41,7 @@
     {
       "ingredient_name": "干红枣",
       "quantity": 15,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

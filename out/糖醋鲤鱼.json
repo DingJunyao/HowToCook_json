@@ -69,7 +69,7 @@
       "quantity": 210.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "克"
+      "unit": "g"
     },
     {
       "ingredient_name": "盐",
@@ -129,7 +129,7 @@
       "quantity": 1.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "颗"
+      "unit": "个"
     },
     {
       "ingredient_name": "水",

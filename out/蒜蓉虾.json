@@ -21,7 +21,7 @@
       "quantity": 8.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "只"
+      "unit": "个"
     },
     {
       "ingredient_name": "蒜蓉酱",
@@ -45,7 +45,7 @@
       "quantity": 20.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "生抽",
@@ -57,7 +57,7 @@
       "quantity": 5.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     }
   ],
   "steps": [

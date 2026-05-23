@@ -24,7 +24,7 @@
     {
       "ingredient_name": "油",
       "quantity": 100,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -34,7 +34,7 @@
     {
       "ingredient_name": "开水",
       "quantity": 500,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "100ml用于炒制，400ml用于降温",

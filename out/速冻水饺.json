@@ -24,7 +24,7 @@
     {
       "ingredient_name": "黑醋",
       "quantity": 20,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 10,
         "max": 20
@@ -70,7 +70,7 @@
     {
       "ingredient_name": "水",
       "quantity": 1000,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "煮饺子用",

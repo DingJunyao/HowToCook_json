@@ -24,7 +24,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 10,
         "max": 15
@@ -37,7 +37,7 @@
     {
       "ingredient_name": "清水",
       "quantity": null,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "水线没过饺子平均高度的 1/2",

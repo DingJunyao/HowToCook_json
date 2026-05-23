@@ -11,7 +11,7 @@
     {
       "ingredient_name": "方便面",
       "quantity": 1,
-      "unit": "包",
+      "unit": "袋",
       "quantity_range": null,
       "is_optional": false,
       "note": "1.2包/人向下取整",
@@ -51,7 +51,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 18,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 10,
         "max": 18
@@ -64,7 +64,7 @@
     {
       "ingredient_name": "方便面菜包",
       "quantity": 1,
-      "unit": "包",
+      "unit": "袋",
       "quantity_range": null,
       "is_optional": false,
       "note": "挤入调料碗中",
@@ -74,7 +74,7 @@
     {
       "ingredient_name": "方便面酱包",
       "quantity": 1,
-      "unit": "包",
+      "unit": "袋",
       "quantity_range": null,
       "is_optional": false,
       "note": "挤入调料碗中",
@@ -84,7 +84,7 @@
     {
       "ingredient_name": "方便面粉包",
       "quantity": 0.6,
-      "unit": "包",
+      "unit": "袋",
       "quantity_range": {
         "min": 0.5,
         "max": 0.8
@@ -97,7 +97,7 @@
     {
       "ingredient_name": "水",
       "quantity": 380,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "300ml用于煮面，80ml用于调制酱料",

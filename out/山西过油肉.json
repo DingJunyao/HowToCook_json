@@ -31,7 +31,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 310,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "300ml用于封浆，10ml用于炒菜",
@@ -51,7 +51,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 20,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -111,7 +111,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "用于腌制肉片",
@@ -121,7 +121,7 @@
     {
       "ingredient_name": "陈醋",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "起锅前加入",

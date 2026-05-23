@@ -61,7 +61,7 @@
     {
       "ingredient_name": "小米辣",
       "quantity": 0.5,
-      "unit": "条",
+      "unit": "根",
       "quantity_range": null,
       "is_optional": true,
       "note": "切成 1cm 小段，可根据口味调整用量",

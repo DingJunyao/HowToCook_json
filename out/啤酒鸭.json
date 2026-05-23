@@ -23,7 +23,7 @@
     {
       "ingredient_name": "啤酒",
       "quantity": 400,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -33,7 +33,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 50,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -53,7 +53,7 @@
     {
       "ingredient_name": "生抽酱油",
       "quantity": 7.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 5,
         "max": 7.5
@@ -66,7 +66,7 @@
     {
       "ingredient_name": "老抽酱油",
       "quantity": 7.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 2.5,
         "max": 5
@@ -79,7 +79,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -149,7 +149,7 @@
     {
       "ingredient_name": "丁香",
       "quantity": 2,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

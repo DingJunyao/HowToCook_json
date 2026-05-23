@@ -76,7 +76,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "炒菜用油",
@@ -86,7 +86,7 @@
     {
       "ingredient_name": "水",
       "quantity": 200,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "没过所有食材的量",

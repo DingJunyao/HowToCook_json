@@ -63,7 +63,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 30,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "20ml滑锅用+10ml炒制用",
@@ -73,7 +73,7 @@
     {
       "ingredient_name": "酱油",
       "quantity": 2,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

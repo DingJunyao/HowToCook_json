@@ -21,7 +21,7 @@
     {
       "ingredient_name": "油",
       "quantity": 50,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 33,
         "max": 50
@@ -64,7 +64,7 @@
     {
       "ingredient_name": "老抽",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -74,7 +74,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 7,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -144,7 +144,7 @@
     {
       "ingredient_name": "凉水",
       "quantity": 500,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "没过食材的量即可",
@@ -154,7 +154,7 @@
     {
       "ingredient_name": "开水",
       "quantity": 500,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "没过食材的量即可",

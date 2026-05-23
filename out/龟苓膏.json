@@ -23,7 +23,7 @@
     {
       "ingredient_name": "水",
       "quantity": 206.67,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "冷水 40ml 用于调制粉液，开水 166.67ml 用于溶解糖",

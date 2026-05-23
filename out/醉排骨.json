@@ -33,7 +33,7 @@
     {
       "ingredient_name": "鱼露",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -63,7 +63,7 @@
     {
       "ingredient_name": "香醋",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -113,7 +113,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "热油，用于制作酱汁",

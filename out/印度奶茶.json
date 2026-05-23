@@ -11,7 +11,7 @@
     {
       "ingredient_name": "水",
       "quantity": 120,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -21,7 +21,7 @@
     {
       "ingredient_name": "全脂牛奶",
       "quantity": 120,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -51,7 +51,7 @@
     {
       "ingredient_name": "绿色小豆蔻",
       "quantity": 2,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": "拍开",
@@ -71,7 +71,7 @@
     {
       "ingredient_name": "丁香",
       "quantity": 2,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -81,7 +81,7 @@
     {
       "ingredient_name": "黑胡椒粒",
       "quantity": 2,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": "拍碎",

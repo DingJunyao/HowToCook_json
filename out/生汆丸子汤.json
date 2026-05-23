@@ -71,7 +71,7 @@
     {
       "ingredient_name": "熟豆油",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "保持嫩滑弹的状态",
@@ -131,7 +131,7 @@
     {
       "ingredient_name": "香油",
       "quantity": 0.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 0.4,
         "max": 0.6

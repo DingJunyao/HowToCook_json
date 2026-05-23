@@ -54,7 +54,7 @@
     {
       "ingredient_name": "香油",
       "quantity": 2,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": "速冻馄饨无调味料包时使用",
@@ -74,7 +74,7 @@
     {
       "ingredient_name": "水",
       "quantity": 600,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

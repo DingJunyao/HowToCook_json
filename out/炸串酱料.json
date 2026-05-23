@@ -111,7 +111,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 100,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "用量以在容器内没过所有原材料为佳",
@@ -121,7 +121,7 @@
     {
       "ingredient_name": "香油",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": null,
@@ -131,7 +131,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": null,
@@ -141,7 +141,7 @@
     {
       "ingredient_name": "花椒油",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": null,
@@ -151,7 +151,7 @@
     {
       "ingredient_name": "蚝油",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": null,

@@ -13,7 +13,7 @@
     {
       "ingredient_name": "金酒",
       "quantity": 40,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 30,
         "max": 40
@@ -46,7 +46,7 @@
     {
       "ingredient_name": "柠檬汁",
       "quantity": 20,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "由柠檬榨取",

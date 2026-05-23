@@ -51,7 +51,7 @@
     {
       "ingredient_name": "葱姜水",
       "quantity": 50,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

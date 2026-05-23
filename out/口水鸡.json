@@ -13,7 +13,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -43,7 +43,7 @@
     {
       "ingredient_name": "花椒",
       "quantity": 15,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": "20g",
@@ -63,7 +63,7 @@
     {
       "ingredient_name": "小葱",
       "quantity": 1,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": "25g",
@@ -103,7 +103,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 2.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -113,7 +113,7 @@
     {
       "ingredient_name": "醋",
       "quantity": 2.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -163,7 +163,7 @@
     {
       "ingredient_name": "香油",
       "quantity": 2,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "调料中提及但未在食材列表中列出",

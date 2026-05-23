@@ -31,7 +31,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -41,7 +41,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -61,7 +61,7 @@
     {
       "ingredient_name": "芝麻香油",
       "quantity": 7.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 5,
         "max": 7.5

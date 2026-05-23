@@ -69,7 +69,7 @@
       "quantity": null,
       "quantity_description": "适量",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "盐",
@@ -93,7 +93,7 @@
       "quantity": 50.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "毫升"
+      "unit": "mL"
     },
     {
       "ingredient_name": "老抽",
@@ -105,7 +105,7 @@
       "quantity": 20.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "陈醋",
@@ -117,7 +117,7 @@
       "quantity": 50.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "蚝油",
@@ -129,7 +129,7 @@
       "quantity": 5.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "料酒",
@@ -141,7 +141,7 @@
       "quantity": 50.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "白糖",

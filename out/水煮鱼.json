@@ -69,7 +69,7 @@
       "quantity": 10.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "菜籽油",
@@ -81,7 +81,7 @@
       "quantity": 25.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "白胡椒粉",

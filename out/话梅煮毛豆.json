@@ -23,7 +23,7 @@
     {
       "ingredient_name": "话梅",
       "quantity": 6,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

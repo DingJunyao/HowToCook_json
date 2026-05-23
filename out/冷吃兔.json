@@ -61,7 +61,7 @@
     {
       "ingredient_name": "菜籽油",
       "quantity": 120,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 100,
         "max": 120

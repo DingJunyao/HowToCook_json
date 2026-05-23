@@ -76,7 +76,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -96,7 +96,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -106,7 +106,7 @@
     {
       "ingredient_name": "醋",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "可加速肉质软烂",
@@ -129,7 +129,7 @@
     {
       "ingredient_name": "开水",
       "quantity": 500,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "一次给足，之后不要再加水",

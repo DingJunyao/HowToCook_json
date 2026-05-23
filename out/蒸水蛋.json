@@ -31,7 +31,7 @@
     {
       "ingredient_name": "热水",
       "quantity": 130,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "温水，温度20~30℃",

@@ -21,7 +21,7 @@
     {
       "ingredient_name": "沸水",
       "quantity": 150,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 100,
         "max": 150

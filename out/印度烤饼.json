@@ -21,7 +21,7 @@
     {
       "ingredient_name": "酸奶",
       "quantity": 20,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -61,7 +61,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "和面用",
@@ -71,7 +71,7 @@
     {
       "ingredient_name": "温水",
       "quantity": 33.3,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "约40°C",

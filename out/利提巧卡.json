@@ -61,7 +61,7 @@
     {
       "ingredient_name": "芥末油",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "Mustard Oil，可用其他食用油替代，但建议使用芥末油",
@@ -71,7 +71,7 @@
     {
       "ingredient_name": "柠檬",
       "quantity": 2.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "柠檬汁",
@@ -141,7 +141,7 @@
     {
       "ingredient_name": "温水",
       "quantity": 50,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "用于和面",

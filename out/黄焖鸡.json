@@ -86,7 +86,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -116,7 +116,7 @@
     {
       "ingredient_name": "酱油",
       "quantity": 2.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

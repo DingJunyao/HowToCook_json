@@ -91,7 +91,7 @@
     {
       "ingredient_name": "黄酒或料酒",
       "quantity": 12,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "黄酒风味更醇厚",
@@ -101,7 +101,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -111,7 +111,7 @@
     {
       "ingredient_name": "老抽",
       "quantity": 2,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -171,7 +171,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 4,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 3.33,
         "max": 5

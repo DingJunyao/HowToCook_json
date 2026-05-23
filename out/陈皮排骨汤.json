@@ -46,7 +46,7 @@
     {
       "ingredient_name": "石斛",
       "quantity": 6,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

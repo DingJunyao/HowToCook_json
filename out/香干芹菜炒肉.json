@@ -93,7 +93,7 @@
     {
       "ingredient_name": "老抽",
       "quantity": 4,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -103,7 +103,7 @@
     {
       "ingredient_name": "蚝油",
       "quantity": 2.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -113,7 +113,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 7.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 5,
         "max": 7.5

@@ -144,7 +144,7 @@
     {
       "ingredient_name": "老抽",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "用于提色",
@@ -154,7 +154,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "用于提鲜",

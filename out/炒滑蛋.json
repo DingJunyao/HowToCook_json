@@ -13,7 +13,7 @@
     {
       "ingredient_name": "鸡蛋",
       "quantity": 4,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": "最好是无菌蛋",
@@ -23,7 +23,7 @@
     {
       "ingredient_name": "牛奶",
       "quantity": 30,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -33,7 +33,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "5ml搅拌用，5ml炒制用",

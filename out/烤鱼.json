@@ -44,7 +44,7 @@
       "quantity": 20.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "料酒",
@@ -59,7 +59,7 @@
         "max": 15.0,
         "min": 10.0
       },
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "盐",
@@ -221,7 +221,7 @@
       "quantity": 0.5,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "包"
+      "unit": "袋"
     },
     {
       "ingredient_name": "绿豆芽",
@@ -308,7 +308,7 @@
       "quantity": 5.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "孜然粉",

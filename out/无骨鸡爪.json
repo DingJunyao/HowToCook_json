@@ -136,7 +136,7 @@
     {
       "ingredient_name": "花椒油",
       "quantity": 3.3,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -146,7 +146,7 @@
     {
       "ingredient_name": "香菜",
       "quantity": 1,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -156,7 +156,7 @@
     {
       "ingredient_name": "柠檬",
       "quantity": 0.67,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": "以1颗为单位来调整酸度",

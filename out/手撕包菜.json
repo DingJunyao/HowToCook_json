@@ -16,7 +16,7 @@
     {
       "ingredient_name": "包菜",
       "quantity": 1,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -46,7 +46,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 60,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "分两次使用，每次 30 ml",
@@ -56,7 +56,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -66,7 +66,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -76,7 +76,7 @@
     {
       "ingredient_name": "香醋",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

@@ -43,7 +43,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 5,
         "max": 10

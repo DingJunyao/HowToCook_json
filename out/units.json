@@ -1,0 +1,227 @@
+[
+  {
+    "name": "个",
+    "aliases": []
+  },
+  {
+    "name": "根",
+    "aliases": []
+  },
+  {
+    "name": "片",
+    "aliases": [
+      "片"
+    ]
+  },
+  {
+    "name": "块",
+    "aliases": [
+      "块"
+    ]
+  },
+  {
+    "name": "勺",
+    "aliases": [
+      "勺",
+      "汤匙"
+    ]
+  },
+  {
+    "name": "茶匙",
+    "aliases": [
+      "tsp",
+      "小勺",
+      "茶匙"
+    ]
+  },
+  {
+    "name": "瓣",
+    "aliases": [
+      "瓣"
+    ]
+  },
+  {
+    "name": "段",
+    "aliases": []
+  },
+  {
+    "name": "滴",
+    "aliases": [
+      "滴"
+    ]
+  },
+  {
+    "name": "把",
+    "aliases": [
+      "把"
+    ]
+  },
+  {
+    "name": "张",
+    "aliases": [
+      "张"
+    ]
+  },
+  {
+    "name": "袋",
+    "aliases": [
+      "包",
+      "袋"
+    ]
+  },
+  {
+    "name": "杯",
+    "aliases": [
+      "杯"
+    ]
+  },
+  {
+    "name": "cm",
+    "aliases": [
+      "厘米"
+    ]
+  },
+  {
+    "name": "份",
+    "aliases": []
+  },
+  {
+    "name": "叶",
+    "aliases": []
+  },
+  {
+    "name": "圈",
+    "aliases": []
+  },
+  {
+    "name": "头",
+    "aliases": []
+  },
+  {
+    "name": "小块",
+    "aliases": []
+  },
+  {
+    "name": "小把",
+    "aliases": []
+  },
+  {
+    "name": "小片",
+    "aliases": []
+  },
+  {
+    "name": "小碗",
+    "aliases": []
+  },
+  {
+    "name": "撮",
+    "aliases": []
+  },
+  {
+    "name": "斤",
+    "aliases": []
+  },
+  {
+    "name": "朵",
+    "aliases": []
+  },
+  {
+    "name": "枚",
+    "aliases": []
+  },
+  {
+    "name": "株",
+    "aliases": []
+  },
+  {
+    "name": "棵",
+    "aliases": []
+  },
+  {
+    "name": "盒",
+    "aliases": []
+  },
+  {
+    "name": "碗",
+    "aliases": []
+  },
+  {
+    "name": "粒",
+    "aliases": []
+  },
+  {
+    "name": "罐",
+    "aliases": []
+  },
+  {
+    "name": "节",
+    "aliases": []
+  },
+  {
+    "name": "只",
+    "aliases": [
+      "只"
+    ]
+  },
+  {
+    "name": "颗",
+    "aliases": [
+      "颗"
+    ]
+  },
+  {
+    "name": "大勺",
+    "aliases": [
+      "大勺"
+    ]
+  },
+  {
+    "name": "条",
+    "aliases": [
+      "条"
+    ]
+  },
+  {
+    "name": "寸",
+    "aliases": [
+      "寸"
+    ]
+  },
+  {
+    "name": "mL",
+    "aliases": [
+      "mL",
+      "ml",
+      "毫升"
+    ]
+  },
+  {
+    "name": "L",
+    "aliases": [
+      "L",
+      "升"
+    ]
+  },
+  {
+    "name": "g",
+    "aliases": [
+      "g",
+      "克"
+    ]
+  },
+  {
+    "name": "mg",
+    "aliases": [
+      "mg",
+      "毫克"
+    ]
+  },
+  {
+    "name": "kg",
+    "aliases": [
+      "kg",
+      "公斤",
+      "千克"
+    ]
+  }
+]

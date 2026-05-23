@@ -44,7 +44,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -64,7 +64,7 @@
     {
       "ingredient_name": "酱油",
       "quantity": 30,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -84,7 +84,7 @@
     {
       "ingredient_name": "麻油",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -94,7 +94,7 @@
     {
       "ingredient_name": "番茄酱",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -104,7 +104,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

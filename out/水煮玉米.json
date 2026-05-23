@@ -21,7 +21,7 @@
     {
       "ingredient_name": "水",
       "quantity": 300,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "淹过玉米约半节指头的水",

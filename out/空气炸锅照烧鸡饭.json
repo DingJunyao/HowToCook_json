@@ -23,7 +23,7 @@
     {
       "ingredient_name": "酱油",
       "quantity": 125,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 100,
         "max": 125
@@ -49,7 +49,7 @@
     {
       "ingredient_name": "白醋",
       "quantity": 35,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 30,
         "max": 35

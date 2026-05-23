@@ -54,7 +54,7 @@
     {
       "ingredient_name": "温水",
       "quantity": 3,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "约30°C，用于化开酒曲",
@@ -74,7 +74,7 @@
     {
       "ingredient_name": "清水",
       "quantity": 71,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": "用于二次发酵，增加酒酿产量",

@@ -73,7 +73,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 10,
         "max": 20
@@ -86,7 +86,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 25,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -106,7 +106,7 @@
     {
       "ingredient_name": "米醋",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -126,7 +126,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 10,
         "max": 15
@@ -159,7 +159,7 @@
     {
       "ingredient_name": "清水",
       "quantity": 450,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

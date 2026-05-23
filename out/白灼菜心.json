@@ -96,7 +96,7 @@
     {
       "ingredient_name": "清水",
       "quantity": 300,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "煮菜250ml，料汁50ml",

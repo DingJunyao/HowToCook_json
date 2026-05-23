@@ -61,7 +61,7 @@
     {
       "ingredient_name": "全脂牛奶",
       "quantity": 150,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -71,7 +71,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 6,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -81,7 +81,7 @@
     {
       "ingredient_name": "辣椒油",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -91,7 +91,7 @@
     {
       "ingredient_name": "醋",
       "quantity": 20,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": "如果不能吃酸，可以不加",
@@ -101,7 +101,7 @@
     {
       "ingredient_name": "花椒油",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -111,7 +111,7 @@
     {
       "ingredient_name": "水",
       "quantity": 500,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "烹饪用水",

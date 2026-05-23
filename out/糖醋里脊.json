@@ -61,7 +61,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 10.0,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -91,7 +91,7 @@
     {
       "ingredient_name": "番茄酱",
       "quantity": 30.0,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -121,7 +121,7 @@
     {
       "ingredient_name": "清水",
       "quantity": 150.0,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "调酱用",
@@ -131,7 +131,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": null,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "炸制用，适量",

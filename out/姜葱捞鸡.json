@@ -71,7 +71,7 @@
     {
       "ingredient_name": "油",
       "quantity": 17.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "其中2.5ml用于腌制，15ml用于制作姜葱油",

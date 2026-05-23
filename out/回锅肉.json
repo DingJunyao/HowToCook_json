@@ -73,7 +73,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 5.0,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -83,7 +83,7 @@
     {
       "ingredient_name": "豆瓣酱",
       "quantity": 10.0,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -103,7 +103,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 5.0,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

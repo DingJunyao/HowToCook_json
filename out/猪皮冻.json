@@ -63,7 +63,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 12.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -73,7 +73,7 @@
     {
       "ingredient_name": "老抽",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "用于上色",
@@ -103,7 +103,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 12.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "用于焯水",

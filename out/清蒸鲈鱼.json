@@ -22,7 +22,7 @@
       "quantity": 1.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "条"
+      "unit": "根"
     },
     {
       "ingredient_name": "香葱",
@@ -61,7 +61,7 @@
         "max": 15.0,
         "min": 10.0
       },
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "蒸鱼豉油",
@@ -76,7 +76,7 @@
         "max": 15.0,
         "min": 10.0
       },
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "料酒",
@@ -91,7 +91,7 @@
         "max": 15.0,
         "min": 10.0
       },
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "盐",

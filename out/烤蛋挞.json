@@ -13,7 +13,7 @@
     {
       "ingredient_name": "蛋挞皮",
       "quantity": 1,
-      "unit": "只",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

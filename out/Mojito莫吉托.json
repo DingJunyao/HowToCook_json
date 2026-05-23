@@ -31,7 +31,7 @@
     {
       "ingredient_name": "糖浆",
       "quantity": 20,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -41,7 +41,7 @@
     {
       "ingredient_name": "金色朗姆酒",
       "quantity": 45,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -51,7 +51,7 @@
     {
       "ingredient_name": "伏特加",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "蓝天原味",
@@ -71,7 +71,7 @@
     {
       "ingredient_name": "苏打水",
       "quantity": 100,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "冰镇",

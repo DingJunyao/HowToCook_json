@@ -33,7 +33,7 @@
     {
       "ingredient_name": "香油",
       "quantity": 4,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 2,
         "max": 4
@@ -46,7 +46,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 8,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "也可用味极鲜替代",
@@ -56,7 +56,7 @@
     {
       "ingredient_name": "白醋",
       "quantity": 2,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": "也可用料酒替代，用于去腥",
@@ -76,7 +76,7 @@
     {
       "ingredient_name": "纯净水",
       "quantity": 80,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 60,
         "max": 80

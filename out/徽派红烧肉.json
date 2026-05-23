@@ -34,7 +34,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 200,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "分两次使用，第一次150ml，第二次50ml",
@@ -44,7 +44,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -54,7 +54,7 @@
     {
       "ingredient_name": "蚝油",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -64,7 +64,7 @@
     {
       "ingredient_name": "老抽",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -84,7 +84,7 @@
     {
       "ingredient_name": "蒜头",
       "quantity": 3,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -94,7 +94,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 100,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

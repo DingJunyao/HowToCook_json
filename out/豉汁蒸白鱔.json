@@ -23,7 +23,7 @@
     {
       "ingredient_name": "豆豉",
       "quantity": 1,
-      "unit": "汤匙",
+      "unit": "勺",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -63,7 +63,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 1.5,
-      "unit": "汤匙",
+      "unit": "勺",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -103,7 +103,7 @@
     {
       "ingredient_name": "水",
       "quantity": 1,
-      "unit": "汤匙",
+      "unit": "勺",
       "quantity_range": null,
       "is_optional": false,
       "note": "调酱汁用",

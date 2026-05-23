@@ -90,7 +90,7 @@
     {
       "ingredient_name": "水",
       "quantity": 250,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 200,
         "max": 250

@@ -11,7 +11,7 @@
     {
       "ingredient_name": "泡面",
       "quantity": 1,
-      "unit": "包",
+      "unit": "袋",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -21,7 +21,7 @@
     {
       "ingredient_name": "水",
       "quantity": 1000,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 550,
         "max": 1000

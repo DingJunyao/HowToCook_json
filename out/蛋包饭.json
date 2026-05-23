@@ -91,7 +91,7 @@
     {
       "ingredient_name": "番茄酱",
       "quantity": 20,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "用于炒饭和装饰",
@@ -101,7 +101,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "建议使用植物油，炒饭用 10ml，煎蛋皮用 5ml",
@@ -111,7 +111,7 @@
     {
       "ingredient_name": "牛奶",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": "与鸡蛋混合，让蛋皮更嫩",

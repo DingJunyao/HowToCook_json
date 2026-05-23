@@ -43,7 +43,7 @@
     {
       "ingredient_name": "菜籽油",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "其他植物油也可",

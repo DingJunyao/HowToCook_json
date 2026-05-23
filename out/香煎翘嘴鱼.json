@@ -92,7 +92,7 @@
       "quantity": 2.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "白糖",
@@ -128,7 +128,7 @@
       "quantity": 100.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "生抽",
@@ -140,7 +140,7 @@
       "quantity": 4.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "盐",
@@ -164,7 +164,7 @@
       "quantity": 100.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "干辣椒",
@@ -215,7 +215,7 @@
       "quantity": null,
       "quantity_description": "适量",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     }
   ],
   "steps": [

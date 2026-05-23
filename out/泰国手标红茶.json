@@ -13,7 +13,7 @@
     {
       "ingredient_name": "水",
       "quantity": 600,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -43,7 +43,7 @@
     {
       "ingredient_name": "牛奶",
       "quantity": 18,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

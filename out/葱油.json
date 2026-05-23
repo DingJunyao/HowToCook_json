@@ -41,7 +41,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

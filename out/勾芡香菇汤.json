@@ -55,7 +55,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -65,7 +65,7 @@
     {
       "ingredient_name": "开水",
       "quantity": 300,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "煮制用",
@@ -85,7 +85,7 @@
     {
       "ingredient_name": "水",
       "quantity": 50,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "用于制作水淀粉",

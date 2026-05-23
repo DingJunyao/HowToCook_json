@@ -81,7 +81,7 @@
       "quantity": 30.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "盐",
@@ -117,7 +117,7 @@
       "quantity": 15.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "克"
+      "unit": "g"
     },
     {
       "ingredient_name": "老抽",
@@ -129,7 +129,7 @@
       "quantity": 3.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "克"
+      "unit": "g"
     },
     {
       "ingredient_name": "陈醋",
@@ -141,7 +141,7 @@
       "quantity": 3.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "克"
+      "unit": "g"
     },
     {
       "ingredient_name": "黑胡椒粉",
@@ -165,7 +165,7 @@
       "quantity": 15.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "克"
+      "unit": "g"
     },
     {
       "ingredient_name": "八角",
@@ -213,7 +213,7 @@
       "quantity": 500.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "毫升"
+      "unit": "mL"
     }
   ],
   "steps": [

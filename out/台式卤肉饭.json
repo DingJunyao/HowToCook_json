@@ -52,7 +52,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 6.3,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 5,
         "max": 7.5
@@ -65,7 +65,7 @@
     {
       "ingredient_name": "生抽酱油",
       "quantity": 31.3,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 25,
         "max": 37.5
@@ -78,7 +78,7 @@
     {
       "ingredient_name": "米酒",
       "quantity": 14.6,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 11.7,
         "max": 17.5
@@ -117,7 +117,7 @@
     {
       "ingredient_name": "八角",
       "quantity": 0.4,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": {
         "min": 0.3,
         "max": 0.5
@@ -179,7 +179,7 @@
     {
       "ingredient_name": "水",
       "quantity": 50,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": "炖煮过程中如过干可添加",

@@ -71,7 +71,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 12,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "可用酥油替代",
@@ -151,7 +151,7 @@
     {
       "ingredient_name": "水",
       "quantity": 240,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "煮红芸豆用",
@@ -181,7 +181,7 @@
     {
       "ingredient_name": "水",
       "quantity": 160,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "蒸米饭用",

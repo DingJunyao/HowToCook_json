@@ -153,7 +153,7 @@
         "max": 50.0,
         "min": 30.0
       },
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "海鲜酱",
@@ -261,7 +261,7 @@
       "quantity": 15.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "生抽",
@@ -273,7 +273,7 @@
       "quantity": 20.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "老抽",
@@ -285,7 +285,7 @@
       "quantity": 5.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "啤酒",
@@ -297,7 +297,7 @@
       "quantity": 200.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "清水",
@@ -309,7 +309,7 @@
       "quantity": 800.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     }
   ],
   "steps": [

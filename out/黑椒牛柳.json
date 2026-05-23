@@ -92,7 +92,7 @@
     {
       "ingredient_name": "花生油",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 8,
         "max": 12

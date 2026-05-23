@@ -37,7 +37,7 @@
     {
       "ingredient_name": "香油",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -47,7 +47,7 @@
     {
       "ingredient_name": "蚝油",
       "quantity": 7,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -57,7 +57,7 @@
     {
       "ingredient_name": "味极鲜",
       "quantity": 3,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

@@ -71,7 +71,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "炒制用",
@@ -161,7 +161,7 @@
     {
       "ingredient_name": "水",
       "quantity": 167,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "煮鹰嘴豆用",
@@ -181,7 +181,7 @@
     {
       "ingredient_name": "酸奶",
       "quantity": 20,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "和面用",
@@ -191,7 +191,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "和面用",
@@ -211,7 +211,7 @@
     {
       "ingredient_name": "温水",
       "quantity": 20,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "和面用",
@@ -221,7 +221,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 167,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "炸饼用",

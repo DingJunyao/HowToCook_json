@@ -51,7 +51,7 @@
     {
       "ingredient_name": "蒜水",
       "quantity": 30,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -61,7 +61,7 @@
     {
       "ingredient_name": "肉汤汁",
       "quantity": 30,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -81,7 +81,7 @@
     {
       "ingredient_name": "芝麻酱",
       "quantity": 40,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -91,7 +91,7 @@
     {
       "ingredient_name": "辣椒油",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 0,
         "max": 10
@@ -117,7 +117,7 @@
     {
       "ingredient_name": "酱油",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

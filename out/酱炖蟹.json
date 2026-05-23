@@ -60,7 +60,7 @@
       "quantity": 15.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "菜油",
@@ -72,7 +72,7 @@
       "quantity": 20.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "番茄酱",
@@ -84,7 +84,7 @@
       "quantity": 15.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "料酒",
@@ -96,7 +96,7 @@
       "quantity": 5.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "老姜",
@@ -132,7 +132,7 @@
       "quantity": 50.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "克"
+      "unit": "g"
     },
     {
       "ingredient_name": "猪肉末",
@@ -144,7 +144,7 @@
       "quantity": 50.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "克"
+      "unit": "g"
     },
     {
       "ingredient_name": "水",
@@ -156,7 +156,7 @@
       "quantity": 500.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "毫升"
+      "unit": "mL"
     }
   ],
   "steps": [

@@ -21,7 +21,7 @@
     {
       "ingredient_name": "色拉油或菜籽油",
       "quantity": 133.33,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "1000ml 原料可制作 7.5kg 火锅底料",
@@ -301,7 +301,7 @@
     {
       "ingredient_name": "白酒（52%VOL）",
       "quantity": 20,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "150ml 原料可制作 7.5kg 火锅底料",

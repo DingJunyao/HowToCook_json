@@ -61,7 +61,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 8,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "其中 3ml 用于腌制肉丝",
@@ -91,7 +91,7 @@
     {
       "ingredient_name": "水",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "用于调水淀粉勾芡",
@@ -101,7 +101,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

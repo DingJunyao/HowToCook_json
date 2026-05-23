@@ -21,7 +21,7 @@
     {
       "ingredient_name": "可乐",
       "quantity": 160,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "含糖或无糖均可",
@@ -54,7 +54,7 @@
     {
       "ingredient_name": "油",
       "quantity": 25,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -64,7 +64,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -74,7 +74,7 @@
     {
       "ingredient_name": "老抽",
       "quantity": 7.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "如果使用无糖可乐，追加 5 ml，如果不使用豆瓣酱，追加 5 ml",
@@ -84,7 +84,7 @@
     {
       "ingredient_name": "豆瓣酱",
       "quantity": 7.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": "可选",
@@ -94,7 +94,7 @@
     {
       "ingredient_name": "蚝油",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

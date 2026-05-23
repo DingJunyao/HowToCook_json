@@ -121,7 +121,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 262.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "500ml炸茄子油 + 25ml炒菜油",

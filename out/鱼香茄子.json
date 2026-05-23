@@ -75,7 +75,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -85,7 +85,7 @@
     {
       "ingredient_name": "老抽",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -95,7 +95,7 @@
     {
       "ingredient_name": "醋",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -105,7 +105,7 @@
     {
       "ingredient_name": "水淀粉",
       "quantity": 100,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -168,7 +168,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 300,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "用于炸茄子和炒菜，实际使用约 60-120ml，剩余可回收",

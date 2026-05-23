@@ -13,7 +13,7 @@
     {
       "ingredient_name": "水",
       "quantity": 2600,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

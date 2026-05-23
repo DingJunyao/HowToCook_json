@@ -13,7 +13,7 @@
     {
       "ingredient_name": "淡奶油",
       "quantity": 42,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "whipping cream, 35% M.E",
@@ -23,7 +23,7 @@
     {
       "ingredient_name": "椰树牌椰汁",
       "quantity": 83,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -33,7 +33,7 @@
     {
       "ingredient_name": "espresso 意式浓缩",
       "quantity": 12,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "不推荐用 fruity 的咖啡豆",
@@ -43,7 +43,7 @@
     {
       "ingredient_name": "椰子水",
       "quantity": 17,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "推荐 vita coco coconut water",

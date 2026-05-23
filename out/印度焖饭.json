@@ -21,7 +21,7 @@
     {
       "ingredient_name": "酸奶",
       "quantity": 25,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -91,7 +91,7 @@
     {
       "ingredient_name": "柠檬汁",
       "quantity": 3.75,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -121,7 +121,7 @@
     {
       "ingredient_name": "小豆蔻",
       "quantity": 0.75,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -131,7 +131,7 @@
     {
       "ingredient_name": "丁香",
       "quantity": 1,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -151,7 +151,7 @@
     {
       "ingredient_name": "八角",
       "quantity": 0.25,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -181,7 +181,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 12.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "炸洋葱用",
@@ -211,7 +211,7 @@
     {
       "ingredient_name": "牛奶",
       "quantity": 7.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "温牛奶，浸泡藏红花用",

@@ -21,7 +21,7 @@
     {
       "ingredient_name": "牛奶",
       "quantity": 50,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -61,7 +61,7 @@
     {
       "ingredient_name": "椰奶",
       "quantity": 150,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

@@ -47,7 +47,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 7.5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -57,7 +57,7 @@
     {
       "ingredient_name": "饮用水",
       "quantity": 25,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "用于炒制过程",

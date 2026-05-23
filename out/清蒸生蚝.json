@@ -30,7 +30,7 @@
       "quantity": 1000.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "葱",
@@ -42,7 +42,7 @@
       "quantity": 3.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "颗"
+      "unit": "个"
     },
     {
       "ingredient_name": "姜",
@@ -78,7 +78,7 @@
       "quantity": 6.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     }
   ],
   "steps": [

@@ -21,7 +21,7 @@
     {
       "ingredient_name": "啤酒",
       "quantity": 1000,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "可以买 500 ml 的罐装啤酒两瓶",
@@ -31,7 +31,7 @@
     {
       "ingredient_name": "青椒",
       "quantity": 2,
-      "unit": "条",
+      "unit": "根",
       "quantity_range": null,
       "is_optional": false,
       "note": "长度 10 厘米到 15 厘米之间都可以，切段或者切片都可以，2 厘米一段",
@@ -41,7 +41,7 @@
     {
       "ingredient_name": "红椒",
       "quantity": 1,
-      "unit": "条",
+      "unit": "根",
       "quantity_range": null,
       "is_optional": false,
       "note": "长度 10 厘米到 15 厘米之间都可以，切段或者切片都可以，2 厘米一段",
@@ -51,7 +51,7 @@
     {
       "ingredient_name": "大蒜",
       "quantity": 4,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": "拍散备用",
@@ -61,7 +61,7 @@
     {
       "ingredient_name": "生姜",
       "quantity": 3,
-      "unit": "厘米",
+      "unit": "cm",
       "quantity_range": null,
       "is_optional": false,
       "note": "拍散备用",
@@ -71,7 +71,7 @@
     {
       "ingredient_name": "小米辣",
       "quantity": 3,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": true,
       "note": "切两段即可，不吃辣的可以不用",
@@ -101,7 +101,7 @@
     {
       "ingredient_name": "草果",
       "quantity": 2,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": "拍散去仔备用",
@@ -111,7 +111,7 @@
     {
       "ingredient_name": "桂皮",
       "quantity": 4,
-      "unit": "厘米",
+      "unit": "cm",
       "quantity_range": null,
       "is_optional": false,
       "note": "一小片",
@@ -121,7 +121,7 @@
     {
       "ingredient_name": "八角",
       "quantity": 3,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -141,7 +141,7 @@
     {
       "ingredient_name": "干辣椒",
       "quantity": 6,
-      "unit": "条",
+      "unit": "根",
       "quantity_range": null,
       "is_optional": true,
       "note": "不吃辣可以不用",
@@ -151,7 +151,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 20,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "用于焯水去腥",
@@ -161,7 +161,7 @@
     {
       "ingredient_name": "花生油",
       "quantity": 60,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -171,7 +171,7 @@
     {
       "ingredient_name": "花椒",
       "quantity": 30,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -191,7 +191,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -201,7 +201,7 @@
     {
       "ingredient_name": "老抽",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

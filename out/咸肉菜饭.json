@@ -21,7 +21,7 @@
     {
       "ingredient_name": "水",
       "quantity": 312,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 300,
         "max": 325
@@ -74,7 +74,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": null,

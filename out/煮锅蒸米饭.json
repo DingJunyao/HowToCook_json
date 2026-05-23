@@ -13,7 +13,7 @@
     {
       "ingredient_name": "北方大米",
       "quantity": 150,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 100,
         "max": 200
@@ -26,7 +26,7 @@
     {
       "ingredient_name": "水",
       "quantity": 300,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 200,
         "max": 400

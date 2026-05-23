@@ -34,7 +34,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 30,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 20,
         "max": 30
@@ -67,7 +67,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "用于调味",
@@ -97,7 +97,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 5,
         "max": 10

@@ -54,7 +54,7 @@
       "quantity": 100.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "鸡蛋",
@@ -102,7 +102,7 @@
       "quantity": 30.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "开水",
@@ -114,7 +114,7 @@
       "quantity": 300.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     }
   ],
   "steps": [

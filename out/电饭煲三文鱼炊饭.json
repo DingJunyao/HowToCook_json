@@ -43,7 +43,7 @@
     {
       "ingredient_name": "水",
       "quantity": 50,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "根据电饭煲刻度适量添加",

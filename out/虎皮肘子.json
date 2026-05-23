@@ -24,7 +24,7 @@
     {
       "ingredient_name": "食用植物油",
       "quantity": 125,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "油炸用",
@@ -60,7 +60,7 @@
     {
       "ingredient_name": "老抽",
       "quantity": 1.25,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "上色用",
@@ -70,7 +70,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 3.75,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "调味用",
@@ -80,7 +80,7 @@
     {
       "ingredient_name": "白醋",
       "quantity": 3.75,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "去腥用",
@@ -146,7 +146,7 @@
     {
       "ingredient_name": "淀粉",
       "quantity": 3.75,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "用于调制水淀粉",
@@ -186,7 +186,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 5,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "去腥用",
@@ -196,7 +196,7 @@
     {
       "ingredient_name": "水",
       "quantity": 200,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "用于调制水淀粉",

@@ -21,7 +21,7 @@
     {
       "ingredient_name": "麻油",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -71,7 +71,7 @@
     {
       "ingredient_name": "水",
       "quantity": 1000,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "煮面用水",

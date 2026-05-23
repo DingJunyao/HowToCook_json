@@ -23,7 +23,7 @@
     {
       "ingredient_name": "蛋挞液",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "到达挞皮的 4/5 最佳",

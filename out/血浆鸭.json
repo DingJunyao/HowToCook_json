@@ -21,7 +21,7 @@
     {
       "ingredient_name": "鲜鸭血",
       "quantity": 83.33,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "宰杀鸭子时加醋接鸭血，用筷子顺时针搅拌防凝固",
@@ -74,7 +74,7 @@
     {
       "ingredient_name": "高度白酒",
       "quantity": 16.67,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "与水混合使用，也可选择啤酒或米酒",
@@ -84,7 +84,7 @@
     {
       "ingredient_name": "水",
       "quantity": 50,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "与白酒混合使用",
@@ -94,7 +94,7 @@
     {
       "ingredient_name": "啤酒",
       "quantity": 66.67,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": "可替代白酒加水或米酒",
@@ -104,7 +104,7 @@
     {
       "ingredient_name": "米酒",
       "quantity": 66.67,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": true,
       "note": "可替代白酒加水或啤酒",
@@ -114,7 +114,7 @@
     {
       "ingredient_name": "生抽",
       "quantity": 3.33,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -124,7 +124,7 @@
     {
       "ingredient_name": "料酒",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -167,7 +167,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 33.33,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

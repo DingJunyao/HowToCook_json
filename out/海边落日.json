@@ -13,7 +13,7 @@
     {
       "ingredient_name": "红石榴糖浆",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -23,7 +23,7 @@
     {
       "ingredient_name": "NFC 橙汁",
       "quantity": 50,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": {
         "min": 35,
         "max": 50
@@ -36,7 +36,7 @@
     {
       "ingredient_name": "苏打水",
       "quantity": 50,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -46,7 +46,7 @@
     {
       "ingredient_name": "白朗姆",
       "quantity": 30,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -56,7 +56,7 @@
     {
       "ingredient_name": "蓝橙力娇酒",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -66,7 +66,7 @@
     {
       "ingredient_name": "柠檬汁",
       "quantity": 15,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

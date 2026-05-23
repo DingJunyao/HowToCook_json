@@ -20,7 +20,7 @@
       "quantity": 1.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "千克"
+      "unit": "kg"
     },
     {
       "ingredient_name": "油",

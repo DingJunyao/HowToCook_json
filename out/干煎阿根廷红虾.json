@@ -23,7 +23,7 @@
         "max": 3.0,
         "min": 2.0
       },
-      "unit": "只"
+      "unit": "个"
     },
     {
       "ingredient_name": "海盐",
@@ -59,7 +59,7 @@
       "quantity": 20.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "生抽",
@@ -71,7 +71,7 @@
       "quantity": 1.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "ml"
+      "unit": "mL"
     },
     {
       "ingredient_name": "香菜",

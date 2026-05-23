@@ -93,7 +93,7 @@
     {
       "ingredient_name": "老抽",
       "quantity": 10,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": null,
@@ -123,7 +123,7 @@
     {
       "ingredient_name": "水",
       "quantity": 90,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "和面用",
@@ -133,7 +133,7 @@
     {
       "ingredient_name": "食用油",
       "quantity": 20,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "炒菜和抹面用",

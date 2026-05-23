@@ -11,7 +11,7 @@
     {
       "ingredient_name": "鸡蛋",
       "quantity": 1,
-      "unit": "颗",
+      "unit": "个",
       "quantity_range": {
         "min": 1,
         "max": 4
@@ -24,7 +24,7 @@
     {
       "ingredient_name": "水",
       "quantity": 350,
-      "unit": "ml",
+      "unit": "mL",
       "quantity_range": null,
       "is_optional": false,
       "note": "淹过鸡蛋约2公分",
