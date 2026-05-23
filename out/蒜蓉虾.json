@@ -1,9 +1,9 @@
 {
   "name": "蒜蓉虾",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/aquatic/蒜蓉虾/蒜蓉虾.md",
+  "source_file": "dishes\\aquatic\\蒜蓉虾\\蒜蓉虾.md",
   "category": "水产",
   "difficulty": "easy",
-  "total_time_minutes": 10,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": 1,
   "images": [
@@ -13,70 +13,75 @@
   "ingredients": [
     {
       "ingredient_name": "海虾",
-      "quantity": 150.0,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "8只，中型虾",
-      "original_quantity": "8 只",
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": 8.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "只"
     },
     {
       "ingredient_name": "蒜蓉酱",
-      "quantity": 50.0,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 50.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "食用油",
-      "quantity": 20.0,
-      "unit": "ml",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "ml"
     },
     {
       "ingredient_name": "生抽",
-      "quantity": 5.0,
-      "unit": "ml",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "ml"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "用刀从虾头中间切开，切到距离虾尾 1 cm",
-      "duration_minutes": 3,
-      "tips": null
+      "content": "用刀从从虾头中间切开，切到距离虾尾 1 cm",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "将蒜蓉酱铺在虾身中间，放在盘子中",
-      "duration_minutes": 2,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "锅中倒入热水，将盘子放入锅中，大火蒸 3 分钟",
-      "duration_minutes": 3,
-      "tips": null
+      "duration_minutes": 3.0,
+      "tips": ""
     },
     {
-      "step": 4,
       "content": "烧热油，倒入虾盘中，倒入生抽",
-      "duration_minutes": 2,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
-  "tips": []
+  "tips": [],
+  "description": "蒜蓉虾是广东省地方传统名菜，色香味俱全。"
 }

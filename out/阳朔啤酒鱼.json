@@ -1,0 +1,255 @@
+{
+  "category": "水产",
+  "description": "阳朔啤酒鱼是广西阳朔的地方名菜，选用漓江鲜鱼不去鳞，以啤酒代水焖煮，鱼鳞酥脆、鱼肉鲜嫩、啤酒香浓郁。一般 30 分钟即可完成。",
+  "difficulty": "medium",
+  "images": [
+    "images/阳朔啤酒鱼_0.png",
+    "images/阳朔啤酒鱼_1.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "剑骨鱼",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "让店家处理内脏，但不要刮鱼鳞；可用鲤鱼替代",
+      "original_quantity": "",
+      "quantity": 1.5,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "斤"
+    },
+    {
+      "ingredient_name": "啤酒",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "一瓶；漓泉啤酒，桂林本地啤酒，最正宗",
+      "original_quantity": "",
+      "quantity": 330.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "毫升"
+    },
+    {
+      "ingredient_name": "番茄",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "2 个",
+      "original_quantity": "",
+      "quantity": 300.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "克"
+    },
+    {
+      "ingredient_name": "青椒",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "2 个",
+      "original_quantity": "",
+      "quantity": 150.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "克"
+    },
+    {
+      "ingredient_name": "红椒",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "1 个",
+      "original_quantity": "",
+      "quantity": 80.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "克"
+    },
+    {
+      "ingredient_name": "大蒜",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "5~6 瓣",
+      "original_quantity": "",
+      "quantity": 30.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "克"
+    },
+    {
+      "ingredient_name": "生姜",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "1 块",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "克"
+    },
+    {
+      "ingredient_name": "葱",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "2 根",
+      "original_quantity": "",
+      "quantity": 40.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "克"
+    },
+    {
+      "ingredient_name": "桂林辣椒酱",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "克"
+    },
+    {
+      "ingredient_name": "料酒",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "毫升"
+    },
+    {
+      "ingredient_name": "生抽",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "毫升"
+    },
+    {
+      "ingredient_name": "老抽",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "毫升"
+    },
+    {
+      "ingredient_name": "白糖",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "克"
+    },
+    {
+      "ingredient_name": "食盐",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "克"
+    },
+    {
+      "ingredient_name": "食用油",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 30.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "毫升"
+    }
+  ],
+  "name": "阳朔啤酒鱼",
+  "servings": 1,
+  "source_file": "dishes\\aquatic\\阳朔啤酒鱼\\阳朔啤酒鱼.md",
+  "steps": [
+    {
+      "content": "鱼处理好内脏，保留鱼鳞，清洗干净，从腹部剖开成两半（背部相连），用 15ml 料酒、姜片、食盐 3g 腌制 15 分钟",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "番茄切块，青椒红椒切块，大蒜拍碎，生姜切片，葱切段（葱白葱叶分开）",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "用姜片擦拭锅底，热锅后倒入 30ml 食用油，油热后放入鱼（鱼皮朝下），煎至两面金黄、鱼鳞酥脆，盛出备用",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "锅中留底油，放入葱白、姜片、蒜瓣爆香",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "加入 15g 桂林辣椒酱，炒出红油",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "放入番茄块，翻炒至番茄出汁变软",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "倒入整瓶啤酒，加入 15ml 生抽、5ml 老抽、5g 白糖、5g 食盐，搅拌均匀",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "放入煎好的鱼，大火烧开后转中小火，盖上锅盖焖煮 15-20 分钟",
+      "duration_minutes": 20.0,
+      "tips": ""
+    },
+    {
+      "content": "开盖，放入青椒红椒块，继续煮 3-5 分钟",
+      "duration_minutes": 5.0,
+      "tips": ""
+    },
+    {
+      "content": "大火收汁至汤汁浓稠，撒上葱叶段，出锅装盘",
+      "duration_minutes": null,
+      "tips": ""
+    }
+  ],
+  "tips": [
+    "鱼鳞是这道菜的关键特色，一定要保留，煎炸后会变得酥脆可口",
+    "鱼剖成两半更容易煎透入味，比整条划刀效果更好",
+    "正宗做法使用桂林辣椒酱（非郫县豆瓣酱），搭配漓泉啤酒，没有桂林辣椒酱可以用蒜蓉辣酱代替",
+    "番茄要炒软出汁，这样汤汁更浓郁",
+    "汤汁不要收太干，留一些拌饭或拌面非常好吃",
+    "参考资料：[阳朔啤酒鱼的做法](https://www.bilibili.com/video/BV1rt4y1976z)"
+  ],
+  "total_time_minutes": null
+}
