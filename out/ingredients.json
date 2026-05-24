@@ -3272,7 +3272,9 @@
   },
   "红葱头": {
     "name": "红葱头",
-    "aliases": [],
+    "aliases": [
+      "火葱"
+    ],
     "category": "蔬菜",
     "usda_id": null,
     "usda_match_status": "unmatched"

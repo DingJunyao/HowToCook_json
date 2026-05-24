@@ -1,259 +1,359 @@
 {
   "name": "乡村啤酒鸭",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/乡村啤酒鸭.md",
+  "source_file": "dishes\\meat_dish\\乡村啤酒鸭.md",
   "category": "荤菜",
   "difficulty": "medium",
-  "total_time_minutes": 60,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": 1,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "鸭肉",
-      "quantity": 1000,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "半只，让市场老板剁成小块",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 1000.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "啤酒",
-      "quantity": 1000,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "可以买 500 ml 的罐装啤酒两瓶",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 1000.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "青椒",
-      "quantity": 2,
-      "unit": "根",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "长度 10 厘米到 15 厘米之间都可以，切段或者切片都可以，2 厘米一段",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "条"
     },
     {
       "ingredient_name": "红椒",
-      "quantity": 1,
-      "unit": "根",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "长度 10 厘米到 15 厘米之间都可以，切段或者切片都可以，2 厘米一段",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "条"
     },
     {
       "ingredient_name": "大蒜",
-      "quantity": 4,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "拍散备用",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 4.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "颗"
     },
     {
       "ingredient_name": "生姜",
-      "quantity": 3,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "拍散备用",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "厘米"
     },
     {
       "ingredient_name": "小米辣",
-      "quantity": 3,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
       "note": "切两段即可，不吃辣的可以不用",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "颗"
     },
     {
       "ingredient_name": "蒜苗",
-      "quantity": 2,
-      "unit": "根",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "切段备用",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "根"
     },
     {
       "ingredient_name": "大葱",
-      "quantity": 2,
-      "unit": "根",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "1 根切段，1 根备用",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "根"
     },
     {
       "ingredient_name": "草果",
-      "quantity": 2,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "拍散去仔备用",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "拍散去籽备用",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "颗"
     },
     {
       "ingredient_name": "桂皮",
-      "quantity": 4,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "一小片",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 4.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "厘米"
     },
     {
       "ingredient_name": "八角",
-      "quantity": 3,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "颗"
     },
     {
       "ingredient_name": "香叶",
-      "quantity": 3,
-      "unit": "片",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "片"
     },
     {
       "ingredient_name": "干辣椒",
-      "quantity": 6,
-      "unit": "根",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
       "note": "不吃辣可以不用",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 6.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "条"
     },
     {
       "ingredient_name": "料酒",
-      "quantity": 20,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "用于焯水去腥",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "花生油",
-      "quantity": 60,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 60.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "花椒",
-      "quantity": 30,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "一把",
+      "original_quantity": "",
+      "quantity": 30.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 3,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "生抽",
-      "quantity": 10,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "老抽",
-      "quantity": 5,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "鸭肉焯水以去腥去血水：鸭肉清洗一遍放进锅中，加清水淹没鸭肉，加 20 ml 料酒，加备用的 1 根大葱，加生姜（拍散的 2 厘米），开火烧滚，捞出浮沫，鸭肉捞出，清水洗干净备用",
-      "duration_minutes": 5,
-      "tips": "注意观察浮沫，及时撇去"
+      "content": "鸭肉清洗一遍放进锅中",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "锅清洗干净烧热，加 60 ml 的花生油",
-      "duration_minutes": 1,
-      "tips": "油温不宜过高，避免糊锅"
+      "content": "加清水淹没鸭肉",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "油温到 60 度的时候，加一把花椒（30 颗）",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "加 20 ml 料酒",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "加鸭肉翻炒 4 分钟，2 分钟后加入所有的香料，3 分钟的时候加入所有的料头（生姜、大蒜、小米辣）",
-      "duration_minutes": 4,
-      "tips": "持续翻炒，避免粘锅"
+      "content": "加备用的 1 根 大葱",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "加入 1000 ml 的啤酒，开始烧鸭肉",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "加生姜 ,拍散的 2 厘米",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 6,
-      "content": "烧鸭肉 30 分钟，10 分钟的时候加盐（3 克）、生抽（10 ml）、老抽（5 ml），20 分钟加入所有的辅料（青椒和红椒段），29 分钟加入蒜苗段和大葱段",
-      "duration_minutes": 30,
-      "tips": "注意观察沸腾的水位线，如发现低于 2/3 的食材应加热水或者加啤酒"
+      "content": "开火烧滚",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 7,
-      "content": "最后翻炒 1 分钟，出锅",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "捞出浮沫",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "鸭肉捞出,清水洗干净备用",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "锅清洗感觉烧热，加 60ml 的花生油",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "油温到 60 度的时候,加一把花椒（ 30 颗）",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "加鸭肉翻炒 4 分钟",
+      "duration_minutes": 4.0,
+      "tips": ""
+    },
+    {
+      "content": "2 分钟后加入所有的香料",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "3 分钟的时候加入所有的料头（生姜,大蒜,小米辣）",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "加入 1000 ml 的啤酒",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "烧鸭肉 30 分钟",
+      "duration_minutes": 30.0,
+      "tips": ""
+    },
+    {
+      "content": "10 分钟的时候加 盐 （3 克） 生抽( 10 ml ) 老抽( 5 ml)",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "20 分钟 加入所有的辅料 （青椒和红椒段）",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "29 分钟加入 蒜苗段 和 大葱段",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "翻炒 1 分钟",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "出锅",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
-    "操作时，需要注意观察沸腾的水位线，如发现低于 2/3 的食材应加热水或者加啤酒"
-  ]
+    "操作时，需要注意观察沸腾的水位线，如发现低于 2/3 的食材应加热水或者加啤酒。",
+    "厨师长：用土灶烧“乡村啤酒鸭”，味道安逸得不摆了(https://www.bilibili.com/video/BV1R4411u7po?spmidfrom=333.999.0.0)"
+  ],
+  "description": "将鸭肉与啤酒一同炖煮成菜，使滋补的鸭肉味道更加浓厚，鸭肉不仅入口鲜香，还带有一股啤酒清香。一般初学者只需要 1 小时即可完成。"
 }

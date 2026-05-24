@@ -1,9 +1,9 @@
 {
   "name": "冬瓜酿肉",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md",
+  "source_file": "dishes\\meat_dish\\冬瓜酿肉\\冬瓜酿肉.md",
   "category": "荤菜",
   "difficulty": "medium",
-  "total_time_minutes": 30,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": 2,
   "images": [
@@ -16,181 +16,191 @@
   ],
   "ingredients": [
     {
-      "ingredient_name": "猪肉末",
-      "quantity": 150.0,
-      "unit": "g",
-      "quantity_range": null,
+      "ingredient_name": "冬瓜",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 100.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
-      "ingredient_name": "冬瓜",
-      "quantity": 100.0,
-      "unit": "g",
-      "quantity_range": null,
+      "ingredient_name": "猪肉末",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 150.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "鸡蛋",
-      "quantity": 0.5,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
       "note": "不习惯的人可能会有点腥",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 0.5,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
-      "ingredient_name": "葱花",
-      "quantity": 10.0,
-      "unit": "g",
-      "quantity_range": null,
+      "ingredient_name": "葱",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "约半根，其中葱白部分用于葱姜末",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "1 根；分为葱花和葱白末",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "姜",
-      "quantity": 15.0,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "约3-4片，用于葱姜末",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "末，3-4 片",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "胡椒粉",
-      "quantity": 2.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "生抽",
-      "quantity": 5.0,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "淀粉",
-      "quantity": 14.0,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "其中2.5g用于肉馅，11.5g用于水淀粉",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "25 g 用于水淀粉",
+      "original_quantity": "",
+      "quantity": 30.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 10.0,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "其中7.5g用于腌制冬瓜，2.5g用于肉馅",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
-      "ingredient_name": "清水",
-      "quantity": 37.5,
-      "unit": "mL",
-      "quantity_range": null,
+      "ingredient_name": "水",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "用于制作水淀粉",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "50 mL 用于水淀粉",
+      "original_quantity": "",
+      "quantity": 100.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "冬瓜去皮，切成约5cm长、3cm厚的片",
-      "duration_minutes": 3,
-      "tips": null
+      "content": "冬瓜去皮，切成 25cm 长 3cm 厚的片",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "将切好的冬瓜放入碗中，放入7.5g盐，将冬瓜抹匀，放置10分钟",
-      "duration_minutes": 10,
-      "tips": null
+      "content": "将切好的冬瓜放入碗中，放入 15g 盐，将冬瓜抹匀，放置 10 分钟",
+      "duration_minutes": 10.0,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "换个碗放入肉末、葱姜末、2.5g盐、2.5g淀粉、胡椒粉、生抽",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "放置冬瓜的同时，换个碗放入肉末，葱姜末， 5g 盐，淀粉 5g，胡椒粉，生抽，胡椒粉",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "使用筷子在肉末中进行顺时针搅拌，搅拌到食材颜色没有明显对比（约2分钟）",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "使用筷子在肉末中进行顺时针搅拌，搅拌到食材颜色没有明显对比（约 2 分钟）",
+      "duration_minutes": 2.0,
+      "tips": ""
     },
     {
-      "step": 5,
       "content": "将腌制好的冬瓜（会变软）使用清水洗三遍",
-      "duration_minutes": 3,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 6,
-      "content": "拿出1片冬瓜片卷起来，并把肉塞进去",
-      "duration_minutes": 3,
-      "tips": null
+      "content": "拿出 1 片冬瓜片卷起来，并把肉塞进去",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 7,
       "content": "放入碟子中摆到碟子的边缘",
-      "duration_minutes": 1,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 8,
-      "content": "打入0.5个鸡蛋到中间圆圈处",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "打入 1 个鸡蛋到中间圆圈处",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 9,
-      "content": "放入普通铁锅中水烧开后，蒸15分钟，盖上锅盖",
-      "duration_minutes": 15,
-      "tips": null
+      "content": "放入普通铁锅中水烧开后，蒸 15 分钟，盖上锅盖",
+      "duration_minutes": 15.0,
+      "tips": ""
     },
     {
-      "step": 10,
       "content": "开盖，取出蒸好的冬瓜酿肉",
-      "duration_minutes": 1,
-      "tips": "注意碟子很烫，小心操作"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 11,
-      "content": "将冬瓜酿肉碟子的水倒入锅中，放入水淀粉（11.5g淀粉+25ml清水），加入25ml清水倒入锅中烧开",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "将冬瓜酿肉碟子的水倒入锅中，放入水淀粉，加入 50ml 清水倒入锅中烧开",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 12,
       "content": "淋到冬瓜酿肉上",
-      "duration_minutes": 1,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
-    "操作时，拿出冬瓜酿肉时注意碟子很烫，小心操作"
-  ]
+    "操作时，拿出冬瓜酿肉时注意碟子很烫，小心操作。",
+    "参考资料：b站视频(https://www.bilibili.com/video/BV1oF411F7wD?spmidfrom=333.337.search-card.all.click&vd_source=9f568660d497311d3f945e5dce319705)"
+  ],
+  "description": "荤素搭配，鲜嫩爽滑,做法简单。一般 30 分钟。"
 }
