@@ -1,51 +1,48 @@
 {
   "name": "空气炸锅面包片",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/空气炸锅面包片.md",
+  "source_file": "dishes\\breakfast\\空气炸锅面包片.md",
   "category": "主食",
   "difficulty": "simple",
-  "total_time_minutes": 5,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": null,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "面包片",
-      "quantity": 2,
-      "unit": "片",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "建议使用粗粮面包片",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "片"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "取出两片面包片（建议使用粗粮面包片）",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "将面包片垂直放入空气炸锅",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "200°C 烘烤 5 分钟",
-      "duration_minutes": 5,
-      "tips": null
+      "duration_minutes": 5.0,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "取出即可食用",
+      "content": "取出即可使用",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     }
   ],
-  "tips": [
-    "营养成分表（数据基于全麦面包片）：热量 254 千卡、蛋白质 12.3 克、脂肪 3.5 克、碳水化合物 43.1 克、膳食纤维 6.0 克"
-  ]
+  "tips": [],
+  "description": "健康饱肚子，适宜正在减脂期的程序员食用"
 }

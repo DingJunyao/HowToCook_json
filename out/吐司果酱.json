@@ -1,73 +1,72 @@
 {
   "name": "吐司果酱",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/吐司果酱.md",
+  "source_file": "dishes\\breakfast\\吐司果酱.md",
   "category": "早餐",
   "difficulty": "simple",
-  "total_time_minutes": 2,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": null,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "吐司",
-      "quantity": 2,
-      "unit": "片",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "片"
     },
     {
       "ingredient_name": "果酱",
-      "quantity": 20,
-      "unit": "g",
-      "quantity_range": {
-        "min": 15,
-        "max": 30
-      },
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": false,
       "note": "涂满一面吐司的量",
-      "original_quantity": "足够涂满一面吐司的量",
-      "is_estimated": true
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "g"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "将吐司放入面包机",
-      "duration_minutes": 0,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "设置好档位,时间到了会自动弹出",
-      "duration_minutes": 2,
-      "tips": "设置档位后吐司会自动弹出"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "两分钟后吐司加热完成弹出",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 4,
       "content": "先取出一片吐司,涂满果酱再盖上另一片吐司即可",
-      "duration_minutes": 1,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
       "content": "用餐巾纸包一下可以边走边吃也可以吃完再出门",
       "duration_minutes": null,
-      "tips": "适合边走边吃"
+      "tips": ""
+    },
+    {
+      "content": "两分钟快速搞定,操作很简单,味道十分美味,十分适合程序员。耗时短,不会产生额外垃圾,也不需要清洗工具什么的。",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
-    "耗时短,不会产生额外垃圾,也不需要清洗工具",
-    "面包机一般不会超过一百块",
-    "吐司去楼下超市或美团买菜送上门,一般一包十块钱八片,保质期比较短,很干净卫生",
-    "十分适合程序员"
-  ]
+    "面包机一般不会超过一百块，吐司去楼下超市或美团买菜送上门，一般一包十块钱八片，保质期比较短，很干净卫生。"
+  ],
+  "description": ""
 }

@@ -1,9 +1,9 @@
 {
   "name": "苏格兰蛋",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/苏格兰蛋/苏格兰蛋.md",
+  "source_file": "dishes\\breakfast\\苏格兰蛋\\苏格兰蛋.md",
   "category": "荤菜",
   "difficulty": "medium",
-  "total_time_minutes": 25,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": 1,
   "images": [
@@ -14,107 +14,106 @@
   "ingredients": [
     {
       "ingredient_name": "鸡蛋",
-      "quantity": 50,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "约 1 颗",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 50.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "手抓饼",
-      "quantity": 1.5,
-      "unit": "份",
-      "quantity_range": {
-        "min": 1,
-        "max": 2
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "看鸡蛋大小",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 2.0,
+        "min": 1.0
+      },
+      "unit": "份"
     },
     {
       "ingredient_name": "芝士片",
-      "quantity": 1.5,
-      "unit": "片",
-      "quantity_range": {
-        "min": 1,
-        "max": 2
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 2.0,
+        "min": 1.0
+      },
+      "unit": "片"
     },
     {
       "ingredient_name": "培根片",
-      "quantity": 1.5,
-      "unit": "片",
-      "quantity_range": {
-        "min": 1,
-        "max": 2
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 2.0,
+        "min": 1.0
+      },
+      "unit": "g"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "用冷水下锅水开 3 分钟后捞出",
-      "duration_minutes": 3,
-      "tips": null
+      "duration_minutes": 3.0,
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "鸡蛋捞出，放入冰水中剥壳更快速也更完整",
       "duration_minutes": null,
-      "tips": "放入冰水中剥壳更快速也更完整"
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "用芝士片包裹鸡蛋",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 4,
       "content": "培根片包裹鸡蛋",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 5,
       "content": "手抓饼两端切除以矩形包裹鸡蛋",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 6,
       "content": "油温 6 成下锅，炸制金黄即可",
-      "duration_minutes": 5,
+      "duration_minutes": null,
       "tips": "油面波动，有青烟，筷子插入油中周围泛起气泡即是 6 成温度"
     },
     {
-      "step": 7,
       "content": "空气炸锅 160 度 15 分钟",
-      "duration_minutes": 15,
-      "tips": null
+      "duration_minutes": 15.0,
+      "tips": ""
     },
     {
-      "step": 8,
       "content": "切开即可食用",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     }
   ],
   "tips": [
-    "放入冰水中剥壳更快速也更完整",
-    "油面波动，有青烟，筷子插入油中周围泛起气泡即是 6 成温度",
     "芝士片、培根片、手抓饼直接淘宝购买即可"
-  ]
+  ],
+  "description": "苏格兰蛋是一种用新鲜肉糜裹住鸡蛋，放入油中炸至金黄制成，这个版本比较费事，所以在此就给大家带来简易版,苏格兰蛋复杂版大家就自行查找。\n\n简易版苏格兰蛋是利用手抓饼皮包裹住芝士培根糖心蛋放入油中炸至金黄制成，大约耗时 20-30 分钟。"
 }

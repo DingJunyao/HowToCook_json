@@ -1,81 +1,88 @@
 {
   "name": "美式炒蛋",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/美式炒蛋.md",
+  "source_file": "dishes\\breakfast\\美式炒蛋.md",
   "category": "早餐",
   "difficulty": "easy",
-  "total_time_minutes": 20,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": 1,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "鸡蛋",
-      "quantity": 3,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "全脂牛奶",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "可使用奶油替代",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "黄油",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 1,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "鸡蛋打入大碗中，加盐搅打至起泡，静置 15 分钟",
-      "duration_minutes": 15,
-      "tips": null
+      "duration_minutes": 15.0,
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "黄油切小块入锅，倒入蛋液，开小火不断搅拌",
-      "duration_minutes": 3,
-      "tips": "使用平底锅（不粘锅）"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "黄油一融化，就快速翻动蛋液，将其打碎成细密状，在蛋液大体凝固前关火",
-      "duration_minutes": 2,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
       "content": "加入牛奶搅拌 15 秒，至炒蛋湿润绵密，装盘",
-      "duration_minutes": 1,
-      "tips": "考虑使用口径较小的锅，更方便在锅中均匀搅拌"
+      "duration_minutes": 0.25,
+      "tips": ""
     }
   ],
   "tips": [
-    "想吃的更丰富可以在最后一步加上炒好的番茄丁、洋葱丁、培根丁、切好的芝士小丁等（不要再出水的食材）"
-  ]
+    "想吃的更丰富可以在最后一步那里加上炒好的番茄丁，洋葱丁，培根丁，切好的芝士小丁，等等。(总之不会再出水的东东）",
+    "使用平底锅（不粘锅）。",
+    "考虑到很多人是一人食就炒一两个鸡蛋，口径比较小的锅或许更方便在锅中均匀搅拌。"
+  ],
+  "description": "美式炒蛋具有松软鲜嫩的口感,与平时的炒蛋不同,美式炒蛋中加入了少量牛奶,使得蛋花更加的细密均匀,并且营养丰富~"
 }

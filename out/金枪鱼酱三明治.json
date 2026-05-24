@@ -1,111 +1,120 @@
 {
   "name": "金枪鱼酱三明治",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/金枪鱼酱三明治.md",
+  "source_file": "dishes\\breakfast\\金枪鱼酱三明治.md",
   "category": "早餐",
   "difficulty": "simple",
-  "total_time_minutes": 5,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": null,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "水浸金枪鱼",
-      "quantity": 65,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "不建议用油浸，会很腻",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "罐头。不建议用油浸，会很腻",
+      "original_quantity": "",
+      "quantity": 65.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
-      "ingredient_name": "方形吐司片",
-      "quantity": 2,
-      "unit": "片",
-      "quantity_range": null,
+      "ingredient_name": "吐司",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "方形吐司片",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "片"
     },
     {
       "ingredient_name": "蛋黄酱",
-      "quantity": 50,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 50.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "俄式酸黄瓜汁",
-      "quantity": 15,
-      "unit": "mL",
-      "quantity_range": {
-        "min": 10,
-        "max": 15
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "可根据个人口味调整",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 15.0,
+        "min": 10.0
+      },
+      "unit": "mL"
     },
     {
       "ingredient_name": "芝士片",
-      "quantity": 1,
-      "unit": "片",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": true,
-      "note": null,
-      "original_quantity": "适量",
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "片"
     },
     {
       "ingredient_name": "火腿片",
-      "quantity": 1,
-      "unit": "片",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": true,
-      "note": null,
-      "original_quantity": "适量",
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "片"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "将金枪鱼、蛋黄酱、俄式酸黄瓜汁倒入碗中，用勺子搅拌，保证将金枪鱼块搅碎，酱整体呈糊状，并备用",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "将 1 片吐司放在轻食机上",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "将做好的金枪鱼酱涂抹到吐司上，建议 10-15ml",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 4,
       "content": "将另一片方形吐司片覆盖在上面，并按压轻食机，开机",
       "duration_minutes": null,
-      "tips": "注意在按压操作之前不要将轻食机电源接通，以免引发安全问题"
+      "tips": ""
     },
     {
-      "step": 5,
       "content": "待轻食机自动停止加热，即可装盘使用",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     }
   ],
   "tips": [
     "金枪鱼酱可以在前一天晚上在冰箱冷藏",
-    "金枪鱼酱建议冷藏时间不超过一周，切需要使用保鲜膜盖住"
-  ]
+    "金枪鱼酱建议冷藏时间不超过一周，切需要使用保鲜膜盖住",
+    "注意在按压操作之前不要将轻食机电源接通，以免引发安全问题"
+  ],
+  "description": "饱腹感很强的懒人早餐，营养很丰富，高蛋白，大概 5 分钟搞定。可以配着牛奶、咖啡等饮品一起吃。"
 }

@@ -1,6 +1,6 @@
 {
   "name": "蒜香酱油",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/condiment/蒜香酱油.md",
+  "source_file": "dishes\\condiment\\蒜香酱油.md",
   "category": "调料",
   "difficulty": "easy",
   "total_time_minutes": null,
@@ -9,71 +9,76 @@
   "images": [],
   "ingredients": [
     {
-      "ingredient_name": "蒜头",
-      "quantity": 2,
-      "unit": "瓣",
-      "quantity_range": null,
+      "ingredient_name": "蒜",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "瓣"
     },
     {
       "ingredient_name": "白芝麻",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "花生油",
-      "quantity": 15,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "酱油",
-      "quantity": 30,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 30.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "拍碎蒜头",
-      "duration_minutes": 1,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "往蘸料碟中加入酱油",
-      "duration_minutes": 1,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "起锅，加入花生油，等到油温滚烫后加入拍好的蒜头，炸半分钟",
-      "duration_minutes": 2,
-      "tips": "油温滚烫后再加入蒜头，香味更浓"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
       "content": "半分钟后，关火，把热油倒入蘸料碟，用筷子搅拌即可",
-      "duration_minutes": 1,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
-  "tips": []
+  "tips": [],
+  "description": ""
 }

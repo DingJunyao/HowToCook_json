@@ -61,7 +61,7 @@
     {
       "ingredient_name": "生姜",
       "quantity": 3,
-      "unit": "cm",
+      "unit": "g",
       "quantity_range": null,
       "is_optional": false,
       "note": "拍散备用",
@@ -111,7 +111,7 @@
     {
       "ingredient_name": "桂皮",
       "quantity": 4,
-      "unit": "cm",
+      "unit": "g",
       "quantity_range": null,
       "is_optional": false,
       "note": "一小片",

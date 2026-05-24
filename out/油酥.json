@@ -1,6 +1,6 @@
 {
   "name": "油酥",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/condiment/油酥.md",
+  "source_file": "dishes\\condiment\\油酥.md",
   "category": "调料",
   "difficulty": "easy",
   "total_time_minutes": null,
@@ -10,54 +10,58 @@
   "ingredients": [
     {
       "ingredient_name": "面粉",
-      "quantity": 7.7,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "按1张饼计算",
-      "original_quantity": "（要烙饼的张数 / 0.13）g",
-      "is_estimated": true
+      "note": "（要烙饼的张数 / 0.13）g",
+      "original_quantity": "",
+      "quantity": 8.85,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "油",
-      "quantity": 10,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "需加热至200度",
-      "original_quantity": "（要烙饼的张数 * 10ml）",
-      "is_estimated": true
+      "note": "要烙饼的张数 * 10ml",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 0.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": "（要烙饼的张数 / 2）g",
-      "is_estimated": true
+      "note": "（要烙饼的张数 / 2）g",
+      "original_quantity": "",
+      "quantity": 0.5,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "面粉盛小碗里，加入盐",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "加入200度的热油",
+      "content": "加入 200 度的热油",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "用筷子将其搅拌成无固状物体的糊状",
+      "content": "用筷子将其搅拌成无固状物体的糊状。",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     }
   ],
-  "tips": []
+  "tips": [],
+  "description": "油酥是由面粉与热油混合调制的，通常在烙饼时涂点油酥，可以使得饼子层层分明，外酥里软，口感更佳。"
 }

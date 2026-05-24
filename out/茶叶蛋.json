@@ -1,158 +1,174 @@
 {
   "name": "茶叶蛋",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/茶叶蛋.md",
+  "source_file": "dishes\\breakfast\\茶叶蛋.md",
   "category": "早餐",
   "difficulty": "medium",
-  "total_time_minutes": 30,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": 3,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "鸡蛋",
-      "quantity": 133.33,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "约 3 颗",
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "约 8 颗",
+      "original_quantity": "",
+      "quantity": 400.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "八角",
-      "quantity": 1.33,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "约 1 颗",
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "约 2 颗",
+      "original_quantity": "",
+      "quantity": 4.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "香叶",
-      "quantity": 0.33,
-      "unit": "g",
-      "quantity_range": {
-        "min": 0.17,
-        "max": 0.33
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "约 1 片",
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "约 2 片",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 1.0,
+        "min": 0.5
+      },
+      "unit": "g"
     },
     {
       "ingredient_name": "桂皮",
-      "quantity": 1,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "1 小块",
-      "original_quantity": null,
-      "is_estimated": true
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "茴香",
-      "quantity": 1.67,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "冰糖",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "红茶",
-      "quantity": 6.67,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "生抽",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "老抽",
-      "quantity": 8.33,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": 25.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "食盐",
-      "quantity": 1,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
       "note": "可根据个人口味选择不加",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "用冷水将鸡蛋煮熟，大火大约 8 分钟（根据自家厨具决定）",
-      "duration_minutes": 8,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "鸡蛋捞出，过冷水",
       "duration_minutes": null,
-      "tips": "让鸡蛋和壳之间产生间隙"
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "将鸡蛋互相碰撞，使每个鸡蛋产生裂缝",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 4,
       "content": "将鸡蛋下锅，放入八角，香叶，桂皮，茴香，冰糖，红茶，生抽，老抽，食盐",
       "duration_minutes": null,
-      "tips": "自己没有这么多食材可以买现成的卤料包"
+      "tips": ""
     },
     {
-      "step": 5,
       "content": "加水直至没过鸡蛋",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 6,
       "content": "大火煮开之后，转中小火煮 15 分钟",
-      "duration_minutes": 15,
-      "tips": "煮完之后，捞出料渣，鸡蛋再浸泡一会口感更佳"
+      "duration_minutes": null,
+      "tips": "中火煮15 分钟之后，捞出料渣，鸡蛋再浸泡一会口感更佳"
     }
   ],
   "tips": [
     "鸡蛋捞出过冷水是为了让鸡蛋和壳之间产生间隙",
     "食盐可根据个人口味选择不加",
-    "八角，香叶，桂皮，茴香，冰糖，自己没有这么多食材可以买现成的卤料包"
-  ]
+    "八角，香叶，桂皮，茴香，冰糖，自己没有这么多食材可以买现成的卤料包",
+    "常规做法的卤汁渗透速度慢，内部味道容易偏淡。想入味更快、切面更好看：剥壳 → 在蛋白侧面划 3–11 刀（上下十字方向，接近蛋黄即可，别太深以免蛋黄散出）→ 放入小容器，卤汁没过鸡蛋 → 浸泡 2 天以上"
+  ],
+  "description": "茶香浓郁，鲜香可口的高蛋白快速营养早餐，大约耗时 30 分钟。烹饪略微耗时，可以周末尝试，做一次大约够 2-3 个人吃。"
 }

@@ -1,88 +1,91 @@
 {
   "name": "桂圆红枣粥",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/桂圆红枣粥.md",
+  "source_file": "dishes\\breakfast\\桂圆红枣粥.md",
   "category": "汤与粥",
   "difficulty": "medium",
-  "total_time_minutes": 70,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": 1,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "糯米",
-      "quantity": 100,
-      "unit": "g",
-      "quantity_range": null,
-      "is_optional": true,
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
       "note": "或大米",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 100.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "红枣",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "颗"
+    },
+    {
+      "ingredient_name": "桂圆",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "颗"
     },
     {
       "ingredient_name": "水",
-      "quantity": 2000,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "可酌情增减调整粥的稀稠程度",
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "桂圆干",
-      "quantity": 15,
-      "unit": "个",
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2000.0,
+      "quantity_description": "",
       "quantity_range": null,
-      "is_optional": false,
-      "note": "桂圆肉",
-      "original_quantity": null,
-      "is_estimated": true
-    },
-    {
-      "ingredient_name": "干红枣",
-      "quantity": 15,
-      "unit": "个",
-      "quantity_range": null,
-      "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": true
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "将桂圆肉扒出，用清水洗两次，放入碗中浸泡 10 分钟",
-      "duration_minutes": 10,
-      "tips": null
+      "duration_minutes": 10.0,
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "红枣用清水洗两次，放入碗中浸泡 10 分钟",
-      "duration_minutes": 10,
-      "tips": null
+      "duration_minutes": 10.0,
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "糯米放入电饭锅中，清水淘米两次后，加入 2000ml 水",
-      "duration_minutes": 5,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
       "content": "将桂圆和红枣加入电饭锅",
-      "duration_minutes": 2,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
       "content": "打开电饭锅煮饭模式，1 小时后粥成",
-      "duration_minutes": 60,
-      "tips": null
+      "duration_minutes": 60.0,
+      "tips": ""
     }
   ],
   "tips": [
-    "对粥的稀稠程度有不同喜好的朋友可以酌情增加或减少水的用量",
-    "煮出来的粥是甜的，可以通过控制加入桂圆的数量控制甜度"
-  ]
+    "对粥的稀稠程度有不同喜好的朋友可以酌情增加或减少水的用量，煮出来的粥是甜的，可以通过控制加入桂圆的数量控制甜度"
+  ],
+  "description": "桂圆红枣粥，甜口。补血安神，健脑益智，补养心脾。制作时间需要 70 分钟。"
 }

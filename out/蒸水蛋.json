@@ -1,6 +1,6 @@
 {
   "name": "蒸水蛋",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/蒸水蛋.md",
+  "source_file": "dishes\\breakfast\\蒸水蛋.md",
   "category": "早餐",
   "difficulty": "easy",
   "total_time_minutes": null,
@@ -10,69 +10,71 @@
   "ingredients": [
     {
       "ingredient_name": "鸡蛋",
-      "quantity": 1,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "新鲜",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 1,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "热水",
-      "quantity": 130,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "温水，温度20~30℃",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 260.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "鸡蛋打入碗中，打散",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "取其他容器，倒入1.5倍于蛋液的温水（温度20~30℃），将盐倒入水中化开",
+      "content": "取其他容器，倒入 1.5 倍（半个蛋壳为 0.5 倍水）于蛋液的温水（温度 20~30），将盐倒入水中化开",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "将盐水倒入鸡蛋液中，顺时针或逆时针单方向搅拌均匀",
+      "content": "将盐水倒入鸡蛋液中，顺时针或逆时针单方向搅拌均匀，气泡之类的可以用舀出丢弃，过筛则口感更加。",
       "duration_minutes": null,
-      "tips": "气泡之类的可以用勺舀出丢弃，过筛则口感更加"
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "使用锡纸包裹盛蛋液的碗（或用盘子盖住），置入提前带盖并加入大约3cm深度水的锅中",
+      "content": "使用锡纸包裹盛蛋液的碗（或用盘子盖住），置入提前带盖并加入大约 3cm 深度水的锅中",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "中火烧至水开，转最小的火继续蒸4分钟",
-      "duration_minutes": 4,
-      "tips": null
+      "content": "中火烧至水开，转最小的火继续蒸 4 分钟",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
     "一般出锅稍晾即可食用，保留鸡蛋原香的终极口感",
-    "也可加入蒸鱼豉油，葱花香油作为佐料"
-  ]
+    "也可加入蒸鱼豉油，葱花香油作为佐料。"
+  ],
+  "description": "蒸水蛋（北方有些地区叫鸡蛋糕儿）都是饭店的好吃，如何自己做水滑嫩香的蒸水蛋，本教程包教包会！"
 }

@@ -5242,5 +5242,75 @@
     "category": "其他",
     "usda_id": null,
     "usda_match_status": "unmatched"
+  },
+  "意式猪肉香肠": {
+    "name": "意式猪肉香肠",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "拿坡里意面酱": {
+    "name": "拿坡里意面酱",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "帕马森干酪": {
+    "name": "帕马森干酪",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "面包": {
+    "name": "面包",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "昆布酱油": {
+    "name": "昆布酱油",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "饺子": {
+    "name": "饺子",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "燕麦片": {
+    "name": "燕麦片",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "韩式酱油": {
+    "name": "韩式酱油",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "辣椒（小米辣或青红椒）": {
+    "name": "辣椒（小米辣或青红椒）",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "草蔻": {
+    "name": "草蔻",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   }
 }

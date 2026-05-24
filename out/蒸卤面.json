@@ -41,7 +41,7 @@
     {
       "ingredient_name": "大葱",
       "quantity": 5,
-      "unit": "cm",
+      "unit": "g",
       "quantity_range": null,
       "is_optional": false,
       "note": null,

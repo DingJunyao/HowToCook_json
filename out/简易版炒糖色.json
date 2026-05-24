@@ -1,6 +1,6 @@
 {
   "name": "简易版炒糖色",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/condiment/简易版炒糖色.md",
+  "source_file": "dishes\\condiment\\简易版炒糖色.md",
   "category": "调料",
   "difficulty": "expert",
   "total_time_minutes": null,
@@ -10,79 +10,102 @@
   "ingredients": [
     {
       "ingredient_name": "冰糖",
-      "quantity": 35,
-      "unit": "g",
-      "quantity_range": {
-        "min": 30,
-        "max": 50
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "也可使用白砂糖或绵白糖",
-      "original_quantity": "适量",
-      "is_estimated": true
+      "note": "单晶冰糖约 15 块。可选：白砂糖 / 绵白糖，区别见小贴士。基准比例：每 1000g 肉对应 50g 糖，可根据个人口味增减 10g",
+      "original_quantity": "",
+      "quantity": 50.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "油",
-      "quantity": 100,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 100.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
-      "ingredient_name": "开水",
-      "quantity": 500,
-      "unit": "mL",
-      "quantity_range": null,
+      "ingredient_name": "水",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "100ml用于炒制，400ml用于降温",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "开水",
+      "original_quantity": "",
+      "quantity": 500.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "开火，向锅中倒入 100ml 开水",
+      "content": "开火，并向锅中倒入 100ml 开水",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "向锅中倒入 100ml 油，与第一步间隔越短越好，此时锅为大火中火都可以，着急的话可以大火",
+      "content": "再向锅中倒入 100ml 油，与第一步间隔越短越好",
       "duration_minutes": null,
-      "tips": "电磁炉温度不够，火候过了发苦，不够发甜"
+      "tips": "此时锅为大火中火都可以，着急的话可以大火"
     },
     {
-      "step": 3,
-      "content": "放入冰糖（如果冰糖过于耦合，可以提前敲碎，做到耦合度越低越好）",
+      "content": "放入冰糖",
       "duration_minutes": null,
-      "tips": null
+      "tips": "如果冰糖过于耦合，可以提前敲碎，做到耦合度越低越好"
     },
     {
-      "step": 4,
-      "content": "调整火力为中火，开始搅拌。要一直搅拌，直到变成棕褐色，此时转为小火",
+      "content": "调整火力为中火",
       "duration_minutes": null,
-      "tips": "炒糖色过程火不要太大"
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "继续搅拌，糖色会再变稀，变红茶色，再变成酱红色后起小泡泡",
+      "content": "开始搅拌",
       "duration_minutes": null,
-      "tips": "小泡泡会逐渐消失，之后会出现大泡泡，大泡泡出现时糖色完成"
+      "tips": ""
     },
     {
-      "step": 6,
-      "content": "当大泡泡出现时，根据菜品派别以及个人口味选择操作：操作1：可以直接加 400ml 开水降温；操作2：也可以加入葱姜蒜花椒等调味品进行翻炒",
+      "content": "要一直一直一直搅拌，变成棕褐色，此时转为小火",
       "duration_minutes": null,
-      "tips": "需要快速进行下一步操作，否则火候过大糖色发苦"
+      "tips": ""
+    },
+    {
+      "content": "再变稀，变红茶色，再变成酱红色后起小泡泡，准备好执行下面的操作1 / 操作2",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "小泡泡会逐渐消失，之后会出现大泡泡，大泡泡出现时糖色完成",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "需要在此时快速进行下一步操作，根据菜品派别以及个人口味作出选择",
+      "duration_minutes": null,
+      "tips": "无论哪种操作都一定要提前准备好并快速！否则火候过大糖色发苦"
+    },
+    {
+      "content": "（操作 1）可以直接加 400ml 开水降温",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（操作 2 进阶调味版）：在糖液变成枣红色并起密集小泡时，迅速加入提前备好的葱姜蒜、花椒等辅料进行翻炒。爆出香味后（约 5-10 秒内），必须立刻倒入 400ml 开水降温中止反应。",
+      "duration_minutes": null,
+      "tips": "若后续菜谱需要翻炒肉类上色，请在此步先下入肉类翻炒，最后再加水。"
     }
   ],
   "tips": [
-    "炒糖色过程火不要太大",
-    "电磁炉温度不够，火候过了发苦，不够发甜",
-    "要一直搅拌，直到大泡泡出现"
-  ]
+    "高能预警与预处理： 炒糖色的最后一步（加水/加料）为连续且必须快速响应的操作。一旦糖色到达临界点，几秒钟的迟疑就会导致发苦。 要求：在开火前，必须将 400ml 开水和所有准备好的葱姜蒜辅料放置在灶台手边，确保 1 秒内可以拿取。",
+    "三种糖的区别：冰糖：炒出来的糖色色泽最为鲜艳，红亮，必须水油炒，不加水融化会很慢；白砂糖：必须水油炒，不加水融化会很慢；绵白糖：可以不加水",
+    "炒糖色过程火不要太大！！！电磁炉温度不够，火候过了发苦，不够发甜"
+  ],
+  "description": "这是简易的糖色的做法。对于更为进阶的技巧和糖色更为进阶的用法，请学习[糖色的炒制](../../tips/advanced/糖色的炒制.md)。"
 }

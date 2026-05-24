@@ -1,133 +1,134 @@
 {
   "name": "煎饺",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/煎饺.md",
+  "source_file": "dishes\\breakfast\\煎饺.md",
   "category": "半成品",
   "difficulty": "easy",
-  "total_time_minutes": 15,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": null,
   "images": [],
   "ingredients": [
     {
-      "ingredient_name": "速冻水饺",
-      "quantity": 15,
-      "unit": "个",
-      "quantity_range": {
-        "min": 10,
-        "max": 15
-      },
+      "ingredient_name": "饺子",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "根据个人食量选择",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "速冻水饺，一包，根据个人食量选择",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 15.0,
+        "min": 10.0
+      },
+      "unit": "个"
     },
     {
       "ingredient_name": "食用油",
-      "quantity": 15,
-      "unit": "mL",
-      "quantity_range": {
-        "min": 10,
-        "max": 15
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 15.0,
+        "min": 10.0
+      },
+      "unit": "g"
     },
     {
       "ingredient_name": "清水",
-      "quantity": null,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": false,
       "note": "水线没过饺子平均高度的 1/2",
-      "original_quantity": "适量",
-      "is_estimated": true
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
-      "ingredient_name": "黑芝麻",
-      "quantity": null,
-      "unit": null,
-      "quantity_range": null,
+      "ingredient_name": "芝麻",
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": true,
-      "note": null,
-      "original_quantity": "适量",
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "少许",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "葱花",
-      "quantity": null,
-      "unit": null,
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": true,
       "note": "切段",
-      "original_quantity": "适量",
-      "is_estimated": true
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "少许",
+      "quantity_range": null,
+      "unit": "g"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "取出平底锅（不沾平底锅最佳）",
       "duration_minutes": null,
-      "tips": "不沾平底锅效果最佳"
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "加入 10ml - 15ml 食用油",
+      "content": "加入 10ml - 15 ml 食用油",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "开火，放入饺子（尽量平均铺开，不宜堆叠）",
       "duration_minutes": null,
-      "tips": "饺子需要平均铺开"
+      "tips": ""
     },
     {
-      "step": 4,
       "content": "立刻加入清水，水线没过饺子平均高度的 1/2",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "盖上锅盖，此时炉灶应该处于大火",
+      "content": "盖上锅盖（此时炉灶应该处于大火）",
       "duration_minutes": null,
-      "tips": "大火煮制"
+      "tips": ""
     },
     {
-      "step": 6,
       "content": "等待 8 - 10 分钟",
-      "duration_minutes": 10,
-      "tips": null
+      "duration_minutes": 10.0,
+      "tips": ""
     },
     {
-      "step": 7,
-      "content": "当锅中水分仅剩 2mm 时，转中火开始煎制",
+      "content": "当锅中水分仅剩 2mm 时， 转中火开始煎制",
       "duration_minutes": null,
-      "tips": "观察水分剩余情况"
+      "tips": ""
     },
     {
-      "step": 8,
       "content": "当水分全部蒸发后，摇晃平底锅使饺子受热均匀",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 9,
       "content": "放入黑芝麻和葱花再焖 10s",
-      "duration_minutes": 1,
-      "tips": null
+      "duration_minutes": 0.17,
+      "tips": ""
     },
     {
-      "step": 10,
       "content": "1 - 2 分钟夹出一个饺子观察底部，若出现金黄色脆皮立即取出",
-      "duration_minutes": 2,
-      "tips": "金黄色脆皮为最佳状态"
+      "duration_minutes": 2.0,
+      "tips": ""
     }
   ],
   "tips": [
-    "操作时，需时刻观察锅内情况，切记不可分神玩手机"
-  ]
+    "操作时，需时刻观察锅内情况，切记不可分神玩手机。"
+  ],
+  "description": ""
 }

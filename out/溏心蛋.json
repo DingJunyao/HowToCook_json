@@ -1,71 +1,68 @@
 {
-  "name": "溏心蛋的做法",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/breakfast/溏心蛋.md",
+  "name": "溏心蛋",
+  "source_file": "dishes\\breakfast\\溏心蛋.md",
   "category": "早餐",
   "difficulty": "medium",
-  "total_time_minutes": 15,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": null,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "鸡蛋",
-      "quantity": 1,
-      "unit": "个",
-      "quantity_range": {
-        "min": 1,
-        "max": 4
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": "1 颗或更多",
-      "is_estimated": false
+      "note": "只要您的电锅装得下，不管有几颗鸡蛋都可以",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "水",
-      "quantity": 350,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "淹过鸡蛋约2公分",
-      "original_quantity": "淹过鸡蛋约2公分",
-      "is_estimated": true
+      "note": "淹过鸡蛋约 2 公分",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "将鸡蛋放入电锅中。鸡蛋不可互相堆叠，应皆在底部，并留有空间可以晃动",
-      "duration_minutes": 1,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "倒入淹过鸡蛋约2公分的冷水",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "倒入淹过鸡蛋约 2 公分的冷水",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "开盖，使用最大功率加热至水滚起（大约85-95度，稍微滚动，不需完全沸腾）",
-      "duration_minutes": 5,
-      "tips": "不需要完全沸腾，达到85-95度即可"
+      "content": "开盖，使用最大功率加热至水滚起（大约 85 - 95 度，稍微滚动，不需完全沸腾）",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "关火，盖上盖子，让鸡蛋静置。想要中央有流动的蛋黄，需静置6分钟；若想要完全煮熟的易碎蛋黄，需静置10分钟",
-      "duration_minutes": 10,
-      "tips": "根据喜好选择6-10分钟"
+      "content": "关火，盖上盖子，让鸡蛋静置。想要中央有流动的蛋黄，需静置 6 分钟；若想要完全煮熟的易碎蛋黄，需静置 10 分钟",
+      "duration_minutes": 10.0,
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "沥干水分，用冷水冲洗鸡蛋约1分钟，即可去壳食用",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "沥干水分，用冷水冲洗鸡蛋约 1 分钟，即可去壳食用。",
+      "duration_minutes": 1.0,
+      "tips": ""
     }
   ],
   "tips": [
-    "如果觉得鸡蛋不够熟的小伙伴可以依照自己的喜好添加更多的水",
-    "警告：溏心蛋有沙门氏菌感染的风险，不建议静置5分钟以内"
-  ]
+    "如果觉得鸡蛋不够熟的小伙伴可以依照自己的喜好添加更多的水。",
+    "警告：溏心蛋有沙门氏菌感染的风险。不建议静置 5 分钟以内。"
+  ],
+  "description": "喜欢健身的小伙伴可以在每颗鸡蛋中获得 6 克蛋白质。大约 15 分钟可以完成制作。"
 }
