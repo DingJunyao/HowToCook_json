@@ -1,0 +1,120 @@
+{
+  "category": "饮料",
+  "description": "牛油果拉西 (Avocado Lassi) 是一款结合了印度传统酸奶饮品“拉西”与绵密牛油果的健康饮品，口感顺滑、清甜，非常适合作为早餐或下午茶。",
+  "difficulty": "simple",
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "原味酸奶",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "Plain yogurt",
+      "original_quantity": "",
+      "quantity": 120.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
+    },
+    {
+      "ingredient_name": "牛油果",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "熟透的",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
+    },
+    {
+      "ingredient_name": "蜂蜜",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "汤匙"
+    },
+    {
+      "ingredient_name": "牛奶",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "冷",
+      "original_quantity": "",
+      "quantity": 60.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
+    },
+    {
+      "ingredient_name": "小豆蔻粉",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": true,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "撮"
+    },
+    {
+      "ingredient_name": "薄荷叶",
+      "is_approximate": true,
+      "is_estimated": false,
+      "is_optional": true,
+      "note": "可选：坚果碎（可选，用于装饰）",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "少许",
+      "quantity_range": null,
+      "unit": "g"
+    }
+  ],
+  "name": "牛油果拉西",
+  "servings": 1,
+  "source_file": "dishes\\drink\\牛油果拉西.md",
+  "steps": [
+    {
+      "content": "将牛油果对半切开，去核，剥去外皮，将果肉切成小块备用。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "在搅拌机中加入 120ml 原味酸奶、切好的牛油果块、1 汤匙蜂蜜以及 60ml 冷牛奶。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（可选）加入一小撮小豆蔻粉以增加独特风味。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "启动搅拌机，搅拌大约 1 分钟直至液体变得完全顺滑和浓郁。",
+      "duration_minutes": 1.0,
+      "tips": ""
+    },
+    {
+      "content": "将打好的饮品倒入杯中。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（可选）在表面放上几片薄荷叶或撒上 5g 切碎的坚果作为装饰。",
+      "duration_minutes": null,
+      "tips": ""
+    }
+  ],
+  "tips": [
+    "牛油果必须选择熟透的，这样才能保证饮品的绵密口感和颜色。",
+    "如果喜欢更冰凉的口感，可以适当减少一点牛奶，加入几块冰块一起搅拌。"
+  ],
+  "total_time_minutes": null
+}

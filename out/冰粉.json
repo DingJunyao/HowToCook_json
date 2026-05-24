@@ -1,97 +1,94 @@
 {
   "name": "石凉粉(冰粉)",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/drink/冰粉/冰粉.md",
+  "source_file": "dishes\\drink\\冰粉\\冰粉.md",
   "category": "甜品",
   "difficulty": "medium",
-  "total_time_minutes": 180,
-  "servings": 1,
+  "total_time_minutes": null,
+  "servings": 5,
   "original_servings": 5,
-  "images": [],
+  "images": [
+    "images/冰粉_0.jpg",
+    "images/冰粉_1.jpg"
+  ],
   "ingredients": [
     {
       "ingredient_name": "冰粉籽",
-      "quantity": 40,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 200.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "凉白开",
-      "quantity": 400,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2000.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "薄荷汁",
-      "quantity": 2,
-      "unit": "mL",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "可选：薄荷粉 10g。也可使用柠檬汁、山楂汁、桑椹汁",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
       "quantity_range": null,
-      "is_optional": true,
-      "note": "与薄荷粉二选一，也可使用柠檬汁、山楂汁、桑椹汁",
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "薄荷粉",
-      "quantity": 2,
-      "unit": "g",
-      "quantity_range": null,
-      "is_optional": true,
-      "note": "与薄荷汁二选一，也可使用柠檬汁、山楂汁、桑椹汁",
-      "original_quantity": null,
-      "is_estimated": false
+      "unit": "mL"
     },
     {
       "ingredient_name": "遇水发光冰块",
-      "quantity": 5,
-      "unit": "块",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": true,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "块"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "将凉白开倒入盆中",
+      "content": "将凉白开倒入盆中；",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "将冰粉籽全部用纱布包起来，开口处打结",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "将包好的冰粉籽放入凉白开中，在凉白开中用力揉搓",
-      "duration_minutes": 6,
-      "tips": "揉搓6分钟"
+      "content": "将包好的冰粉籽放入凉白开中，在凉白开中用力揉搓 6 分钟",
+      "duration_minutes": 6.0,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "将凉白开放置2.5小时，即可成型",
-      "duration_minutes": 150,
-      "tips": "静置成型时间"
+      "content": "然后将凉白开放置 2.5 小时，即可成型",
+      "duration_minutes": 150.0,
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "将石凉粉用勺子装进准备好的一次性透明塑料杯中，加入薄荷汁或者薄荷粉（柠檬汁、山楂汁、桑椹汁也可），再放入遇水发光冰块，用勺子慢慢搅拌均匀",
+      "content": "随后将石凉粉用勺子装进准备好的一次性透明塑料杯中，加入 10ml 薄荷汁或者 10g 薄荷粉（柠檬汁、山楂汁、桑椹汁也可），再放入遇水发光冰块，用勺子慢慢搅拌均匀",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     }
   ],
   "tips": [
     "操作时，需要注意观察凉白开的颜色和粘度变化，如颜色过浅或者水不黏，则说明冰粉籽量不足，或者是揉搓力度和时间没有到位。"
-  ]
+  ],
+  "description": "石凉粉，在有些地区也叫作冰粉，是河南省信阳市浉河区的一种著名特色小吃，属于豫菜系。该菜品类似果冻，但因为是天然植物做出来的，所以比果冻更健康，配上薄荷汁、柠檬汁、红豆等调料，清凉解暑。该食物深当地人的喜爱，老少皆宜。\n制作方法简单，只是有些耗时，预计制作时长 3 小时（其中包含 2.5 小时静置成型时间）。"
 }

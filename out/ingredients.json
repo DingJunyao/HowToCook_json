@@ -5326,5 +5326,40 @@
     "category": "其他",
     "usda_id": null,
     "usda_match_status": "unmatched"
+  },
+  "牛油果": {
+    "name": "牛油果",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "茉莉绿茶": {
+    "name": "茉莉绿茶",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "菠萝汁": {
+    "name": "菠萝汁",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "黄冰糖": {
+    "name": "黄冰糖",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "绿叶": {
+    "name": "绿叶",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   }
 }

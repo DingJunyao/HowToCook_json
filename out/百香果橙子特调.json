@@ -1,10 +1,10 @@
 {
   "name": "百香果橙子特调",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/drink/百香果橙子特调/百香果橙子特调.md",
+  "source_file": "dishes\\drink\\百香果橙子特调\\百香果橙子特调.md",
   "category": "饮料",
   "difficulty": "easy",
-  "total_time_minutes": 15,
-  "servings": 1,
+  "total_time_minutes": null,
+  "servings": 2,
   "original_servings": 1,
   "images": [
     "images/百香果橙子特调_0.jpg",
@@ -13,116 +13,208 @@
   "ingredients": [
     {
       "ingredient_name": "百香果",
-      "quantity": 1.5,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "约 45 克果肉",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "橙子",
-      "quantity": 1,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "约 200 克，拳头大小",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "茉莉绿茶茶叶",
-      "quantity": 4.5,
-      "unit": "g",
-      "quantity_range": {
-        "min": 3,
-        "max": 6
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": "3~6 克",
-      "is_estimated": false
+      "note": "可选：苏打气泡水",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 12.0,
+        "min": 6.0
+      },
+      "unit": "g"
     },
     {
-      "ingredient_name": "开水",
-      "quantity": 150,
-      "unit": "mL",
-      "quantity_range": null,
+      "ingredient_name": "水",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "开水",
+      "original_quantity": "",
+      "quantity": 300.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "冰块",
-      "quantity": 160,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "70 克杯底用 + 90 克冷却用",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "一份 160 g 以上",
+      "original_quantity": "",
+      "quantity": 320.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "白砂糖",
-      "quantity": 15,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "腌制百香果用",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 30.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "蜂蜜",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "腌制百香果用，如没有可用 2.5 克白砂糖代替",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "腌制百香果用，如没有可用 5 克白砂糖代替",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "薄荷叶",
-      "quantity": 2,
-      "unit": "片",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
       "note": "装饰使用",
-      "original_quantity": "适量",
-      "is_estimated": true
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "片"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "准备腌制百香果：将 1.5 个百香果的果肉取出来（里面的汁也不能放过），置于容器中。称量 15 克白砂糖和 5 克蜂蜜放入容器，搅拌均匀。容器保鲜膜封口，放入冰箱中进行 12~24 小时的腌制（此步骤需提前准备）。",
-      "duration_minutes": 5,
-      "tips": "如果没有蜂蜜，可以用 2.5 克白砂糖代替"
+      "content": "（百香果腌制：因为量小不好配置，这里是两次的分量）",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "准备茉莉绿茶：称量 3~6 克茶叶置于容器，加入 150 毫升开水，泡 6 分钟。往泡好的绿茶中放入 90 克冰块冷却，可搅拌加速冷却。待冰块消失后，将茶叶过滤得到茉莉绿茶茶水约 240 毫升。",
-      "duration_minutes": 10,
-      "tips": "推荐比例：茶 : 水 : 冰 = 1~2 : 50 : 30"
+      "content": "（百香果腌制）将三个百香果的果肉取出来（里面的汁也不能放过），置于容器中",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "处理橙子：将橙子对半切（刀方向垂直于橙子的头尾连线），并从其中一半中切取一片橙子备用。再次将橙子对半切，将得到的 4 角橙子用压汁器压出橙汁置于容器中备用。",
-      "duration_minutes": 3,
-      "tips": "此步骤可在泡茶期间进行"
+      "content": "（百香果腌制）称量 30 克白砂糖放入",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "正式调配：选择一个容量在 350~400 毫升的透明玻璃杯，将 70 克冰块放置在杯底，并将所有橙汁倒入。将之前准备的一片橙子贴杯内壁放置。将一次分量的腌制百香果浇在冰上。缓慢注入茉莉绿茶直至满杯，便于分层。在液面放置好装饰用的绿叶（可选）。",
-      "duration_minutes": 2,
-      "tips": "缓慢注入茉莉绿茶便于分层"
+      "content": "（百香果腌制）称量 10 克蜂蜜放入（如果没有可以用 5 克白砂糖代替）",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（百香果腌制）搅拌均匀",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（百香果腌制）容器保鲜膜封口，放入冰箱中进行 12~24 小时的腌制",
+      "duration_minutes": 2880.0,
+      "tips": ""
+    },
+    {
+      "content": "（茉莉绿茶调配（推荐比例=>茶 : 水 : 冰 = 1~2 : 50 : 30）)",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（茉莉绿茶调配）称量 3~6 克茶叶置于容器，加入 150 毫升开水，泡 6 分钟",
+      "duration_minutes": 360.0,
+      "tips": ""
+    },
+    {
+      "content": "（茉莉绿茶调配）往泡好的绿茶中放入 90 克冰块冷却，可搅拌加速冷却",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（茉莉绿茶调配）待冰块消失后，将茶叶过滤得到茉莉绿茶茶水约 240 毫升",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（橙子的处理：可在泡茶期间处理）",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（橙子的处理）将橙子对半切（刀方向垂直于橙子的头尾连线），并从其中的一半中切取一片橙子备用",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（橙子的处理）再次将橙子对半切，将得到的 4 角橙子用压汁器压出橙汁置于容器中备用",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（正式调配）选择一个杯子，建议使用容量在 350~400 毫升的透明玻璃杯",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（正式调配）将 70 克冰块放置在杯底，并将所有橙汁倒入",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（正式调配）将之前准备的一片橙子贴杯内壁放置",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（正式调配）将一次分量的腌制百香果浇在冰上",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（正式调配）缓慢注入茉莉绿茶直至满杯，便于分层",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（正式调配）在液面放置好装饰用的绿叶（可选）",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（正式调配）搅拌均匀后享用",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
-    "腌制百香果需要提前 12~24 小时准备",
     "如果缺少或不喜欢茉莉绿茶，可以使用苏打气泡水代替，免去茉莉绿茶的调配流程"
-  ]
+  ],
+  "description": "有茉莉绿茶版本和苏打气泡水版本。"
 }

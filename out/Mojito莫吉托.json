@@ -13,12 +13,12 @@
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "一块，切成两个半块",
+      "note": "切成两个半块",
       "original_quantity": "",
-      "quantity": 50.0,
+      "quantity": 1.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "g"
+      "unit": "块"
     },
     {
       "ingredient_name": "薄荷叶",

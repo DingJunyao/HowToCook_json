@@ -1,6 +1,6 @@
 {
   "name": "长岛冰茶",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/drink/长岛冰茶.md",
+  "source_file": "dishes\\drink\\长岛冰茶.md",
   "category": "饮料",
   "difficulty": "medium",
   "total_time_minutes": null,
@@ -10,150 +10,191 @@
   "ingredients": [
     {
       "ingredient_name": "金酒",
-      "quantity": 15,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "龙舌兰酒",
-      "quantity": 15,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "伏特加",
-      "quantity": 15,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "白朗姆酒",
-      "quantity": 15,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "橙味甜酒",
-      "quantity": 15,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "柠檬汁",
-      "quantity": 30,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 30.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "枫糖浆",
-      "quantity": 20,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "可乐",
-      "quantity": 75,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 75.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "柠檬",
-      "quantity": 1,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "冰块",
-      "quantity": 100,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 100.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "柠檬对半切，挤出 30ml 柠檬汁至杯中",
+      "content": "柠檬对半切，挤出 30ml 柠檬汁至杯中；",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "依次向杯中加入：15ml 金酒，15ml 龙舌兰酒，15ml 伏特加，15ml 白朗姆酒，15ml 橙味甜酒",
+      "content": "依次向杯中加入：",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "向杯中缓慢倒入 20ml 枫糖浆，边倒边搅拌",
+      "content": "15ml 金酒，",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "向杯中加入 75ml 可乐",
+      "content": "15ml 龙舌兰酒，",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "向杯中加入冰块直至满杯",
+      "content": "15ml 伏特加，",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 6,
-      "content": "轻轻搅拌 20 秒",
+      "content": "15ml 白朗姆酒，",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 7,
-      "content": "开始享用",
+      "content": "15ml 橙味甜酒；",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
+    },
+    {
+      "content": "向杯中缓慢倒入 20ml 枫糖浆，边倒边搅拌；",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "向杯中加入 75ml 可乐；",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "向杯中加入冰块直至满杯；",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "轻轻搅拌 20 秒；",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "开始享用.",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
-    "长岛冰茶，不含茶却有着冰茶的口感，是一种有着较高酒精度（约 15%），但口感柔和易于接受的鸡尾酒"
-  ]
+    "饮酒有害健康，未成年人禁止饮酒",
+    "长岛冰茶，不含茶却有着冰茶的口感，是一种有着较高酒精度（约 15%），但口感柔和易于接受的鸡尾酒。",
+    "参考资料：国际调酒师协会：长岛冰茶(https://iba-world.com/long-island-ice-tea/)"
+  ],
+  "description": ""
 }
