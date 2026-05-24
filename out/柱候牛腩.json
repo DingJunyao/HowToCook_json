@@ -1,10 +1,10 @@
 {
   "name": "柱候牛腩",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/柱候牛腩/柱候牛腩.md",
+  "source_file": "dishes\\meat_dish\\柱候牛腩\\柱候牛腩.md",
   "category": "荤菜",
   "difficulty": "hard",
-  "total_time_minutes": 180,
-  "servings": 1,
+  "total_time_minutes": null,
+  "servings": 2,
   "original_servings": 2,
   "images": [
     "images/柱候牛腩_0.jpeg",
@@ -27,341 +27,409 @@
   "ingredients": [
     {
       "ingredient_name": "牛腩",
-      "quantity": 300,
-      "unit": "g",
-      "quantity_range": {
-        "min": 250,
-        "max": 300
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "首选坑腩，带筋的部位",
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "姜",
-      "quantity": 15,
-      "unit": "g",
-      "quantity_range": null,
-      "is_optional": false,
-      "note": "切成 1.5cm*1.5cm 的小块",
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "蒜",
-      "quantity": 15,
-      "unit": "g",
-      "quantity_range": null,
-      "is_optional": false,
-      "note": "半头蒜剥好皮",
-      "original_quantity": "半头",
-      "is_estimated": true
-    },
-    {
-      "ingredient_name": "小米辣",
-      "quantity": 0.5,
-      "unit": "根",
-      "quantity_range": null,
-      "is_optional": true,
-      "note": "切成 1cm 小段，可根据口味调整用量",
-      "original_quantity": "1条（可根据口味调整用量）",
-      "is_estimated": true
-    },
-    {
-      "ingredient_name": "香叶",
-      "quantity": 1,
-      "unit": "片",
-      "quantity_range": null,
-      "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "花椒",
-      "quantity": 0.25,
-      "unit": "g",
-      "quantity_range": null,
-      "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": true
-    },
-    {
-      "ingredient_name": "八角",
-      "quantity": 1,
-      "unit": "个",
-      "quantity_range": null,
-      "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "干辣椒",
-      "quantity": 1.5,
-      "unit": "个",
-      "quantity_range": null,
-      "is_optional": false,
-      "note": "可根据口味调整用量",
-      "original_quantity": "3个（可根据口味调整用量）",
-      "is_estimated": true
-    },
-    {
-      "ingredient_name": "丁香",
-      "quantity": 1.5,
-      "unit": "个",
-      "quantity_range": null,
-      "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": true
-    },
-    {
-      "ingredient_name": "甘草",
-      "quantity": 1,
-      "unit": "片",
-      "quantity_range": null,
-      "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "南腐乳",
-      "quantity": 1,
-      "unit": "块",
-      "quantity_range": null,
-      "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "郫县豆瓣酱",
-      "quantity": 7.5,
-      "unit": "g",
-      "quantity_range": null,
-      "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "冰糖",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
-      "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "花雕酒",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
-      "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "白酒",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": null,
-      "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 600.0,
+        "min": 500.0
+      },
+      "unit": "g"
     },
     {
       "ingredient_name": "柱候酱",
-      "quantity": 25,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "核心酱料",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 50.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
-      "ingredient_name": "蚝油",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": null,
+      "ingredient_name": "郫县豆瓣",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 150.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
-      "ingredient_name": "老抽",
-      "quantity": 2.5,
-      "unit": "g",
-      "quantity_range": null,
+      "ingredient_name": "南腐乳",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "生抽",
-      "quantity": 30,
-      "unit": "g",
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
       "quantity_range": null,
-      "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "unit": "块"
     },
     {
       "ingredient_name": "叉烧酱",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "蚝油",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "老抽",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "生抽",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 60.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "花雕酒",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "白酒",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "香叶",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "片"
+    },
+    {
+      "ingredient_name": "花椒",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 0.5,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "八角",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
+    },
+    {
+      "ingredient_name": "丁香",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
+    },
+    {
+      "ingredient_name": "甘草",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "片"
+    },
+    {
+      "ingredient_name": "干辣椒",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "可根据口味调整用量",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
+    },
+    {
+      "ingredient_name": "小米辣",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": true,
+      "note": "可根据口味调整用量",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "条"
+    },
+    {
+      "ingredient_name": "姜",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 30.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "蒜",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 0.5,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "头"
+    },
+    {
+      "ingredient_name": "冰糖",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 2,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "调味用，根据口味调整",
-      "original_quantity": "少量加，不断尝味道",
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "萝卜",
-      "quantity": 200,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "可选配菜，削皮切成 2cm 厚片",
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "土豆",
-      "quantity": 200,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "可选配菜，削皮切成 2cm 厚片",
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "g"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "准备辅料：姜切成 1.5cm*1.5cm 的小块，半头蒜剥好皮，如果有小米辣切成 1cm 小段",
-      "duration_minutes": 3,
-      "tips": null
+      "content": "（备辅料）碗 1：姜切成 1.5cm * 1.5cm 的小块，半头蒜剥好皮，如果有小米辣切成 1cm 小段",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "准备香料：放入香叶、花椒、八角、干辣椒、丁香、甘草",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "（备辅料）碗 2：放入 2 片香叶，0.5g 花椒，2 个八角，3 个干辣椒，3 个丁香， 2 片甘草",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "准备南腐乳：放入2块南乳（一人份1块）",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "（备辅料）碗 3: 放入 2 块南乳",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "准备豆瓣酱：放入豆瓣酱（一人份7.5g）",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "（备辅料）碗 4: 放入 15g 豆瓣酱",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "准备冰糖：放入冰糖（一人份5g）",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "（备辅料）碗 5: 放入 10g 冰糖",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 6,
-      "content": "准备酒：倒入花雕酒和白酒（一人份共15g）",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "（备辅料）碗 6：倒入花雕酒 10g 和白酒 10g",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 7,
-      "content": "准备酱料：加入柱候酱、蚝油、叉烧酱、老抽、生抽",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "（备辅料）碗 7：加入 50g 柱候酱，20g 蚝油，20g 叉烧酱，5g 老抽，60g 生抽",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 8,
       "content": "牛肉不用切，直接冷水下锅，开大火焯水，水沸腾时将牛肉捞出",
-      "duration_minutes": 10,
-      "tips": "需去除血水和杂质"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 9,
-      "content": "冲洗牛肉表面的杂质后，切成 4cm*4cm*4cm 的大块，控干水后放入碗中备用",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "冲洗牛肉表面的杂质后，切成 4cm * 4cm * 4cm 的大块，控干水后放入碗中备用",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 10,
-      "content": "大火，热锅下油，把姜蒜小米辣倒入锅中炒香；中小火倒入香料翻炒30秒",
-      "duration_minutes": 3,
-      "tips": "注意控制火候"
+      "content": "大火，热锅下油，把碗 1（姜、蒜、小米辣）倒入锅中，炒香",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 11,
-      "content": "中小火放入南乳，用锅铲压碎；放入豆瓣酱翻炒30秒；放入冰糖炒至融化；下入牛腩炒至牛肉上色",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "中小火，倒入碗 2（香料），翻炒均匀，大概 30 秒",
+      "duration_minutes": 0.5,
+      "tips": ""
     },
     {
-      "step": 12,
-      "content": "大火沿锅边淋入酒，快速翻炒至牛肉表面略微焦褐；倒入酱料快速翻炒，炒至不停冒小气泡，汤汁略微浓稠",
-      "duration_minutes": 3,
-      "tips": "注意观察汤汁状态"
+      "content": "中小火，放入碗 3（南乳），用锅铲把南乳压碎",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 13,
-      "content": "将锅内全部食材转移至炖煮锅或高压锅，加水淹过食材。普通炖煮锅小火炖煮3小时，高压锅压40分钟",
-      "duration_minutes": 180,
-      "tips": "有高压锅优先使用，只需40分钟"
+      "content": "中小火，放入碗 4（豆瓣酱），翻炒均匀，大概 30 秒",
+      "duration_minutes": 0.5,
+      "tips": ""
     },
     {
-      "step": 14,
-      "content": "时间到后开盖调味，如果不够咸加盐或生抽（少量加，不断尝味道），不够甜则同理加糖。调好味道后便可以把牛腩先捞出",
-      "duration_minutes": 5,
-      "tips": "调味要少量多次，边尝边调"
+      "content": "中小火，放入碗 5（冰糖），炒至融化",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 15,
-      "content": "如果要吃萝卜土豆，则削皮切成 2cm 厚片倒入锅中煮 10-15 分钟（普通锅），如果是高压锅则在加压煮 5 分钟。煮好后捞出萝卜土豆和牛腩放一起",
-      "duration_minutes": 15,
-      "tips": "可根据个人喜好选择是否添加配菜"
+      "content": "中小火，下入牛腩，炒至牛肉上色",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 16,
-      "content": "把汤汁过滤淋在碗中",
-      "duration_minutes": 2,
-      "tips": "过滤可去除香料残渣，使汤汁更清爽"
+      "content": "大火，沿锅边淋入碗 6（酒），快速翻炒，炒至牛肉表面略微焦褐",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "倒入碗 7（酱料），快速翻炒，留意底层汁水，炒至不停冒小气泡，汤汁略微浓稠",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "将锅内全部食材转移至另一个炖煮锅或高压锅，加水淹过食材",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "根据使用的锅来选择炖肉的时间：a. 普通炖煮锅：小火炖煮 3 个小时；b. 高压锅：压 40 分钟",
+      "duration_minutes": 240.0,
+      "tips": ""
+    },
+    {
+      "content": "时间到后开盖调味，如果不够咸加盐或生抽（少量加，不断尝味道，直到合适），不够甜则同理加糖",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "调好味道后便可以把牛腩先捞出",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "如果要吃萝卜土豆，则削皮切成 2cm 厚片倒入锅中煮 10 - 15 分钟（或煮至想要吃的口感），如果是高压锅则在加压煮 5 分钟",
+      "duration_minutes": 15.0,
+      "tips": ""
+    },
+    {
+      "content": "煮好后捞出萝卜土豆和牛腩放一起",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "把汤汁过滤淋入碗中",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
-    "有高压锅只需40分钟，否则需要炖煮3小时",
-    "首选坑腩（带筋的部位）",
-    "调味时少量多次，边尝边调，直到合适为止",
-    "如需添加萝卜土豆等配菜，可根据个人喜好调整",
-    "操作高压锅要注意安全"
-  ]
+    "参考: 柱候牛腩+茅根马蹄竹蔗水教程(https://www.bilibili.com/video/BV12C4y1W7ox)",
+    "操作高压锅要注意安全哦！"
+  ],
+  "description": "肉香味美，色泽诱人，滋补强壮，口感甚佳，令人垂涎的广式菜肴。有高压锅只需 1 个小时，否则需要炖煮 3 个小时。"
 }

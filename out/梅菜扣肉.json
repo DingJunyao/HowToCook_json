@@ -1,9 +1,9 @@
 {
   "name": "梅菜扣肉",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/梅菜扣肉/梅菜扣肉.md",
+  "source_file": "dishes\\meat_dish\\梅菜扣肉\\梅菜扣肉.md",
   "category": "荤菜",
   "difficulty": "hard",
-  "total_time_minutes": 150,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": 1,
   "images": [
@@ -15,175 +15,189 @@
   "ingredients": [
     {
       "ingredient_name": "五花肉",
-      "quantity": 200,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 200.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "梅菜",
-      "quantity": 30,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 30.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "五香粉",
-      "quantity": 2,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "食用油",
-      "quantity": 300,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 300.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "白砂糖",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "老抽",
-      "quantity": 30,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 30.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "生抽",
-      "quantity": 20,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "小米椒",
-      "quantity": 1,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
-      "ingredient_name": "蒜末",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": null,
+      "ingredient_name": "蒜",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "蒜末",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "食用盐",
-      "quantity": 2,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "鸡精",
-      "quantity": 2,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "梅菜放到清水中，浸泡 1 小时",
-      "duration_minutes": 60,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "锅中倒入 50 ml 食用油，将整个五花肉猪皮朝下，放到锅中 1 分钟，取出刮掉猪皮【可选】",
-      "duration_minutes": 1,
-      "tips": "可选步骤，用于去除猪皮"
+      "content": "锅中倒入 50 ml 食用油，将整个五花肉猪皮朝下，放到锅中 1 分钟 ，取出挂掉猪皮 【可选】",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "锅中加入开水，放入五花肉，大火煮 20 分钟（筷子可以插进五花肉），取出五花肉",
-      "duration_minutes": 20,
-      "tips": "煮至筷子能轻松插透五花肉即可"
+      "content": "锅中加入开水，放入五花肉，大火煮 20 分钟 （筷子可以插进五花肉），取出五花肉",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
       "content": "在五花肉表面涂抹均匀老抽、五香粉、白砂糖，放置 15 分钟",
-      "duration_minutes": 15,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
       "content": "起锅烧油，加入五花肉，中火油炸直至两面金黄色（3-5 分钟）",
-      "duration_minutes": 5,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 6,
       "content": "起锅烧油，倒入梅菜，加上小米椒、蒜蓉、鸡精、食用盐后翻炒，直至炒干梅干菜水分",
-      "duration_minutes": 5,
-      "tips": "炒干梅干菜的作用是为了后续吸油"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 7,
-      "content": "五花肉切片（厚度 0.5-1 cm），放在大碗中，撒上梅干菜",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "五花肉切片（后端 0.5-1 cm）,放在大碗中，散上梅干菜",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 8,
       "content": "中火蒸 45 分钟",
-      "duration_minutes": 45,
-      "tips": "可根据个人喜好调整时间"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 9,
       "content": "拿个盘子倒盖在五花肉大碗中，将五花肉倒在盘子中",
-      "duration_minutes": 1,
-      "tips": "倒扣时要小心，保持造型完整"
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
-    "制作过程中发现，脆皮五花肉真香",
+    "制作过程中发现，脆皮五花肉真香 Orz~",
     "不喜欢吃甜的可以去掉白砂糖，不影响主流程",
     "倒数第二个步骤，可以根据个人喜好调整时间",
-    "炒干梅干菜的作用是为了后续吸油"
-  ]
+    "炒干梅干菜的作用是为了后续吸油（盲猜）"
+  ],
+  "description": "梅菜扣肉造型别致、大方得体，颜色酱红油亮，汤汁黏稠鲜美，扣肉肥而不腻，食之软烂醇香。"
 }

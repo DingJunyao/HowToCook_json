@@ -1,169 +1,183 @@
 {
   "name": "椒盐排条",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/椒盐排条.md",
+  "source_file": "dishes\\meat_dish\\椒盐排条.md",
   "category": "荤菜",
   "difficulty": "medium",
-  "total_time_minutes": 45,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": 2,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "大排",
-      "quantity": 90,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "4 块",
+      "original_quantity": "",
+      "quantity": 360.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "鸡蛋",
-      "quantity": 0.5,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "1 个",
+      "original_quantity": "",
+      "quantity": 50.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 0.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "椒盐粉",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "葱姜水",
-      "quantity": 50,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 100.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "面粉",
-      "quantity": 40,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 80.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "淀粉",
-      "quantity": 40,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 80.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "吉士粉",
-      "quantity": 1.5,
-      "unit": "g",
-      "quantity_range": {
-        "min": 1,
-        "max": 1.5
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
       "note": "增色增香，没有可以不放",
-      "original_quantity": "2-3 g",
-      "is_estimated": true
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 3.0,
+        "min": 2.0
+      },
+      "unit": "g"
     },
     {
       "ingredient_name": "水",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
-      "ingredient_name": "食用油",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "ingredient_name": "油",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "炸制用油，能没过食材即可",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "大排洗干净，剔骨，用刀面拍松，切成厚片，再改成粗条",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "大排洗干净，剔骨，用刀面拍松，切成厚片，再改成粗条。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "加入椒盐粉，搅匀，待到出胶质了分次加入葱姜水，放入冰箱腌制 20 分钟",
-      "duration_minutes": 20,
-      "tips": "待到出胶质了再分次加入葱姜水"
+      "content": "加入椒盐粉，搅匀，待到出胶质了分次加入葱姜水，放入冰箱腌制 20 分钟。",
+      "duration_minutes": 20.0,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "制作炸糊。放入面粉，淀粉（注意是一部分淀粉，剩余备用），吉士粉，盐",
-      "duration_minutes": 3,
-      "tips": null
+      "content": "制作炸糊。放入 80 g 面粉，20 g 淀粉（注意是 20 g 淀粉，剩下 60 g 备用），2 - 3 g 吉士粉，盐 1 g。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "打入一个鸡蛋，搅拌，再分次加入水，再加食用油，反复搅拌。直到炸糊完全调开，略粘稠即可",
-      "duration_minutes": 5,
-      "tips": "直到炸糊完全调开，略粘稠即可"
+      "content": "打入一个鸡蛋，搅拌，再分次加入水 100 g ，再加 10 g 油，反复搅拌。直到炸糊完全调开，略粘稠即可。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "取出剩余的淀粉，取出排条，裹上一层淀粉，再裹上面糊",
-      "duration_minutes": 3,
-      "tips": null
+      "content": "取出剩余的 60 g 淀粉，取出排条，裹上一层淀粉，再裹上面糊。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 6,
-      "content": "锅中加入油，能没过食材即可，加热到大约 150℃ - 160℃。下入排条炸成浅金黄色后捞出。刚下入排条时可能会有粘连，不要动。待排条定型后可用筷子翻动，即可分开",
-      "duration_minutes": 5,
-      "tips": "刚下入排条时可能会有粘连，不要动。待排条定型后可用筷子翻动"
+      "content": "锅中加入油，能没过食材即可，加热到大约 150 ℃ - 160 ℃ 。下入排条炸成浅金黄色后捞出。",
+      "duration_minutes": null,
+      "tips": "刚下入排条时可能会有粘连，不要动。待排条定型后可用筷子翻动，即可分开。"
     },
     {
-      "step": 7,
-      "content": "待油温再次升高到 150℃ - 160℃ 时，下入排条复炸至金黄色后捞出",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "待油温再次升高到 150 ℃ - 160 ℃ 时，下入排条复炸至金黄色后捞出。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 8,
-      "content": "撒上椒盐粉，搅拌均匀后出锅",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "撒上椒盐粉，搅拌均匀后出锅。",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
-    "也可以用面包糠代替炸糊，但口感差距很大",
-    "炸糊也可以用来炸鸡腿、炸鱼等"
-  ]
+    "也可以用面包糠代替炸糊，但口感差距很大。",
+    "炸糊也可以用来炸鸡腿、炸鱼等。",
+    "参考：椒盐排条的做法(https://www.bilibili.com/video/BV14s4y1c76H)"
+  ],
+  "description": "椒盐排条是道非常经典的本帮菜，咸、香，也容易制作。"
 }
