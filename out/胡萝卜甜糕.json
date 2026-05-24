@@ -1,164 +1,181 @@
 {
   "name": "胡萝卜甜糕",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/dessert/胡萝卜甜糕.md",
+  "source_file": "dishes\\dessert\\胡萝卜甜糕.md",
   "category": "甜品",
   "difficulty": "medium",
-  "total_time_minutes": 45,
-  "servings": 1,
+  "total_time_minutes": null,
+  "servings": 3,
   "original_servings": 4,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "胡萝卜",
-      "quantity": 143,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "建议选用红色胡萝卜",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 500.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "全脂牛奶",
-      "quantity": 143,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 500.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "糖",
-      "quantity": 25,
-      "unit": "g",
-      "quantity_range": {
-        "min": 15,
-        "max": 25
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "可根据个人口味调整",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 80.0,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 100.0,
+        "min": 60.0
+      },
+      "unit": "g"
     },
     {
       "ingredient_name": "酥油",
-      "quantity": 11,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "可用黄油替代",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "Ghee。可用黄油替代",
+      "original_quantity": "",
+      "quantity": 40.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "小豆蔻粉",
-      "quantity": 1,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "Cardamom Powder",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "腰果",
-      "quantity": 4,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "杏仁",
-      "quantity": 4,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "杏仁片",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "葡萄干",
-      "quantity": 4,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "将胡萝卜去皮，用刨丝器刨成细丝",
-      "duration_minutes": 5,
-      "tips": "使用红色胡萝卜比橙色胡萝卜做出来的色泽更好看"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "在厚底锅中倒入酥油 6g（一半量），中火加热融化",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "在厚底锅中倒入酥油 20g（一半量），中火加热融化",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "放入胡萝卜丝，翻炒 3-5 分钟，直至胡萝卜丝变软且散发香味",
-      "duration_minutes": 4,
-      "tips": null
+      "duration_minutes": 5.0,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "倒入全脂牛奶 143ml，搅拌均匀",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "倒入全脂牛奶 500ml，搅拌均匀",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "大火煮沸后转中小火，保持缓慢沸腾状态，持续翻搅 25-30 分钟，直至牛奶几乎完全被胡萝卜吸收蒸发",
-      "duration_minutes": 28,
-      "tips": "这是最关键的步骤，需要耐心且不断搅拌防止糊底"
+      "content": "大火煮沸后转中小火，保持缓慢沸腾状态",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 6,
-      "content": "当锅中几乎没有液体时，加入糖 25g，搅拌均匀",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "持续翻搅 25-30 分钟，直至牛奶几乎完全被胡萝卜吸收蒸发（这是最关键的步骤，需要耐心且不断搅拌防止糊底）",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 7,
+      "content": "当锅中几乎没有液体时，加入糖 80g，搅拌均匀",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
       "content": "加糖后会重新出水，继续中小火翻炒 5-8 分钟，直至水分再次蒸发",
-      "duration_minutes": 7,
-      "tips": null
+      "duration_minutes": 8.0,
+      "tips": ""
     },
     {
-      "step": 8,
-      "content": "加入剩余的酥油 6g 和小豆蔻粉 1g，翻炒 2 分钟",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "加入剩余的酥油 20g 和小豆蔻粉 3g，翻炒 2 分钟",
+      "duration_minutes": 2.0,
+      "tips": ""
     },
     {
-      "step": 9,
       "content": "在另一个小锅中，用少量酥油将腰果、杏仁片和葡萄干分别炸至金黄（约 1 分钟），注意葡萄干会膨胀",
-      "duration_minutes": 2,
-      "tips": null
+      "duration_minutes": 1.0,
+      "tips": ""
     },
     {
-      "step": 10,
-      "content": "将炸好的坚果和葡萄干的一半拌入胡萝卜甜糕中，盛盘，将剩余坚果和葡萄干撒在表面作为装饰",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "将炸好的坚果和葡萄干的一半拌入胡萝卜甜糕中",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "盛盘，将剩余坚果和葡萄干撒在表面作为装饰",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
-    "胡萝卜甜糕可以热吃也可以冷吃，两种风味各有特色",
-    "使用红色胡萝卜比橙色胡萝卜做出来的色泽更好看",
-    "如果想要更浓郁的口感，可以用淡奶油替代部分牛奶",
-    "密封冷藏可保存 4-5 天，食用前可用微波炉加热 1 分钟",
-    "这道甜品在印度几乎每个家庭都会做，是排灯节(Diwali)和婚礼上必不可少的甜品"
-  ]
+    "胡萝卜甜糕可以热吃也可以冷吃，两种风味各有特色。",
+    "使用红色胡萝卜比橙色胡萝卜做出来的色泽更好看。",
+    "如果想要更浓郁的口感，可以用淡奶油替代部分牛奶。",
+    "密封冷藏可保存 4-5 天。食用前可用微波炉加热 1 分钟。",
+    "这道甜品在印度几乎每个家庭都会做，是排灯节(Diwali)和婚礼上必不可少的甜品。"
+  ],
+  "description": "Gajar Ka Halwa(गाजर का हलवा)— 印度胡萝卜布丁\n\n胡萝卜甜糕是印度最经典的甜品之一，尤其在冬季和节日（如排灯节 Diwali）期间备受喜爱。将新鲜胡萝卜刨丝后用牛奶慢炖，再加入酥油、糖和坚果，最终浓缩成一份色泽金红、香甜浓郁的甜品。制作过程简单但需要耐心，约 45 分钟完成。"
 }

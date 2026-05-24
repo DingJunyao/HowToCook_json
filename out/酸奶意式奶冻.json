@@ -1,10 +1,10 @@
 {
   "name": "酸奶意式奶冻",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/dessert/酸奶意式奶冻/酸奶意式奶冻.md",
+  "source_file": "dishes\\dessert\\酸奶意式奶冻\\酸奶意式奶冻.md",
   "category": "甜品",
   "difficulty": "hard",
   "total_time_minutes": null,
-  "servings": 1,
+  "servings": 3,
   "original_servings": 4,
   "images": [
     "images/酸奶意式奶冻_0.png"
@@ -12,84 +12,87 @@
   "ingredients": [
     {
       "ingredient_name": "吉利丁片",
-      "quantity": 1.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 6.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "淡奶油",
-      "quantity": 50,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 200.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "糖",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "原味酸奶",
-      "quantity": 62.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 250.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "吉利丁片剪成小片，泡入冷水中",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "淡奶油和糖放入锅中，加热至 60 度",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "关火，吉利丁从水中取出，控干水份，加入热淡奶油中，搅拌均匀",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 4,
       "content": "淡奶油降温至 40 度，加入原味酸奶，搅拌均匀",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 5,
       "content": "将上述步骤得到的混合物过两遍筛网",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 6,
       "content": "分装入合适的容器，放入冰箱冷藏 4 小时以上",
-      "duration_minutes": 240,
-      "tips": null
+      "duration_minutes": 240.0,
+      "tips": ""
     }
   ],
   "tips": [
     "传统版本的意式奶冻只用淡奶油，且糖量更大，比较甜腻。此版本做了改良，吃起来负担更小。"
-  ]
+  ],
+  "description": "意式奶冻非常适合作为餐后甜品，可以搭配果酱、水果和香草。成品增加了原味酸奶，不会过于甜腻。"
 }
