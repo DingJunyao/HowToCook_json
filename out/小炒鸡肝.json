@@ -1,10 +1,10 @@
 {
   "name": "小炒鸡肝",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/小炒鸡肝/小炒鸡肝.md",
+  "source_file": "dishes\\meat_dish\\小炒鸡肝\\小炒鸡肝.md",
   "category": "荤菜",
   "difficulty": "medium",
   "total_time_minutes": null,
-  "servings": 1,
+  "servings": 2,
   "original_servings": 2,
   "images": [
     "images/小炒鸡肝_0.jpg"
@@ -12,204 +12,230 @@
   "ingredients": [
     {
       "ingredient_name": "生鸡肝",
-      "quantity": 400,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "5 个",
+      "original_quantity": "",
+      "quantity": 800.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "蒜苗",
-      "quantity": 100,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "喜欢吃的可以多放",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 200.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "大葱",
-      "quantity": 75,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "分成两份，一份切段约50g，一份切片约25g",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "分成两份，一份切段 100g，一份切片 50g",
+      "original_quantity": "",
+      "quantity": 150.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "姜",
-      "quantity": 60,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "分成两份，一份切片约42g，一份切丁约18g",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "分成两份，一份切片 70g，一份切丁 50g",
+      "original_quantity": "",
+      "quantity": 120.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "料酒",
-      "quantity": 15,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 30.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "食用盐",
-      "quantity": 2.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "鸡精",
-      "quantity": 2.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "也可以是味精",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "五香粉",
-      "quantity": 2.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "十三香",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "也可以是十三香",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "胡椒粉",
-      "quantity": 2.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
-      "ingredient_name": "烧烤料或孜然粉",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "ingredient_name": "烧烤料",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "或孜然粉",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "芝麻",
-      "quantity": 2.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "食用油",
-      "quantity": 15,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 30.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "鸡肝清洗，备用",
-      "duration_minutes": 2,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "蒜苗清洗，切段，备用",
-      "duration_minutes": 2,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "大葱清洗，取50g切段，25g切片，备用",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "大葱清洗，取 100g 切段，取 50g 切片，备用",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "姜清洗，取42g切片，18g切丁，备用",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "姜清洗，取 70g 切片， 取 50g 切丁，备用",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "焯水：清洗后的鸡肝放入锅内，加入凉水淹没鸡肝，并放入50g切段的大葱、42g切片的姜和15ml料酒。开大火，待水沸腾调至中火并撇去浮沫后等待5-10分钟。关火，捞出过凉水并清洗干净",
-      "duration_minutes": 10,
-      "tips": "需要注意观察沸腾的水位线，不要让水溢出避免发生危险。焯完水的鸡肝建议用凉水冲洗，更推荐冰水，可以让口感更好"
+      "content": "清洗后的鸡肝放入锅内，加入凉水淹没鸡肝，并放入 100g 切段的大葱、70g 切片的姜和 30ml 料酒",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 6,
-      "content": "将清洗干净后的鸡肝切片，备用",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "开大火，待水沸腾调至中火并撇去浮沫后等待5-10分钟",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 7,
-      "content": "炒制：开中火。锅内加入15ml食用油，等待10秒使油升温",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "关火，捞出过凉水并清洗干净",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 8,
-      "content": "加入25g切片的大葱和18g切丁的姜，翻炒爆香",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "清洗干净后切片，备用",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 9,
+      "content": "开中火。锅内加入 30ml 食用油，等待 10 秒使油升温",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "加入 50g 切片的大葱和 50g 切丁的姜，翻炒爆香",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
       "content": "爆香后加入切片的鸡肝，翻炒至微微发黄",
-      "duration_minutes": 2,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 10,
-      "content": "加入蒜苗，翻炒30秒，断生后调至为小火",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "加入蒜苗，翻炒 30 秒，断生后调至为小火",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 11,
-      "content": "加入调味料：食用盐2.5g、鸡精2.5g、五香粉2.5g、胡椒粉2.5g、烧烤料或孜然粉5g（可选）",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "加入调味料：食用盐 5g、鸡精（味精） 5g、五香粉（十三香） 5g、胡椒粉 5g、烧烤料或 10g （可选）",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 12,
-      "content": "调至为大火，快速翻炒30秒防止糊锅，关火",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "调至为大火，快速翻炒 30 秒防止糊锅，关火",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 13,
-      "content": "盛出盘内，可以撒入2.5g芝麻作为装饰，如果不喜欢或者没有则可以不用添加",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "盛出盘内，可以撒入 5g 芝麻作为装饰，如果不喜欢或者没有则可以不用添加。",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
-  "tips": []
+  "tips": [
+    "焯水时，需要注意观察沸腾的水位线，不要让水溢出避免发生危险。",
+    "焯完水的鸡肝建议用凉水冲洗，更推荐冰水，可以让口感更好。",
+    "蒜苗指的是：大蒜幼苗发育到一定时期的青苗。有些地方叫做青蒜，特别说明一下。"
+  ],
+  "description": "一道稍微麻烦的菜。\n适合喜欢吃肝的人，也可以用其他的动物的肝，但是鸡肝会更好吃。\n需要初学者具有一定的焯水技巧。"
 }

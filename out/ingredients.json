@@ -3272,9 +3272,7 @@
   },
   "红葱头": {
     "name": "红葱头",
-    "aliases": [
-      "火葱"
-    ],
+    "aliases": [],
     "category": "蔬菜",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -5245,120 +5243,22 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "意式猪肉香肠": {
-    "name": "意式猪肉香肠",
+  "牛柳": {
+    "name": "牛柳",
     "aliases": [],
     "category": "其他",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "拿坡里意面酱": {
-    "name": "拿坡里意面酱",
+  "手枪腿": {
+    "name": "手枪腿",
     "aliases": [],
     "category": "其他",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "帕马森干酪": {
-    "name": "帕马森干酪",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "面包": {
-    "name": "面包",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "昆布酱油": {
-    "name": "昆布酱油",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "饺子": {
-    "name": "饺子",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "燕麦片": {
-    "name": "燕麦片",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "韩式酱油": {
-    "name": "韩式酱油",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "辣椒（小米辣或青红椒）": {
-    "name": "辣椒（小米辣或青红椒）",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "草蔻": {
-    "name": "草蔻",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "意式浓缩咖啡": {
-    "name": "意式浓缩咖啡",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "蓝莓": {
-    "name": "蓝莓",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "牛油果": {
-    "name": "牛油果",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "茉莉绿茶": {
-    "name": "茉莉绿茶",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "菠萝汁": {
-    "name": "菠萝汁",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "黄冰糖": {
-    "name": "黄冰糖",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "绿叶": {
-    "name": "绿叶",
+  "干线椒": {
+    "name": "干线椒",
     "aliases": [],
     "category": "其他",
     "usda_id": null,

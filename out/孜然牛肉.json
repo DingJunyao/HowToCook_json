@@ -1,6 +1,6 @@
 {
   "name": "孜然牛肉",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/孜然牛肉.md",
+  "source_file": "dishes\\meat_dish\\孜然牛肉.md",
   "category": "荤菜",
   "difficulty": "medium",
   "total_time_minutes": null,
@@ -9,145 +9,156 @@
   "images": [],
   "ingredients": [
     {
-      "ingredient_name": "牛柳或牛肩肉",
-      "quantity": 250,
-      "unit": "g",
-      "quantity_range": null,
+      "ingredient_name": "牛柳",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "可替换为牛肩肉",
+      "original_quantity": "",
+      "quantity": 250.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "青椒",
-      "quantity": 200,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "2颗",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "2 颗",
+      "original_quantity": "",
+      "quantity": 200.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "孜然",
-      "quantity": 20,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "颗粒优于粉末",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "小米椒",
-      "quantity": 15,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "3颗",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "3 颗",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "生抽酱油",
-      "quantity": 20,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "淀粉",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "油",
-      "quantity": 15,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 3,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "葱",
-      "quantity": 20,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "1根",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "1 根",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "将小米椒切碎，和孜然粒一起放入捣药罐捣碎成颗粒，这样更入味。如果时间紧张可跳过捣碎步骤",
-      "duration_minutes": 3,
-      "tips": "捣碎颗粒更入味，时间紧张可跳过此步骤"
+      "content": "首先将小米椒切碎，和孜然粒一起放入捣药罐捣碎成颗粒，这样更入味。",
+      "duration_minutes": null,
+      "tips": "如果时间紧张可跳过捣碎步骤"
     },
     {
-      "step": 2,
-      "content": "青椒切头去籽（喜欢辣的可不去），切成丝。葱切段",
-      "duration_minutes": 2,
-      "tips": "喜欢辣的青椒可以不去籽"
+      "content": "青椒切头去籽，切成丝。葱切段。",
+      "duration_minutes": null,
+      "tips": "喜欢辣的可不去籽"
     },
     {
-      "step": 3,
       "content": "牛肉提前解冻，过一边水洗干净，晾干或用厨用纸吸干，将牛肉顺着纹理切成片",
-      "duration_minutes": 10,
-      "tips": "需晾干或吸干水分，顺着纹理切片更嫩"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "进行腌肉，加入生抽，淀粉，油，均匀搅拌，静止30分钟",
-      "duration_minutes": 30,
-      "tips": "腌制30分钟让牛肉更嫩滑入味"
+      "content": "然后进行腌肉，加入生抽，淀粉，油，均匀搅拌，静止 30 分钟。",
+      "duration_minutes": 30.0,
+      "tips": ""
     },
     {
-      "step": 5,
       "content": "热锅下油，放入葱，爆出香味后放入腌好的牛肉煸炒",
-      "duration_minutes": 3,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 6,
       "content": "牛肉变色后均匀放入孜然辣椒颗粒并炒熟",
-      "duration_minutes": 2,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 7,
-      "content": "下入青椒丝，断生后放盐",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "然后下入青椒丝，断生后放盐",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 8,
-      "content": "大火炒1分钟后关火再翻炒30秒保证受热均匀即可出锅",
-      "duration_minutes": 1,
-      "tips": "关火后继续翻炒30秒保证受热均匀"
+      "content": "大火炒 1 分钟后关火再翻炒 30 秒保证受热均匀即可出锅",
+      "duration_minutes": 1.5,
+      "tips": ""
     }
   ],
-  "tips": []
+  "tips": [],
+  "description": ""
 }

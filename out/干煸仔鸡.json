@@ -1,9 +1,9 @@
 {
   "name": "干煸仔鸡",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/干煸仔鸡/干煸仔鸡.md",
+  "source_file": "dishes\\meat_dish\\干煸仔鸡\\干煸仔鸡.md",
   "category": "荤菜",
   "difficulty": "hard",
-  "total_time_minutes": 60,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": 2,
   "images": [
@@ -12,250 +12,252 @@
   "ingredients": [
     {
       "ingredient_name": "鸡腿肉",
-      "quantity": 200,
-      "unit": "g",
-      "quantity_range": {
-        "min": 200,
-        "max": 400
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 400.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "土豆",
-      "quantity": 100,
-      "unit": "g",
-      "quantity_range": {
-        "min": 100,
-        "max": 200
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 200.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "青椒",
-      "quantity": 30,
-      "unit": "g",
-      "quantity_range": {
-        "min": 30,
-        "max": 60
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 60.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
-      "ingredient_name": "蒜瓣",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": {
-        "min": 5,
-        "max": 10
-      },
+      "ingredient_name": "大蒜",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 1.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "鸡精",
-      "quantity": 1.5,
-      "unit": "g",
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
       "quantity_range": null,
-      "is_optional": true,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "unit": "g"
     },
     {
       "ingredient_name": "胡椒粉",
-      "quantity": 1,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "生抽",
-      "quantity": 2.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "老抽",
-      "quantity": 1,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "料酒",
-      "quantity": 2.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "淀粉",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
-      "ingredient_name": "郫县红油豆瓣酱",
-      "quantity": 20,
-      "unit": "g",
-      "quantity_range": null,
+      "ingredient_name": "郫县豆瓣",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "注意区分，不是那种棕黄色的豆瓣酱",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 40.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "白糖",
-      "quantity": 15,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 30.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "花椒碎",
-      "quantity": 1,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "鸡精",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": true,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "食用油",
+      "is_approximate": true,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "腌制用食用油防止粘连；宽油炸制用油； 5 mL 炒制用油",
+      "original_quantity": "",
       "quantity": null,
-      "unit": null,
+      "quantity_description": "适量",
       "quantity_range": null,
-      "is_optional": false,
-      "note": "腌制用食用油防止粘连",
-      "original_quantity": "适量",
-      "is_estimated": true
-    },
-    {
-      "ingredient_name": "食用油",
-      "quantity": 100,
-      "unit": "mL",
-      "quantity_range": null,
-      "is_optional": false,
-      "note": "宽油炸制用油",
-      "original_quantity": null,
-      "is_estimated": false
+      "unit": "cm"
     },
     {
       "ingredient_name": "清水",
-      "quantity": 20,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 40.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "鸡腿去骨（如使用鸡腿排可忽略此步骤），鸡腿肉用刀背砸一砸，切成2cm的块",
-      "duration_minutes": 5,
-      "tips": "如使用鸡腿排可省略去骨步骤"
+      "content": "鸡腿去骨（如使用鸡腿排可忽略此步骤），鸡腿肉用刀背砸一砸，切成 2cm 的块。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "鸡腿肉中加入盐、鸡精（可选）、胡椒粉、生抽、老抽、料酒，抓拌至粘手时加入淀粉拌匀，加入食用油防止粘连，腌制30分钟",
-      "duration_minutes": 30,
-      "tips": "腌制过程中注意加入食用油防止粘连"
+      "content": "鸡腿肉中加入盐、鸡精（可选）、胡椒粉、生抽、老抽、料酒，抓拌至粘手时加入淀粉拌匀，加入食用油防止粘连，腌制 30 分钟。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "土豆去皮，切成2cm的块，沸水煮5分钟后捞出，控干水分，防止油炸时爆锅",
-      "duration_minutes": 5,
-      "tips": "务必控干水分，防止油炸时爆锅"
+      "content": "土豆去皮，切成 2cm 的块，沸水煮 5 分钟后捞出，控干水分，防止油炸时爆锅。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "青椒去籽，切成2cm小片，放在笊篱中备用",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "青椒去籽，切成 2cm 小片，放在笊篱中备用。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "锅中加入宽油（根据锅的形状，能没过食材即可），油温烧至180℃时，下入土豆块炸3分钟后捞出",
-      "duration_minutes": 3,
-      "tips": "油温要达到180℃以保证炸制效果"
+      "content": "锅中加入宽油（根据锅的形状，能没过食材即可），油温烧至 180℃ 时，下入土豆块炸 3 分钟后捞出。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 6,
-      "content": "待油温再次升高到180℃时，下入鸡块炸2分钟后捞出",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "待油温再次升高到 180℃时，下入鸡块炸 2 分钟后捞出。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 7,
-      "content": "待油温再次升高到180℃时，下入鸡块复炸1分钟后捞出",
-      "duration_minutes": 1,
-      "tips": "复炸可以使外皮更加酥脆"
+      "content": "待油温再次升高到 180℃时，下入鸡块复炸 1 分钟后捞出。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 8,
-      "content": "待油温再次升高到180℃时，下入土豆块复炸1分钟后，将锅中的油和土豆块经过笊篱过滤倒出，让笊篱上的青椒片断生",
-      "duration_minutes": 1,
-      "tips": "利用余温让青椒片断生"
+      "content": "待油温再次升高到 180℃时，下入土豆块复炸 1 分钟后，将锅中的油和土豆块经过笊篱过滤倒出，让笊篱上的青椒片断生。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 9,
-      "content": "锅中加入5ml食用油，小火煸炒蒜瓣至发黄，下入红油豆瓣酱煸炒出香，下入白糖炒融化，下入花椒碎，加40ml清水，不停搅拌至酱汁粘稠",
-      "duration_minutes": 3,
-      "tips": "小火煸炒，不停搅拌至酱汁粘稠"
+      "content": "锅中加入 5ml 食用油，小火煸炒蒜瓣至发黄，下入红油豆瓣酱煸炒出香，下入白糖炒融化，下入花椒碎，加 40ml 清水，不停搅拌至酱汁粘稠。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 10,
-      "content": "下入炸好的鸡块、土豆块、青椒片，搅拌均匀后出锅",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "下入炸好的鸡块、土豆块、青椒片，搅拌均匀后出锅。",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
-    "不舍得使用宽油油炸的话，可改用更少的油煎鸡块和土豆块。会增长用时，部分影响口感，但不会影响总体味道。"
-  ]
+    "不舍得使用宽油油炸的话，可改用更少的油煎鸡块和土豆块。会增长用时，部分影响口感，但不会影响总体味道。",
+    "参考资料：北大餐饮中心官方资讯(https://mp.weixin.qq.com/s/gd7F1bezTyd3OQsUVVur1w)"
+  ],
+  "description": "干煸仔鸡是一道甜辣口味的川菜，是北京大学食堂赵春月厨师长研发的美食，广受师生喜爱。赵厨师长已将菜谱公开，方便大家自己动手制作，疫情居家下饭必备！"
 }

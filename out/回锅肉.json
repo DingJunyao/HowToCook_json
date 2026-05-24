@@ -1,9 +1,9 @@
 {
   "name": "回锅肉",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/回锅肉/回锅肉.md",
+  "source_file": "dishes\\meat_dish\\回锅肉\\回锅肉.md",
   "category": "荤菜",
   "difficulty": "hard",
-  "total_time_minutes": 40,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": null,
   "images": [
@@ -13,140 +13,237 @@
   "ingredients": [
     {
       "ingredient_name": "五花肉",
-      "quantity": 200.0,
-      "unit": "g",
-      "quantity_range": {
-        "min": 150.0,
-        "max": 250.0
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "正宗回锅肉使用二刀肉[俗称：臀尖]制作，肉质坚实，肥瘦合适",
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "用量为 0.5 斤/男人 0.3 斤/女人 （正宗回锅肉使用二刀肉[俗称：臀尖]制作，肉质坚实，肥瘦合适）",
+      "original_quantity": "",
+      "quantity": 0.5,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 0.5,
+        "min": 0.3
+      },
+      "unit": "斤"
     },
     {
       "ingredient_name": "小葱",
-      "quantity": 2.0,
-      "unit": "棵",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "棵"
     },
     {
       "ingredient_name": "生姜",
-      "quantity": 40.0,
-      "unit": "g",
-      "quantity_range": {
-        "min": 10.0,
-        "max": 40.0
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 40.0,
+        "min": 10.0
+      },
+      "unit": "g"
     },
     {
       "ingredient_name": "青红椒",
-      "quantity": 0.0,
-      "unit": "g",
-      "quantity_range": {
-        "min": 0.0,
-        "max": 30.0
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
       "note": "根据受辣程度选择，不建议使用肉厚的菜椒",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 30.0,
+        "min": 0.0
+      },
+      "unit": "g"
     },
     {
       "ingredient_name": "蒜苗",
-      "quantity": 50.0,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": "1 把",
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "把"
     },
     {
       "ingredient_name": "料酒",
-      "quantity": 5.0,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "豆瓣酱",
-      "quantity": 10.0,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "味精",
-      "quantity": 5.0,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "生抽",
-      "quantity": 5.0,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "锅烧热，用手将五花肉紧紧压在锅上炙皮。用钢丝球把皮刷干净，至黑色部分碳化部分被完全去除。将五花肉放入锅中，放入能淹没五花肉的冷水，放入生姜片、料酒和小葱（取 2 棵小葱打结）。开大火煮，水开后撇去浮沫，继续煮 15 分钟，煮至瘦肉部分可以用筷子轻松刺穿",
-      "duration_minutes": 20,
-      "tips": "炙皮是为了处理猪皮上的汗腺（或者买肉的时候让师傅烧一下皮，喜欢汗腺的可以无视）；不刷干净会有苦味"
+      "content": "锅烧热，用手将五花肉紧紧压在锅上炙皮",
+      "duration_minutes": null,
+      "tips": "这一步是为了处理猪皮上的汗腺（或者买肉的时候让师傅烧一下皮，喜欢汗腺的可以无视）"
     },
     {
-      "step": 2,
-      "content": "青红椒切圈，蒜苗切段，生姜切小薄片，将 5ml 豆瓣酱和 5ml 生抽提前混合",
-      "duration_minutes": 5,
-      "tips": "不建议使用肉厚的菜椒"
+      "content": "用钢丝球把皮刷干净，至黑色部分碳化部分被完全去除，不刷干净会有苦味",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "将煮熟的五花肉捞出放入冷水晾凉。擦干五花肉的水，切成上肥下瘦的 2mm 的薄片",
-      "duration_minutes": 10,
-      "tips": "切厚了口感不好，而且很油；擦干水是为了避免炒至的时候爆油溅伤"
+      "content": "将五花肉放入锅中，放入能淹没五花肉的冷水，放入生姜片、料酒和小葱（取 2 棵小葱打结）",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "锅烧热，放入一层底油滑锅，放入五花肉煸炒至肥肉透明，肉片微卷（俗称起灯盏窝），二刀肉效果最佳。倒入豆瓣生抽混合物，5g 味精翻炒 15 秒",
-      "duration_minutes": 2,
-      "tips": "操作要迅速，小心糊锅"
+      "content": "开大火煮，水开后撇去浮沫，继续煮 15 分钟，煮至瘦肉部分可以用筷子轻松刺穿",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
+      "content": "青红椒切圈",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "蒜苗切段",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "生姜切小薄片",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "将 5ml 豆瓣酱和 5ml 生抽提前混合",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "将煮熟的五花肉捞出放入冷水晾凉",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "擦干五花肉的水，切成上肥下瘦的 2mm 的薄片",
+      "duration_minutes": null,
+      "tips": "切厚了口感不好，而且很油"
+    },
+    {
+      "content": "锅烧热，放入一层底油滑锅",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "放入五花肉煸炒至肥肉透明，肉片微卷（欲称起灯盏窝），二刀肉效果最佳。",
+      "duration_minutes": null,
+      "tips": "注意，此步骤操作要迅速，小心糊锅"
+    },
+    {
+      "content": "倒入豆瓣生抽混合物，5g 味精翻炒 15 秒",
+      "duration_minutes": null,
+      "tips": "注意，此步骤操作要迅速，小心糊锅"
+    },
+    {
       "content": "放入青红椒圈和小姜片，放入另 5ml 豆瓣酱翻炒 30 秒",
-      "duration_minutes": 1,
-      "tips": null
+      "duration_minutes": null,
+      "tips": "注意，此步骤操作要迅速，小心糊锅"
     },
     {
-      "step": 6,
-      "content": "放入蒜苗翻炒 60 秒，出锅",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "放入蒜苗翻炒 60 秒",
+      "duration_minutes": null,
+      "tips": "注意，此步骤操作要迅速，小心糊锅"
+    },
+    {
+      "content": "出锅",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（简易版本）选用冰冻五花肉常量放置 0.5 小时 或者鲜五花肉放冰箱冷藏 1 个小时，切成 2-5 mm 薄片",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（简易版本）开中火，辣椒放过锅中干煸 30-45 秒后取出",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（简易版本）锅烧热，放入一层底油滑锅，放入姜片煸炒 15 秒",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（简易版本）倒入五花肉，间隔 10 S 翻炒一次，待五花肉出现焦黄色",
+      "duration_minutes": null,
+      "tips": "翻炒时间越久五花肉口感越硬"
+    },
+    {
+      "content": "（简易版本）倒入之前干煸过的辣椒、10ml 豆瓣酱，生抽调味，继续翻炒 60 秒",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（简易版本）倒入切成段的蒜苗翻炒 10 秒",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（简易版本）出锅",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
@@ -155,5 +252,6 @@
     "回锅肉过冷水晾凉后肉质会更紧致",
     "回锅肉擦干水是为了避免炒至的时候爆油溅伤",
     "回锅肉切记不要切厚了，不然很腻"
-  ]
+  ],
+  "description": ""
 }

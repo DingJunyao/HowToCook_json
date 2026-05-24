@@ -1,10 +1,10 @@
 {
   "name": "土豆炖排骨",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
+  "source_file": "dishes\\meat_dish\\土豆炖排骨\\土豆炖排骨.md",
   "category": "荤菜",
   "difficulty": "medium",
-  "total_time_minutes": 75,
-  "servings": 1,
+  "total_time_minutes": null,
+  "servings": 2,
   "original_servings": 2,
   "images": [
     "images/土豆炖排骨_0.jpg",
@@ -13,190 +13,291 @@
   "ingredients": [
     {
       "ingredient_name": "肋排",
-      "quantity": 375,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 750.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "土豆",
-      "quantity": 150,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "约1个中等大小",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 300.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "姜",
-      "quantity": 15,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "分为两份：15g 焯水用，15g 炒制用",
+      "original_quantity": "",
+      "quantity": 30.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "小葱",
-      "quantity": 12.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "约1根",
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "分为两份：15g 打成葱结，10g 切葱花",
+      "original_quantity": "",
+      "quantity": 25.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "料酒",
-      "quantity": 12.5,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "分为两份：15ml 焯水用，10ml 炒制用",
+      "original_quantity": "",
+      "quantity": 25.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "白糖",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "干辣椒",
-      "quantity": 2.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "八角",
-      "quantity": 2.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "约 1-2 颗",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "花椒",
-      "quantity": 2.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "约 10 粒",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "桂皮",
-      "quantity": 2.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "一小块",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "生抽",
-      "quantity": 5,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "老抽",
-      "quantity": 2.5,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "蚝油",
-      "quantity": 2.5,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "黄豆酱",
-      "quantity": 2.5,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "盐",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "最后收汁调味用",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "cm"
+    },
+    {
+      "ingredient_name": "食用油",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
+    },
+    {
+      "ingredient_name": "水",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "开水",
+      "original_quantity": "",
+      "quantity": 700.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "土豆滚刀切片，姜片切片",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "处理土豆： 将 300g 土豆去皮，切成不规则的滚刀块 。切好后立刻泡入一盆清水中，隔绝氧气防止表面氧化发黑，备用。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "排骨冷水下锅，加入姜片、葱段、料酒焯水2分钟，焯干水后捞出清洗干净（一定要用热水，不能用冷水）",
-      "duration_minutes": 5,
-      "tips": "一定要用热水清洗，不能用冷水，否则排骨会变硬"
+      "content": "处理葱姜： 将 30g 姜全部切成薄片（分成两份 15g）。将 25g 小葱处理好：15g 挽成一个葱结，剩余 10g 切成细小葱花备用。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "热锅凉油，将白糖倒入锅中，翻炒至融化为焦糖色",
-      "duration_minutes": 3,
-      "tips": "注意火候，避免糖糊了"
+      "content": "封装酱汁碗（一键调用）： 拿一个小碗，依次加入 10ml 生抽、5ml 老抽、5ml 蚝油、5ml 黄豆酱，彻底搅拌均匀，放在灶台触手可及处备用。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "加入排骨煎至两面金黄，让排骨裹满焦糖",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "封装香料碟（一键调用）： 拿一个小碟，放入 5g 干辣椒、1g 八角（约 1-2 颗）、1g 花椒（约 10 粒）、1g 桂皮（一小块），以及刚才切好的 15g 姜片，备用。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "加入干辣椒、八角、花椒、桂皮、姜片（建议买超市的香料包）、5ml生抽、2.5ml老抽、2.5ml料酒、2.5ml蚝油、2.5ml黄豆酱",
-      "duration_minutes": 2,
-      "tips": "可以买超市的现成香料包更方便"
+      "content": "开启异步水程： 按下电热水壶开关，开始烧制 700ml 开水。",
+      "duration_minutes": null,
+      "tips": "确保炒制完成时，开水刚好就绪"
     },
     {
-      "step": 6,
-      "content": "大火翻炒均匀后加入350ml开水，大火烧开后转小火焖煮1小时",
-      "duration_minutes": 60,
-      "tips": "水量可根据个人喜好调整"
+      "content": "冷水焯水： 将 750g 肋排冷水下锅，加入 15g 葱结、15g 姜片、15ml 料酒。大火煮沸后，继续保持沸腾焯水 2 分钟，逼出内部血沫。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 7,
-      "content": "最后加入土豆煮10分钟就可以出锅啦",
-      "duration_minutes": 10,
-      "tips": "喜欢吃青红椒的也可以按自己喜好加入"
+      "content": "热洗冷防： 捞出排骨，必须用热水将排骨表面残留的浮沫清洗干净。",
+      "duration_minutes": null,
+      "tips": "遇冷水肉质会剧烈收缩变硬"
+    },
+    {
+      "content": "绝对脱水（防爆防溅）： 洗净的排骨必须用厨房纸彻底吸干表面水分，装盘放在炒锅旁边备用。",
+      "duration_minutes": null,
+      "tips": "防止后续下入高温糖色时发生剧烈炸锅"
+    },
+    {
+      "content": "炒制糖色： 热锅凉油，加入 20ml 食用油。将 10g 白糖倒入锅中，中小火不停搅拌。翻炒至白糖完全融化冒泡，并呈现红棕色的焦糖色 。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "上色煎制： 迅速加入彻底脱水的 750g 排骨，转中大火翻炒。煎制约 2-3 分钟，至排骨两面微微金黄，且均匀裹满焦糖色。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "一键爆香： 在锅中拨出一小块空地，直接倒入【香料碟】。利用锅底的热油爆香约 10 秒，激发出香料的脂溶性香气。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "一键调味： 顺着热锅边缘淋入剩余的 10ml 料酒激发出锅气。紧接着直接倒入【酱汁碗】，翻炒约 30 秒，让酱料完全包裹排骨并炒出浓郁酱香。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "加水长炖： 此时电热水壶已沸腾，直接加入 700ml 滚烫的开水（水量需没过排骨），大火烧开。随后盖上锅盖，转小火持续焖煮 40 分钟。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "加入土豆： 40 分钟后打开锅盖，将泡在水里的 300g 土豆捞出沥干，下入锅中。重新盖上锅盖，继续小火焖煮 15-20 分钟，直到用筷子能轻松扎透土豆块。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "调味收汁： 打开锅盖，加入 3g 盐（此时可尝一下汤汁，根据个人口味酌情微调）。转大火开始翻炒收汁，大约需要 3-5 分钟。直到汤汁变得浓稠，均匀地挂在排骨和土豆上即可关火。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "点缀出锅： 盛盘出锅，在表面均匀撒上预处理好的 10g 葱花作为 UI 点缀即可。",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
-  "tips": [
-    "这道菜难度系数简单，对新手友好，超级下饭"
-  ]
+  "tips": [],
+  "description": ""
 }

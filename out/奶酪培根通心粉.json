@@ -1,10 +1,10 @@
 {
   "name": "奶酪培根通心粉",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md",
+  "source_file": "dishes\\meat_dish\\奶酪培根通心粉\\奶酪培根通心粉.md",
   "category": "主食",
   "difficulty": "medium",
-  "total_time_minutes": 45,
-  "servings": 1,
+  "total_time_minutes": null,
+  "servings": 2,
   "original_servings": 4,
   "images": [
     "images/奶酪培根通心粉_0.jpg",
@@ -13,178 +13,202 @@
   "ingredients": [
     {
       "ingredient_name": "通心粉",
-      "quantity": 31,
-      "unit": "g",
-      "quantity_range": {
-        "min": 25,
-        "max": 31
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 125.0,
+        "min": 100.0
+      },
+      "unit": "g"
     },
     {
       "ingredient_name": "奶酪",
-      "quantity": 28,
-      "unit": "g",
-      "quantity_range": {
-        "min": 10,
-        "max": 28
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "需磨成碎末，若要烘烤额外准备 6.25g",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "若要烘烤额外准备 25g， 条状",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 55.0,
+        "min": 40.0
+      },
+      "unit": "g"
     },
     {
       "ingredient_name": "培根",
-      "quantity": 31,
-      "unit": "g",
-      "quantity_range": {
-        "min": 25,
-        "max": 31
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "或其他肉类",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 125.0,
+        "min": 100.0
+      },
+      "unit": "g"
     },
     {
       "ingredient_name": "洋葱",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": {
-        "min": 6,
-        "max": 10
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "切成碎",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 40.0,
+        "min": 25.0
+      },
+      "unit": "g"
     },
     {
       "ingredient_name": "黄油",
-      "quantity": 4,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "面粉",
-      "quantity": 2.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "牛奶",
-      "quantity": 31,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 125.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "大蒜",
-      "quantity": 0.25,
-      "unit": "瓣",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "切碎",
-      "original_quantity": null,
-      "is_estimated": true
+      "original_quantity": "",
+      "quantity": 0.5,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "瓣"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "将奶酪磨成碎末，洋葱切成条状，大蒜切碎",
-      "duration_minutes": 3,
-      "tips": null
-    },
-    {
-      "step": 2,
-      "content": "用微咸的水煮通心粉 6 分钟",
-      "duration_minutes": 6,
-      "tips": null
-    },
-    {
-      "step": 3,
-      "content": "中火锅中放入黄油，等待融化",
-      "duration_minutes": 1,
-      "tips": null
-    },
-    {
-      "step": 4,
-      "content": "加入洋葱，等待软化",
-      "duration_minutes": 2,
-      "tips": null
-    },
-    {
-      "step": 5,
-      "content": "洋葱软化后加入大蒜",
-      "duration_minutes": 1,
-      "tips": "等待大蒜香味出来"
-    },
-    {
-      "step": 6,
-      "content": "加入培根或其他肉类，等待 5 秒",
+      "content": "奶酪要磨成碎末",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 7,
-      "content": "转小火，分四次加入牛奶，每次搅拌 5 秒后再加下一次",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "洋葱切成条状",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 8,
+      "content": "通心粉用微咸的水煮 6 分钟",
+      "duration_minutes": 6.0,
+      "tips": ""
+    },
+    {
+      "content": "中火",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "锅中放入黄油，等待融化",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "加入洋葱",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "洋葱软化后加入大蒜",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "大蒜香味出来后，加入肉类，等待 5 秒",
+      "duration_minutes": 0.08,
+      "tips": ""
+    },
+    {
+      "content": "小火",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "分四次加入牛奶，每次搅拌 5 秒后再加下一次",
+      "duration_minutes": 0.33,
+      "tips": ""
+    },
+    {
       "content": "加入面粉并充分搅拌",
-      "duration_minutes": 1,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 9,
       "content": "加入奶酪并搅拌均匀",
-      "duration_minutes": 2,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 10,
       "content": "将通心粉和奶酪搅拌",
-      "duration_minutes": 2,
-      "tips": "如果不打算烘烤，可以直接吃了"
+      "duration_minutes": null,
+      "tips": "如果不打算烘烤，之后可以直接吃了"
     },
     {
-      "step": 11,
-      "content": "预热烤箱至 180°C",
-      "duration_minutes": 5,
-      "tips": "可选步骤"
+      "content": "（烘烤）预热烤箱至 180°C",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 12,
-      "content": "将额外的芝士铺在通心粉之上",
-      "duration_minutes": 1,
-      "tips": "可选步骤"
+      "content": "（烘烤）将额外的 50g 芝士铺在通心粉之上",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 13,
-      "content": "等待烤箱预热至 180°C 后，将通心粉放入，烤至表面金黄",
-      "duration_minutes": 24,
-      "tips": "可选步骤"
+      "content": "（烘烤）等待烤箱预热至 180°C 后，将通心粉放入",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（烘烤）烤至表面金黄,约 24 分钟",
+      "duration_minutes": 24.0,
+      "tips": ""
     }
   ],
   "tips": [
-    "本料理及其不健康，有大约 1300 大卡，80g 脂肪，不建议常吃"
-  ]
+    "本料理及其不健康，有大约 1300 大卡，80g 脂肪，不建议常吃。"
+  ],
+  "description": "这是一道美味的奶酪培根通心粉(Mac and Cheese)，适合四人享用。它结合了浓郁的奶酪和香脆的培根，简单易做，是一道受欢迎的美式家常菜。"
 }
