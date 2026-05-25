@@ -1,101 +1,112 @@
 {
   "name": "烤鸡翅",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/烤鸡翅.md",
+  "source_file": "dishes\\meat_dish\\烤鸡翅.md",
   "category": "荤菜",
   "difficulty": "medium",
-  "total_time_minutes": 70,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": null,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "鸡翅中",
-      "quantity": 4,
-      "unit": "个",
-      "quantity_range": {
-        "min": 3,
-        "max": 4
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 4.0,
+        "min": 3.0
+      },
+      "unit": "个"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 2,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "黑胡椒粉",
-      "quantity": 1,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "酱油",
-      "quantity": 3,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "料酒",
-      "quantity": 3,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
+      "content": "鸡翅放入碗中",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "加盐、黑胡椒粉、酱油、料酒进行腌制 30-40 分钟",
+      "duration_minutes": 40.0,
+      "tips": ""
+    },
+    {
       "content": "将烤箱预热至 200℃",
-      "duration_minutes": 10,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "鸡翅放入碗中，加盐、黑胡椒粉、酱油、料酒进行腌制",
-      "duration_minutes": 35,
-      "tips": "腌制时间 30-40 分钟，确保鸡翅入味"
-    },
-    {
-      "step": 3,
       "content": "将腌制好的鸡翅均匀地放在烤盘上",
-      "duration_minutes": 2,
-      "tips": "建议在烤盘底部垫上一层锡纸，便于清洁烤盘"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
       "content": "将烤盘放入烤箱中层，烤 15-20 分钟",
-      "duration_minutes": 20,
-      "tips": null
+      "duration_minutes": 20.0,
+      "tips": ""
     },
     {
-      "step": 5,
       "content": "取出烤盘，将鸡翅翻面，再烤 15-20 分钟，直到熟透",
-      "duration_minutes": 20,
-      "tips": "确保鸡翅熟透再取出"
+      "duration_minutes": 20.0,
+      "tips": ""
     }
   ],
   "tips": [
     "可以在腌制鸡翅时加入蜂蜜、酱油、姜蒜粉、五香粉等作为调味料，提升口感和香气",
     "烤鸡翅时，建议将烤盘底部垫上一层锡纸，便于清洁烤盘"
-  ]
+  ],
+  "description": ""
 }

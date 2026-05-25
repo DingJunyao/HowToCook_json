@@ -5270,5 +5270,26 @@
     "category": "其他",
     "usda_id": null,
     "usda_match_status": "unmatched"
+  },
+  "小薄饼": {
+    "name": "小薄饼",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "芝麻盐": {
+    "name": "芝麻盐",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "牛肉末": {
+    "name": "牛肉末",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   }
 }

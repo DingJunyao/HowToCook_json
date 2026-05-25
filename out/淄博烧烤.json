@@ -1,0 +1,133 @@
+{
+  "category": "荤菜",
+  "description": "淄博烧烤是山东淄博的特色美食，以小饼卷肉的吃法闻名全国。灵魂在于三合一：烤肉 + 小饼 + 大葱，缺一不可。制作时间约 40 分钟。",
+  "difficulty": "hard",
+  "images": [
+    "images/淄博烧烤_0.jpg"
+  ],
+  "ingredients": [
+    {
+      "ingredient_name": "五花肉",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 200.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "小薄饼",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "市售现成",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "张"
+    },
+    {
+      "ingredient_name": "大葱",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "根"
+    },
+    {
+      "ingredient_name": "芝麻酱",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "与甜面酱可换成芝麻盐",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "cm"
+    },
+    {
+      "ingredient_name": "甜面酱",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "与芝麻酱可换成芝麻盐",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "cm"
+    },
+    {
+      "ingredient_name": "芝麻盐",
+      "is_approximate": true,
+      "is_estimated": false,
+      "is_optional": true,
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "cm"
+    }
+  ],
+  "name": "淄博烧烤",
+  "servings": 1,
+  "source_file": "dishes\\meat_dish\\淄博烧烤\\淄博烧烤.md",
+  "steps": [
+    {
+      "content": "五花肉切成厚度不超过 2cm 长的块，并串成串。（）",
+      "duration_minutes": null,
+      "tips": "五花肉可以预先腌制一下，味道更佳"
+    },
+    {
+      "content": "大葱切成 5cm 长的葱段，备用",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "芝麻酱加 10ml 温水调稀，与甜面酱混合均匀，备用",
+      "duration_minutes": null,
+      "tips": "可以换成芝麻盐"
+    },
+    {
+      "content": "点燃炭火，等待炭火烧至通红无明火状态（约 15 分钟）",
+      "duration_minutes": 15.0,
+      "tips": ""
+    },
+    {
+      "content": "将五花肉串均匀摆在在烤网上，烤至底面焦黄出油后翻面",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "继续烤制约 2 - 3 分钟，至两面焦黄、边缘微焦后取下",
+      "duration_minutes": 3.0,
+      "tips": ""
+    },
+    {
+      "content": "取一张小薄面饼平铺，抹上 3 - 4g 混合酱料",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "放上烤好的肉片和 1 - 2 段大葱，卷起即可食用",
+      "duration_minutes": null,
+      "tips": ""
+    }
+  ],
+  "tips": [
+    "五花肉切片时建议放入冰箱冷冻 30 分钟后再切，更易切块。",
+    "炭火烤制风味优于燃气，有条件建议使用木炭。",
+    "酱料可根据个人口味调整芝麻酱与甜面酱的比例，也可以换成芝麻盐。"
+  ],
+  "total_time_minutes": null
+}
