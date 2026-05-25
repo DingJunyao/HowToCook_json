@@ -1,10 +1,10 @@
 {
   "name": "牛排的做法",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/牛排/牛排.md",
+  "source_file": "dishes\\meat_dish\\牛排\\牛排.md",
   "category": "荤菜",
   "difficulty": "hard",
-  "total_time_minutes": 30,
-  "servings": 1,
+  "total_time_minutes": null,
+  "servings": 2,
   "original_servings": 2,
   "images": [
     "images/牛排_0.jpg"
@@ -12,258 +12,292 @@
   "ingredients": [
     {
       "ingredient_name": "牛排",
-      "quantity": 250,
-      "unit": "g",
-      "quantity_range": {
-        "min": 225,
-        "max": 250
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "两片牛排约450-500g，推荐厚度2-3cm",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "两片牛排",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 550.0,
+        "min": 450.0
+      },
+      "unit": "g"
     },
     {
-      "ingredient_name": "黑胡椒粉",
-      "quantity": 1,
-      "unit": "g",
-      "quantity_range": null,
+      "ingredient_name": "黑胡椒",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "推荐粗颗粒现磨黑胡椒",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "推荐粗颗粒现磨黑胡椒，磨粉",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 2.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "推荐大颗粒海盐",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "大蒜",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": {
-        "min": 2.5,
-        "max": 5
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "留5-8个较大的蒜瓣，用刀背压扁",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "1 个",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 10.0,
+        "min": 5.0
+      },
+      "unit": "g"
     },
     {
       "ingredient_name": "橄榄油",
-      "quantity": 7.5,
-      "unit": "mL",
-      "quantity_range": {
-        "min": 5,
-        "max": 7.5
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "推荐特级初榨橄榄油",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 15.0,
+        "min": 10.0
+      },
+      "unit": "mL"
     },
     {
       "ingredient_name": "黄油",
-      "quantity": 12.5,
-      "unit": "g",
-      "quantity_range": {
-        "min": 10,
-        "max": 12.5
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 25.0,
+        "min": 20.0
+      },
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "芦笋",
+      "is_approximate": true,
+      "is_estimated": false,
+      "is_optional": true,
+      "note": "配菜，按喜好准备，选1-2种即可",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "cm"
     },
     {
       "ingredient_name": "口蘑",
-      "quantity": 5,
-      "unit": "个",
-      "quantity_range": {
-        "min": 2.5,
-        "max": 5
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "配菜，选1-2种即可",
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "小土豆",
-      "quantity": 5,
-      "unit": "个",
+      "note": "配菜，按喜好准备，选1-2种即可",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
       "quantity_range": {
-        "min": 2.5,
-        "max": 5
+        "max": 10.0,
+        "min": 5.0
       },
-      "is_optional": true,
-      "note": "每个约20g，配菜选1-2种即可",
-      "original_quantity": null,
-      "is_estimated": false
+      "unit": "个"
     },
     {
       "ingredient_name": "小番茄",
-      "quantity": 5,
-      "unit": "个",
-      "quantity_range": {
-        "min": 2.5,
-        "max": 5
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "每个约15g，配菜选1-2种即可",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "配菜，按喜好准备，选1-2种即可；5-10 个，每个约 15g",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 150.0,
+        "min": 75.0
+      },
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "小土豆",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": true,
+      "note": "配菜，按喜好准备，选1-2种即可；5-10 个，每个约 20g",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 200.0,
+        "min": 100.0
+      },
+      "unit": "g"
     },
     {
       "ingredient_name": "百里香",
-      "quantity": 1,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "若使用新鲜百里香枝条，取3-6根，每根约10cm长",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "若使用新鲜百里香枝条，取3-6根，每根约10cm长；香料推荐迷迭香或者百里香，尽量使用新鲜的植物枝条而不是这些香料磨成的粉",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "预制牛排酱汁",
-      "quantity": null,
-      "unit": null,
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "可选",
-      "original_quantity": "适量",
-      "is_estimated": true
-    },
-    {
-      "ingredient_name": "迷迭香",
+      "note": "",
+      "original_quantity": "",
       "quantity": null,
-      "unit": null,
+      "quantity_description": "",
       "quantity_range": null,
-      "is_optional": true,
-      "note": "香料可选，推荐新鲜植物枝条",
-      "original_quantity": "适量",
-      "is_estimated": true
+      "unit": "cm"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "从冰箱中取出牛排解冻。如果牛排处于冰冻状态，需提前一晚转移至冷藏室，并在烹饪前半小时放置在常温中。请勿将牛排置于水中或加热解冻。",
+      "content": "从冰箱中取出牛排解冻。",
       "duration_minutes": null,
-      "tips": "提前解冻让牛排回温，避免烹饪不均匀"
+      "tips": ""
     },
     {
-      "step": 2,
+      "content": "如果牛排处于冰冻状态，需提前一晚转移至冷藏室，并在烹饪前半小时放置在常温中。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "请勿将牛排置于水中或加热解冻。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
       "content": "将小番茄，小土豆和口蘑洗净，对半切开备用。",
-      "duration_minutes": 3,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "将大蒜剥皮，留5-8个较大的蒜瓣，用刀背压扁备用。",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "将大蒜剥皮，留 5-8 个较大的蒜瓣，用刀背压扁备用。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "牛排的预处理：对于肉眼牛排，使用厨房剪刀竖直插入到肉眼牛排中心的结缔组织，剪1-2刀；对于西冷牛排，如果不喜欢的可以剔除边上的油脂。随后使用厨房纸包裹牛排，将牛排上附着的水全部吸干，直至不留下明显水渍。",
-      "duration_minutes": 5,
-      "tips": "吸干牛排表面的水分很重要，否则会影响煎制效果"
+      "content": "对于肉眼牛排（见如何选择不同种类的牛排(https://zhuanlan.zhihu.com/p/72352426)），使用厨房剪刀竖直插入到肉眼牛排中心的结缔组织，剪 1-2 刀。",
+      "duration_minutes": null,
+      "tips": "这是因为肉眼牛排的“肉眼”（即这块结缔组织）在高温下会剧烈收缩导致牛排变形，使得牛排无法均匀受热。"
     },
     {
-      "step": 5,
-      "content": "将炉灶打开高火，同时锅中加入橄榄油，热锅15-30秒。",
+      "content": "对于西冷牛排，如果您不喜欢西冷牛排边上的油脂，可以用刀慢慢将其剔除。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "随后，使用厨房纸包裹牛排，将牛排上附着的水全部吸干，直至牛排放在案板上拿起后不留下明显水渍即可。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "注：本过程适用于制作 2-3cm 厚、5-7 成熟的牛排。如果您喜欢不同的熟度，考虑将前半部分煎制时间在此基础上增加或缩短 20-30%。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "将炉灶打开高火（见附录对于火力大小的说明），同时锅中加入橄榄油，热锅 15-30 秒。",
       "duration_minutes": 0.5,
-      "tips": "热锅温度约油温6-8成"
+      "tips": ""
     },
     {
-      "step": 6,
       "content": "腌制牛排。将海盐和黑胡椒均匀的洒在牛排的全部表面并用手涂抹，揉搓，使得盐和胡椒颗粒尽量嵌入到肉中。",
-      "duration_minutes": 1,
-      "tips": "腌制完成后需要立即下锅，不推荐提前腌制牛排，因为外表涂抹的盐会析出牛肉中的水分，影响烹饪的同时丧失风味"
+      "duration_minutes": null,
+      "tips": "注意，腌制完成后牛排需要立即下锅，不推荐提前腌制牛排。这是因为外表涂抹的盐会析出牛肉中的水分，影响烹饪的同时丧失风味。"
     },
     {
-      "step": 7,
-      "content": "热锅至油温6-8成，将牛排由近及远的缓慢放入锅中。",
-      "duration_minutes": 0.5,
-      "tips": "避免油花溅出"
+      "content": "热锅至油温 6-8 成，将牛排由近及远的缓慢放入锅中。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 8,
-      "content": "如果您使用了土豆作为配菜，可以将土豆放入碗中，然后放进微波炉加热10分钟，或者放入开水煮3-5分钟。",
-      "duration_minutes": 10,
-      "tips": "此步骤可与牛排煎制同步进行"
+      "content": "如果您使用了土豆作为配菜，可以将土豆放入碗中，然后放进微波炉加热 10 分钟，或者放入开水煮 3-5 分钟。",
+      "duration_minutes": 10.0,
+      "tips": ""
     },
     {
-      "step": 9,
-      "content": "单面煎制1.5分钟（适用于2-3cm厚的牛排。如果牛排更薄，时间缩短为1分钟；如果牛排更厚，时间增加至2-2.5分钟）。",
+      "content": "单面煎制 1.5 分钟",
       "duration_minutes": 1.5,
-      "tips": "这个时间适用于2-3cm厚、5-7成熟的牛排"
+      "tips": "这个时间适用于 2-3cm 厚大约的牛排。如果您的牛排更薄，考虑将这个时间缩短为 1 分钟。如果您的牛排更厚，考虑将这个时间增加至 2-2.5 分钟。"
     },
     {
-      "step": 10,
-      "content": "翻面，再煎制1.5分钟。对于西冷牛排和菲力牛排，需要使用筷子或者锅铲将牛排竖起来，煎它的侧面约30秒。",
-      "duration_minutes": 2,
-      "tips": "煎侧面可以形成焦香边缘"
+      "content": "翻面，再煎制 1.5 分钟。",
+      "duration_minutes": 1.5,
+      "tips": ""
     },
     {
-      "step": 11,
+      "content": "对于西冷牛排和菲力牛排，您需要使用筷子或者锅铲将牛排竖起来，煎它的侧面约 30 秒。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
       "content": "将炉灶切换至中火，随后按顺序快速加入黄油、大蒜、百里香。用锅铲推动黄油在锅中快速涂抹直至完全融化。将大蒜压在牛排下以增加风味。",
-      "duration_minutes": 0.5,
-      "tips": "快速加入避免温度骤降"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 12,
       "content": "将平底锅倾斜地放在灶上，使得油全部流到锅的一侧。",
-      "duration_minutes": 0.5,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 13,
-      "content": "将香料和大蒜放置在牛排上，用汤匙舀起锅中的油，不断地淋在牛排上。这个过程持续30秒，随后将牛排翻面，再重复这个过程30秒。",
-      "duration_minutes": 1,
-      "tips": "如果油淋在牛排上时冒泡并且油的颜色没有变成深褐色，则油温合适。如果出现大量油泡且油变成深褐色，说明油温过高，需移开灶台稍等片刻"
+      "content": "将香料和大蒜放置在牛排上，用汤匙舀起锅中的油，不断地淋在牛排上。这个过程持续 30 秒，随后将牛排翻面，再重复这个过程 30 秒。",
+      "duration_minutes": 1.0,
+      "tips": "您可以通过观察油淋在牛排表面时的状态来判断当前的火候。如果油淋在牛排上时冒泡并且油的颜色没有变成深褐色，则油温合适。如果您的牛排没有擦干净或使用了不推荐的方式解冻，或者使用盐进行了提前腌制，这个时候锅中会出现大量水，导致牛排最后是被“煮熟”的，从而丧失风味。如果牛排表面出现大量的油泡并且油的颜色变成深褐色，则说明油温过高，您需要将锅移开灶台，稍等片刻再继续淋油。"
     },
     {
-      "step": 14,
-      "content": "将牛排盛出放在案板上，用锡箔纸包裹，等待5-10分钟。这个过程（称为醒肉）的作用是利用牛排自身的温度继续加热，锁住水分。",
-      "duration_minutes": 10,
-      "tips": "醒肉是关键步骤，切勿跳过"
+      "content": "将牛排盛出放在案板上，用锡箔纸包裹，等待 5-10 分钟。",
+      "duration_minutes": 10.0,
+      "tips": "这个过程（称为醒肉）的作用是利用牛排自身的温度继续加热，锁住水分。"
     },
     {
-      "step": 15,
-      "content": "将配菜（土豆，番茄，蘑菇）倒入锅中，开中火煎5分钟。",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "将配菜（土豆，番茄，蘑菇）倒入锅中，开中火煎 5 分钟。",
+      "duration_minutes": 5.0,
+      "tips": ""
     },
     {
-      "step": 16,
-      "content": "取出牛排，用刀切成宽度1.5cm宽度的肉条，此时您可以观察到牛肉的熟度。",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "取出牛排，用刀切成宽度 1.5cm 宽度的肉条，此时您可以观察到牛肉的熟度。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 17,
-      "content": "取出配菜，装盘，淋上锅中剩余的油或者牛排酱汁（可选）。",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "取出配菜，装盘，淋上锅中剩余的油或者牛排酱汁（可选）",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
-    "牛排需要提前解冻并回温，避免直接从冰箱取出下锅",
-    "吸干牛排表面的水分非常重要，否则会影响煎制效果",
-    "腌制后需要立即下锅，不推荐提前腌制",
-    "煎制时间根据牛排厚度调整：2-3cm厚约1.5分钟每面，更薄1分钟，更厚2-2.5分钟",
-    "醒肉过程是关键步骤，等待5-10分钟可以让牛排内部继续加热并锁住水分",
-    "配菜可选，根据喜好选择1-2种即可",
-    "电磁炉高火：1.8Kw-2.2Kw，中火：800w-1.4Kw，小火：200w-600w",
-    "燃气灶高火：70%-90%出气速度，中火：40%-60%，小火：10%-30%"
-  ]
+    "煎制牛排是控制火候的艺术。限于篇幅，这里简单给出一些定量评估火力的方法和本文中用到的与火候相关的术语。",
+    "对于电磁炉：高火：功率 1.8Kw - 2.2kw。中火：功率 800w - 1.4kw。小火：功率 200w - 600w。",
+    "对于燃气灶：高火：旋转气阀至最大出气速度的 70%-90%。中火：旋转气阀至最大出气速度的 40%-60%。小火：旋转气阀至最大出气速度的 10%-30%。",
+    "牛排的调味不一定需要遵循本指南的规范。通常来说，大蒜、黑胡椒和黄油是必须的，但如果您不喜欢迷迭香或百里香等唇形科植物等味道，您可以自由尝试其他牛排调味料进行调味。市面上也有售卖的多种烤肉调味盐可供选择。笔者曾发现一种中西结合的做法，即将小米辣切开与蒜片加入橄榄油中煎，并作为调味在最后淋到牛排上，也独具风味。"
+  ],
+  "description": "牛排是一种广受欢迎的西式肉类料理，富含蛋白质、油脂和铁、锌等矿物质。牛排的烹饪过程通过灵活的烹饪手法（如煎、烤、慢煮、熟成）控制牛排的熟度，从三分熟（中心为粉红色）到全熟（完全熟透）可选。高温烹饪能形成焦香外壳，搭配盐、大蒜、黄油、香料可以得到丰富的风味。牛排烹饪的入门较为简单，但精通困难。本文主要介绍最简单的煎牛排，全部烹饪过程耗时 15-30 分钟。图示为 5 分熟的牛小排(short ribs)。"
 }
