@@ -5298,5 +5298,54 @@
     "category": "其他",
     "usda_id": null,
     "usda_match_status": "unmatched"
+  },
+  "大田螺": {
+    "name": "大田螺",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "薄荷": {
+    "name": "薄荷",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "紫苏": {
+    "name": "紫苏",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "桂林三花酒": {
+    "name": "桂林三花酒",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "罗勒": {
+    "name": "罗勒",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "当归": {
+    "name": "当归",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "鸭血": {
+    "name": "鸭血",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   }
 }

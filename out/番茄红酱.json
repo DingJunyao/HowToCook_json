@@ -1,169 +1,189 @@
 {
   "name": "番茄红酱",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/番茄红酱.md",
+  "source_file": "dishes\\meat_dish\\番茄红酱.md",
   "category": "荤菜",
   "difficulty": "expert",
-  "total_time_minutes": 40,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": 1,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "碎牛肉",
-      "quantity": 500,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 500.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "蒜瓣",
-      "quantity": 2,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "胡萝卜",
-      "quantity": 50,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "半根",
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": 0.5,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "根"
     },
     {
       "ingredient_name": "芹菜",
-      "quantity": 30,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "一根",
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "根"
     },
     {
       "ingredient_name": "洋葱",
-      "quantity": 75,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "半个",
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": 0.5,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "橄榄油",
-      "quantity": 20,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "分两次使用，每次10ml",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "糖",
-      "quantity": 2,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "食盐",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "黑胡椒粉",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "番茄酱",
-      "quantity": 300,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 300.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "牛奶",
-      "quantity": 300,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 300.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
-      "ingredient_name": "干罗勒或百里香",
-      "quantity": null,
-      "unit": null,
-      "quantity_range": null,
+      "ingredient_name": "罗勒",
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": true,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "干罗勒或百里香",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "少许",
+      "quantity_range": null,
+      "unit": "cm"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "将胡萝卜、芹菜、洋葱切碎，蒜瓣切片",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "将胡萝卜、芹菜、洋葱切碎，蒜瓣切片。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "加入 10ml 橄榄油，热油下锅蔬菜，大火翻炒开始略微变色后盛出",
-      "duration_minutes": 3,
-      "tips": null
+      "content": "加入 10ml 橄榄油，热油下锅蔬菜，大火翻炒开始略微变色后盛出。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "锅内加油 10ml，加蒜翻炒 10 秒，加入碎牛肉、糖、盐、胡椒粉和香料将牛肉炒脆（有颗粒感）",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "锅内加油 10ml，加蒜翻炒 10 秒，加入碎牛肉、糖、盐、胡椒粉和香料将牛肉炒脆（有颗粒感）。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "加入炒好的蔬菜们和番茄酱继续翻炒，搅拌均匀",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "加入炒好的蔬菜们和番茄酱继续翻炒，搅拌均匀。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "分多次缓缓倒入牛奶，中小火煮 30 分钟，完成",
-      "duration_minutes": 30,
-      "tips": "煮酱料期间请搅动，以免粘锅。如果酱料变粘稠就可以出锅啦！"
+      "content": "分多次缓缓倒入牛奶，中小火煮 30 分钟，完成。",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
     "考虑各个品牌的番茄酱内含盐量不同，建议在炒牛肉时少放盐，煮的时候尝一下再调味",
     "煮酱料期间请搅动，以免粘锅。如果酱料变粘稠就可以出锅啦！",
-    "可根据个人口味，将碎牛肉替换成一半碎猪肉一半碎牛肉，牛奶替换成鸡汤或饮用水"
-  ]
+    "可根据个人口味，将碎牛肉替换成一半碎猪肉一半碎牛肉，牛奶替换成鸡汤或饮用水。"
+  ],
+  "description": "番茄红酱香浓可口，营养丰富，咱很喜欢。可以作为薄饼、意面~~热干面~~等主食的百搭酱料。有些繁琐，适合有烹饪经验的人尝试。一次吃不完也没有关系，可以冷冻后随时拿出来加热哦。（但是千万要记得吃）"
 }

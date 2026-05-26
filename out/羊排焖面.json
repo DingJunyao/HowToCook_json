@@ -1,10 +1,10 @@
 {
   "name": "羊排焖面",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/羊排焖面/羊排焖面.md",
+  "source_file": "dishes\\meat_dish\\羊排焖面\\羊排焖面.md",
   "category": "荤菜",
   "difficulty": "hard",
-  "total_time_minutes": 95,
-  "servings": 1,
+  "total_time_minutes": null,
+  "servings": 2,
   "original_servings": 2,
   "images": [
     "images/羊排焖面_0.jpg"
@@ -12,212 +12,248 @@
   "ingredients": [
     {
       "ingredient_name": "带皮羊排肉",
-      "quantity": 250,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 500.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "青椒",
-      "quantity": 1,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "甜椒",
-      "quantity": 1,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "大葱",
-      "quantity": 30,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": "适量",
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "花椒",
-      "quantity": 2,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": "适量",
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "干辣椒",
-      "quantity": 3,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": "适量",
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "生姜",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "约 2 片",
-      "original_quantity": "4片",
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": 4.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "片"
     },
     {
       "ingredient_name": "白砂糖",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": "适量",
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "老抽",
-      "quantity": 10,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": "适量",
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "中筋面粉",
-      "quantity": 150,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "和面用",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "和面",
+      "original_quantity": "",
+      "quantity": 300.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 1.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "和面用",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "和面",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "水",
-      "quantity": 90,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "和面用",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "和面",
+      "original_quantity": "",
+      "quantity": 180.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "食用油",
-      "quantity": 20,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "炒菜和抹面用",
-      "original_quantity": "多一点也没关系",
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "羊肉冷水下锅焯水，水开了之后把血沫撇掉，捞出羊肉",
-      "duration_minutes": 10,
-      "tips": null
+      "content": "羊肉冷水下锅焯水，水开了之后把血沫撇掉，捞出羊肉。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "切好生姜（约2片），放入干辣椒与花椒在碗里备用",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "切好生姜（ 4 片），放入干辣椒与花椒在碗里备用。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "在炒锅加入油（多一点也没关系）",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "在炒锅加入油。（多一点也没关系）",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "油热之后，放入白砂糖，给羊肉炒出焦糖色",
-      "duration_minutes": 5,
-      "tips": "小火慢慢炒糖色，避免炒糊"
+      "content": "油热之后，放入白砂糖，给羊肉炒出焦糖色。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "羊肉水分炒干之后，放入盐、老抽，以及备好的调味料",
-      "duration_minutes": 3,
-      "tips": null
+      "content": "羊肉水份炒干之后，放入盐、老抽，以及备好的调味料。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 6,
-      "content": "加入清水没过羊肉，大火煮沸之后，让其继续煮10分钟，之后小火炖煮30分钟",
-      "duration_minutes": 40,
-      "tips": null
+      "content": "加入清水没过羊肉，大火煮沸之后，让其继续煮 10 分钟，之后小火炖煮 30 分钟。",
+      "duration_minutes": 40.0,
+      "tips": ""
     },
     {
-      "step": 7,
-      "content": "准备面团：将中筋面粉150g、盐1.5g混合均匀，加90ml水边和边搅拌，然后把面团和到光滑",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "在此期间，可以和面。",
+      "duration_minutes": null,
+      "tips": "可以用超市的面条代替，但是尽量选择宽面。"
     },
     {
-      "step": 8,
-      "content": "醒面10分钟，再次和面到光滑，醒面5分钟",
-      "duration_minutes": 15,
-      "tips": null
+      "content": "（和面）先把中筋面粉、盐、水混合均匀，加水边和边搅拌，然后把面团和到光滑",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 9,
-      "content": "把面团揉成条，切成3到4个小剂子，抹上油，等待5分钟",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "（和面）醒面",
+      "duration_minutes": 10.0,
+      "tips": ""
     },
     {
-      "step": 10,
-      "content": "把面团剂子擀成面皮，放入锅中焖煮4分钟（一片一片操作）",
-      "duration_minutes": 15,
-      "tips": "擀面时尽量擀薄，焖煮时注意火候"
+      "content": "（和面）再次和面到光滑",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 11,
-      "content": "放入青椒、甜椒、大葱，以及面皮进行翻炒",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "（和面）醒面",
+      "duration_minutes": 5.0,
+      "tips": ""
     },
     {
-      "step": 12,
-      "content": "翻炒均匀之后，即可出锅",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "（和面）把面团揉成条，切成 6 到 8 个小剂子",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（和面）抹上油，等待 5 分钟",
+      "duration_minutes": 5.0,
+      "tips": ""
+    },
+    {
+      "content": "（和面）把面团剂子擀成面皮",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（和面）放入锅中焖煮 4 分钟（一片一片操作）",
+      "duration_minutes": 4.0,
+      "tips": ""
+    },
+    {
+      "content": "放入青椒，甜椒，大葱，以及面皮进行翻炒。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "翻炒均匀之后，即可出锅。",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
-  "tips": [
-    "可以用超市的面条代替，但是尽量选择宽面",
-    "和面时先加一半水，边加边和，避免水加太多面团过软",
-    "炒糖色时用小火，避免炒糊变苦"
-  ]
+  "tips": [],
+  "description": "羊排焖面是一道硬菜，适合聚会时候大展身手。缺点就是有点花时间，优点就是好吃，而且一道菜补齐人体所需的三大营养物质。"
 }
