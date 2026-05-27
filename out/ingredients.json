@@ -5348,36 +5348,15 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "油菜": {
-    "name": "油菜",
+  "山药": {
+    "name": "山药",
     "aliases": [],
     "category": "其他",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "鱼丸": {
-    "name": "鱼丸",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "色拉油": {
-    "name": "色拉油",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "麦芽粉": {
-    "name": "麦芽粉",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "黑椒混合牛排调味料": {
-    "name": "黑椒混合牛排调味料",
+  "黄花菜": {
+    "name": "黄花菜",
     "aliases": [],
     "category": "其他",
     "usda_id": null,

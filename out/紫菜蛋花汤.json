@@ -1,147 +1,164 @@
 {
   "name": "紫菜蛋花汤",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/soup/紫菜蛋花汤.md",
+  "source_file": "dishes\\soup\\紫菜蛋花汤.md",
   "category": "汤与粥",
   "difficulty": "easy",
-  "total_time_minutes": 24,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": 1,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "紫菜",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "干紫菜，喜欢紫菜的可以多放些",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "鸡蛋",
-      "quantity": 2,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "水",
-      "quantity": 1500,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1500.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 2,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "油",
-      "quantity": 5,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "葱花",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "香油",
-      "quantity": 3,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": false,
       "note": "几滴",
-      "original_quantity": "几滴",
-      "is_estimated": true
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "少许",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "虾仁",
-      "quantity": null,
-      "unit": null,
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": true,
       "note": "个人口味，可加可不加",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "少许",
+      "quantity_range": null,
+      "unit": "cm"
     },
     {
       "ingredient_name": "虾皮",
-      "quantity": null,
-      "unit": null,
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": true,
       "note": "可放入一点，味道也不错",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "少许",
+      "quantity_range": null,
+      "unit": "cm"
     },
     {
       "ingredient_name": "淀粉",
-      "quantity": 2,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
       "note": "如果喜欢浓稠口感可加入",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "干紫菜用清水泡 15 分钟，捞起沥干水份备用。",
-      "duration_minutes": 15,
-      "tips": null
+      "duration_minutes": 15.0,
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "热锅，倒入 1.5 升清水、5ml 油、2g 盐。待水开后放入紫菜。",
-      "duration_minutes": 3,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "紫菜烧开后 3 分钟，将打好的蛋液徐徐倒入锅内，30 秒既可起锅。",
-      "duration_minutes": 4,
-      "tips": "水开后，将火关小，将打好的蛋液围绕中间沸腾的水倒入。为了使蛋花比较嫩，锅盖盖上熄灭火等半分钟后再打开"
+      "duration_minutes": 3.5,
+      "tips": ""
     },
     {
-      "step": 4,
       "content": "撒上葱花，转小火 20 秒。",
-      "duration_minutes": 1,
-      "tips": null
+      "duration_minutes": 0.33,
+      "tips": ""
     },
     {
-      "step": 5,
       "content": "关火，出锅前放入几滴香油，也有的会放入一点虾皮，味道也不错。",
-      "duration_minutes": 1,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
-    "如果喜欢浓稠口感，可加入 2g 淀粉"
-  ]
+    "水开后，将火关小，将打好的蛋液围绕中间沸腾的水倒入。为了使蛋花比较嫩，锅盖盖上熄灭火等半分钟后再打开.",
+    "如果喜欢浓稠口感，可加入 2g 淀粉."
+  ],
+  "description": ""
 }

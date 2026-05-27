@@ -1,84 +1,91 @@
 {
   "name": "米粥",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/soup/米粥.md",
+  "source_file": "dishes\\soup\\米粥.md",
   "category": "汤与粥",
   "difficulty": "medium",
-  "total_time_minutes": 18,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": null,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "大米",
-      "quantity": 85,
-      "unit": "mL",
-      "quantity_range": {
-        "min": 60,
-        "max": 110
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "洗净备用",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 110.0,
+        "min": 60.0
+      },
+      "unit": "mL"
     },
     {
       "ingredient_name": "水",
-      "quantity": 890,
-      "unit": "mL",
-      "quantity_range": {
-        "min": 540,
-        "max": 1320
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "米饭的体积的 9-12 倍",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 1320.0,
+        "min": 540.0
+      },
+      "unit": "mL"
     },
     {
       "ingredient_name": "植物油",
-      "quantity": 8.5,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "与米混合后冷藏",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "生米体积 / 10",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 11.0,
+        "min": 6.0
+      },
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "将 8.5ml 植物油与洗净的大米混合，尽量确保完全混合，即每粒米上至少都沾上少量油",
-      "duration_minutes": 3,
-      "tips": null
+      "content": "将 Mo ml 的油与洗净的米混合，尽量确保完全混合，即每粒米上至少都沾上少量油",
+      "duration_minutes": null,
+      "tips": "可选；Mo：生米体积 / 10，本例为 6~11 mL"
     },
     {
-      "step": 2,
-      "content": "将米-油混合物品冷藏保存，冷藏时间约 8.5 分钟（可选步骤）",
-      "duration_minutes": 9,
-      "tips": null
+      "content": "将 米-油混合物品冷藏保存，冷藏时间 Tc。",
+      "duration_minutes": null,
+      "tips": "可选；Tc = 生米体积 /10 ml/分钟，本例为 6~11 min"
     },
     {
-      "step": 3,
-      "content": "将米和水加入锅中",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "将米和水加入锅中。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "开大火加热到 1.5 分钟，然后在 T1 之前将火关小",
-      "duration_minutes": 1.5,
-      "tips": "如果忘记此步骤，水可能会漫出而熄灭火焰。非常危险！"
+      "content": "开大火，加热到 T1。",
+      "duration_minutes": null,
+      "tips": "T1 = 1.5 分钟/500ml * 水体积，本例为 1.62 ~ 3.96 min"
     },
     {
-      "step": 5,
-      "content": "继续加热到约 18 分钟，然后关闭火源",
-      "duration_minutes": 16.5,
-      "tips": null
+      "content": "在 T1 之前将火关小。如果忘记此步骤，水可能会漫出而熄灭火焰。非常危险！",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "加热到 Tr。在 Tr 时关闭火源。",
+      "duration_minutes": null,
+      "tips": "Tr = 10 分钟/500ml * 水体积，本例为 10.8 ~ 26.4 min"
     }
   ],
-  "tips": [
-    "米粥具有补脾、和胃、清肺功效，老少皆宜",
-    "水体积是米饭体积的 9-12 倍"
-  ]
+  "tips": [],
+  "description": "大米粥是一道以大米和水作為主要原料經大火煮沸熬製而成的美食，老少皆宜，米粥具有補脾、和胃、清肺功效。"
 }

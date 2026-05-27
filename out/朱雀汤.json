@@ -1,6 +1,6 @@
 {
   "name": "朱雀汤",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/soup/朱雀汤/朱雀汤.md",
+  "source_file": "dishes\\soup\\朱雀汤\\朱雀汤.md",
   "category": "汤与粥",
   "difficulty": "simple",
   "total_time_minutes": null,
@@ -12,68 +12,74 @@
   "ingredients": [
     {
       "ingredient_name": "鸡蛋",
-      "quantity": 1,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "水",
-      "quantity": 500,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 500.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "白糖",
-      "quantity": 20,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "根据个人口味调整",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "香油",
-      "quantity": 2,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "芝麻油",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "鸡蛋在碗中打散，再倒入香油。",
       "duration_minutes": null,
-      "tips": "鸡蛋一定要打散"
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "水烧开后，在沸腾状态下快速倒入盛有鸡蛋的碗中。",
       "duration_minutes": null,
-      "tips": "水一定要在沸腾冒泡状态倒入鸡蛋液中，否则汤可能会浑浊影响口感"
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "放入白糖。",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     }
   ],
   "tips": [
     "鸡蛋一定要打散，水一定要在沸腾冒泡状态倒入鸡蛋液中，否则汤可能会浑浊影响口感",
     "此为豫东地区做法，其他地区有不放白糖放盐的，口味不同，根据个人口味调整",
     "此汤乃去火神器！"
-  ]
+  ],
+  "description": ""
 }
