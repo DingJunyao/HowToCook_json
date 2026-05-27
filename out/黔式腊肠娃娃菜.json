@@ -1,9 +1,9 @@
 {
   "name": "黔式腊肠娃娃菜",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md",
+  "source_file": "dishes\\meat_dish\\黔式腊肠娃娃菜\\黔式腊肠娃娃菜.md",
   "category": "荤菜",
   "difficulty": "simple",
-  "total_time_minutes": 15,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": 1,
   "images": [
@@ -12,69 +12,71 @@
   "ingredients": [
     {
       "ingredient_name": "黔式腊肠",
-      "quantity": 200,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 200.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "娃娃菜",
-      "quantity": 300,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 300.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "水",
-      "quantity": 750,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 750.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "锅内放入 750ml 水，开火加热至沸腾",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "放入腊肠，计时 13 分钟",
-      "duration_minutes": 13,
-      "tips": null
+      "duration_minutes": 13.0,
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "放入娃娃菜，计时 2 分钟",
-      "duration_minutes": 2,
-      "tips": null
+      "duration_minutes": 2.0,
+      "tips": ""
     },
     {
-      "step": 4,
       "content": "关火，夹出腊肠及娃娃菜",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 5,
       "content": "娃娃菜切段、腊肠切片，装盘",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     }
   ],
   "tips": [
     "根据锅的大小，建议以水量没过食材为宜，宁多勿少",
     "如果没有刀具，娃娃菜和腊肠不切也可以"
-  ]
+  ],
+  "description": "黔式腊肠娃娃菜不需要掌握火候，也无需调料，非常适合懒癌的菜。制作时间 15 分钟，口味近似于川菜、湘菜，却是西南菜系中鲜见的不辣菜式，咸鲜可口、南北皆宜。"
 }
