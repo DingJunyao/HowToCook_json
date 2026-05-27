@@ -1,9 +1,9 @@
 {
   "name": "懒人蛋挞",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/semi-finished/懒人蛋挞/懒人蛋挞.md",
+  "source_file": "dishes\\semi-finished\\懒人蛋挞\\懒人蛋挞.md",
   "category": "甜品",
   "difficulty": "medium",
-  "total_time_minutes": 30,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": 1,
   "images": [
@@ -12,52 +12,54 @@
   "ingredients": [
     {
       "ingredient_name": "蛋挞皮",
-      "quantity": 1,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "蛋挞液",
-      "quantity": 10,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "到达挞皮的 4/5 最佳",
-      "original_quantity": null,
-      "is_estimated": true
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "烤箱 200 度，预热 10 分钟",
-      "duration_minutes": 10,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "在烤盘上放上蛋挞皮，蛋挞皮中倒入蛋挞液约 10ml，具体分量需要看蛋挞皮大小，通常倒入 4/5 即可",
-      "duration_minutes": 3,
-      "tips": "具体分量需要看蛋挞皮大小"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "将烤盘放入烤箱内，上下火 190 度，烤 10 - 20 分。如果想快速烤出蛋挞液上的焦褐斑点，需要上火更高一些，通常是 200 - 210 度",
-      "duration_minutes": 15,
-      "tips": "如果想快速烤出蛋挞液上的焦褐斑点，需要上火更高一些，通常是 200 - 210 度"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
       "content": "蛋挞液烤出焦褐斑点，蛋挞皮完全蓬松冒油即可",
       "duration_minutes": null,
-      "tips": "蛋挞液烤出焦褐斑点，蛋挞皮完全蓬松冒油即可"
+      "tips": ""
     }
   ],
   "tips": [
-    "操作时，可以根据焦褐斑大小适当调整时间，如果需要"
-  ]
+    "操作时，可以根据焦褐斑大小适当调整时间，如果需要",
+    "可以在蛋挞中加 10g 碎芝士，就是一道芝士蛋挞啦~"
+  ],
+  "description": "蛋挞是一道常见的可口甜品，通常而言制作蛋挞是需要调和蛋挞液和制作蛋挞皮的，这个过程比较复杂和耗时，但是网购半成品恰恰解决解决以上的难题，初学者只需大约 40 分就可以完成。从今往后只要家里有烤箱，就可以化身烘焙达人，帮家人烤蛋挞！"
 }

@@ -1,9 +1,9 @@
 {
   "name": "速冻汤圆",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/semi-finished/速冻汤圆/速冻汤圆.md",
+  "source_file": "dishes\\semi-finished\\速冻汤圆\\速冻汤圆.md",
   "category": "半成品",
   "difficulty": "simple",
-  "total_time_minutes": 6,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": 1,
   "images": [
@@ -12,56 +12,62 @@
   "ingredients": [
     {
       "ingredient_name": "速冻汤圆",
-      "quantity": 275,
-      "unit": "g",
-      "quantity_range": {
-        "min": 220,
-        "max": 275
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "11个，数量取决于碗的大小。保证放入的汤圆最高不超过碗高度 - 5mm。",
-      "original_quantity": "11 个",
-      "is_estimated": true
+      "note": "数量取决于碗的大小。保证放入的汤圆最高不超过碗高度 - 5mm。",
+      "original_quantity": "",
+      "quantity": 11.0,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 275.0,
+        "min": 220.0
+      },
+      "unit": "个"
     },
     {
-      "ingredient_name": "开水",
-      "quantity": 300,
-      "unit": "mL",
-      "quantity_range": null,
+      "ingredient_name": "水",
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": false,
       "note": "直至浸没汤圆",
-      "original_quantity": null,
-      "is_estimated": true
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "取出速冻汤圆，放入碗中。",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "倒入开水，直至浸没汤圆。",
       "duration_minutes": null,
-      "tips": "注意先加汤圆再加热水，不要颠倒，不然汤圆倒入热水可能会溅出烫伤。以及无法控制水面高度可能溢出。"
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "微波炉高火4分钟。",
-      "duration_minutes": 4,
-      "tips": null
+      "content": "微波炉高火 4 分钟。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "检查熟度，假如汤圆均已吸水膨胀，则已熟。如果没熟，再加热1分钟。",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "假如汤圆均已吸水膨胀，则已熟。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "如果没熟，再加热 1 分钟。",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
     "注意先加汤圆再加热水，不要颠倒，不然汤圆倒入热水可能会溅出烫伤。以及无法控制水面高度可能溢出。",
     "假如微波炉里碗太烫无法取出，可以用毛巾，或者某些微波炉可以连托盘一起取出。"
-  ]
+  ],
+  "description": "速冻汤圆是一道简单易做的菜。一般初学者只需要 6 分钟即可完成。"
 }
