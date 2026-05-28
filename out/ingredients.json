@@ -5354,5 +5354,12 @@
     "category": "其他",
     "usda_id": null,
     "usda_match_status": "unmatched"
+  },
+  "奶粉": {
+    "name": "奶粉",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
   }
 }
