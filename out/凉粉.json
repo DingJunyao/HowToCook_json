@@ -1,6 +1,6 @@
 {
   "name": "凉粉",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/凉粉/凉粉.md",
+  "source_file": "dishes\\staple\\凉粉\\凉粉.md",
   "category": "素菜",
   "difficulty": "medium",
   "total_time_minutes": null,
@@ -22,178 +22,191 @@
   "ingredients": [
     {
       "ingredient_name": "豌豆淀粉",
-      "quantity": 100,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 100.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "大蒜",
-      "quantity": 3,
-      "unit": "瓣",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "瓣"
     },
     {
       "ingredient_name": "小米辣",
-      "quantity": 3,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "颗"
     },
     {
       "ingredient_name": "辣椒粉",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "酱油",
-      "quantity": 10,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "醋",
-      "quantity": 10,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "白糖",
-      "quantity": 3,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "原文单位为ml，应为g",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "鸡精",
-      "quantity": 3,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 3,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "花生碎",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "香菜",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "准备食材",
-      "duration_minutes": 5,
-      "tips": null
-    },
-    {
-      "step": 2,
-      "content": "把豌豆淀粉和水各100克混合搅拌",
-      "duration_minutes": 3,
-      "tips": null
-    },
-    {
-      "step": 3,
-      "content": "往锅中倒入600g水，大火煮开后转为小火",
-      "duration_minutes": 3,
-      "tips": null
-    },
-    {
-      "step": 4,
-      "content": "倒入淀粉水，边倒边不断的搅拌，搅拌到浓稠且色泽均匀",
-      "duration_minutes": 5,
-      "tips": null
-    },
-    {
-      "step": 5,
-      "content": "找一个容器，在容器中刷一层薄薄的食用油",
-      "duration_minutes": 2,
-      "tips": null
-    },
-    {
-      "step": 6,
-      "content": "将煮好的淀粉倒入容器中冷藏2-4小时",
+      "content": "准备食材。",
       "duration_minutes": null,
-      "tips": "需冷藏2-4小时使其凝固"
+      "tips": ""
     },
     {
-      "step": 7,
-      "content": "冷藏后取出，脱模，切条",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "把豌豆淀粉和水各 100 克混合搅拌。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 8,
-      "content": "大蒜和小米辣剁成沫，放上10g辣椒粉，5g花生碎，热油搅拌均匀",
-      "duration_minutes": 5,
-      "tips": "热油能激发辣椒和香料的香味"
+      "content": "往锅中倒入 600g 水，大火煮开后转为小火。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 9,
-      "content": "再加入10ml酱油，10ml醋，5g白糖，3g鸡精，3g盐搅拌均匀",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "倒入淀粉水，边倒边不断的搅拌，搅拌到浓稠且色泽均匀。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 10,
-      "content": "将调味料倒在凉粉上，然后撒上香菜即可",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "找一个容器，在容器中刷一层薄薄的食用油。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "将煮好的淀粉倒入容器中冷藏 2-4 小时。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "冷藏后取出，脱模，切条。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "大蒜和小米辣剁成沫，放上 10g 辣椒粉，5g 花生碎，热油搅拌均匀。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "再加入 10ml 酱油，10ml 醋，5g 白糖，3g 鸡精，3g 盐搅拌均匀。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "将调味料倒在凉粉上，然后撒上香菜即可。",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
-    "参考：制作凉粉的详细步骤（https://www.zhms.cn/recipe/mzvyy.html?source=2）"
-  ]
+    "参考: 制作凉粉的详细步骤(https://www.zhms.cn/recipe/mzvyy.html?source=2)"
+  ],
+  "description": "伤心凉粉吃了不会让人伤心的哦！"
 }

@@ -1,191 +1,294 @@
 {
   "name": "印度烤饼",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/印度烤饼.md",
+  "source_file": "dishes\\staple\\印度烤饼.md",
   "category": "主食",
   "difficulty": "medium",
-  "total_time_minutes": 90,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": 3,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "中筋面粉",
-      "quantity": 100,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "或高筋面粉",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 300.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "酸奶",
-      "quantity": 20,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 60.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "干酵母",
-      "quantity": 1,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "糖",
-      "quantity": 3.3,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 1.7,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "食用油",
-      "quantity": 5,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "和面用",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
-      "ingredient_name": "温水",
-      "quantity": 33.3,
-      "unit": "mL",
-      "quantity_range": null,
+      "ingredient_name": "水",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "约40°C",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "温水，约 40°C\n温水",
+      "original_quantity": "",
+      "quantity": 100.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "酥油或黄油",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "涂抹用",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "黑芝麻",
-      "quantity": 1.7,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "白芝麻也可",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "香菜叶",
-      "quantity": 3.3,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "大蒜",
-      "quantity": 1,
-      "unit": "瓣",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "蒜蓉烤饼版本",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "瓣"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "将干酵母和糖溶解在温水中（水温约40°C，不可过烫），静置5分钟，直至表面冒出细泡沫（说明酵母已激活）",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "将干酵母 3g 和糖 10g 溶解在 100ml 温水中（水温约 40°C，不可过烫）",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "在大碗中放入中筋面粉和盐，混合均匀，倒入酵母水、酸奶和食用油",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "静置 5 分钟，直至表面冒出细泡沫（说明酵母已激活）",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "用手揉成光滑柔软的面团（面团应比普通面团稍软，微微粘手是正常的），揉面8-10分钟",
-      "duration_minutes": 10,
-      "tips": null
+      "content": "在大碗中放入中筋面粉 300g 和盐 5g，混合均匀",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "在面团表面涂油防止干裂，用湿布或保鲜膜盖住碗口，放置在温暖处发酵至少1小时，直至面团膨胀至约两倍大",
-      "duration_minutes": 60,
-      "tips": null
+      "content": "倒入酵母水、酸奶 60ml 和食用油 15ml",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "将发酵好的面团取出，轻揉排气，分成6个等大的小剂子（每个约80g）",
-      "duration_minutes": 3,
-      "tips": null
+      "content": "用手揉成光滑柔软的面团（面团应比普通面团稍软，微微粘手是正常的）",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 6,
-      "content": "取一个剂子，手上沾面粉或油，用擀面杖擀成长椭圆形或泪滴形面饼，厚度约4-5mm。如果制作蒜蓉烤饼：在面饼表面撒上切碎的大蒜和香菜叶，轻轻擀压使其嵌入面饼，可在面饼表面撒上芝麻",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "揉面 8-10 分钟",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 7,
-      "content": "将平底锅（铸铁锅最佳）大火加热至非常烫（滴水立即蒸发的程度），在面饼一面刷一层薄薄的水，将刷水一面朝下放入锅中",
-      "duration_minutes": 1,
-      "tips": "铸铁锅比不粘锅效果更好，能产生更高的温度和更好的焦斑"
+      "content": "在面团表面涂 3ml 油防止干裂",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 8,
-      "content": "烤1-2分钟，直至底面出现金棕色斑点且面饼开始鼓泡，翻面，继续烤1-2分钟",
-      "duration_minutes": 3,
-      "tips": null
+      "content": "用湿布或保鲜膜盖住碗口",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 9,
-      "content": "如果有煤气灶：翻面后可用夹子夹起面饼，将其直接放在明火上烤数秒钟，面饼会迅速鼓起",
-      "duration_minutes": 1,
-      "tips": "此步骤可选，仅限有煤气灶的情况"
+      "content": "放置在温暖处发酵 至少 1 小时，直至面团膨胀至约两倍大",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 10,
-      "content": "取出后立即在表面涂上酥油或黄油",
-      "duration_minutes": 1,
-      "tips": "烤好后必须立刻涂酥油或黄油，这是印度烤饼香气和口感的关键"
+      "content": "将发酵好的面团取出，轻揉排气",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "分成 6 个等大的小剂子（每个约 80g）",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "取一个剂子，手上沾 3ml 面粉或油",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "用擀面杖擀成长椭圆形或泪滴形面饼，厚度约 4-5mm",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "如果制作蒜蓉烤饼：在面饼表面撒上切碎的大蒜和香菜叶，轻轻擀压使其嵌入面饼",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "可在面饼表面撒上芝麻",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（烤制 - 方法一：平底锅（推荐））将平底锅（铸铁锅最佳）大火加热至非常烫（滴水立即蒸发的程度）",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（烤制 - 方法一：平底锅（推荐））在面饼一面刷一层薄薄的水",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（烤制 - 方法一：平底锅（推荐））将刷水一面朝下放入锅中",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（烤制 - 方法一：平底锅（推荐））烤 1-2 分钟，直至底面出现金棕色斑点且面饼开始鼓泡",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（烤制 - 方法一：平底锅（推荐））翻面，继续烤 1-2 分钟",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（烤制 - 方法一：平底锅（推荐））如果有煤气灶：翻面后可用夹子夹起面饼，将其直接放在明火上烤 数秒钟，面饼会迅速鼓起",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（烤制 - 方法一：平底锅（推荐））取出后立即在表面涂上酥油或黄油",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（烤制 - 方法二：烤箱）烤箱预热至最高温度（通常 250°C）",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（烤制 - 方法二：烤箱）将面饼放在烤盘上",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（烤制 - 方法二：烤箱）烤 3-5 分钟，直至表面金黄且鼓起",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "（烤制 - 方法二：烤箱）取出后涂上酥油或黄油",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "趁热食用",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "适合搭配任何印度咖喱，如黄油鸡、红芸豆咖喱等",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
     "面团的柔软度是关键，太硬的面团烤出的饼会干硬。面团应该是湿润且略微粘手的状态。",
     "铸铁锅比不粘锅效果更好，能产生更高的温度和更好的焦斑。",
     "烤好后必须立刻涂酥油或黄油，这是印度烤饼香气和口感的关键。",
-    "除了原味Naan，常见的变体还有：蒜蓉烤饼(Garlic Naan)、芝士烤饼(Cheese Naan)、黄油烤饼(Butter Naan)。",
-    "Naan在印度有数百年的历史，最早的记载出现在1300年，被认为源自波斯文化。"
-  ]
+    "除了原味 Naan，常见的变体还有：蒜蓉烤饼(Garlic Naan)、芝士烤饼(Cheese Naan)、黄油烤饼(Butter Naan)。",
+    "Naan 在印度有数百年的历史，最早的记载出现在 1300 年，被认为源自波斯文化。"
+  ],
+  "description": "Naan(नान)— 印度发酵烤饼\n印度烤饼是印度次大陆最常见的面饼之一，传统上在泥炉(Tandoor)中烤制，外表微焦酥脆，内部松软有嚼劲。在家中可以用平底锅或烤箱制作出接近效果的烤饼。这是搭配印度咖喱的完美主食。约 30 分钟完成（面团需发酵 1 小时）。"
 }
