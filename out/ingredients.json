@@ -322,13 +322,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "新鲜绿叶": {
-    "name": "新鲜绿叶",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "鸡胸肉": {
     "name": "鸡胸肉",
     "aliases": [],
@@ -4184,13 +4177,6 @@
     "name": "豌豆淀粉",
     "aliases": [],
     "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "葱姜蒜": {
-    "name": "葱姜蒜",
-    "aliases": [],
-    "category": "蔬菜",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
