@@ -1,10 +1,10 @@
 {
   "name": "日式咖喱饭",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/日式咖喱饭/日式咖喱饭.md",
+  "source_file": "dishes\\staple\\日式咖喱饭\\日式咖喱饭.md",
   "category": "主食",
   "difficulty": "medium",
-  "total_time_minutes": 40,
-  "servings": 1,
+  "total_time_minutes": null,
+  "servings": 6,
   "original_servings": 6,
   "images": [
     "images/日式咖喱饭_0.jpg"
@@ -12,178 +12,222 @@
   "ingredients": [
     {
       "ingredient_name": "咖喱块",
-      "quantity": 19,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "推荐好侍品牌",
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "推荐品牌好侍。计算部分以半盒好侍咖喱块(115g) 为例。半盒约六碗份",
+      "original_quantity": "",
+      "quantity": 115.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "洋葱",
-      "quantity": 67,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "2个转换为一人份",
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "土豆",
-      "quantity": 50,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "2个转换为一人份",
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "胡萝卜",
-      "quantity": 25,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "1根转换为一人份",
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "根"
     },
     {
       "ingredient_name": "蒜头",
-      "quantity": 2,
-      "unit": "g",
-      "quantity_range": {
-        "min": 2,
-        "max": 3
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "2~3瓣转换为一人份",
-      "original_quantity": "2~3瓣",
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 3.0,
+        "min": 2.0
+      },
+      "unit": "瓣"
     },
     {
       "ingredient_name": "肉",
-      "quantity": 167,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "猪肉、鸡肉、牛肉均可，2斤转换为一人份",
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "猪肉、鸡肉、牛肉均可",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "斤"
     },
     {
       "ingredient_name": "食用油",
-      "quantity": 10,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "炒菜用油",
-      "original_quantity": "适量",
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "水",
-      "quantity": 200,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "没过所有食材的量",
-      "original_quantity": "没过所有食材",
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "cm"
     },
     {
       "ingredient_name": "花椰菜",
-      "quantity": 50,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "清水煮开后用作点缀",
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "清水煮开",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "培根",
-      "quantity": 15,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "即食，用作点缀",
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "即食",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "煎蛋",
-      "quantity": 1,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "或太阳蛋，用作点缀",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "或太阳蛋",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "个"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "食材准备：胡萝卜去头尾，去皮，滚刀切；洋葱剥去外层去芯，切成月牙状；土豆去皮、切大块；肉切块状；剥蒜拍平切碎；咖喱块切碎，增加接触面积加速溶解",
-      "duration_minutes": 10,
-      "tips": "可以同时进行，提高效率"
+      "content": "胡萝卜去头尾，去皮，滚刀切",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
+      "content": "洋葱剥去外层去芯，切成月牙状",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "土豆去皮、切大块",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "肉切块状",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "剥蒜拍平切碎",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "咖喱块切碎，增加接触面积加速溶解",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
       "content": "热油锅放入蒜和肉，快速翻炒至肉表面变白",
-      "duration_minutes": 2,
-      "tips": "保持大火快速翻炒"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "加入胡萝卜，快速翻炒至均匀受热",
-      "duration_minutes": 1,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
       "content": "加入洋葱，快速翻炒至洋葱变透明状",
-      "duration_minutes": 2,
-      "tips": "洋葱变透明说明已炒软"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
       "content": "加入土豆，保持翻炒至土豆变软（可以用筷子确认）",
-      "duration_minutes": 2,
-      "tips": "土豆变软后再加水"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 6,
-      "content": "加水没过所有食材，沸腾后等待15分钟",
-      "duration_minutes": 15,
-      "tips": "等待过程中可以准备其他食材或制作煎蛋"
+      "content": "加水没过所有食材，沸腾后等待 15 分钟",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 7,
       "content": "关火，加咖喱并搅拌",
-      "duration_minutes": 1,
-      "tips": "确保咖喱块完全溶解"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 8,
-      "content": "等待咖喱融化后再开火，缓慢搅拌10分钟，防止糊锅",
-      "duration_minutes": 10,
-      "tips": "搅拌时要慢，防止糊锅，同时观察水位"
+      "content": "等待咖喱融化后再开火，缓慢搅拌 10 分钟，防止糊锅",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 9,
       "content": "在外观呈粘稠状态关火结束制作",
-      "duration_minutes": 1,
-      "tips": "关火后可以盖盖焖一下让味道更融合"
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "冷藏的咖喱每次取出需要吃的份量，加热后盖在米饭上。微波炉：单人份高火 2-3 分钟；锅：需额外加 50ml 水，加热时保持搅拌",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
-    "步骤1-6可以在步骤6的等待过程进行，在这个过程也可以用清水锅煮些蔬菜，或做个煎蛋",
-    "步骤6到步骤7之间，需要注意观察沸腾的水位线，如发现低于2/3的食材应加热水至没过食材",
-    "做好的咖喱在冰箱冷藏后风味更佳，不用担心一个人吃不完",
-    "冷藏的咖喱每次取出需要吃的份量，加热后盖在米饭上"
-  ]
+    "食材用量与咖喱成正比，计算部分以 半盒好侍咖喱块(115g) 为例。半盒约六碗份，做好的咖喱在冰箱冷藏后风味更佳，不用担心一个人吃不完。",
+    "步骤 6 可以在 12 的等待过程进行，在这个过程也可以用清水锅煮些蔬菜，或做个煎蛋。",
+    "11 到 12 之间，需要注意观察沸腾的水位线，如发现低于 2/3 的食材应加热水至没过食材。",
+    "参考资料：世界美食教程的微博视频(http://t.cn/EJ77yFy)"
+  ],
+  "description": ""
 }

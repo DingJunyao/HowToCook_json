@@ -1,6 +1,6 @@
 {
   "name": "炒凉粉",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/炒凉粉/炒凉粉.md",
+  "source_file": "dishes\\staple\\炒凉粉\\炒凉粉.md",
   "category": "素菜",
   "difficulty": "medium",
   "total_time_minutes": null,
@@ -13,160 +13,176 @@
   "ingredients": [
     {
       "ingredient_name": "凉粉",
-      "quantity": 500,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 500.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "玉米油",
-      "quantity": 10,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "蒜末",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "香葱",
-      "quantity": 15,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "豆瓣酱",
-      "quantity": 15,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "生抽",
-      "quantity": 20,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "老抽",
-      "quantity": 10,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "食盐",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "十三香",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
-      "ingredient_name": "中粗辣椒面",
-      "quantity": 15,
-      "unit": "g",
-      "quantity_range": null,
+      "ingredient_name": "辣椒面",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "中粗",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
-      "ingredient_name": "矿泉水",
-      "quantity": 20,
-      "unit": "mL",
-      "quantity_range": null,
+      "ingredient_name": "水",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "矿泉水",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "凉粉改刀切麻将块大小",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "开小火，起锅烧油，锅烧微热后，下入蒜末爆香后加入豆瓣酱炒出红油",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "将凉粉块下入锅中，翻炒 10 秒",
-      "duration_minutes": null,
-      "tips": null
+      "duration_minutes": 0.17,
+      "tips": ""
     },
     {
-      "step": 4,
       "content": "加入生抽提味，老抽上色，翻炒均匀后加入辣椒面继续翻炒均匀",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 5,
       "content": "加入食盐、十三香继续翻炒 10 秒",
-      "duration_minutes": null,
-      "tips": null
+      "duration_minutes": 0.17,
+      "tips": ""
     },
     {
-      "step": 6,
       "content": "加入准备好的矿泉水，再次翻炒 10 秒，待汤汁浓稠后，关火出锅装盘",
-      "duration_minutes": null,
-      "tips": null
+      "duration_minutes": 0.17,
+      "tips": ""
     },
     {
-      "step": 7,
       "content": "撒上葱花即可完成",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     }
   ],
   "tips": [
     "选择凉粉时最好选用豌豆淀粉制作成的凉粉，条件不允许的话红薯淀粉或其他也可"
-  ]
+  ],
+  "description": "炒凉粉是一道流行于山西、陕西地区的一道特色小吃，入口滑嫩，老少皆宜。"
 }

@@ -322,6 +322,13 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
+  "新鲜绿叶": {
+    "name": "新鲜绿叶",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
   "鸡胸肉": {
     "name": "鸡胸肉",
     "aliases": [],
@@ -4180,6 +4187,13 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
+  "葱姜蒜": {
+    "name": "葱姜蒜",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
   "葱头": {
     "name": "葱头",
     "aliases": [],
@@ -5334,22 +5348,36 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "山药": {
-    "name": "山药",
+  "油菜": {
+    "name": "油菜",
     "aliases": [],
     "category": "其他",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "黄花菜": {
-    "name": "黄花菜",
+  "鱼丸": {
+    "name": "鱼丸",
     "aliases": [],
     "category": "其他",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "香菜叶": {
-    "name": "香菜叶",
+  "色拉油": {
+    "name": "色拉油",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "麦芽粉": {
+    "name": "麦芽粉",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "黑椒混合牛排调味料": {
+    "name": "黑椒混合牛排调味料",
     "aliases": [],
     "category": "其他",
     "usda_id": null,
@@ -5357,6 +5385,41 @@
   },
   "奶粉": {
     "name": "奶粉",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "白洋葱": {
+    "name": "白洋葱",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "肥肉末": {
+    "name": "肥肉末",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "基围虾": {
+    "name": "基围虾",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "出汁": {
+    "name": "出汁",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "蒜薹": {
+    "name": "蒜薹",
     "aliases": [],
     "category": "其他",
     "usda_id": null,

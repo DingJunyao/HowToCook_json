@@ -1,10 +1,10 @@
 {
   "name": "火腿饭团",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/火腿饭团/火腿饭团.md",
+  "source_file": "dishes\\staple\\火腿饭团\\火腿饭团.md",
   "category": "主食",
   "difficulty": "medium",
-  "total_time_minutes": 60,
-  "servings": 1,
+  "total_time_minutes": null,
+  "servings": 2,
   "original_servings": 2,
   "images": [
     "images/火腿饭团_0.png"
@@ -12,129 +12,140 @@
   "ingredients": [
     {
       "ingredient_name": "火腿",
-      "quantity": 50,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 100.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "米饭",
-      "quantity": 62.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 125.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "水",
-      "quantity": 45,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "煮饭用",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 30.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
-      "ingredient_name": "冷冻青豆",
-      "quantity": 15,
-      "unit": "g",
-      "quantity_range": null,
+      "ingredient_name": "青豆",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "冷冻",
+      "original_quantity": "",
+      "quantity": 30.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
-      "ingredient_name": "冷冻玉米粒",
-      "quantity": 15,
-      "unit": "g",
-      "quantity_range": null,
+      "ingredient_name": "玉米粒",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "冷冻",
+      "original_quantity": "",
+      "quantity": 30.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "海苔碎",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "沙拉酱",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "推荐日式 mayo",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "食用油",
-      "quantity": 7.5,
-      "unit": "mL",
-      "quantity_range": {
-        "min": 5,
-        "max": 7.5
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "炒火腿用",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "推荐日式 mayo！",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 15.0,
+        "min": 10.0
+      },
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "将米饭和水放到电饭锅里，点击米饭模式，等待完成",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "冷冻玉米粒和青豆放到锅里，加水没过所有食材，沸腾后静待 2 分钟后，捞出",
-      "duration_minutes": 5,
-      "tips": "焯水使蔬菜更软嫩"
+      "content": "冷冻玉米粒和青豆放到锅里，加水没过所有食材，沸腾后静待 2 分钟后，捞出。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "火腿切成 1cm 的方块",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "加入 5ml 食用油，加入火腿翻炒至火腿上色",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "与此同时，加入 10ml 食用油，加入火腿翻炒至火腿上色",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
       "content": "将米饭，火腿，海苔碎，青豆，玉米粒，沙拉酱放入碗中，混合均匀即可",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 6,
       "content": "装盘（如果有的话）",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     }
   ],
   "tips": [
-    "沙拉酱的程度可以根据个人口味酌情删减",
-    "可以尝试混合沙拉酱",
+    "沙拉酱的程度可以根据个人口味酌情删减。",
+    "可以尝试混合沙拉酱。",
     "参考资料：小红书 - 干饭选手又困了"
-  ]
+  ],
+  "description": "好吃！富含碳水和蛋白质还有维生素。有手就行的制作难度，预计制作时间 1 h 。"
 }

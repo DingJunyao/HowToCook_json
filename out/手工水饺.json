@@ -1,265 +1,342 @@
 {
   "name": "手工水饺",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/手工水饺.md",
+  "source_file": "dishes\\staple\\手工水饺.md",
   "category": "主食",
   "difficulty": "expert",
-  "total_time_minutes": 180,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": 1,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "面粉",
-      "quantity": 200,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 200.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
-      "ingredient_name": "冷水",
-      "quantity": 150,
-      "unit": "mL",
+      "ingredient_name": "水",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "冷水",
+      "original_quantity": "",
+      "quantity": 150.0,
+      "quantity_description": "",
       "quantity_range": null,
-      "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "芝麻香油",
-      "quantity": 3,
-      "unit": "mL",
-      "quantity_range": {
-        "min": 2,
-        "max": 3
-      },
-      "is_optional": false,
-      "note": null,
-      "original_quantity": "2-3ml",
-      "is_estimated": false
+      "unit": "mL"
     },
     {
       "ingredient_name": "瘦肉末",
-      "quantity": 250,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 250.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "肥肉末",
-      "quantity": 20,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
       "note": "不喜可不加",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "姜",
-      "quantity": 3,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "葱",
-      "quantity": 15,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 3,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "蚝油",
-      "quantity": 2,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "香油",
-      "quantity": 2,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 5.0,
+        "min": 4.0
+      },
+      "unit": "mL"
     },
     {
       "ingredient_name": "生抽",
-      "quantity": 2,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "鸡蛋",
-      "quantity": 1,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "使用蛋清",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "韭菜",
-      "quantity": 200,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "估算值",
-      "original_quantity": null,
-      "is_estimated": true
+      "original_quantity": "",
+      "quantity": 200.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "黑醋",
-      "quantity": 15,
-      "unit": "mL",
-      "quantity_range": {
-        "min": 10,
-        "max": 20
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
       "note": "蘸料",
-      "original_quantity": "10-20ml",
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 20.0,
+        "min": 10.0
+      },
+      "unit": "mL"
     },
     {
       "ingredient_name": "姜",
-      "quantity": 20,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "切丝，蘸料",
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "蘸料，一小块，切丝",
+      "original_quantity": "",
+      "quantity": 50.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "香油",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": true,
+      "note": "蘸料",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "滴"
     },
     {
       "ingredient_name": "大蒜",
-      "quantity": 3,
-      "unit": "瓣",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "蒜泥，蘸料，3瓣/人",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "蘸料，蒜泥，3瓣 / 人",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "瓣"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "盆中加入所有面粉，加入芝麻香油，面粉中央挖小洞，分4-5次加入水，并搅和，当出现碎末状的稍微干燥面团时，取消加水，用手将面团压实",
-      "duration_minutes": 5,
-      "tips": "面光盆光"
+      "content": "盆中加入所有面粉",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "面团压实至可把盆周围的面粉纳入即可，将面团置于桌上，盆倒扣于桌上，环境温度为25度，使面团醒发约45分钟",
-      "duration_minutes": 45,
-      "tips": null
+      "content": "加入芝麻香油",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "醒发完成后，将面团搓成条状，合成一团，再次搓成条，重复3次",
-      "duration_minutes": 3,
-      "tips": null
+      "content": "面粉中央挖小洞",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "擀成条状，切成20份均匀大小面团，并搓成直径约3-3.5cm的球状",
-      "duration_minutes": 10,
-      "tips": null
+      "content": "分 4-5 次加入水，并搅和，当出现碎末状的稍微干燥面团时",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "压扁面团，在手上、桌上、擀面杖上及面团上撒上面粉，此步骤防止面团发粘",
-      "duration_minutes": 5,
-      "tips": "防止面团发粘"
+      "content": "取消加水，用手将面团压实",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 6,
-      "content": "用擀面杖将面团擀平，约8cm直径，厚约2mm，中间略微比四周厚1mm",
-      "duration_minutes": 20,
-      "tips": null
+      "content": "面团压实至可把盆周围的面粉纳入即可，此步骤为面光盆光",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 7,
-      "content": "猪肉去皮，保留部分肥肉，切成小块，用菜刀（建议两把）将猪肉剁成肉沫，放入碗中",
-      "duration_minutes": 15,
-      "tips": "建议使用两把菜刀"
+      "content": "将面团置于桌上，盆倒扣于桌上，环境温度为 25 度，使面团醒发约 45 分钟",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 8,
-      "content": "葱、姜切成末，放入肉碗中搅拌均匀",
-      "duration_minutes": 3,
-      "tips": null
+      "content": "醒发完成后，将面团搓成条状，合成一团，再次搓成条，重复 3 次",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 9,
-      "content": "韭菜洗净，切短至3mm以下长度",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "擀成条状，切成 20 份均匀大小面团，并搓成直径约 3-3.5cm 的球状",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 10,
-      "content": "韭菜和肉沫混合，加入蚝油、生抽、香油各2ml，加入一个鸡蛋的蛋清，用手混合搅拌均匀，放置30分钟即可开始包饺子",
-      "duration_minutes": 2,
-      "tips": "放置30分钟"
+      "content": "压扁面团，在手上，桌上，擀面杖上，及面团上撒上面粉，此步骤防止面团发粘",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 11,
-      "content": "左手上放面皮，放饺子馅一面尽量不要粘到面粉，防止无法合拢，右手用筷子夹约面皮1/2直径的馅，沿饺子皮圆周进行合拢，捏实",
-      "duration_minutes": 25,
-      "tips": "个人吃无需捏花，饺子皮不漏即可"
+      "content": "用擀面杖将面团擀平，约 8cm 直径，厚约 2mm，中间略微比四周厚 1mm",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 12,
-      "content": "烧水，水约3/4锅的高度，大火烧开水后放入饺子，调至中火，第一次放入饺子，且水冒泡后，锅边加入50ml冷水（重复此步骤两次）",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "猪肉去皮,保留部分肥肉,切成小块",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 13,
-      "content": "第三次水开后加入冷水50ml，水开后调至小火等60s即可出锅",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "菜刀（建议两把）将猪肉剁成肉沫,放入碗中",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "葱、姜切成末,放入肉碗中搅拌均匀",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "韭菜洗净,切短至 3mm 以下长度",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "韭菜和肉沫混合,加入蚝油、生抽、香油各 2ml,加入一个鸡蛋的蛋清,用手混合搅拌均匀",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "放置 30 分钟即可开始包饺子",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "左手上放面皮，放饺子馅一面尽量不要粘到面粉，防止无法合拢",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "右手用筷子夹约面皮 1/2 直径的馅",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "沿饺子皮圆周进行合拢，捏实，个人吃无需捏花，饺子皮不漏即可",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "使用可放下 20 只饺子的锅，或分批量煮",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "烧水，水约 3/4 锅的高度",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "大火烧开水后放入饺子，调至中火",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "第一次放入饺子，且水冒泡后，锅边加入 50ml 冷水（重复此步骤两次）",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "第三次水开后加入冷水 50ml，水开后调至小火等 60s 即可出锅",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
-    "煮水饺不需要盖锅盖，加三次水就是为了不让饺子一直处于沸腾状态导致表皮破损变成面片",
-    "可以考虑搭配黑醋食用，建议用量：10-20ml",
-    "考虑姜切丝，在小碗加入20ml的黑醋与姜丝搅拌当蘸料，味道更丰富",
-    "考虑搭配黑醋时加入1~3滴香油，搅拌当蘸料",
-    "考虑搭配黑醋时加入砸好的蒜泥，搅拌当蘸料（口腔内会残留蒜味，若饭后需要与他人面对面谈话建议放弃或清洁口腔）"
-  ]
+    "煮水饺不需要盖锅盖，加三次水就是为了不让饺子一直处于沸腾状态导致表皮破损变成面片。",
+    "这道菜存在一些补充做法，包括但不限于：额外添加下列材料：黑醋 10ml、姜 一小块 50 克、香油 2 滴、大蒜/蒜泥 3 瓣/人。考虑搭配黑醋食用。建议用量：10-20ml。考虑姜切丝，在小碗加入 20ml 的黑醋与姜丝搅拌当蘸料，味道更丰富。考虑搭配黑醋时加入 1~3 滴香油，搅拌当蘸料。考虑搭配黑醋时加入砸好的蒜泥，搅拌当蘸料。（口腔内会残留蒜味，若饭后需要与他人面对面谈话建议放弃或清洁口腔）"
+  ],
+  "description": "饺子是一道非常好吃的主食之一。饱肚且易于根据自己口味进行调味，适合在 US 的同学吃不到水饺解馋。一般初学者需要 3 小时完成，难度较大\n单人，约 20 只"
 }

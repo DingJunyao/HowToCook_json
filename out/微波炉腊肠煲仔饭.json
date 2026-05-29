@@ -1,9 +1,9 @@
 {
   "name": "微波炉腊肠煲仔饭",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md",
+  "source_file": "dishes\\staple\\微波炉腊肠煲仔饭\\微波炉腊肠煲仔饭.md",
   "category": "主食",
   "difficulty": "easy",
-  "total_time_minutes": 15,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": 1,
   "images": [
@@ -12,128 +12,183 @@
   "ingredients": [
     {
       "ingredient_name": "米",
-      "quantity": 200,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 200.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "腊肠",
-      "quantity": 1,
-      "unit": "根",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "根"
     },
     {
       "ingredient_name": "鸡蛋",
-      "quantity": 1,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
-      "ingredient_name": "红萝卜",
-      "quantity": 1,
-      "unit": "个",
-      "quantity_range": null,
+      "ingredient_name": "胡萝卜",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "油",
-      "quantity": 15,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "生抽",
-      "quantity": 10,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "香葱",
-      "quantity": 1,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "颗"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "将米淘洗干净后倒入饭碗内，加入 400ml 的水，盖上盖",
+      "content": "将米淘洗干净后倒入 饭碗 内，加入 400ml 的水，盖上盖",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "放入微波炉，高火 6 分钟，煮饭途中准备原料：切好腊肠、洗好青菜、切好红萝卜片、切好葱花。青菜碗中放入青菜、红萝卜片，倒入 10 ml 油，放入 5 g 盐。小碗中倒入 10 ml 生抽、5 ml 油",
-      "duration_minutes": 6,
-      "tips": "煮饭途中可以准备其他食材"
+      "content": "放入微波炉，高火，6 分钟，煮饭途中准备原料",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "6 分钟后，用毛巾或隔热手套取出碗，在米饭上摆入切片的腊肠，继续高火 2 分钟",
-      "duration_minutes": 2,
-      "tips": "用毛巾或隔热手套取出碗以防烫伤"
+      "content": "切好腊肠",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "取出腊肠饭，放入青菜碗，高火 4-5 分钟",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "洗好青菜",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
+      "content": "切好红萝卜片",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "切好葱花",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "青菜碗 中放入青菜、红萝卜片，倒入 10 ml 油，放入 5 g 盐",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "小碗 中倒入 10 ml 生抽、5 ml 油",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "6 分钟后，用毛巾或隔热手套取出碗，可以看见米饭已经八分熟",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "在米饭上摆入切片的腊肠，继续高火 2 分钟",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "取出腊肠饭，放入 青菜碗，高火 4-5 分钟",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
       "content": "在腊肠饭上摆好青菜，磕入鸡蛋，看个人喜好继续高火 40-60 秒",
-      "duration_minutes": 1,
-      "tips": "根据个人喜好调整时间"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 6,
-      "content": "取出腊肠饭，此时已经基本完成。将小碗放入，继续高火 30 秒",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "取出腊肠饭，此时已经基本完成。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 7,
+      "content": "将 小碗 放入，继续高火 30 秒",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
       "content": "在腊肠饭上淋上叮热的生抽，撒上葱花即可",
       "duration_minutes": null,
-      "tips": "多余的青菜可以沾着酱油吃"
+      "tips": ""
+    },
+    {
+      "content": "多余的青菜可以沾着酱油吃",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
-  "tips": []
+  "tips": [],
+  "description": "程序员以单身汉居多 ，做再多的菜也会有一个人吃不完的烦恼，因此一份简单的腊肠煲仔饭则刚刚好。\n使用微波炉烹制仅需 15 分钟 ，既营养又美味，这是一道简单且细腻的主食，给 TA 露上一手吧。"
 }
