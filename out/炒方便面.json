@@ -1,143 +1,194 @@
 {
   "name": "炒方便面",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/炒方便面.md",
+  "source_file": "dishes\\staple\\炒方便面\\炒方便面.md",
   "category": "主食",
   "difficulty": "easy",
-  "total_time_minutes": 20,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": null,
-  "images": [],
+  "images": [
+    "images/炒方便面_0.png"
+  ],
   "ingredients": [
     {
       "ingredient_name": "方便面",
-      "quantity": 1,
-      "unit": "袋",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "1.2包/人向下取整",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "包"
     },
     {
       "ingredient_name": "鸡蛋",
-      "quantity": 1,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "1.4个/人向下取整",
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "盐",
-      "quantity": 2,
-      "unit": "g",
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
       "quantity_range": null,
-      "is_optional": false,
-      "note": "鸡蛋的用量 * 2g",
-      "original_quantity": null,
-      "is_estimated": false
+      "unit": "个"
     },
     {
       "ingredient_name": "火腿肠",
-      "quantity": 1,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "0.7个/人向上取整，切成1cm小块",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "食用油",
-      "quantity": 18,
-      "unit": "mL",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
       "quantity_range": {
-        "min": 10,
-        "max": 18
+        "max": 18.0,
+        "min": 10.0
       },
-      "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "方便面菜包",
-      "quantity": 1,
-      "unit": "袋",
-      "quantity_range": null,
-      "is_optional": false,
-      "note": "挤入调料碗中",
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "方便面酱包",
-      "quantity": 1,
-      "unit": "袋",
-      "quantity_range": null,
-      "is_optional": false,
-      "note": "挤入调料碗中",
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "方便面粉包",
-      "quantity": 0.6,
-      "unit": "袋",
-      "quantity_range": {
-        "min": 0.5,
-        "max": 0.8
-      },
-      "is_optional": false,
-      "note": "50%-80%的粉包挤入调料碗",
-      "original_quantity": null,
-      "is_estimated": false
+      "unit": "mL"
     },
     {
       "ingredient_name": "水",
-      "quantity": 380,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "300ml用于煮面，80ml用于调制酱料",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1200.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "火腿肠预处理：将火腿肠撕开包装，切成宽度1cm的小块",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "将火腿肠撕开包装，切成宽度 1cm 的小块。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "面条处理：向煮锅中加入300ml水，煮沸后加入方便面面饼煮45秒，煮的过程中挑动把面条打散。面条打散后立刻关火，将面汤和面分离，用凉水冲一下面条",
-      "duration_minutes": 3,
-      "tips": "面条只需煮45秒，保持一定嚼劲"
+      "content": "向煮锅中加入 1200 ml 水，实际以没过面饼为准。完全煮沸，不要在未沸腾时加面。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "酱料处理：准备一个小碗，将方便面的所有菜包、酱包挤进去，挤入50%-80%的粉包。将面汤取出80ml加入小碗，搅匀，得到调料碗",
-      "duration_minutes": 1,
-      "tips": "全部粉包挤进去会很咸，建议使用50%-80%"
+      "content": "加入方便面面饼，煮 45 秒。煮的过程中将其挑动，把面条打散。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "鸡蛋的预处理：取出计算好的数量的鸡蛋，打入一个小碗。每个鸡蛋加入2g盐，搅拌均匀。热锅20s，加入份数*8ml油。加入刚刚准备好的一碗鸡蛋，翻炒大约20s至鸡蛋形成固态即可，将煎鸡蛋取出暂存",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "面条打散后立刻关火。不要煮熟！",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "最终步骤：热锅20s，增加锅内的油到份数*10ml。加入火腿肠翻炒10秒。加入面翻炒30秒。加入调料碗翻炒30秒。加入煎鸡蛋翻炒30秒。关火盛盘即可",
-      "duration_minutes": 3,
-      "tips": "每次加入新食材后翻炒30秒，确保均匀受热"
+      "content": "从锅中舀出 80ml 热面汤备用。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "将面汤和面分离。用凉水冲一下面条。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "沥干面条上的水分。不要长时间将面泡在水中。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "准备一个小碗，将方便面的调料包挤进去。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "挤进去所有菜包",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "挤进去所有酱包",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "挤进去 50% - 80% 的粉包。（全部粉包都挤进去会很咸）",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "将 80ml 热面汤全部倒入小碗，搅匀，得到调料碗。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "取出计算好的数量的鸡蛋，打入一个小碗。不要加盐！（鸡蛋最终会混合锅里食材的盐味）",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "热锅 20s，加入份数 * 8ml 油。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "加入刚刚准备好的一碗鸡蛋。翻炒大约 20s 至鸡蛋形成固态即可。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "将煎鸡蛋取出暂存。不需要洗锅。但一般锅内不会残余太多油。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "重新热锅 20s，向锅内加入油：份数 * 10ml。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "加入处理的火腿肠。翻炒 10 秒。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "加入的面。翻炒 30 秒。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "加入调料碗。翻炒 30 秒。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "加入煎鸡蛋。翻炒 30 秒。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "关火盛盘即可。",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
-    "在北京，可以考虑在盛盘后加入芝麻酱。如果芝麻酱太浓稠，可以1:1兑水稀释"
-  ]
+    "在北京，可以考虑在盛盘后加入芝麻酱。如果芝麻酱太浓稠，可以 1:1 兑水稀释。",
+    "必须使用冷水冲面条！冷水能瞬间剥离面条表面的糊化淀粉，并强制中断内部的余温加热，这是保证面条下锅炒不坨、不粘锅、保持 Q 弹的核心原理。"
+  ],
+  "description": "这是在探究了传统煮方便面的改良方向之后，进行的一次最成功的尝试。它能够让方便面的美味程度提升很大程度，简单好做。开始炒吧！"
 }

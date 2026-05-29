@@ -1,9 +1,9 @@
 {
   "name": "韩式拌饭",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/韩式拌饭/韩式拌饭.md",
+  "source_file": "dishes\\staple\\韩式拌饭\\韩式拌饭.md",
   "category": "荤菜",
   "difficulty": "medium",
-  "total_time_minutes": 20,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": 1,
   "images": [
@@ -12,181 +12,211 @@
   "ingredients": [
     {
       "ingredient_name": "米饭",
-      "quantity": 400,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "1 碗",
+      "original_quantity": "",
+      "quantity": 400.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "鸡蛋",
-      "quantity": 1,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "颗"
     },
     {
       "ingredient_name": "火锅牛肉卷",
-      "quantity": 60,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "6 卷",
+      "original_quantity": "",
+      "quantity": 60.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "豆芽",
-      "quantity": 80,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "1 把",
+      "original_quantity": "",
+      "quantity": 80.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "蘑菇",
-      "quantity": 50,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 50.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "胡萝卜",
-      "quantity": 30,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 0.25,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "根"
     },
     {
       "ingredient_name": "西葫芦",
-      "quantity": 50,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 50.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "韩式辣酱",
-      "quantity": 10,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "甜辣口",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 25.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "雪碧",
-      "quantity": 10,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "减肥的话可以放无糖雪碧",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "2 瓶盖",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "芝麻",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "芝麻油",
-      "quantity": 5,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "生抽",
-      "quantity": 20,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 1,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": true,
       "note": "备酱汁时可根据需要添加",
-      "original_quantity": null,
-      "is_estimated": true
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "少许",
+      "quantity_range": null,
+      "unit": "g"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "蔬菜清洗，切丝，放锅中翻炒，食材变软便可盛出",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "蔬菜清洗 切丝 放锅中翻炒 食材变软 便可称出",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "煮水，等沸腾时焯牛肉卷，只需煮熟，大概三分钟即可捞出",
-      "duration_minutes": 4,
-      "tips": null
+      "content": "煮水 等沸腾时 焯牛肉卷 只需煮熟 大概三分钟即可捞出",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "煎溏心蛋",
-      "duration_minutes": 3,
-      "tips": "可参考溏心蛋的制作方法"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "将米饭放在一个碗里，然后倒扣在大碗中",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "将米饭放在一个碗里 然后倒扣在大碗",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "将准备好的蔬菜和肉卷依次绕圈放在米饭上面，将煎蛋放中间",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "将准备好的蔬菜和肉卷依次绕圈放在米饭上面 将煎蛋放中间",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 6,
-      "content": "备酱汁：10ml韩式辣酱（甜辣口）+ 5ml生抽 + 两瓶盖雪碧（减肥的话可以放无糖雪碧）+ 10g芝麻 + 5ml芝麻油，搅拌上述酱汁，可以再加生抽和盐",
-      "duration_minutes": 2,
-      "tips": "可根据个人口味调整生抽和盐的用量"
+      "content": "备酱汁",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 7,
+      "content": "10ml 韩式辣酱（甜辣口）+ 5ml 生抽 + 两瓶盖雪碧（减肥的话 可以放无糖雪碧）+ 10g 芝麻 + 5ml 芝麻油",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "搅拌上述酱汁，可以再加生抽和盐",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
       "content": "将备好的酱汁倒在摆好盘的碗中",
-      "duration_minutes": 1,
-      "tips": "搅拌后食用更加美味"
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
     "这是道非常简单的菜，过程会比较繁琐，但当将菜肉米饭酱汁搅拌起来吃会很满足",
     "如果对外观有一定要求，可以用砂锅代替普通碗"
-  ]
+  ],
+  "description": ""
 }

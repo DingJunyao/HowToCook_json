@@ -1,243 +1,262 @@
 {
   "name": "蒸卤面",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/蒸卤面.md",
+  "source_file": "dishes\\staple\\蒸卤面.md",
   "category": "主食",
   "difficulty": "hard",
-  "total_time_minutes": 60,
-  "servings": 1,
+  "total_time_minutes": null,
+  "servings": 2,
   "original_servings": 2,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "鲜面条",
-      "quantity": 250,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "要求必须是最细的",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "要求必须是最细的，如果附近菜市场没有，请参考制作焖面",
+      "original_quantity": "",
+      "quantity": 500.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "猪五花肉",
-      "quantity": 175,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 350.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "芹菜",
-      "quantity": 1,
-      "unit": "根",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "中等大小",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "根"
     },
     {
       "ingredient_name": "大葱",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "cm"
     },
     {
       "ingredient_name": "大蒜",
-      "quantity": 2,
-      "unit": "瓣",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "瓣"
     },
     {
-      "ingredient_name": "姜片",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": null,
+      "ingredient_name": "姜",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "片",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "青椒",
-      "quantity": 1,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
       "note": "供有一定烹饪基础或学有余力的同学选配",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "干红椒",
-      "quantity": 2,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
       "note": "供有一定烹饪基础或学有余力的同学选配",
-      "original_quantity": null,
-      "is_estimated": true
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "花椒",
-      "quantity": 10,
-      "unit": "粒",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
       "note": "供有一定烹饪基础或学有余力的同学选配",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "粒"
     },
     {
       "ingredient_name": "食用油",
-      "quantity": 15,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": false,
       "note": "花生油最佳",
-      "original_quantity": "适量",
-      "is_estimated": true
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "料酒",
-      "quantity": 10,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": true,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "生抽",
-      "quantity": 8,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "老抽",
-      "quantity": 5,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "五香粉",
-      "quantity": 3,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "猪肉去皮，切成 2 cm * 6 cm * 0.5 cm 薄片备用",
-      "duration_minutes": 5,
-      "tips": null
+      "content": "猪肉去皮，切成 2 cm  6 cm  0.5 cm 薄片备用",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "芹菜去叶，去掉根部 2cm，然后从中对半切开，切成 2cm 段备用",
-      "duration_minutes": 3,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "大蒜去皮切粒备用，葱切 0.2cm 薄片备用，姜切细丝备用",
-      "duration_minutes": 3,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
       "content": "炒锅烧热至冒烟后，倒入 3ml 食用油滑锅后倒出底油",
-      "duration_minutes": 1,
-      "tips": "加热至冒烟是为了让锅充分受热"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "重新加入食用油，加入肉片、葱姜蒜、干红椒，炒 1 分钟，注意不停匀速翻炒",
-      "duration_minutes": 1,
-      "tips": "不停匀速翻炒防止粘锅和糊锅"
+      "content": "重新加入食用油，加入肉片，葱姜蒜，干红椒，炒 1 分钟，注意不停匀速翻炒",
+      "duration_minutes": 1.0,
+      "tips": ""
     },
     {
-      "step": 6,
-      "content": "加入料酒、生抽、老抽，再翻炒 1 分钟",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "加入料酒，生抽，老抽，再翻炒 1 分钟",
+      "duration_minutes": 1.0,
+      "tips": ""
     },
     {
-      "step": 7,
       "content": "续入 500ml 热水。盖上锅盖炖煮 3 分钟",
-      "duration_minutes": 3,
-      "tips": null
+      "duration_minutes": 3.0,
+      "tips": ""
     },
     {
-      "step": 8,
-      "content": "将芹菜、青椒倒入锅中，加入盐、五香粉调味，盖上锅盖继续炖煮 3 分钟后关火",
-      "duration_minutes": 3,
-      "tips": null
+      "content": "将芹菜，青椒倒入锅中，加入盐，五香粉调味，盖上锅盖继续炖煮煮 3 分钟 后关火",
+      "duration_minutes": 3.0,
+      "tips": ""
     },
     {
-      "step": 9,
       "content": "蒸锅加入 1000ml 水，烧开上汽后，将面条摊平在笼屉上放入锅中，蒸 15 分钟",
-      "duration_minutes": 20,
-      "tips": "面条要摊平，尽量散开，避免蒸熟后团在一起"
+      "duration_minutes": 15.0,
+      "tips": ""
     },
     {
-      "step": 10,
       "content": "面条蒸熟后取出，用筷子和无情铁手扒拉散开在案板上，室温冷却",
-      "duration_minutes": 5,
-      "tips": "取出蒸好的面条时尽量动作轻一些，避免蒸屉翻到面条触水"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 11,
-      "content": "将面条放入菜锅中搅拌，搅拌方式为一手持筷，一手持锅铲将菜翻至面条上面，以面条全部均匀上色为搅拌完成标准",
-      "duration_minutes": 3,
-      "tips": "面条太长时可以拽断，方便后续搅拌与盛取"
+      "content": "将面条放入菜锅中搅拌，搅拌方式为一手持筷，一手持锅铲将菜翻至面条上面，以面条以全部均匀上色为搅拌完成标准",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 12,
-      "content": "将搅拌后的面条再次放在笼屉上，再次蒸 10 分钟关火",
-      "duration_minutes": 10,
-      "tips": "两次蒸面条时，都要尽量弄散开，可以避免蒸好后团在一起"
+      "content": "将搅拌后的面条再次放在整屉上，再次蒸 10 分钟 关火",
+      "duration_minutes": 10.0,
+      "tips": ""
     }
   ],
   "tips": [
     "切割猪肉时，可以让菜市场摊贩帮忙，根据经验，请求时机把握在已切割后未付款之前成功率最高",
     "首次做饭时可以提前备好料防止手忙脚乱，后续熟练后可以并发执行",
-    "两次蒸面条时，都要尽量弄散开，可以避免蒸好后团在一起。面条太长时可以拽断，方便后续搅拌与盛取",
+    "两次蒸面条时，都要尽量的弄散开，可以避免蒸好后团在一起。面条太长时可以拽断，方便后续搅拌与盛取",
     "取出蒸好的面条时尽量动作轻一些，避免蒸屉翻到面条触水",
-    "佐餐时啤酒更配呦"
-  ]
+    "佐餐时啤酒更配呦！"
+  ],
+  "description": "蒸卤面是一道豫南的非常经典的家常菜，荤素搭档，简单易学。一般初学者只需要一个小时即可完成。\nNOTE：本次标准为豫南口味，可能和其他地方不太一样，食无标准，兼容并包，好吃即可。"
 }

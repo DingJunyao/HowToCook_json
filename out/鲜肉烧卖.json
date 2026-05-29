@@ -1,317 +1,319 @@
 {
   "name": "鲜肉烧卖",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/鲜肉烧卖.md",
+  "source_file": "dishes\\staple\\鲜肉烧卖.md",
   "category": "荤菜",
   "difficulty": "hard",
-  "total_time_minutes": 40,
-  "servings": 1,
+  "total_time_minutes": null,
+  "servings": 2,
   "original_servings": 3,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "烧卖皮",
-      "quantity": 155,
-      "unit": "g",
-      "quantity_range": {
-        "min": 80,
-        "max": 155
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "建议用每张10g的烧卖皮",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "约 24-31 张，建议用每张 10g 的烧卖皮 30 张",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 465.0,
+        "min": 240.0
+      },
+      "unit": "g"
     },
     {
       "ingredient_name": "猪肉末",
-      "quantity": 100,
-      "unit": "g",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "肥瘦 3:7，如果想做低脂版本，用猪里脊肉或猪前腿肉。低脂版本用猪里脊或猪前腿肉 280 g",
+      "original_quantity": "",
+      "quantity": 300.0,
+      "quantity_description": "",
       "quantity_range": null,
-      "is_optional": false,
-      "note": "肥瘦3:7，低脂版本可用猪里脊或前腿肉",
-      "original_quantity": null,
-      "is_estimated": false
+      "unit": "g"
     },
     {
-      "ingredient_name": "生姜末",
-      "quantity": 3.3,
-      "unit": "g",
-      "quantity_range": {
-        "min": 1.7,
-        "max": 3.3
-      },
+      "ingredient_name": "姜",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "末。",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 10.0,
+        "min": 5.0
+      },
+      "unit": "g"
     },
     {
-      "ingredient_name": "葱末",
-      "quantity": 6.7,
-      "unit": "g",
-      "quantity_range": {
-        "min": 3.3,
-        "max": 6.7
-      },
+      "ingredient_name": "葱",
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "只用绿色部分",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "末。只用绿色部分",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 20.0,
+        "min": 10.0
+      },
+      "unit": "g"
     },
     {
       "ingredient_name": "生抽",
-      "quantity": 5,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "料酒",
-      "quantity": 3.3,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 1.7,
-      "unit": "g",
-      "quantity_range": {
-        "min": 1,
-        "max": 1.7
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "使用浓汤宝时减少1g",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "如果使用浓汤宝，减少 3 g",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 5.0,
+        "min": 3.0
+      },
+      "unit": "g"
     },
     {
       "ingredient_name": "糖",
-      "quantity": 1,
-      "unit": "g",
-      "quantity_range": {
-        "min": 0.7,
-        "max": 1
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 3.0,
+        "min": 2.0
+      },
+      "unit": "g"
     },
     {
       "ingredient_name": "白胡椒粉",
-      "quantity": 0.7,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "芝麻油",
-      "quantity": 1.7,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "高汤",
-      "quantity": 10,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "浓汤宝",
-      "quantity": 2,
-      "unit": "g",
+      "note": "或浓汤宝 6 g（建议家乐牌，约 1/8 块）",
+      "original_quantity": "",
+      "quantity": 30.0,
+      "quantity_description": "",
       "quantity_range": null,
-      "is_optional": false,
-      "note": "建议家乐牌，约1/8块",
-      "original_quantity": null,
-      "is_estimated": false
+      "unit": "mL"
     },
     {
       "ingredient_name": "冬笋",
-      "quantity": 16.7,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 50.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "皮冻",
-      "quantity": 33.3,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "推荐添加",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "推荐",
+      "original_quantity": "",
+      "quantity": 100.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "香菇",
-      "quantity": 25,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "或干香菇10g泡发",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "或干香菇 30 g 泡发",
+      "original_quantity": "",
+      "quantity": 75.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "虾仁",
-      "quantity": 66.7,
-      "unit": "g",
-      "quantity_range": {
-        "min": 33.3,
-        "max": 66.7
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "约7-8个",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "约 20-25 个",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 200.0,
+        "min": 100.0
+      },
+      "unit": "g"
     },
     {
       "ingredient_name": "复配食品增稠剂",
-      "quantity": 0.4,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "低脂版本专用，κ-卡拉胶45%、瓜尔胶35%、氯化钾20%",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "低脂版本。κ-卡拉胶 45%、瓜尔胶 35%、氯化钾 20%（或玉米淀粉 2 g）",
+      "original_quantity": "",
+      "quantity": 1.2,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "猪油",
-      "quantity": 5,
-      "unit": "g",
-      "quantity_range": null,
-      "is_optional": false,
-      "note": "或鸡油",
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "玉米淀粉",
-      "quantity": 0.7,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": "低脂版本可替代复配食品增稠剂",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "低脂版本。或鸡油",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "（低脂版本）取3.3mL冷水，加入0.4g复配食品增稠剂，调成糊糊",
-      "duration_minutes": 1,
-      "tips": "低脂版本专用步骤"
+      "content": "（低脂版本）取 10 mL 冷水，加入复配食品增稠剂，调成糊糊",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "（低脂版本）加入8.3mL开水，搅拌至半透明凝胶",
-      "duration_minutes": 1,
-      "tips": "低脂版本专用步骤"
+      "content": "（低脂版本）加入 25 mL 开水，搅拌至半透明凝胶",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "（低脂版本）冷却后混入93.3g纯瘦肉糜与5g融化的猪油（或鸡油）",
-      "duration_minutes": 2,
-      "tips": "低脂版本专用步骤"
+      "content": "（低脂版本）冷却后混入 280 g 纯瘦肉糜 + 15 g 融化猪油（或鸡油）",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "将猪肉末与生姜末、葱末混合，加入生抽、料酒、盐、糖、白胡椒粉，顺一个方向搅拌上劲",
-      "duration_minutes": 3,
-      "tips": null
+      "content": "将猪肉末与生姜末、葱末混合，加入酱油、料酒、盐、糖、白胡椒粉，顺一个方向搅拌上劲",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "如果使用浓汤宝，取浓汤宝块加入5mL热水混合，搅拌至乳浊液完全分散，再加入5mL常温水",
-      "duration_minutes": 1,
-      "tips": "不加浓汤宝则跳过此步骤"
+      "content": "如果使用浓汤宝，取浓汤宝块加入 15 mL 热水混合，搅拌至乳浊液完全分散，再加入 15 mL 常温水",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 6,
-      "content": "慢慢加入水或高汤，继续搅拌，直到馅料吸收水分，变得粘稠，如果觉得肉馅太稠，补1.7mL水继续搅拌",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "慢慢加入水或高汤，继续搅拌，直到馅料吸收水分，变得粘稠，如果觉得肉馅太稠，补 5 mL 水继续搅拌",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 7,
-      "content": "加入可选配料（冬笋、皮冻、香菇），最后淋上芝麻油，拌匀。冷藏30分钟，让味道融合",
-      "duration_minutes": 30,
-      "tips": "冷藏可让馅料更入味"
+      "content": "加入可选配料（冬笋、皮冻、香菇），最后淋上芝麻油，拌匀。冷藏 30 分钟，让味道融合",
+      "duration_minutes": 30.0,
+      "tips": ""
     },
     {
-      "step": 8,
-      "content": "取一张烧卖皮，放上约7-8g馅料（别太贪心，否则包不住）",
-      "duration_minutes": 1,
-      "tips": "馅料适量即可"
+      "content": "取一张烧卖皮，放上约 20-25 g 馅料",
+      "duration_minutes": null,
+      "tips": "别太贪心，否则包不住"
     },
     {
-      "step": 9,
-      "content": "用虎口轻轻收拢皮子边缘，形成\"花瓶\"状，顶部留开口",
-      "duration_minutes": 1,
-      "tips": "虎口抹点油，收口不会粘手"
+      "content": "用虎口轻轻收拢皮子边缘，形成“花瓶”状，顶部留开口",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 10,
       "content": "用手指轻轻压实底部，确保站立稳定",
-      "duration_minutes": 0,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 11,
       "content": "如果要加虾仁，在顶部加一颗虾仁",
-      "duration_minutes": 0,
-      "tips": "可选步骤"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 12,
-      "content": "重复包烧卖的步骤，直到包好所有馅料",
-      "duration_minutes": 10,
-      "tips": null
+      "content": "重复包烧卖的步骤，直到包好",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 13,
       "content": "放在蒸笼里，间隔开，避免粘连",
-      "duration_minutes": 2,
-      "tips": "使用蒸笼垫（推荐刷油竹垫、草垫、粽叶、带孔硅油纸）"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 14,
-      "content": "大火蒸8-10分钟即可",
-      "duration_minutes": 10,
-      "tips": "记得水开了再上笼，这样皮子不会塌掉"
+      "content": "大火蒸 8-10 分钟即可",
+      "duration_minutes": 10.0,
+      "tips": ""
     }
   ],
   "tips": [
     "烧卖中的脂肪主要来自肥肉，低脂版本中的肥肉被移除后为保证口感需要使用少量动物油来补偿",
     "如果没有烧卖皮，可用大馄饨皮，或者饺子皮擀薄",
-    "皮的直径在8-10cm之间，每张皮重约10-15g，皮和馅的比例控制在1:2-1:2.5",
-    "绞肉机建议用中档，这样肉末不会太细（像糊糊）也不会太粗（像碎块），保持适中纹理，让馅料口感Q弹",
-    "使用姜末3.3g，葱末6.7g不容易掩盖鲜肉的味道；姜末3.3g，葱末6.7g有点像饺子馅",
+    "皮的直径在 8-10 cm 之间，每张皮重约 10-15g，皮和馅的比例控制在 1:2 - 1:2.5",
+    "绞肉机建议用中档，这样肉末不会太细（像糊糊）也不会太粗（像碎块），保持适中纹理，让馅料口感 Q 弹",
+    "使用姜末 5 g，葱末 10 g 不容易掩盖鲜肉的味道；姜末 10 g，葱末 20 g 有点像饺子馅",
     "包烧卖的时候在虎口抹点油，收口不会粘手",
     "蒸的时候记得水开了再上笼，这样皮子不会塌掉",
-    "做多了可-18℃冷冻保存，冷冻保存的需要蒸12-15分钟",
-    "蘸上玫瑰米醋更好吃，也可以根据口味配上桐乡辣酱、油泼辣子、生抽、姜丝"
-  ]
+    "做多了可 -18 ℃ 冷冻保存，冷冻保存的需要蒸 12-15 分钟",
+    "蘸上玫瑰米醋更好吃，也可以根据口味配上桐乡辣酱、油泼辣子、生抽、姜丝",
+    "参考资料：【鲜肉烧麦的做法步骤图，鲜肉烧麦怎么做好吃】小什么l_下厨房(https://www.xiachufang.com/recipe/106527847/)"
+  ],
+  "description": "鲜肉烧卖以肥瘦三七的猪肉为主馅，融入冬笋、皮冻与香菇，蒸出半透明皮子与多汁内馅，一口咬下，汤汁四溢，咸鲜交织，尽显江南精致～"
 }

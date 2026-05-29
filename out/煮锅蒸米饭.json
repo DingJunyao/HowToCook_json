@@ -1,9 +1,9 @@
 {
   "name": "煮锅蒸米饭",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/staple/米饭/煮锅蒸米饭.md",
+  "source_file": "dishes\\staple\\米饭\\煮锅蒸米饭.md",
   "category": "主食",
   "difficulty": "easy",
-  "total_time_minutes": 20,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": null,
   "images": [
@@ -12,77 +12,74 @@
   "ingredients": [
     {
       "ingredient_name": "北方大米",
-      "quantity": 150,
-      "unit": "mL",
-      "quantity_range": {
-        "min": 100,
-        "max": 200
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 200.0,
+        "min": 100.0
+      },
+      "unit": "mL"
     },
     {
       "ingredient_name": "水",
-      "quantity": 300,
-      "unit": "mL",
-      "quantity_range": {
-        "min": 200,
-        "max": 400
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "米的体积的 2 倍",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 400.0,
+        "min": 200.0
+      },
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "清洗大米",
-      "duration_minutes": 2,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "将米和水加入煮锅",
-      "duration_minutes": 1,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "大火煮至水沸腾",
-      "duration_minutes": 3,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
       "content": "搅拌底部防止粘黏",
-      "duration_minutes": 1,
-      "tips": "水沸腾时轻轻搅拌"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "盖上锅盖，转小火加热 10-15 分钟",
-      "duration_minutes": 15,
-      "tips": "中途切勿打开锅盖"
+      "content": "盖上锅盖，转小火加热 10-15 分钟（根据对软糯程度的喜好），中途切勿打开锅盖",
+      "duration_minutes": 15.0,
+      "tips": ""
     },
     {
-      "step": 6,
       "content": "关火，静置 5 分钟",
-      "duration_minutes": 5,
-      "tips": "让米饭充分吸收水分"
+      "duration_minutes": 5.0,
+      "tips": ""
     },
     {
-      "step": 7,
-      "content": "享用",
-      "duration_minutes": 0,
-      "tips": null
+      "content": "Enjoy :)",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
-    "中途切勿打开锅盖",
-    "根据对软糯程度的喜好调整小火加热时间（10-15 分钟）"
-  ]
+    "腐国人研究煮米饭，好想送他们个电饭煲！(https://www.bilibili.com/video/BV1RW411z7r9)"
+  ],
+  "description": ""
 }
