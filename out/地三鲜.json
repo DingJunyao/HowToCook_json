@@ -1,243 +1,274 @@
 {
   "name": "地三鲜",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/地三鲜.md",
+  "source_file": "dishes\\vegetable_dish\\地三鲜\\地三鲜.md",
   "category": "素菜",
   "difficulty": "medium",
-  "total_time_minutes": 18,
-  "servings": 1,
+  "total_time_minutes": null,
+  "servings": 2,
   "original_servings": 3,
-  "images": [],
+  "images": [
+    "images/地三鲜_0.jpg"
+  ],
   "ingredients": [
     {
       "ingredient_name": "茄子",
-      "quantity": 33.3,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 300.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "土豆",
-      "quantity": 50,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 150.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "尖椒",
-      "quantity": 1.2,
-      "unit": "个",
-      "quantity_range": {
-        "min": 1,
-        "max": 1.3
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": "3-4个",
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 4.0,
+        "min": 3.0
+      },
+      "unit": "个"
     },
     {
       "ingredient_name": "淀粉",
-      "quantity": 6.7,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 8.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "葱",
-      "quantity": 1,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "切0.5cm小段",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "蒜",
-      "quantity": 3.3,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "剁碎",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "姜",
-      "quantity": 3.3,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "切沫",
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "豆瓣酱",
-      "quantity": 6.7,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "生抽",
-      "quantity": 3.3,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
-    },
-    {
-      "ingredient_name": "盐",
-      "quantity": 2.7,
-      "unit": "g",
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
       "quantity_range": null,
-      "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "unit": "mL"
     },
     {
       "ingredient_name": "糖",
-      "quantity": 3.3,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "食用油",
-      "quantity": 13.3,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": "包括初始25ml和可能补充15ml",
-      "original_quantity": null,
-      "is_estimated": true
+      "note": "",
+      "original_quantity": "",
+      "quantity": 170.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "水",
-      "quantity": 66.7,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 80.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "content": "土豆洗净、去皮。茄子、尖椒洗净。",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "土豆、茄子、尖椒洗净。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "葱切0.5cm小段。蒜剁碎。姜切沫。",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "土豆去皮。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "茄子、土豆、尖椒均切成约15g的小块。",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "茄子、土豆均切成 15g 的不规则的小块。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "热锅，加入油。",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "尖椒用手顺着纹路撕即可，撕成比土豆、茄子略大 25%的块。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
-      "content": "加入土豆，煎炸大约3分钟，待其到大约8分熟，以显示金黄色为准。",
-      "duration_minutes": 3,
-      "tips": "煎炸至金黄色"
+      "content": "尽可能除去青椒表面的水分，避免后续炸的时候炸水。考虑使用厨房纸或风干半小时。",
+      "duration_minutes": 30.0,
+      "tips": ""
     },
     {
-      "step": 6,
+      "content": "葱切 0.5cm 小段，共取 5g。蒜剁碎成蒜蓉取 15g，分成两份，各 7.5g。姜切沫取 5g。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "拿一个空碗，放入生抽 10ml、糖 10g、淀粉 8g，加入 80ml 清水，彻底搅拌均匀，作为调料碗，备用。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "热锅，加入 150ml 油。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "加入土豆，煎炸大约 3-4 分钟，以显示金黄色、筷子能轻松扎透为准。",
+      "duration_minutes": 4.0,
+      "tips": ""
+    },
+    {
       "content": "捞出土豆，留下油。",
-      "duration_minutes": 0.5,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 7,
-      "content": "加入茄子，煎炸大约40秒，待其到大约7分熟，以显示金黄色为准。",
-      "duration_minutes": 1,
-      "tips": "煎炸至金黄色"
+      "content": "加入茄子，煎炸大约 2-3 分钟，待其到大约 7 分熟，以茄子变软、边缘微焦且吐出多余油脂为准。",
+      "duration_minutes": 3.0,
+      "tips": ""
     },
     {
-      "step": 8,
-      "content": "如果锅内已经没有流动的油，可以考虑补充油。",
-      "duration_minutes": 0.5,
-      "tips": "根据实际情况补充油"
+      "content": "捞出茄子，留下油。（也可能没有残余的油了）",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 9,
-      "content": "放入葱。放入姜。",
-      "duration_minutes": 0.5,
-      "tips": null
+      "content": "如果锅内已经没有流动的油，可以考虑补充 15ml 油。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 10,
-      "content": "放入豆瓣酱。",
-      "duration_minutes": 0.5,
-      "tips": null
+      "content": "加入尖椒块，煎炸大约 15 秒，边缘稍微起虎皮后，立刻捞出。倒出锅里的油。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 11,
-      "content": "放入生抽。放入盐。放入糖。",
-      "duration_minutes": 0.5,
-      "tips": null
+      "content": "重新热锅，重新加入 15ml 新底油。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 12,
-      "content": "放入之前处理的土豆。放入尖椒。",
-      "duration_minutes": 0.5,
-      "tips": null
+      "content": "放入葱 5g，姜 5g，蒜 7.5g。中小火爆香。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 13,
-      "content": "翻炒1分钟。",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "放入豆瓣酱 15ml。转小火，炒出红油和酱香味。",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 14,
-      "content": "放入蒜。加入水和淀粉。",
-      "duration_minutes": 0.5,
-      "tips": null
+      "content": "倒入调料碗。立刻转大火，高速搅拌避免糊锅！大约 10 秒后汤汁就会开始冒泡并变得黏稠。",
+      "duration_minutes": 0.17,
+      "tips": ""
     },
     {
-      "step": 15,
-      "content": "待水开后，汤减少一半时，关火盛盘。",
-      "duration_minutes": 3,
-      "tips": "汤减半即可关火"
+      "content": "立刻放入之前准备好的全部土豆、茄子和尖椒。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "翻炒 20 秒，让浓稠的酱汁均匀挂在食材上。",
+      "duration_minutes": 0.33,
+      "tips": ""
+    },
+    {
+      "content": "关火，撒入 7.5g 蒜。翻拌均匀，盛盘。",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
-    "土豆煎炸至金黄色，约8分熟",
-    "茄子煎炸至金黄色，约7分熟",
-    "注意根据实际情况补充油",
-    "汤汁减半即可关火"
-  ]
+    "糖比淀粉多是非常合理的。淀粉在这里不负责提供味道，它只是一种物理增稠剂。",
+    "茄子在煎炸以后，体积会缩小 4 倍。所以拿的时候可能会注意到茄子下锅很多，出锅很少。这是正常的。",
+    "青椒下锅的瞬间可能会爆发很多水分，导致油飞溅。务必下锅时用锅盖当盾牌挡在身前，小心下锅。"
+  ],
+  "description": ""
 }

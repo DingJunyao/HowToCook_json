@@ -1,11 +1,7 @@
 {
-  "name": "素炒豆角",
-  "source_file": "dishes\\vegetable_dish\\素炒豆角.md",
   "category": "素菜",
+  "description": "陕北熬豆角是一种对初学者极其友善的菜，因其制作方式使用`熬`的方式，食材可多可少，可有可无，几乎不存在失败的可能性。",
   "difficulty": "easy",
-  "total_time_minutes": null,
-  "servings": 2,
-  "original_servings": 2,
   "images": [],
   "ingredients": [
     {
@@ -15,97 +11,46 @@
       "is_optional": false,
       "note": "",
       "original_quantity": "",
-      "quantity": 250.0,
+      "quantity": 300.0,
       "quantity_description": "",
       "quantity_range": null,
       "unit": "g"
     },
     {
-      "ingredient_name": "小米椒",
+      "ingredient_name": "土豆",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
+    },
+    {
+      "ingredient_name": "西红柿",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
+    },
+    {
+      "ingredient_name": "螺丝椒",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": true,
       "note": "",
       "original_quantity": "",
       "quantity": 2.0,
       "quantity_description": "",
       "quantity_range": null,
       "unit": "个"
-    },
-    {
-      "ingredient_name": "葱",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": 3.0,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "圈"
-    },
-    {
-      "ingredient_name": "蒜",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": 2.0,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "颗"
-    },
-    {
-      "ingredient_name": "食用油",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": null,
-      "quantity_description": "",
-      "quantity_range": {
-        "max": 15.0,
-        "min": 10.0
-      },
-      "unit": "mL"
-    },
-    {
-      "ingredient_name": "生抽",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": 6.0,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "mL"
-    },
-    {
-      "ingredient_name": "老抽",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": 2.0,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "mL"
-    },
-    {
-      "ingredient_name": "蚝油",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": 6.0,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "mL"
     },
     {
       "ingredient_name": "盐",
@@ -120,72 +65,152 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "水",
+      "ingredient_name": "生抽",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
       "note": "",
       "original_quantity": "",
-      "quantity": 150.0,
+      "quantity": 6.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "mL"
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "五香粉",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "蚝油",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 6.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "葱",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "圈"
+    },
+    {
+      "ingredient_name": "姜",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "蒜",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "颗"
+    },
+    {
+      "ingredient_name": "香菜",
+      "is_approximate": true,
+      "is_estimated": false,
+      "is_optional": true,
+      "note": "碎，根据口味加",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "适量",
+      "quantity_range": null,
+      "unit": "g"
     }
   ],
+  "name": "陕北熬豆角",
+  "servings": 2,
+  "source_file": "dishes\\vegetable_dish\\陕北熬豆角.md",
   "steps": [
     {
-      "content": "葱切花，蒜切沫，备用。",
+      "content": "葱切花，蒜切沫，姜切丝，备用。",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "生抽、老抽、耗油、盐混合调料汁，备用。",
+      "content": "豆角去筋，切2-10cm小段，备用。",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "小米椒切圈，备用。",
+      "content": "土豆去皮，切1cm³小块，备用。",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "豆角去筋，45° 斜切4-10cm小段，备用。",
+      "content": "西红柿去皮，切1cm³小块，备用。",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "起锅烧油(10ml - 15ml)，冒烟后放入葱、小米椒，翻炒至闻到香味；",
+      "content": "辣椒去仔，切0.15cm 宽条，备用。",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "加入豆角，翻炒30s,",
-      "duration_minutes": 0.5,
-      "tips": ""
-    },
-    {
-      "content": "加入料汁，开大火翻炒2分钟",
-      "duration_minutes": 2.0,
-      "tips": ""
-    },
-    {
-      "content": "倒入 150ml 水",
+      "content": "起锅烧油(10ml - 15ml)，冒烟后放入葱姜蒜，翻炒至闻到葱姜蒜香味；",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "转中小火，盖上锅盖焖制 8-10 分钟",
-      "duration_minutes": 10.0,
+      "content": "加入豆角，翻炒至变色（青绿色变为翠绿色）；",
+      "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "加入蒜切沫，出锅。",
+      "content": "加入土豆块，翻炒 30s；",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "加入热水（水面刚刚漫过菜），盖上锅盖熬至土豆变软（可以用筷子确认）；",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "加入西红柿块，加入盐，生抽，蚝油，五香粉，辣椒，熬至西红柿成汁（注意搅拌，防止糊锅）；",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "加入香菜碎，出锅。",
       "duration_minutes": null,
       "tips": ""
     }
   ],
   "tips": [
-    "切豆角需要一定的刀工，不会的可以使用剪刀"
+    "加入西红柿后开始继续熬制后，需要偶尔翻搅防止糊底"
   ],
-  "description": "巨下饭的家常菜"
+  "total_time_minutes": null
 }

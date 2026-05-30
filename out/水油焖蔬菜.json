@@ -1,104 +1,118 @@
 {
   "name": "水油焖蔬菜",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/水油焖蔬菜.md",
+  "source_file": "dishes\\vegetable_dish\\水油焖蔬菜.md",
   "category": "素菜",
   "difficulty": "simple",
-  "total_time_minutes": 5,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": null,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "叶菜类蔬菜",
-      "quantity": 500,
-      "unit": "g",
-      "quantity_range": {
-        "min": 300,
-        "max": 500
-      },
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 500.0,
+        "min": 300.0
+      },
+      "unit": "g"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 3,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "食用油",
-      "quantity": 2,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "蚝油",
-      "quantity": 3,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": true,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
+    },
+    {
+      "ingredient_name": "水",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 150.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "洗净蔬菜",
-      "duration_minutes": 2,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "锅中加入 150ml 水，并烧开（水不需要能完全没过蔬菜）",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "锅中加入 150ml 水，并烧开。",
+      "duration_minutes": null,
+      "tips": "水不需要能完全没过蔬菜"
     },
     {
-      "step": 3,
       "content": "加入 3g 盐",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "（可选）加入 3ml 蚝油",
+      "content": "加入 3ml 蚝油",
       "duration_minutes": null,
-      "tips": null
+      "tips": "可选"
     },
     {
-      "step": 5,
       "content": "加入 2ml 食用油",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 6,
-      "content": "下菜，翻拌一下，然后盖上锅盖焖 1 分钟",
-      "duration_minutes": 1,
-      "tips": null
+      "content": "下菜， 翻拌一下，然后盖上锅盖焖 1 分钟",
+      "duration_minutes": 1.0,
+      "tips": ""
     },
     {
-      "step": 7,
       "content": "盛盘",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     }
   ],
   "tips": [
-    "不确定咸淡的情况，可以先少放盐，在出锅前尝味，考虑调整加盐",
-    "可以用鸡汤、骨头汤等替代水，更好吃",
+    "不确定咸淡的情况， 可以先少放盐， 在出锅前尝味， 考虑调整加盐",
+    "可以用鸡汤、骨头汤等替代水， 更好吃",
     "焖的时间不可过长"
-  ]
+  ],
+  "description": "水油焖蔬菜中添加了油，这提升了口感，并且可提升脂溶性维生素的摄入。相比生吃蔬菜，好处更多。"
 }

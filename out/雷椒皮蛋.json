@@ -1,0 +1,221 @@
+{
+  "category": "素菜",
+  "description": "雷椒皮蛋是一个非常简单的下饭凉菜，这道菜操作比较简单，且食材常见, 最终成品卖相不会很好看，但是是夏天下饭的神器之一",
+  "difficulty": "easy",
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "皮蛋",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
+    },
+    {
+      "ingredient_name": "线椒",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "长条青椒，后面介绍以“青椒”代替。长 10-15cm，宽 2-4cm",
+      "original_quantity": "",
+      "quantity": 4.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "根"
+    },
+    {
+      "ingredient_name": "葱",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "葱绿最佳",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "cm"
+    },
+    {
+      "ingredient_name": "蒜",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 4.0,
+        "min": 3.0
+      },
+      "unit": "瓣"
+    },
+    {
+      "ingredient_name": "小米辣",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": true,
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 4.0,
+        "min": 3.0
+      },
+      "unit": "颗"
+    },
+    {
+      "ingredient_name": "食用油",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 20.0,
+        "min": 10.0
+      },
+      "unit": "mL"
+    },
+    {
+      "ingredient_name": "生抽",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 20.0,
+        "min": 15.0
+      },
+      "unit": "mL"
+    },
+    {
+      "ingredient_name": "陈醋",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 20.0,
+        "min": 15.0
+      },
+      "unit": "mL"
+    },
+    {
+      "ingredient_name": "白糖",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 10.0,
+        "min": 6.0
+      },
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "香油",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 7.0,
+        "min": 5.0
+      },
+      "unit": "mL"
+    }
+  ],
+  "name": "雷椒皮蛋",
+  "servings": 1,
+  "source_file": "dishes\\vegetable_dish\\雷椒皮蛋.md",
+  "steps": [
+    {
+      "content": "青椒清洗，去除根部，侧面切开，去除内部的子后在案板压平，备用",
+      "duration_minutes": null,
+      "tips": "一定要去除青椒子，否则会在锅里炸开"
+    },
+    {
+      "content": "葱切成半厘米小段，备用",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "蒜去皮，切成碎末，备用",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "皮蛋去皮，备用",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "小米辣，切成 5-10mm 的小段，备用",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "热锅，锅内放入 10ml - 20ml 食用油",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "放入全部青椒，改小火保持锅子温度，煎至青椒变软",
+      "duration_minutes": null,
+      "tips": "可以用筷子试一下，插入即透即可"
+    },
+    {
+      "content": "关火，将皮蛋和青椒放入小铁盆中",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "方法 1： 有擀面杖且砸东西不会吵到邻居：用擀面杖的一头在小盆中砸击皮蛋和青椒，至皮蛋与青椒混合（选项）",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "方法 2：将青椒用手撕开，撕成大约半厘米的条状，用叉子将皮蛋压碎（选项）",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "小米辣",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "倒入生抽，陈醋，白糖，香油，以及其他未使用的备用食材",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "均匀搅拌",
+      "duration_minutes": null,
+      "tips": ""
+    }
+  ],
+  "tips": [],
+  "total_time_minutes": null
+}

@@ -1,10 +1,10 @@
 {
   "name": "糖拌西红柿",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md",
+  "source_file": "dishes\\vegetable_dish\\糖拌西红柿\\糖拌西红柿.md",
   "category": "素菜",
   "difficulty": "easy",
   "total_time_minutes": null,
-  "servings": 1,
+  "servings": 2,
   "original_servings": 2,
   "images": [
     "images/糖拌西红柿_0.jpg"
@@ -12,78 +12,73 @@
   "ingredients": [
     {
       "ingredient_name": "西红柿",
-      "quantity": 100,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "每个西红柿约 100g",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 200.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "白砂糖",
-      "quantity": 10,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 20.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "用刀将西红柿皮米字型划开",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 2,
-      "content": "用筷子插入西红柿的底部，在燃气上转动烤 10 秒（或用开水冲 30 秒），直到西红柿皮卷边",
+      "content": "用筷子插入西红柿的菊花，在燃气上转动烤 10 秒（或用开水冲 30 秒），直到西红柿皮卷边",
+      "duration_minutes": 0.5,
+      "tips": ""
+    },
+    {
+      "content": "把西红柿的衣服脱光",
       "duration_minutes": null,
-      "tips": "也可以用开水烫代替烤"
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "将西红柿皮剥掉",
+      "content": "再西红柿大卸八块（沿纹路切可以更多的留汁水），去掉头部根蒂部，备用",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "将西红柿切成块状（沿纹路切可以保留更多汁水），去掉头部根蒂部，备用",
-      "duration_minutes": null,
-      "tips": "沿纹路切可以保留更多汁水"
-    },
-    {
-      "step": 5,
       "content": "全部切好后，将西红柿在盘子中均匀码一层",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 6,
       "content": "撒上白糖，重复上面一步直到全部西红柿放完",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     },
     {
-      "step": 7,
       "content": "放入冰箱冷藏 10 分钟",
-      "duration_minutes": 10,
-      "tips": null
+      "duration_minutes": 10.0,
+      "tips": ""
     },
     {
-      "step": 8,
       "content": "一盘糖拌西红柿就好了，营养美味，酸甜爽口，夏日解暑又解腻",
       "duration_minutes": null,
-      "tips": null
+      "tips": ""
     }
   ],
   "tips": [
-    "在制作过程中请小心使用刀具",
-    "沿纹路切西红柿可以保留更多汁水",
-    "也可以用开水烫代替烤西红柿皮"
-  ]
+    "在制作过程中 请您小心使用刀具。"
+  ],
+  "description": "新鲜可口，制作简便，营养价值高，适合夏季食用，家庭餐桌上的一道美味凉菜。西红柿含有大量的维生素 C, 做法简单 几分钟就可完成。"
 }

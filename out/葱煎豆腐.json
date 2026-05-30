@@ -1,69 +1,41 @@
 {
-  "name": "松仁玉米",
-  "source_file": "dishes\\vegetable_dish\\松仁玉米.md",
   "category": "素菜",
+  "description": "",
   "difficulty": "medium",
-  "total_time_minutes": null,
-  "servings": 1,
-  "original_servings": null,
   "images": [],
   "ingredients": [
     {
-      "ingredient_name": "玉米粒",
+      "ingredient_name": "白豆腐",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "建议使用甜玉米；可用罐头甜玉米，也可自备煮熟",
+      "note": "份数 * 0.8 向上取整",
       "original_quantity": "",
-      "quantity": 200.0,
+      "quantity": 2.4,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "g"
+      "unit": "块"
     },
     {
-      "ingredient_name": "熟松子仁",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": 30.0,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "g"
-    },
-    {
-      "ingredient_name": "胡萝卜",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": true,
-      "note": "增加色彩；切小丁",
-      "original_quantity": "",
-      "quantity": 50.0,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "g"
-    },
-    {
-      "ingredient_name": "食用油",
+      "ingredient_name": "葱",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
       "note": "",
       "original_quantity": "",
-      "quantity": 15.0,
+      "quantity": 2.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "mL"
+      "unit": "g"
     },
     {
-      "ingredient_name": "白砂糖",
+      "ingredient_name": "青辣椒",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
       "note": "",
       "original_quantity": "",
-      "quantity": 10.0,
+      "quantity": 1.5,
       "quantity_description": "",
       "quantity_range": null,
       "unit": "g"
@@ -73,21 +45,21 @@
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "份数 * 3g",
       "original_quantity": "",
-      "quantity": 1.0,
+      "quantity": 9.0,
       "quantity_description": "",
       "quantity_range": null,
       "unit": "g"
     },
     {
-      "ingredient_name": "淀粉",
+      "ingredient_name": "鸡精",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "份数 * 1.5g",
       "original_quantity": "",
-      "quantity": 5.0,
+      "quantity": 4.5,
       "quantity_description": "",
       "quantity_range": null,
       "unit": "g"
@@ -97,50 +69,76 @@
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "用于调淀粉水",
+      "note": "",
       "original_quantity": "",
-      "quantity": 20.0,
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
+    },
+    {
+      "ingredient_name": "食用油",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "份数 * 9mL，还要补",
+      "original_quantity": "",
+      "quantity": 30.0,
       "quantity_description": "",
       "quantity_range": null,
       "unit": "mL"
     }
   ],
+  "name": "葱煎豆腐",
+  "servings": 3,
+  "source_file": "dishes\\vegetable_dish\\葱煎豆腐.md",
   "steps": [
     {
-      "content": "玉米粒和胡萝卜丁提前焯水 1 分钟，捞出沥干备用",
-      "duration_minutes": 1.0,
-      "tips": ""
-    },
-    {
-      "content": "热锅凉油，放入胡萝卜丁略炒，再加入玉米粒翻炒",
+      "content": "豆腐洗净。切约 5 mm 厚度，置于碟中。",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "加入白砂糖和盐，炒匀",
+      "content": "葱洗净，除去根部，切成葱花，备用。",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "混合水与淀粉成水淀粉，倒入锅中快速翻炒使汤汁略稠",
+      "content": "辣椒洗净，切开，去籽，切成 1cm * 1cm 状，备用、",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "加入熟松仁翻炒均匀",
+      "content": "热锅，加入份数 * 9ml 油。",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "出锅装盘",
+      "content": "油入锅后，使其均匀布于锅底，均匀放入豆腐，小火煎至金黄翻面。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "待两面金黄，盛入碟中备用。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "补油至覆盖锅底，倒入辣椒大火翻炒，并铲碾 3 分钟。",
+      "duration_minutes": 3.0,
+      "tips": ""
+    },
+    {
+      "content": "倒入豆腐，翻炒，加入盐与鸡精，中火翻炒 1 分钟后倒入 10 ML 水，大火收汁。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "出锅前撒上之前计算好的葱花，起锅盛盘。",
       "duration_minutes": null,
       "tips": ""
     }
   ],
-  "tips": [
-    "松仁可以提前用小火干炒至微微金黄香脆，更加美味",
-    "使用罐头玉米时应先沥干水分，避免炒制过程中出水过多",
-    "炒制时火候不宜过大，以防糊锅或松仁焦糊"
-  ],
-  "description": "松仁玉米是一道色香味俱全的家常菜，口感甜嫩清爽，松仁香脆，老少皆宜。"
+  "tips": [],
+  "total_time_minutes": null
 }

@@ -1,48 +1,50 @@
 {
-  "name": "素炒豆角",
-  "source_file": "dishes\\vegetable_dish\\素炒豆角.md",
   "category": "素菜",
+  "description": "金针菇日本豆腐煲是一道容易上手的日常料理。",
   "difficulty": "easy",
-  "total_time_minutes": null,
-  "servings": 2,
-  "original_servings": 2,
   "images": [],
   "ingredients": [
     {
-      "ingredient_name": "豆角",
+      "ingredient_name": "金针菇",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
       "note": "",
       "original_quantity": "",
-      "quantity": 250.0,
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 2.0,
+        "min": 1.0
+      },
+      "unit": "把"
+    },
+    {
+      "ingredient_name": "日本豆腐",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "玉子豆腐",
+      "original_quantity": "",
+      "quantity": 2.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "g"
+      "unit": "袋"
     },
     {
       "ingredient_name": "小米椒",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "切碎",
       "original_quantity": "",
-      "quantity": 2.0,
+      "quantity": null,
       "quantity_description": "",
-      "quantity_range": null,
-      "unit": "个"
-    },
-    {
-      "ingredient_name": "葱",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": 3.0,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "圈"
+      "quantity_range": {
+        "max": 5.0,
+        "min": 3.0
+      },
+      "unit": "根"
     },
     {
       "ingredient_name": "蒜",
@@ -51,10 +53,61 @@
       "is_optional": false,
       "note": "",
       "original_quantity": "",
-      "quantity": 2.0,
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 3.0,
+        "min": 2.0
+      },
+      "unit": "瓣"
+    },
+    {
+      "ingredient_name": "生抽",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "颗"
+      "unit": "mL"
+    },
+    {
+      "ingredient_name": "蚝油",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
+    },
+    {
+      "ingredient_name": "老抽",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
+    },
+    {
+      "ingredient_name": "糖",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "食用油",
@@ -70,122 +123,31 @@
         "min": 10.0
       },
       "unit": "mL"
-    },
-    {
-      "ingredient_name": "生抽",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": 6.0,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "mL"
-    },
-    {
-      "ingredient_name": "老抽",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": 2.0,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "mL"
-    },
-    {
-      "ingredient_name": "蚝油",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": 6.0,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "mL"
-    },
-    {
-      "ingredient_name": "盐",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": 6.0,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "g"
-    },
-    {
-      "ingredient_name": "水",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": 150.0,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "mL"
     }
   ],
+  "name": "金针菇日本豆腐煲",
+  "servings": 1,
+  "source_file": "dishes\\vegetable_dish\\金针菇日本豆腐煲.md",
   "steps": [
     {
-      "content": "葱切花，蒜切沫，备用。",
+      "content": "豆腐切片，小火煎到两面金黄出锅备用。",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "生抽、老抽、耗油、盐混合调料汁，备用。",
+      "content": "切蒜成蒜末；将生抽，蚝油，老抽，糖，100ml 水调汁备用。",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "小米椒切圈，备用。",
-      "duration_minutes": null,
-      "tips": ""
-    },
-    {
-      "content": "豆角去筋，45° 斜切4-10cm小段，备用。",
-      "duration_minutes": null,
-      "tips": ""
-    },
-    {
-      "content": "起锅烧油(10ml - 15ml)，冒烟后放入葱、小米椒，翻炒至闻到香味；",
-      "duration_minutes": null,
-      "tips": ""
-    },
-    {
-      "content": "加入豆角，翻炒30s,",
-      "duration_minutes": 0.5,
-      "tips": ""
-    },
-    {
-      "content": "加入料汁，开大火翻炒2分钟",
-      "duration_minutes": 2.0,
-      "tips": ""
-    },
-    {
-      "content": "倒入 150ml 水",
-      "duration_minutes": null,
-      "tips": ""
-    },
-    {
-      "content": "转中小火，盖上锅盖焖制 8-10 分钟",
-      "duration_minutes": 10.0,
-      "tips": ""
-    },
-    {
-      "content": "加入蒜切沫，出锅。",
+      "content": "热锅放油，油热放小米椒、蒜末爆香，先放金针菇，炒软，把煎好的豆腐平铺在金针菇上，倒入#2 配好的料汁，焖 5 分钟，大火收汁。",
       "duration_minutes": null,
       "tips": ""
     }
   ],
   "tips": [
-    "切豆角需要一定的刀工，不会的可以使用剪刀"
+    "金针菇一定要先炒软",
+    "豆腐尽量不要翻炒，容易碎"
   ],
-  "description": "巨下饭的家常菜"
+  "total_time_minutes": null
 }

@@ -1,137 +1,160 @@
 {
   "name": "皮蛋豆腐",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/皮蛋豆腐.md",
+  "source_file": "dishes\\vegetable_dish\\皮蛋豆腐.md",
   "category": "素菜",
   "difficulty": "simple",
-  "total_time_minutes": 5,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": 1,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "皮蛋",
-      "quantity": 2,
-      "unit": "个",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "个"
     },
     {
       "ingredient_name": "内酯豆腐",
-      "quantity": 1,
-      "unit": "盒",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "盒"
     },
     {
       "ingredient_name": "生抽",
-      "quantity": 15,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "白砂糖",
-      "quantity": 2.5,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.5,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "醋",
-      "quantity": 15,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
       "note": "推荐镇江香醋",
-      "original_quantity": null,
-      "is_estimated": false
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "香油",
-      "quantity": 15,
-      "unit": "mL",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": true,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
       "quantity_range": null,
-      "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "unit": "mL"
     },
     {
       "ingredient_name": "辣椒油",
-      "quantity": 10,
-      "unit": "mL",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": true,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
       "quantity_range": null,
-      "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "unit": "mL"
     },
     {
       "ingredient_name": "花生碎",
-      "quantity": 10,
-      "unit": "g",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": true,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
       "quantity_range": null,
-      "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "unit": "g"
     },
     {
       "ingredient_name": "葱花",
-      "quantity": 15,
-      "unit": "g",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": true,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
       "quantity_range": null,
-      "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "unit": "g"
     },
     {
       "ingredient_name": "香菜",
-      "quantity": 1,
-      "unit": "株",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": true,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 1.0,
+      "quantity_description": "",
       "quantity_range": null,
-      "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "unit": "株"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "先把皮蛋剥壳，切成四瓣。",
-      "duration_minutes": 2,
-      "tips": "皮蛋切瓣时刀上可以抹点香油防止粘刀"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "嫩豆腐切块或者切片放中间。",
-      "duration_minutes": 1,
-      "tips": "豆腐先焯水去豆腥味可以去除豆腥味"
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
-      "content": "将生抽、白砂糖、醋、香油、辣椒油调成酱汁，淋上去。最后可选撒上花生碎、葱花、香菜。",
-      "duration_minutes": 2,
-      "tips": null
+      "content": "将生抽、白砂糖、醋、香油、辣椒油调成酱汁，淋上去。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "最后可选撒上花生碎、葱花、香菜。",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
     "豆腐先焯水去豆腥味可以去除豆腥味",
     "皮蛋切瓣时刀上可以抹点香油防止粘刀",
-    "参考资料：涼拌皮蛋豆腐 by 低配版小當家 - 愛料理"
-  ]
+    "参考资料：涼拌皮蛋豆腐 by 低配版小當家 - 愛料理(https://icook.tw/recipes/437531)"
+  ],
+  "description": "皮蛋豆腐是一道简单易做的菜，一般初学者只需要 5 分钟即可完成。松花蛋 Q 弹滑嫩，配上嫩豆腐的清爽，咸香开胃超下饭！"
 }

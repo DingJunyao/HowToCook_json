@@ -1,41 +1,23 @@
 {
-  "name": "包菜炒鸡蛋粉丝",
-  "source_file": "dishes\\vegetable_dish\\包菜炒鸡蛋粉丝\\包菜炒鸡蛋粉丝.md",
   "category": "素菜",
+  "description": "众所皆知，茄子和土豆是两种荤菜。这一道蒲烧茄子，从外观上之于鳗鱼正如土豆炖XXX中的生姜之于土豆。",
   "difficulty": "medium",
-  "total_time_minutes": null,
-  "servings": 1,
-  "original_servings": 1,
-  "images": [
-    "images/包菜炒鸡蛋粉丝_0.jpg"
-  ],
+  "images": [],
   "ingredients": [
     {
-      "ingredient_name": "包菜",
+      "ingredient_name": "茄子",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "长的上小下大的茄子。注意不要使用浙茄和圆茄",
       "original_quantity": "",
-      "quantity": 0.5,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "颗"
-    },
-    {
-      "ingredient_name": "鸡蛋",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": 2.0,
+      "quantity": 1.0,
       "quantity_description": "",
       "quantity_range": null,
       "unit": "个"
     },
     {
-      "ingredient_name": "粉丝",
+      "ingredient_name": "蒲烧汁",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -44,22 +26,10 @@
       "quantity": 1.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "把"
+      "unit": "份"
     },
     {
-      "ingredient_name": "胡萝卜",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": 0.5,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "根"
-    },
-    {
-      "ingredient_name": "菜籽油",
+      "ingredient_name": "蜂蜜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -71,16 +41,16 @@
       "unit": "mL"
     },
     {
-      "ingredient_name": "盐",
+      "ingredient_name": "白糖",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
       "note": "",
       "original_quantity": "",
-      "quantity": 2.0,
+      "quantity": 15.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "g"
+      "unit": "mL"
     },
     {
       "ingredient_name": "生抽",
@@ -89,7 +59,7 @@
       "is_optional": false,
       "note": "",
       "original_quantity": "",
-      "quantity": 15.0,
+      "quantity": 40.0,
       "quantity_description": "",
       "quantity_range": null,
       "unit": "mL"
@@ -107,111 +77,109 @@
       "unit": "mL"
     },
     {
-      "ingredient_name": "蚝油",
+      "ingredient_name": "料酒",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
       "note": "",
       "original_quantity": "",
-      "quantity": 10.0,
+      "quantity": 20.0,
       "quantity_description": "",
       "quantity_range": null,
       "unit": "mL"
     },
     {
-      "ingredient_name": "葱",
+      "ingredient_name": "水",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "如需要水淀粉，则多加水：生粉和水的比例在 1:4 到 1:10 根据收汁情况而定",
       "original_quantity": "",
-      "quantity": 0.5,
+      "quantity": 100.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "根"
+      "unit": "mL"
     },
     {
-      "ingredient_name": "蒜",
-      "is_approximate": false,
+      "ingredient_name": "食用油",
+      "is_approximate": true,
       "is_estimated": false,
       "is_optional": false,
-      "note": "蒜瓣",
+      "note": "根据锅的类型决策不同量的油。不粘锅：油汇聚成滴后要散布在茄子的面积；铁锅：摊开后油可以刚好覆盖锅底",
       "original_quantity": "",
-      "quantity": 2.0,
-      "quantity_description": "",
+      "quantity": null,
+      "quantity_description": "适量",
       "quantity_range": null,
-      "unit": "片"
+      "unit": "g"
     },
     {
-      "ingredient_name": "干辣椒",
-      "is_approximate": false,
+      "ingredient_name": "生粉",
+      "is_approximate": true,
       "is_estimated": false,
-      "is_optional": false,
-      "note": "",
+      "is_optional": true,
+      "note": "生粉和水的比例在 1:4 到 1:10 根据收汁情况而定",
       "original_quantity": "",
-      "quantity": 5.0,
-      "quantity_description": "",
+      "quantity": null,
+      "quantity_description": "适量",
       "quantity_range": null,
-      "unit": "根"
+      "unit": "g"
     }
   ],
+  "name": "蒲烧茄子",
+  "servings": 1,
+  "source_file": "dishes\\vegetable_dish\\蒲烧茄子.md",
   "steps": [
     {
-      "content": "胡萝卜、包菜切丝备用",
+      "content": "茄子削皮、横着切成两段",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "粉丝先用冷水浸泡 1 小时，然后将粉丝放入锅中，加入开水烧至粉丝烫软捞出备用",
+      "content": "蒸 5 分钟",
+      "duration_minutes": 5.0,
+      "tips": ""
+    },
+    {
+      "content": "纵向切开，不要切断，在两边切面各划 2~3 刀至可以摊平",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "鸡蛋打入碗中，加入盐后搅拌 15 秒",
+      "content": "煎至两面金黄",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "葱、蒜、辣椒切成小粒备用",
+      "content": "往茄子上浇蒲烧汁至没过 1/2 茄子高度",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "起锅烧油，倒入鸡蛋，打散炒熟盛出",
+      "content": "煎至背面上色，翻面",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "再倒入油，放入葱、蒜、干辣椒翻炒 8 秒",
+      "content": "同时收汁，若无法收汁可以加入水淀粉（生粉和水的比例在 1:4 到 1:10 根据收汁情况而定）",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "下胡萝卜、包菜丝儿翻炒 30 秒",
+      "content": "把剩下的蒲烧汁浇在茄子上",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "放入粉丝",
-      "duration_minutes": null,
-      "tips": ""
-    },
-    {
-      "content": "放调料，生抽 15 ml，老抽 10 ml，蚝油 10 ml，盐 2 克",
-      "duration_minutes": null,
-      "tips": ""
-    },
-    {
-      "content": "放入之前炒好的鸡蛋，翻炒约 15 秒",
-      "duration_minutes": null,
-      "tips": ""
-    },
-    {
-      "content": "出锅摆盘",
+      "content": "出锅，一份茄子烧蒲烧汁就烧好了",
       "duration_minutes": null,
       "tips": ""
     }
   ],
-  "tips": [],
-  "description": "包菜炒鸡蛋粉丝，是中国的一道日常生活中所熟知的菜品"
+  "tips": [
+    "这个蒲焼き其实很中国，日式的蒲烧其实是烤的。",
+    "灵魂其实在于蒲烧汁？也可以买现成的蒲烧汁。",
+    "如果觉得腻可以在装盘后撒点切成 2~5 mm 的小葱，颜色搭配上也能不那么单调。",
+    "炒茄子（鱼香茄子、酱爆茄子）墙裂推荐浙茄，细长所以切成滚刀块刚刚好，皮很嫩不像这里需要去皮，茄子的味道适中。"
+  ],
+  "total_time_minutes": null
 }

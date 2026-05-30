@@ -1,27 +1,9 @@
 {
-  "name": "包菜炒鸡蛋粉丝",
-  "source_file": "dishes\\vegetable_dish\\包菜炒鸡蛋粉丝\\包菜炒鸡蛋粉丝.md",
   "category": "素菜",
+  "description": "金钱蛋是将水煮蛋切片煎至金黄，配以青红椒、豆豉爆炒而成。外焦里嫩，咸香微辣，形似铜钱寓意吉祥。简单快手又下饭的湘味家常～",
   "difficulty": "medium",
-  "total_time_minutes": null,
-  "servings": 1,
-  "original_servings": 1,
-  "images": [
-    "images/包菜炒鸡蛋粉丝_0.jpg"
-  ],
+  "images": [],
   "ingredients": [
-    {
-      "ingredient_name": "包菜",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": 0.5,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "颗"
-    },
     {
       "ingredient_name": "鸡蛋",
       "is_approximate": false,
@@ -29,57 +11,99 @@
       "is_optional": false,
       "note": "",
       "original_quantity": "",
-      "quantity": 2.0,
+      "quantity": 5.0,
       "quantity_description": "",
       "quantity_range": null,
       "unit": "个"
     },
     {
-      "ingredient_name": "粉丝",
+      "ingredient_name": "线椒",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
       "note": "",
       "original_quantity": "",
-      "quantity": 1.0,
+      "quantity": 15.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "把"
+      "unit": "g"
     },
     {
-      "ingredient_name": "胡萝卜",
+      "ingredient_name": "小米辣",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "约 2-5 个",
       "original_quantity": "",
-      "quantity": 0.5,
+      "quantity": null,
       "quantity_description": "",
-      "quantity_range": null,
-      "unit": "根"
+      "quantity_range": {
+        "max": 15.0,
+        "min": 6.0
+      },
+      "unit": "g"
     },
     {
-      "ingredient_name": "菜籽油",
+      "ingredient_name": "豆瓣酱",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
       "note": "",
       "original_quantity": "",
-      "quantity": 20.0,
+      "quantity": 15.0,
       "quantity_description": "",
       "quantity_range": null,
       "unit": "mL"
     },
     {
-      "ingredient_name": "盐",
+      "ingredient_name": "蒜",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "约 2-3 瓣",
+      "original_quantity": "",
+      "quantity": 10.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "小葱",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "约 1-2 根",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "玉米淀粉",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": true,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 40.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "食用油",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
       "note": "",
       "original_quantity": "",
-      "quantity": 2.0,
+      "quantity": null,
       "quantity_description": "",
-      "quantity_range": null,
+      "quantity_range": {
+        "max": 35.0,
+        "min": 20.0
+      },
       "unit": "g"
     },
     {
@@ -92,19 +116,7 @@
       "quantity": 15.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "mL"
-    },
-    {
-      "ingredient_name": "老抽",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": 10.0,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "mL"
+      "unit": "g"
     },
     {
       "ingredient_name": "蚝油",
@@ -113,37 +125,13 @@
       "is_optional": false,
       "note": "",
       "original_quantity": "",
-      "quantity": 10.0,
+      "quantity": 15.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "mL"
+      "unit": "g"
     },
     {
-      "ingredient_name": "葱",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": 0.5,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "根"
-    },
-    {
-      "ingredient_name": "蒜",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "蒜瓣",
-      "original_quantity": "",
-      "quantity": 2.0,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "片"
-    },
-    {
-      "ingredient_name": "干辣椒",
+      "ingredient_name": "糖",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -152,66 +140,70 @@
       "quantity": 5.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "根"
+      "unit": "g"
     }
   ],
+  "name": "金钱蛋",
+  "servings": 1,
+  "source_file": "dishes\\vegetable_dish\\金钱蛋.md",
   "steps": [
     {
-      "content": "胡萝卜、包菜切丝备用",
+      "content": "鸡蛋冷水下锅，大火煮开转小火煮 8 分钟",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "粉丝先用冷水浸泡 1 小时，然后将粉丝放入锅中，加入开水烧至粉丝烫软捞出备用",
+      "content": "用自来水冲凉，方便剥皮",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "鸡蛋打入碗中，加入盐后搅拌 15 秒",
+      "content": "蒜切沫（粒径不大于 1 mm），线椒和小米辣切小粒（约 2-3 mm）",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "葱、蒜、辣椒切成小粒备用",
+      "content": "每个熟鸡蛋沿短轴切成体积类似的 4 份",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "起锅烧油，倒入鸡蛋，打散炒熟盛出",
+      "content": "如果打算沾淀粉，每片鸡蛋粘上淀粉，抖掉多余的淀粉",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "再倒入油，放入葱、蒜、干辣椒翻炒 8 秒",
+      "content": "锅内放入 25 ml 油（如果不沾淀粉，放 20 ml），放入熟鸡蛋片",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "下胡萝卜、包菜丝儿翻炒 30 秒",
+      "content": "煎至微焦黄后，补 10 ml 油（如果不沾淀粉，补 10 ml），翻面",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "放入粉丝",
+      "content": "第二面微黄后，加入线椒、小米辣、蒜末煎制约一分钟，翻面",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "放调料，生抽 15 ml，老抽 10 ml，蚝油 10 ml，盐 2 克",
+      "content": "接着加豆瓣酱煎制约几十秒，翻面",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "放入之前炒好的鸡蛋，翻炒约 15 秒",
-      "duration_minutes": null,
-      "tips": ""
-    },
-    {
-      "content": "出锅摆盘",
+      "content": "生抽、耗油、糖调成汁，轻轻颠锅后即可出锅",
       "duration_minutes": null,
       "tips": ""
     }
   ],
-  "tips": [],
-  "description": "包菜炒鸡蛋粉丝，是中国的一道日常生活中所熟知的菜品"
+  "tips": [
+    "原汁原味的做法建议放 15 g，不能吃辣的减少到 6 g，还可以剔除辣椒籽",
+    "推荐使用不粘锅，使用不粘锅时初次放油可以减少 5 ml",
+    "应确保鸡蛋剥皮时已经完全凝固",
+    "不宜过度翻炒，容易散",
+    "参考资料：【步骤图】湘菜馆-金钱蛋的做法湘菜馆-金钱蛋的做法步骤家常菜_下厨房(https://www.xiachufang.com/recipe/107161729/)"
+  ],
+  "total_time_minutes": null
 }

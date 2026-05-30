@@ -1,69 +1,62 @@
 {
-  "name": "松仁玉米",
-  "source_file": "dishes\\vegetable_dish\\松仁玉米.md",
   "category": "素菜",
-  "difficulty": "medium",
-  "total_time_minutes": null,
-  "servings": 1,
-  "original_servings": null,
+  "description": "",
+  "difficulty": "easy",
   "images": [],
   "ingredients": [
     {
-      "ingredient_name": "玉米粒",
+      "ingredient_name": "生菜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "建议使用甜玉米；可用罐头甜玉米，也可自备煮熟",
+      "note": "1 棵",
       "original_quantity": "",
       "quantity": 200.0,
       "quantity_description": "",
-      "quantity_range": null,
+      "quantity_range": {
+        "max": 250.0,
+        "min": 150.0
+      },
       "unit": "g"
     },
     {
-      "ingredient_name": "熟松子仁",
+      "ingredient_name": "蚝油",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
       "note": "",
       "original_quantity": "",
-      "quantity": 30.0,
+      "quantity": null,
       "quantity_description": "",
-      "quantity_range": null,
-      "unit": "g"
-    },
-    {
-      "ingredient_name": "胡萝卜",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": true,
-      "note": "增加色彩；切小丁",
-      "original_quantity": "",
-      "quantity": 50.0,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "g"
-    },
-    {
-      "ingredient_name": "食用油",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": 15.0,
-      "quantity_description": "",
-      "quantity_range": null,
+      "quantity_range": {
+        "max": 8.0,
+        "min": 6.0
+      },
       "unit": "mL"
     },
     {
-      "ingredient_name": "白砂糖",
+      "ingredient_name": "大蒜",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "做成蒜泥或切碎",
+      "original_quantity": "",
+      "quantity": null,
+      "quantity_description": "",
+      "quantity_range": {
+        "max": 5.0,
+        "min": 4.0
+      },
+      "unit": "瓣"
+    },
+    {
+      "ingredient_name": "生抽",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
       "note": "",
       "original_quantity": "",
-      "quantity": 10.0,
+      "quantity": 6.0,
       "quantity_description": "",
       "quantity_range": null,
       "unit": "g"
@@ -75,21 +68,36 @@
       "is_optional": false,
       "note": "",
       "original_quantity": "",
+      "quantity": 0.5,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "白糖",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
       "quantity": 1.0,
       "quantity_description": "",
       "quantity_range": null,
       "unit": "g"
     },
     {
-      "ingredient_name": "淀粉",
+      "ingredient_name": "食用油",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
       "note": "",
       "original_quantity": "",
-      "quantity": 5.0,
+      "quantity": null,
       "quantity_description": "",
-      "quantity_range": null,
+      "quantity_range": {
+        "max": 8.0,
+        "min": 5.0
+      },
       "unit": "g"
     },
     {
@@ -97,50 +105,64 @@
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "用于调淀粉水",
+      "note": "",
       "original_quantity": "",
-      "quantity": 20.0,
+      "quantity": null,
       "quantity_description": "",
-      "quantity_range": null,
+      "quantity_range": {
+        "max": 1015.0,
+        "min": 1010.0
+      },
       "unit": "mL"
     }
   ],
+  "name": "蚝油生菜",
+  "servings": 1,
+  "source_file": "dishes\\vegetable_dish\\蚝油生菜.md",
   "steps": [
     {
-      "content": "玉米粒和胡萝卜丁提前焯水 1 分钟，捞出沥干备用",
-      "duration_minutes": 1.0,
-      "tips": ""
-    },
-    {
-      "content": "热锅凉油，放入胡萝卜丁略炒，再加入玉米粒翻炒",
+      "content": "生菜洗净并去掉烂菜叶。",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "加入白砂糖和盐，炒匀",
+      "content": "热锅，先放 1 L 清水（凉），然后在锅内放入 2 ml - 3 ml 食用油和 0.5 g 盐，等待锅中的水煮沸。",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "混合水与淀粉成水淀粉，倒入锅中快速翻炒使汤汁略稠",
+      "content": "水沸后，放入生菜，将每一片生菜叶都焯水 10 s。",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "加入熟松仁翻炒均匀",
+      "content": "捞出生菜，控干水份，摆盘 。",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "出锅装盘",
+      "content": "调汁：将生抽 10 ml 、蚝油 6-8 ml 、盐 0.5 g 、 白糖 1 g 放入碗中调匀，并加入 10-15 ml 清水（凉）搅拌均匀。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "再开火，热锅，放入食用油 5-8 ml，油热放入蒜泥。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "等待有蒜香飘出，倒入调好的汁，煮沸即可，立马关火。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "将锅中的汤汁均匀地浇在生菜上。",
       "duration_minutes": null,
       "tips": ""
     }
   ],
   "tips": [
-    "松仁可以提前用小火干炒至微微金黄香脆，更加美味",
-    "使用罐头玉米时应先沥干水分，避免炒制过程中出水过多",
-    "炒制时火候不宜过大，以防糊锅或松仁焦糊"
+    "这道菜富含维生素，做法简单，尝起来爽口又不上火。"
   ],
-  "description": "松仁玉米是一道色香味俱全的家常菜，口感甜嫩清爽，松仁香脆，老少皆宜。"
+  "total_time_minutes": null
 }

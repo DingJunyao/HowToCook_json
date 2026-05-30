@@ -1,19 +1,15 @@
 {
-  "name": "松仁玉米",
-  "source_file": "dishes\\vegetable_dish\\松仁玉米.md",
   "category": "素菜",
-  "difficulty": "medium",
-  "total_time_minutes": null,
-  "servings": 1,
-  "original_servings": null,
+  "description": "",
+  "difficulty": "easy",
   "images": [],
   "ingredients": [
     {
-      "ingredient_name": "玉米粒",
+      "ingredient_name": "西兰花",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "建议使用甜玉米；可用罐头甜玉米，也可自备煮熟",
+      "note": "约 1/2 中等大小的西兰花",
       "original_quantity": "",
       "quantity": 200.0,
       "quantity_description": "",
@@ -21,43 +17,22 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "熟松子仁",
+      "ingredient_name": "大蒜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
       "note": "",
       "original_quantity": "",
-      "quantity": 30.0,
+      "quantity": null,
       "quantity_description": "",
-      "quantity_range": null,
-      "unit": "g"
+      "quantity_range": {
+        "max": 4.0,
+        "min": 3.0
+      },
+      "unit": "瓣"
     },
     {
-      "ingredient_name": "胡萝卜",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": true,
-      "note": "增加色彩；切小丁",
-      "original_quantity": "",
-      "quantity": 50.0,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "g"
-    },
-    {
-      "ingredient_name": "食用油",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": 15.0,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "mL"
-    },
-    {
-      "ingredient_name": "白砂糖",
+      "ingredient_name": "生抽",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -69,19 +44,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "盐",
-      "is_approximate": false,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "",
-      "original_quantity": "",
-      "quantity": 1.0,
-      "quantity_description": "",
-      "quantity_range": null,
-      "unit": "g"
-    },
-    {
-      "ingredient_name": "淀粉",
+      "ingredient_name": "蚝油",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -93,54 +56,95 @@
       "unit": "g"
     },
     {
+      "ingredient_name": "白糖",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 2.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
       "ingredient_name": "水",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "用于调淀粉水",
+      "note": "",
       "original_quantity": "",
-      "quantity": 20.0,
+      "quantity": 1030.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
+    },
+    {
+      "ingredient_name": "食用油",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 10.0,
       "quantity_description": "",
       "quantity_range": null,
       "unit": "mL"
     }
   ],
+  "name": "蒜蓉西兰花",
+  "servings": 2,
+  "source_file": "dishes\\vegetable_dish\\蒜蓉西兰花.md",
   "steps": [
     {
-      "content": "玉米粒和胡萝卜丁提前焯水 1 分钟，捞出沥干备用",
-      "duration_minutes": 1.0,
-      "tips": ""
-    },
-    {
-      "content": "热锅凉油，放入胡萝卜丁略炒，再加入玉米粒翻炒",
+      "content": "将 西兰花 切成小朵，清洗干净。",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "加入白砂糖和盐，炒匀",
+      "content": "将 大蒜 去皮，切成蒜末，备用。",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "混合水与淀粉成水淀粉，倒入锅中快速翻炒使汤汁略稠",
+      "content": "锅中加入 1000 ml 饮用水，大火烧开。",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "加入熟松仁翻炒均匀",
+      "content": "放入 西兰花，保持大火 煮 2-3 分钟，至 西兰花 颜色变翠绿，口感变软。",
       "duration_minutes": null,
       "tips": ""
     },
     {
-      "content": "出锅装盘",
+      "content": "将 煮好的 西兰花 捞出，沥干水分，摆入盘中，备用。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "热锅，加入 10 ml 食用油。油温升高后，放入 大蒜末，小火煸炒出香味。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "加入 10 ml 生抽，5 ml 蚝油，2 g 白糖，加入 30 ml 饮用水。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "将锅中汤汁烧开。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "将烧好的蒜蓉汁 均匀淋在盘中的 西兰花 上。",
       "duration_minutes": null,
       "tips": ""
     }
   ],
   "tips": [
-    "松仁可以提前用小火干炒至微微金黄香脆，更加美味",
-    "使用罐头玉米时应先沥干水分，避免炒制过程中出水过多",
-    "炒制时火候不宜过大，以防糊锅或松仁焦糊"
+    "焯水时间不宜超过推荐时长，以免影响西兰花的口感和营养。",
+    "如果想保留西兰花更脆的口感，可以缩短焯水时间。"
   ],
-  "description": "松仁玉米是一道色香味俱全的家常菜，口感甜嫩清爽，松仁香脆，老少皆宜。"
+  "total_time_minutes": null
 }

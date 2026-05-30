@@ -1,114 +1,123 @@
 {
   "name": "凉拌黄瓜",
-  "source_file": "../../../../../tmp/howtocook_7mx19gjp/HowToCook/dishes/vegetable_dish/凉拌黄瓜.md",
+  "source_file": "dishes\\vegetable_dish\\凉拌黄瓜.md",
   "category": "素菜",
   "difficulty": "simple",
-  "total_time_minutes": 20,
+  "total_time_minutes": null,
   "servings": 1,
   "original_servings": null,
   "images": [],
   "ingredients": [
     {
       "ingredient_name": "黄瓜",
-      "quantity": 200,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 200.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "醋",
-      "quantity": 11.5,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "7.5 ml + 4 ml * 份数",
+      "original_quantity": "",
+      "quantity": 11.5,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "酱油",
-      "quantity": 7.5,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "5 ml + 2.5 ml * 份数",
+      "original_quantity": "",
+      "quantity": 7.5,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "蒜",
-      "quantity": 3,
-      "unit": "瓣",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "瓣"
     },
     {
       "ingredient_name": "盐",
-      "quantity": 0.6,
-      "unit": "g",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "0.4 克 + 0.2 克 * 份数",
+      "original_quantity": "",
+      "quantity": 0.6,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
     },
     {
       "ingredient_name": "香油",
-      "quantity": 7,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "5 ml + 2 ml * 份数",
+      "original_quantity": "",
+      "quantity": 7.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     },
     {
       "ingredient_name": "蚝油",
-      "quantity": 5,
-      "unit": "mL",
-      "quantity_range": null,
+      "is_approximate": false,
+      "is_estimated": false,
       "is_optional": false,
-      "note": null,
-      "original_quantity": null,
-      "is_estimated": false
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
     }
   ],
   "steps": [
     {
-      "step": 1,
       "content": "用菜刀将黄瓜拍扁，再剁成长 3 厘米的碎块",
-      "duration_minutes": 2,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 2,
       "content": "将碎黄瓜装入碗中",
-      "duration_minutes": 1,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 3,
       "content": "将蒜拍碎切成碎末",
-      "duration_minutes": 1,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 4,
-      "content": "将醋、酱油、盐、蚝油和蒜依次倒入碗中搅拌均匀并腌制 15 分钟",
-      "duration_minutes": 15,
-      "tips": null
+      "content": "将醋，酱油，盐，蚝油和蒜依次倒入碗中搅拌均匀并腌制 15 分钟",
+      "duration_minutes": null,
+      "tips": ""
     },
     {
-      "step": 5,
       "content": "将香油倒入碗中并均匀搅拌",
-      "duration_minutes": 1,
-      "tips": null
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
   "tips": [
@@ -116,5 +125,6 @@
     "做好之后直接开吃，亦可先准备好后放入冰箱冷藏（并非冷冻）后食用",
     "若放入冰箱冷藏，则需使用保鲜膜包紧，并在 8 小时内食用完毕，否则黄瓜会因过度腌制失去清脆口感",
     "推荐黄瓜去皮，口感更好"
-  ]
+  ],
+  "description": ""
 }

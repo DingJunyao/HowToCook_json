@@ -1,0 +1,151 @@
+{
+  "category": "素菜",
+  "description": "",
+  "difficulty": "medium",
+  "images": [],
+  "ingredients": [
+    {
+      "ingredient_name": "茄子",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "1 个",
+      "original_quantity": "",
+      "quantity": 150.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "土豆",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "1 个",
+      "original_quantity": "",
+      "quantity": 150.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "肉",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 180.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "青辣椒",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "不是辣椒面或辣椒油。调味，所以无论多少人都放这些。",
+      "original_quantity": "",
+      "quantity": 50.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "酱油",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 15.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "mL"
+    },
+    {
+      "ingredient_name": "盐",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "original_quantity": "",
+      "quantity": 5.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "蒜",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "调味，所以无论多少人都放这些。注意是里面的小瓣 3 瓣，而不是 3 整头",
+      "original_quantity": "",
+      "quantity": 3.0,
+      "quantity_description": "",
+      "quantity_range": null,
+      "unit": "瓣"
+    }
+  ],
+  "name": "茄子炖土豆",
+  "servings": 2,
+  "source_file": "dishes\\vegetable_dish\\茄子炖土豆.md",
+  "steps": [
+    {
+      "content": "将茄子、土豆、辣椒洗净，蒜扒皮并拍碎。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "将茄子、土豆切成约 6 立方厘米的块，辣椒切成 5 克的小块，肉切成 3 厘米的丝。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "开火，热锅，加入份数 * 13 毫升的油。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "当能看到锅里的油冒出一丝烟时，放入辣椒。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "煸出辣椒香气后，立刻放入肉，用铲子翻炒 30 秒。",
+      "duration_minutes": 0.5,
+      "tips": ""
+    },
+    {
+      "content": "放入土豆，翻炒 30 秒。",
+      "duration_minutes": 0.5,
+      "tips": ""
+    },
+    {
+      "content": "放入茄子，翻炒 30 秒。",
+      "duration_minutes": 0.5,
+      "tips": ""
+    },
+    {
+      "content": "放入酱油和盐，继续翻炒 5 分钟。",
+      "duration_minutes": 5.0,
+      "tips": ""
+    },
+    {
+      "content": "加入水，水面高度为锅内食材高度的 0.9 倍，并盖上锅盖。",
+      "duration_minutes": null,
+      "tips": ""
+    },
+    {
+      "content": "等待，直到锅内水的高度剩余食材高度的 0.1 倍时，开盖，放入蒜，搅拌均匀，关火。",
+      "duration_minutes": null,
+      "tips": ""
+    }
+  ],
+  "tips": [
+    "在操作的第 5-7 步骤中要注意：在此过程中注意锅底如果没有液体（油或水），则加 5 毫升的水再继续翻炒。"
+  ],
+  "total_time_minutes": null
+}
