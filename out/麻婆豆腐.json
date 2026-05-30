@@ -11,7 +11,7 @@
   ],
   "ingredients": [
     {
-      "ingredient_name": "内脂豆腐",
+      "ingredient_name": "内酯豆腐",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -50,7 +50,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "大蒜",
+      "ingredient_name": "蒜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -62,7 +62,7 @@
       "unit": "瓣"
     },
     {
-      "ingredient_name": "生姜",
+      "ingredient_name": "姜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -74,7 +74,7 @@
       "unit": "片"
     },
     {
-      "ingredient_name": "小米椒",
+      "ingredient_name": "小米辣",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": true,
@@ -149,11 +149,11 @@
       "unit": "mL"
     },
     {
-      "ingredient_name": "开水",
+      "ingredient_name": "水",
       "is_approximate": true,
       "is_estimated": false,
       "is_optional": false,
-      "note": "没过豆腐即可",
+      "note": "开水，没过豆腐即可",
       "original_quantity": "",
       "quantity": null,
       "quantity_description": "适量",

@@ -24,11 +24,11 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "凉白开",
+      "ingredient_name": "水",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "凉白开",
       "original_quantity": "",
       "quantity": 2000.0,
       "quantity_description": "",

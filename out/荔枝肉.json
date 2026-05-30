@@ -17,7 +17,7 @@
   ],
   "ingredients": [
     {
-      "ingredient_name": "鲜香菇",
+      "ingredient_name": "香菇",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -137,11 +137,11 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "姜末",
+      "ingredient_name": "姜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "姜末",
       "original_quantity": "",
       "quantity": 5.0,
       "quantity_description": "",

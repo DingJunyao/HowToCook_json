@@ -9,11 +9,11 @@
   "images": [],
   "ingredients": [
     {
-      "ingredient_name": "猪排骨或五花肉",
+      "ingredient_name": "排骨",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "或五花肉",
       "original_quantity": "",
       "quantity": 1500.0,
       "quantity_description": "",
@@ -81,7 +81,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "生抽酱油",
+      "ingredient_name": "生抽",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -117,7 +117,7 @@
       "unit": "mL"
     },
     {
-      "ingredient_name": "大料",
+      "ingredient_name": "八角",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,

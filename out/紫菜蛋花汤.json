@@ -69,11 +69,11 @@
       "unit": "mL"
     },
     {
-      "ingredient_name": "葱花",
+      "ingredient_name": "葱",
       "is_approximate": true,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "葱花",
       "original_quantity": "",
       "quantity": null,
       "quantity_description": "适量",

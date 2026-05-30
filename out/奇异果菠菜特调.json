@@ -11,7 +11,7 @@
   ],
   "ingredients": [
     {
-      "ingredient_name": "饮用水",
+      "ingredient_name": "水",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -47,7 +47,7 @@
       "unit": "个"
     },
     {
-      "ingredient_name": "菠菜叶",
+      "ingredient_name": "菠菜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,

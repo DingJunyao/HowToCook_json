@@ -47,11 +47,11 @@
       "unit": "mL"
     },
     {
-      "ingredient_name": "无菌鸡蛋",
+      "ingredient_name": "鸡蛋",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "无菌鸡蛋",
       "original_quantity": "",
       "quantity": 4.0,
       "quantity_description": "",

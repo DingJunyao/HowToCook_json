@@ -59,11 +59,11 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "姜片",
+      "ingredient_name": "姜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "姜片",
       "original_quantity": "",
       "quantity": 10.0,
       "quantity_description": "",

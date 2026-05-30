@@ -77,7 +77,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "大蒜",
+      "ingredient_name": "蒜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -209,11 +209,11 @@
       "unit": "mL"
     },
     {
-      "ingredient_name": "葱花",
+      "ingredient_name": "葱",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "葱花",
       "original_quantity": "",
       "quantity": 5.0,
       "quantity_description": "",

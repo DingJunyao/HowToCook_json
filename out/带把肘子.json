@@ -21,7 +21,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "红豆腐乳",
+      "ingredient_name": "红腐乳",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -93,11 +93,11 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "蒜片",
+      "ingredient_name": "蒜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "蒜片",
       "original_quantity": "",
       "quantity": 50.0,
       "quantity_description": "",
@@ -105,11 +105,11 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "姜末",
+      "ingredient_name": "姜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "姜末",
       "original_quantity": "",
       "quantity": 10.0,
       "quantity_description": "",

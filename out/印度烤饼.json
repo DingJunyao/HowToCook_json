@@ -93,11 +93,11 @@
       "unit": "mL"
     },
     {
-      "ingredient_name": "酥油或黄油",
+      "ingredient_name": "酥油",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "或黄油",
       "original_quantity": "",
       "quantity": null,
       "quantity_description": "",
@@ -117,7 +117,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "香菜叶",
+      "ingredient_name": "香菜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": true,
@@ -129,7 +129,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "大蒜",
+      "ingredient_name": "蒜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": true,

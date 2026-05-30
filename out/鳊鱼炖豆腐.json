@@ -200,11 +200,11 @@
       "unit": "mL"
     },
     {
-      "ingredient_name": "热水",
+      "ingredient_name": "水",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "热水",
       "original_quantity": "",
       "quantity": 400.0,
       "quantity_description": "",

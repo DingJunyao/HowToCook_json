@@ -53,7 +53,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "生姜",
+      "ingredient_name": "姜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -137,7 +137,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "大蒜",
+      "ingredient_name": "蒜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": true,

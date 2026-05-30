@@ -21,7 +21,7 @@
       "unit": "个"
     },
     {
-      "ingredient_name": "食用植物油",
+      "ingredient_name": "植物油",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -108,7 +108,7 @@
       "unit": "片"
     },
     {
-      "ingredient_name": "肉桂皮",
+      "ingredient_name": "肉桂",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -150,7 +150,7 @@
       "unit": "个"
     },
     {
-      "ingredient_name": "大料",
+      "ingredient_name": "八角",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,

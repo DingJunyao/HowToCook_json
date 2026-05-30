@@ -39,7 +39,7 @@
       "unit": "mL"
     },
     {
-      "ingredient_name": "肉类",
+      "ingredient_name": "肉",
       "is_approximate": true,
       "is_estimated": false,
       "is_optional": true,

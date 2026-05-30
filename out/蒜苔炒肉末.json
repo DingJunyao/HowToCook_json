@@ -9,7 +9,7 @@
   "images": [],
   "ingredients": [
     {
-      "ingredient_name": "蒜苔",
+      "ingredient_name": "蒜薹",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -45,7 +45,7 @@
       "unit": "mL"
     },
     {
-      "ingredient_name": "大蒜",
+      "ingredient_name": "蒜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,

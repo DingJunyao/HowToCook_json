@@ -39,7 +39,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "清水",
+      "ingredient_name": "水",
       "is_approximate": true,
       "is_estimated": false,
       "is_optional": false,
@@ -63,11 +63,11 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "葱花",
+      "ingredient_name": "葱",
       "is_approximate": true,
       "is_estimated": false,
       "is_optional": true,
-      "note": "切段",
+      "note": "葱花，切段",
       "original_quantity": "",
       "quantity": null,
       "quantity_description": "少许",

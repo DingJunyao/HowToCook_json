@@ -81,7 +81,7 @@
       "quantity": 15.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "mL"
+      "unit": "g"
     },
     {
       "ingredient_name": "鸡精",
@@ -108,11 +108,11 @@
       "unit": "根"
     },
     {
-      "ingredient_name": "姜末",
+      "ingredient_name": "姜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "姜末",
       "original_quantity": "",
       "quantity": 1.0,
       "quantity_description": "",

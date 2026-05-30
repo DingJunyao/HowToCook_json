@@ -51,7 +51,7 @@
       "unit": "根"
     },
     {
-      "ingredient_name": "大蒜",
+      "ingredient_name": "蒜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -63,7 +63,7 @@
       "unit": "瓣"
     },
     {
-      "ingredient_name": "干辣椒面",
+      "ingredient_name": "辣椒面",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,

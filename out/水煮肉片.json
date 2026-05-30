@@ -81,7 +81,7 @@
       "unit": "根"
     },
     {
-      "ingredient_name": "生姜",
+      "ingredient_name": "姜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -93,7 +93,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "大蒜",
+      "ingredient_name": "蒜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -132,7 +132,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "鸡蛋清",
+      "ingredient_name": "蛋清",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -156,7 +156,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "小米辣干辣椒",
+      "ingredient_name": "干小米辣",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": true,
@@ -231,7 +231,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "生抽酱油",
+      "ingredient_name": "生抽",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,

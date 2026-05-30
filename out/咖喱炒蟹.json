@@ -81,7 +81,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "大蒜",
+      "ingredient_name": "蒜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -105,11 +105,11 @@
       "unit": "mL"
     },
     {
-      "ingredient_name": "开水",
+      "ingredient_name": "水",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "开水",
       "original_quantity": "",
       "quantity": 300.0,
       "quantity_description": "",

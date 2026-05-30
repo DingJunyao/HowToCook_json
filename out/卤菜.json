@@ -97,7 +97,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "生姜",
+      "ingredient_name": "姜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -109,7 +109,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "大蒜",
+      "ingredient_name": "蒜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -196,7 +196,7 @@
       "unit": "mL"
     },
     {
-      "ingredient_name": "清水",
+      "ingredient_name": "水",
       "is_approximate": true,
       "is_estimated": false,
       "is_optional": false,
@@ -208,11 +208,11 @@
       "unit": "L"
     },
     {
-      "ingredient_name": "蒜末",
+      "ingredient_name": "蒜",
       "is_approximate": true,
       "is_estimated": false,
       "is_optional": true,
-      "note": "凉拌调料用，蒜末、葱花、白芝麻、辣椒粉等量",
+      "note": "蒜末；凉拌调料用，蒜末、葱花、白芝麻、辣椒粉等量",
       "original_quantity": "",
       "quantity": null,
       "quantity_description": "适量",
@@ -220,11 +220,11 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "葱花",
+      "ingredient_name": "葱",
       "is_approximate": true,
       "is_estimated": false,
       "is_optional": true,
-      "note": "凉拌调料用，蒜末、葱花、白芝麻、辣椒粉等量",
+      "note": "葱花；凉拌调料用，蒜末、葱花、白芝麻、辣椒粉等量",
       "original_quantity": "",
       "quantity": null,
       "quantity_description": "适量",

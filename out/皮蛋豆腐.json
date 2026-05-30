@@ -93,11 +93,11 @@
       "unit": "mL"
     },
     {
-      "ingredient_name": "花生碎",
+      "ingredient_name": "花生",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": true,
-      "note": "",
+      "note": "花生碎",
       "original_quantity": "",
       "quantity": 10.0,
       "quantity_description": "",
@@ -105,11 +105,11 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "葱花",
+      "ingredient_name": "葱",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": true,
-      "note": "",
+      "note": "葱花",
       "original_quantity": "",
       "quantity": 15.0,
       "quantity_description": "",

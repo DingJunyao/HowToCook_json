@@ -21,11 +21,11 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "蒜瓣",
+      "ingredient_name": "蒜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "蒜瓣",
       "original_quantity": "",
       "quantity": 2.0,
       "quantity_description": "",

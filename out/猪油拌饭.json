@@ -54,7 +54,7 @@
       "quantity": 2.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "mL"
+      "unit": "g"
     },
     {
       "ingredient_name": "蚝油",
@@ -69,11 +69,11 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "葱花",
+      "ingredient_name": "葱",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": true,
-      "note": "初始建议 5 g",
+      "note": "葱花，初始建议 5 g",
       "original_quantity": "",
       "quantity": 5.0,
       "quantity_description": "",

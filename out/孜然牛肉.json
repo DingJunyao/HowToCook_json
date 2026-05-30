@@ -45,7 +45,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "小米椒",
+      "ingredient_name": "小米辣",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -57,7 +57,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "生抽酱油",
+      "ingredient_name": "生抽",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,

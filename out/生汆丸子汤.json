@@ -57,7 +57,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "鸡蛋清",
+      "ingredient_name": "蛋清",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -117,7 +117,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "小香葱",
+      "ingredient_name": "香葱",
       "is_approximate": true,
       "is_estimated": false,
       "is_optional": false,

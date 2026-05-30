@@ -35,11 +35,11 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "蒜片",
+      "ingredient_name": "蒜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "约1片",
+      "note": "蒜片，约1片",
       "original_quantity": "",
       "quantity": 2.0,
       "quantity_description": "",
@@ -71,7 +71,7 @@
       "unit": "mL"
     },
     {
-      "ingredient_name": "小米椒",
+      "ingredient_name": "小米辣",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,

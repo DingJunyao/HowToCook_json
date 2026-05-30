@@ -9,7 +9,7 @@
   "images": [],
   "ingredients": [
     {
-      "ingredient_name": "猪五花肉",
+      "ingredient_name": "五花肉",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -147,7 +147,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "大蒜",
+      "ingredient_name": "蒜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -171,23 +171,11 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "凉水",
+      "ingredient_name": "水",
       "is_approximate": true,
       "is_estimated": false,
       "is_optional": false,
-      "note": "没过食材的量即可",
-      "original_quantity": "",
-      "quantity": null,
-      "quantity_description": "适量",
-      "quantity_range": null,
-      "unit": "mL"
-    },
-    {
-      "ingredient_name": "开水",
-      "is_approximate": true,
-      "is_estimated": false,
-      "is_optional": false,
-      "note": "没过食材的量即可",
+      "note": "分凉水和开水，均没过食材的量即可",
       "original_quantity": "",
       "quantity": null,
       "quantity_description": "适量",

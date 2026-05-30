@@ -36,11 +36,11 @@
       "unit": "mL"
     },
     {
-      "ingredient_name": "蒜末",
+      "ingredient_name": "蒜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
-      "note": "",
+      "note": "蒜末",
       "original_quantity": "",
       "quantity": 10.0,
       "quantity_description": "",
@@ -117,7 +117,7 @@
       "quantity": 5.0,
       "quantity_description": "",
       "quantity_range": null,
-      "unit": "g"
+      "unit": "个"
     },
     {
       "ingredient_name": "辣椒面",

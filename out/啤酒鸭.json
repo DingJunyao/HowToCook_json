@@ -59,7 +59,7 @@
       "unit": "g"
     },
     {
-      "ingredient_name": "生抽酱油",
+      "ingredient_name": "生抽",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -74,7 +74,7 @@
       "unit": "mL"
     },
     {
-      "ingredient_name": "老抽酱油",
+      "ingredient_name": "老抽",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,
@@ -149,7 +149,7 @@
       "unit": "片"
     },
     {
-      "ingredient_name": "蒜头",
+      "ingredient_name": "蒜",
       "is_approximate": false,
       "is_estimated": false,
       "is_optional": false,

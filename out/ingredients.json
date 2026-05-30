@@ -22,7 +22,9 @@
   },
   "食用油": {
     "name": "食用油",
-    "aliases": [],
+    "aliases": [
+      "油"
+    ],
     "category": "干货",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -46,22 +48,12 @@
   },
   "水": {
     "name": "水",
-    "aliases": [],
+    "aliases": [
+      "清水",
+      "纯净水",
+      "饮用水"
+    ],
     "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "带脚、爪猪前肘": {
-    "name": "带脚、爪猪前肘",
-    "aliases": [],
-    "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "红豆腐乳": {
-    "name": "红豆腐乳",
-    "aliases": [],
-    "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -93,25 +85,11 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "蒜片": {
-    "name": "蒜片",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "姜末": {
-    "name": "姜末",
-    "aliases": [
-      "生姜末"
-    ],
-    "category": "蔬菜",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "八角": {
     "name": "八角",
-    "aliases": [],
+    "aliases": [
+      "大料"
+    ],
     "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -139,7 +117,9 @@
   },
   "面粉": {
     "name": "面粉",
-    "aliases": [],
+    "aliases": [
+      "普通面粉"
+    ],
     "category": "主食/谷物",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -165,13 +145,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "清水": {
-    "name": "清水",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "十三香": {
     "name": "十三香",
     "aliases": [],
@@ -188,7 +161,9 @@
   },
   "味精": {
     "name": "味精",
-    "aliases": [],
+    "aliases": [
+      "味素"
+    ],
     "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -207,44 +182,48 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "花椒粒": {
-    "name": "花椒粒",
-    "aliases": [],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "生抽": {
     "name": "生抽",
-    "aliases": [],
+    "aliases": [
+      "生抽酱油"
+    ],
     "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
   "植物油": {
     "name": "植物油",
-    "aliases": [],
+    "aliases": [
+      "食用植物油"
+    ],
     "category": "干货",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
   "白砂糖": {
     "name": "白砂糖",
-    "aliases": [],
+    "aliases": [
+      "砂糖"
+    ],
     "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
   "姜": {
     "name": "姜",
-    "aliases": [],
+    "aliases": [
+      "生姜"
+    ],
     "category": "蔬菜",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
   "蒜": {
     "name": "蒜",
-    "aliases": [],
+    "aliases": [
+      "大蒜",
+      "蒜头"
+    ],
     "category": "蔬菜",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -265,7 +244,9 @@
   },
   "老抽": {
     "name": "老抽",
-    "aliases": [],
+    "aliases": [
+      "老抽酱油"
+    ],
     "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -317,7 +298,9 @@
   },
   "冰块": {
     "name": "冰块",
-    "aliases": [],
+    "aliases": [
+      "冰"
+    ],
     "category": "其他",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -359,7 +342,9 @@
   },
   "排骨": {
     "name": "排骨",
-    "aliases": [],
+    "aliases": [
+      "猪排骨"
+    ],
     "category": "肉类",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -377,13 +362,6 @@
       "耗油"
     ],
     "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "小米椒": {
-    "name": "小米椒",
-    "aliases": [],
-    "category": "蔬菜",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -417,20 +395,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "大蒜": {
-    "name": "大蒜",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "生姜": {
-    "name": "生姜",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "酱油": {
     "name": "酱油",
     "aliases": [],
@@ -455,15 +419,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "椒盐粉": {
-    "name": "椒盐粉",
-    "aliases": [
-      "椒盐"
-    ],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "芝麻粒": {
     "name": "芝麻粒",
     "aliases": [
@@ -472,15 +427,6 @@
       "熟白芝麻"
     ],
     "category": "坚果",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "牛腱子肉": {
-    "name": "牛腱子肉",
-    "aliases": [
-      "牛腱子"
-    ],
-    "category": "肉类",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -500,7 +446,9 @@
   },
   "花椒": {
     "name": "花椒",
-    "aliases": [],
+    "aliases": [
+      "花椒粒"
+    ],
     "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -530,33 +478,11 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "葱花": {
-    "name": "葱花",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "鳝丝": {
-    "name": "鳝丝",
-    "aliases": [],
-    "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "蒜末": {
-    "name": "蒜末",
-    "aliases": [
-      "蒜蓉",
-      "蒜仔"
-    ],
-    "category": "蔬菜",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "猪油": {
     "name": "猪油",
-    "aliases": [],
+    "aliases": [
+      "熟猪油"
+    ],
     "category": "干货",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -568,22 +494,12 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "干辣椒面": {
-    "name": "干辣椒面",
-    "aliases": [
-      "辣椒粉",
-      "辣椒面",
-      "干辣椒粉",
-      "细辣椒粉",
-      "中粗辣椒面"
-    ],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "青菜": {
     "name": "青菜",
-    "aliases": [],
+    "aliases": [
+      "小白菜",
+      "上海青"
+    ],
     "category": "蔬菜",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -608,27 +524,6 @@
     "name": "干面条",
     "aliases": [],
     "category": "主食/谷物",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "饮用水": {
-    "name": "饮用水",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "炸好的葱段": {
-    "name": "炸好的葱段",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "五花肉条": {
-    "name": "五花肉条",
-    "aliases": [],
-    "category": "肉类",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -684,23 +579,12 @@
   "五花肉": {
     "name": "五花肉",
     "aliases": [
-      "猪五花肉",
-      "带皮五花肉",
       "五花肉条",
-      "五花肉薄片"
+      "五花肉薄片",
+      "带皮五花肉",
+      "猪五花肉"
     ],
     "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "开水": {
-    "name": "开水",
-    "aliases": [
-      "热水",
-      "温水",
-      "沸水"
-    ],
-    "category": "其他",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -750,7 +634,9 @@
   },
   "牛奶": {
     "name": "牛奶",
-    "aliases": [],
+    "aliases": [
+      "纯牛奶"
+    ],
     "category": "豆制品",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -855,38 +741,10 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "蒜瓣": {
-    "name": "蒜瓣",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "芥末": {
     "name": "芥末",
     "aliases": [],
     "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "冷饭": {
-    "name": "冷饭",
-    "aliases": [],
-    "category": "主食/谷物",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "冷冻去头去皮基围虾": {
-    "name": "冷冻去头去皮基围虾",
-    "aliases": [],
-    "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "午餐肉罐头": {
-    "name": "午餐肉罐头",
-    "aliases": [],
-    "category": "肉类",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -932,15 +790,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "内脂豆腐": {
-    "name": "内脂豆腐",
-    "aliases": [
-      "内酯豆腐"
-    ],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "咸鸭蛋": {
     "name": "咸鸭蛋",
     "aliases": [],
@@ -978,7 +827,9 @@
   },
   "香菜": {
     "name": "香菜",
-    "aliases": [],
+    "aliases": [
+      "香菜叶"
+    ],
     "category": "蔬菜",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -1055,13 +906,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "烧烤撒料": {
-    "name": "烧烤撒料",
-    "aliases": [],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "白芝麻": {
     "name": "白芝麻",
     "aliases": [],
@@ -1093,7 +937,8 @@
   "玉米": {
     "name": "玉米",
     "aliases": [
-      "新鲜玉米"
+      "新鲜玉米",
+      "粟米"
     ],
     "category": "蔬菜",
     "usda_id": null,
@@ -1101,16 +946,16 @@
   },
   "香葱": {
     "name": "香葱",
-    "aliases": [],
+    "aliases": [
+      "小香葱"
+    ],
     "category": "蔬菜",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
   "黑胡椒粉": {
     "name": "黑胡椒粉",
-    "aliases": [
-      "黑胡椒"
-    ],
+    "aliases": [],
     "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -1275,16 +1120,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "料酒或者黄酒": {
-    "name": "料酒或者黄酒",
-    "aliases": [
-      "黄酒",
-      "花雕酒"
-    ],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "香干": {
     "name": "香干",
     "aliases": [
@@ -1310,7 +1145,9 @@
   },
   "菜籽油": {
     "name": "菜籽油",
-    "aliases": [],
+    "aliases": [
+      "菜油"
+    ],
     "category": "干货",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -1394,13 +1231,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "河粉炒料": {
-    "name": "河粉炒料",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "辣椒": {
     "name": "辣椒",
     "aliases": [],
@@ -1422,16 +1252,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "烧烤料或孜然粉": {
-    "name": "烧烤料或孜然粉",
-    "aliases": [
-      "烧烤料",
-      "麻辣香锅调料"
-    ],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "风味调料": {
     "name": "风味调料",
     "aliases": [],
@@ -1448,7 +1268,10 @@
   },
   "黑胡椒碎": {
     "name": "黑胡椒碎",
-    "aliases": [],
+    "aliases": [
+      "黑椒碎",
+      "黑椒粉"
+    ],
     "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -1555,13 +1378,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "意面酱料": {
-    "name": "意面酱料",
-    "aliases": [],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "米饭": {
     "name": "米饭",
     "aliases": [],
@@ -1627,29 +1443,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "鸡蛋清": {
-    "name": "鸡蛋清",
-    "aliases": [
-      "蛋清"
-    ],
-    "category": "禽蛋",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "小米辣干辣椒": {
-    "name": "小米辣干辣椒",
-    "aliases": [],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "生抽酱油": {
-    "name": "生抽酱油",
-    "aliases": [],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "水淀粉": {
     "name": "水淀粉",
     "aliases": [],
@@ -1697,13 +1490,6 @@
     "name": "干酵母",
     "aliases": [],
     "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "奶制品": {
-    "name": "奶制品",
-    "aliases": [],
-    "category": "豆制品",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -1756,13 +1542,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "老抽酱油": {
-    "name": "老抽酱油",
-    "aliases": [],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "丁香": {
     "name": "丁香",
     "aliases": [],
@@ -1811,7 +1590,9 @@
   },
   "香油": {
     "name": "香油",
-    "aliases": [],
+    "aliases": [
+      "芝麻香油"
+    ],
     "category": "干货",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -1906,13 +1687,6 @@
     "name": "浓缩咖啡",
     "aliases": [],
     "category": "饮品",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "无菌鸡蛋": {
-    "name": "无菌鸡蛋",
-    "aliases": [],
-    "category": "禽蛋",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -2049,20 +1823,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "干小米椒": {
-    "name": "干小米椒",
-    "aliases": [],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "鸡肉（鸡腿肉）": {
-    "name": "鸡肉（鸡腿肉）",
-    "aliases": [],
-    "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "菜椒": {
     "name": "菜椒",
     "aliases": [],
@@ -2105,22 +1865,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "普通面粉": {
-    "name": "普通面粉",
-    "aliases": [],
-    "category": "主食/谷物",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "冷水": {
-    "name": "冷水",
-    "aliases": [
-      "凉水"
-    ],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "火腿": {
     "name": "火腿",
     "aliases": [],
@@ -2142,29 +1886,8 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "生姜末": {
-    "name": "生姜末",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "葱末": {
-    "name": "葱末",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "高汤": {
     "name": "高汤",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "浓汤宝": {
-    "name": "浓汤宝",
     "aliases": [],
     "category": "其他",
     "usda_id": null,
@@ -2186,7 +1909,9 @@
   },
   "香菇": {
     "name": "香菇",
-    "aliases": [],
+    "aliases": [
+      "鲜香菇"
+    ],
     "category": "蔬菜",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -2212,13 +1937,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "丽滋饼干": {
-    "name": "丽滋饼干",
-    "aliases": [],
-    "category": "主食/谷物",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "面条": {
     "name": "面条",
     "aliases": [
@@ -2226,13 +1944,6 @@
       "普通面条"
     ],
     "category": "主食/谷物",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "肉类": {
-    "name": "肉类",
-    "aliases": [],
-    "category": "肉类",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -2292,31 +2003,10 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "蒜头": {
-    "name": "蒜头",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "熟白芝麻": {
     "name": "熟白芝麻",
     "aliases": [],
     "category": "坚果",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "草寇": {
-    "name": "草寇",
-    "aliases": [],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "姜片": {
-    "name": "姜片",
-    "aliases": [],
-    "category": "蔬菜",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -2350,13 +2040,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "纯净水": {
-    "name": "纯净水",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "陈醋": {
     "name": "陈醋",
     "aliases": [],
@@ -2380,7 +2063,9 @@
   },
   "小米辣": {
     "name": "小米辣",
-    "aliases": [],
+    "aliases": [
+      "小米椒"
+    ],
     "category": "蔬菜",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -2427,16 +2112,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "黑椒碎": {
-    "name": "黑椒碎",
-    "aliases": [
-      "黑椒粉",
-      "黑胡椒"
-    ],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "西兰花": {
     "name": "西兰花",
     "aliases": [
@@ -2478,13 +2153,6 @@
     "name": "鸡翅",
     "aliases": [],
     "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "黄酒或料酒": {
-    "name": "黄酒或料酒",
-    "aliases": [],
-    "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -2539,24 +2207,10 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "无骨肉": {
-    "name": "无骨肉",
-    "aliases": [],
-    "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "干豆腐": {
     "name": "干豆腐",
     "aliases": [],
     "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "北京麻辣方便面": {
-    "name": "北京麻辣方便面",
-    "aliases": [],
-    "category": "主食/谷物",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -2708,20 +2362,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "肉桂棒": {
-    "name": "肉桂棒",
-    "aliases": [],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "黑胡椒粒": {
-    "name": "黑胡椒粒",
-    "aliases": [],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "牛腩": {
     "name": "牛腩",
     "aliases": [],
@@ -2740,13 +2380,6 @@
     "name": "柱侯酱",
     "aliases": [],
     "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "瓶装椰汁": {
-    "name": "瓶装椰汁",
-    "aliases": [],
-    "category": "饮品",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -2831,7 +2464,9 @@
   },
   "大白菜": {
     "name": "大白菜",
-    "aliases": [],
+    "aliases": [
+      "白菜"
+    ],
     "category": "蔬菜",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -2850,13 +2485,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "酥油或黄油": {
-    "name": "酥油或黄油",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "鳊鱼": {
     "name": "鳊鱼",
     "aliases": [],
@@ -2866,13 +2494,6 @@
   },
   "老豆腐": {
     "name": "老豆腐",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "热水": {
-    "name": "热水",
     "aliases": [],
     "category": "其他",
     "usda_id": null,
@@ -2901,7 +2522,10 @@
   },
   "牛腱子": {
     "name": "牛腱子",
-    "aliases": [],
+    "aliases": [
+      "牛腱子",
+      "牛腱子肉"
+    ],
     "category": "肉类",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -2936,15 +2560,11 @@
   },
   "蛋清": {
     "name": "蛋清",
-    "aliases": [],
+    "aliases": [
+      "蛋清",
+      "鸡蛋清"
+    ],
     "category": "禽蛋",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "味素": {
-    "name": "味素",
-    "aliases": [],
-    "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -2955,24 +2575,10 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "凉白开": {
-    "name": "凉白开",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "薄荷汁": {
     "name": "薄荷汁",
     "aliases": [],
     "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "薄荷粉": {
-    "name": "薄荷粉",
-    "aliases": [],
-    "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -2992,7 +2598,9 @@
   },
   "肉": {
     "name": "肉",
-    "aliases": [],
+    "aliases": [
+      "肉类"
+    ],
     "category": "肉类",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -3018,20 +2626,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "食用植物油": {
-    "name": "食用植物油",
-    "aliases": [],
-    "category": "干货",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "肉桂皮": {
-    "name": "肉桂皮",
-    "aliases": [],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "豆蔻": {
     "name": "豆蔻",
     "aliases": [
@@ -3039,34 +2633,6 @@
       "红豆蔻"
     ],
     "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "大料": {
-    "name": "大料",
-    "aliases": [],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "蒜苔": {
-    "name": "蒜苔",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "五花肉薄片": {
-    "name": "五花肉薄片",
-    "aliases": [],
-    "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "温水或高汤": {
-    "name": "温水或高汤",
-    "aliases": [],
-    "category": "其他",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -3086,7 +2652,11 @@
   },
   "黄酒": {
     "name": "黄酒",
-    "aliases": [],
+    "aliases": [
+      "料酒或者黄酒",
+      "花雕酒",
+      "黄酒"
+    ],
     "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -3154,31 +2724,10 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "黄花": {
-    "name": "黄花",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "小香葱": {
-    "name": "小香葱",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "鸡粉": {
     "name": "鸡粉",
     "aliases": [],
     "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "桂圆干": {
-    "name": "桂圆干",
-    "aliases": [],
-    "category": "其他",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -3235,13 +2784,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "农村玉米鸡": {
-    "name": "农村玉米鸡",
-    "aliases": [],
-    "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "糍粑辣椒": {
     "name": "糍粑辣椒",
     "aliases": [],
@@ -3284,13 +2826,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "芝麻香油": {
-    "name": "芝麻香油",
-    "aliases": [],
-    "category": "干货",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "奥利奥": {
     "name": "奥利奥",
     "aliases": [],
@@ -3305,13 +2840,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "冰": {
-    "name": "冰",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "鱼露": {
     "name": "鱼露",
     "aliases": [],
@@ -3323,13 +2851,6 @@
     "name": "地瓜粉",
     "aliases": [],
     "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "鸡蛋黄": {
-    "name": "鸡蛋黄",
-    "aliases": [],
-    "category": "禽蛋",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -3396,20 +2917,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "冷冻青豆": {
-    "name": "冷冻青豆",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "冷冻玉米粒": {
-    "name": "冷冻玉米粒",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "海苔碎": {
     "name": "海苔碎",
     "aliases": [],
@@ -3431,31 +2938,10 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "耗油": {
-    "name": "耗油",
-    "aliases": [],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "凉水": {
-    "name": "凉水",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "螃蟹": {
     "name": "螃蟹",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "菜油": {
-    "name": "菜油",
-    "aliases": [],
-    "category": "干货",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -3557,23 +3043,11 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "迷迭香": {
-    "name": "迷迭香",
-    "aliases": [],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "纯牛奶": {
-    "name": "纯牛奶",
-    "aliases": [],
-    "category": "豆制品",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "碎牛肉": {
     "name": "碎牛肉",
-    "aliases": [],
+    "aliases": [
+      "牛肉末"
+    ],
     "category": "肉类",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -3582,13 +3056,6 @@
     "name": "肋排",
     "aliases": [],
     "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "阳江豆豉": {
-    "name": "阳江豆豉",
-    "aliases": [],
-    "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -3622,7 +3089,10 @@
   },
   "烧烤料": {
     "name": "烧烤料",
-    "aliases": [],
+    "aliases": [
+      "烧烤撒料",
+      "麻辣香锅调料"
+    ],
     "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -3643,7 +3113,10 @@
   },
   "内酯豆腐": {
     "name": "内酯豆腐",
-    "aliases": [],
+    "aliases": [
+      "内脂豆腐",
+      "内酯豆腐"
+    ],
     "category": "其他",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -3721,38 +3194,10 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "香菇（干）": {
-    "name": "香菇（干）",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "牛油": {
     "name": "牛油",
     "aliases": [],
     "category": "干货",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "色拉油或菜籽油": {
-    "name": "色拉油或菜籽油",
-    "aliases": [],
-    "category": "干货",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "纯猪油": {
-    "name": "纯猪油",
-    "aliases": [],
-    "category": "干货",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "豆豉（永川）": {
-    "name": "豆豉（永川）",
-    "aliases": [],
-    "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -3779,7 +3224,10 @@
   },
   "肉桂": {
     "name": "肉桂",
-    "aliases": [],
+    "aliases": [
+      "肉桂棒",
+      "肉桂皮"
+    ],
     "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -3835,41 +3283,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "麦芽粉（肉香）": {
-    "name": "麦芽粉（肉香）",
-    "aliases": [],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "颗粒香料": {
-    "name": "颗粒香料",
-    "aliases": [],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "整形香料": {
-    "name": "整形香料",
-    "aliases": [],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "猪五花肉": {
-    "name": "猪五花肉",
-    "aliases": [],
-    "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "牛柳或牛肩肉": {
-    "name": "牛柳或牛肩肉",
-    "aliases": [],
-    "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "孜然": {
     "name": "孜然",
     "aliases": [],
@@ -3879,7 +3292,14 @@
   },
   "辣椒面": {
     "name": "辣椒面",
-    "aliases": [],
+    "aliases": [
+      "中粗辣椒面",
+      "干辣椒粉",
+      "干辣椒面",
+      "细辣椒粉",
+      "辣椒粉",
+      "辣椒面"
+    ],
     "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -3949,13 +3369,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "白（红）糖": {
-    "name": "白（红）糖",
-    "aliases": [],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "咖啡粉": {
     "name": "咖啡粉",
     "aliases": [],
@@ -3991,31 +3404,10 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "温水": {
-    "name": "温水",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "鲜香菇": {
-    "name": "鲜香菇",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "甘草": {
     "name": "甘草",
     "aliases": [],
     "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "柱候酱": {
-    "name": "柱候酱",
-    "aliases": [],
-    "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -4047,38 +3439,10 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "方便面菜包": {
-    "name": "方便面菜包",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "方便面酱包": {
-    "name": "方便面酱包",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "方便面粉包": {
-    "name": "方便面粉包",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "安琪干酵母粉": {
     "name": "安琪干酵母粉",
     "aliases": [],
     "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "干面粉": {
-    "name": "干面粉",
-    "aliases": [],
-    "category": "主食/谷物",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -4096,20 +3460,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "干鹰嘴豆": {
-    "name": "干鹰嘴豆",
-    "aliases": [],
-    "category": "主食/谷物",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "红茶包": {
-    "name": "红茶包",
-    "aliases": [],
-    "category": "饮品",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "石榴粉": {
     "name": "石榴粉",
     "aliases": [],
@@ -4124,13 +3474,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "猪排骨或五花肉": {
-    "name": "猪排骨或五花肉",
-    "aliases": [],
-    "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "馒头": {
     "name": "馒头",
     "aliases": [],
@@ -4140,22 +3483,10 @@
   },
   "袋泡红茶": {
     "name": "袋泡红茶",
-    "aliases": [],
+    "aliases": [
+      "红茶包"
+    ],
     "category": "饮品",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "砂糖": {
-    "name": "砂糖",
-    "aliases": [],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "干燕麦片": {
-    "name": "干燕麦片",
-    "aliases": [],
-    "category": "主食/谷物",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -4278,13 +3609,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "菠菜叶": {
-    "name": "菠菜叶",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "吐司": {
     "name": "吐司",
     "aliases": [],
@@ -4320,16 +3644,12 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "底油": {
-    "name": "底油",
-    "aliases": [],
-    "category": "干货",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "椒盐": {
     "name": "椒盐",
-    "aliases": [],
+    "aliases": [
+      "椒盐",
+      "椒盐粉"
+    ],
     "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -4394,27 +3714,6 @@
     "name": "黑椒腌料",
     "aliases": [],
     "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "手枪腿（或者鸡胸脯肉）": {
-    "name": "手枪腿（或者鸡胸脯肉）",
-    "aliases": [],
-    "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "干辣椒（或者二荆条）": {
-    "name": "干辣椒（或者二荆条）",
-    "aliases": [],
-    "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "生花生": {
-    "name": "生花生",
-    "aliases": [],
-    "category": "坚果",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -4530,20 +3829,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "温开水": {
-    "name": "温开水",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "小麦粉": {
-    "name": "小麦粉",
-    "aliases": [],
-    "category": "主食/谷物",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "腊肉": {
     "name": "腊肉",
     "aliases": [],
@@ -4562,27 +3847,6 @@
     "name": "龟苓膏粉",
     "aliases": [],
     "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "肉丁/肉末": {
-    "name": "肉丁/肉末",
-    "aliases": [],
-    "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "普通面条": {
-    "name": "普通面条",
-    "aliases": [],
-    "category": "主食/谷物",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "菜码": {
-    "name": "菜码",
-    "aliases": [],
-    "category": "蔬菜",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -4628,31 +3892,10 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "鲜仔鸭肉": {
-    "name": "鲜仔鸭肉",
-    "aliases": [],
-    "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "鲜鸭血": {
-    "name": "鲜鸭血",
-    "aliases": [],
-    "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "山胡椒油": {
     "name": "山胡椒油",
     "aliases": [],
     "category": "干货",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "半干荞麦面": {
-    "name": "半干荞麦面",
-    "aliases": [],
-    "category": "主食/谷物",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -4817,13 +4060,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "干淀粉": {
-    "name": "干淀粉",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "四季豆": {
     "name": "四季豆",
     "aliases": [],
@@ -4915,13 +4151,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "熟猪油": {
-    "name": "熟猪油",
-    "aliases": [],
-    "category": "干货",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "蒜蓉": {
     "name": "蒜蓉",
     "aliases": [],
@@ -4978,24 +4207,10 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "有盐牛油": {
-    "name": "有盐牛油",
-    "aliases": [],
-    "category": "干货",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "三文鱼": {
     "name": "三文鱼",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "粟米": {
-    "name": "粟米",
-    "aliases": [],
-    "category": "蔬菜",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -5090,13 +4305,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "方形吐司片": {
-    "name": "方形吐司片",
-    "aliases": [],
-    "category": "主食/谷物",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "俄式酸黄瓜汁": {
     "name": "俄式酸黄瓜汁",
     "aliases": [],
@@ -5127,14 +4335,18 @@
   },
   "菠菜": {
     "name": "菠菜",
-    "aliases": [],
+    "aliases": [
+      "菠菜叶"
+    ],
     "category": "蔬菜",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
   "红腐乳": {
     "name": "红腐乳",
-    "aliases": [],
+    "aliases": [
+      "红豆腐乳"
+    ],
     "category": "调料",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -5143,13 +4355,6 @@
     "name": "腐乳汁",
     "aliases": [],
     "category": "调料",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "葱白": {
-    "name": "葱白",
-    "aliases": [],
-    "category": "蔬菜",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -5182,27 +4387,6 @@
   },
   "红油豆瓣酱": {
     "name": "红油豆瓣酱",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "剑骨鱼或鲤鱼（约": {
-    "name": "剑骨鱼或鲤鱼（约",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "漓泉啤酒（一瓶，约": {
-    "name": "漓泉啤酒（一瓶，约",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "大蒜（5-6_瓣）": {
-    "name": "大蒜（5-6 瓣）",
     "aliases": [],
     "category": "其他",
     "usda_id": null,
@@ -5259,13 +4443,6 @@
   },
   "芝麻盐": {
     "name": "芝麻盐",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "牛肉末": {
-    "name": "牛肉末",
     "aliases": [],
     "category": "其他",
     "usda_id": null,
@@ -5341,13 +4518,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "香菜叶": {
-    "name": "香菜叶",
-    "aliases": [],
-    "category": "其他",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
   "奶粉": {
     "name": "奶粉",
     "aliases": [],
@@ -5378,14 +4548,18 @@
   },
   "米粉（粉末）": {
     "name": "米粉（粉末）",
-    "aliases": [],
+    "aliases": [
+      "米粉"
+    ],
     "category": "其他",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
   "米粉（条）": {
     "name": "米粉（条）",
-    "aliases": [],
+    "aliases": [
+      "米粉"
+    ],
     "category": "其他",
     "usda_id": null,
     "usda_match_status": "unmatched"
@@ -5432,15 +4606,57 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "香菜碎": {
-    "name": "香菜碎",
+  "红尖椒": {
+    "name": "红尖椒",
     "aliases": [],
     "category": "其他",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "红尖椒": {
-    "name": "红尖椒",
+  "饺子": {
+    "name": "饺子",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "蒜薹": {
+    "name": "蒜薹",
+    "aliases": [
+      "蒜苔"
+    ],
+    "category": "蔬菜",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "草蔻": {
+    "name": "草蔻",
+    "aliases": [],
+    "category": "其他",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "干小米辣": {
+    "name": "干小米辣",
+    "aliases": [
+      "小米辣干辣椒",
+      "干小米椒"
+    ],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "黑胡椒": {
+    "name": "黑胡椒",
+    "aliases": [
+      "黑胡椒粒"
+    ],
+    "category": "调料",
+    "usda_id": null,
+    "usda_match_status": "unmatched"
+  },
+  "黑椒混合牛排调味料": {
+    "name": "黑椒混合牛排调味料",
     "aliases": [],
     "category": "其他",
     "usda_id": null,
