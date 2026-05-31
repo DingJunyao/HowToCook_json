@@ -1,22 +1,17 @@
 {
   "西葫芦": {
     "name": "西葫芦",
-    "aliases": [],
+    "aliases": [
+      "笋瓜"
+    ],
     "category": "蔬菜",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 2685568,
+    "usda_match_status": "matched"
   },
   "鸡蛋": {
     "name": "鸡蛋",
     "aliases": [],
     "category": "禽蛋",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
-  },
-  "西红柿": {
-    "name": "西红柿",
-    "aliases": [],
-    "category": "蔬菜",
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
@@ -922,7 +917,9 @@
   },
   "番茄": {
     "name": "番茄",
-    "aliases": [],
+    "aliases": [
+      "西红柿"
+    ],
     "category": "蔬菜",
     "usda_id": null,
     "usda_match_status": "unmatched"
