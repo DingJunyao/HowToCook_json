@@ -12,8 +12,8 @@
     "name": "鸡蛋",
     "aliases": [],
     "category": "禽蛋",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 171287,
+    "usda_match_status": "matched"
   },
   "食用油": {
     "name": "食用油",
@@ -227,8 +227,8 @@
     "name": "鲤鱼",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 171952,
+    "usda_match_status": "matched"
   },
   "娃娃菜": {
     "name": "娃娃菜",
@@ -620,8 +620,8 @@
     "name": "皮蛋",
     "aliases": [],
     "category": "禽蛋",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 2707181,
+    "usda_match_status": "matched"
   },
   "高筋面粉": {
     "name": "高筋面粉",
@@ -778,15 +778,15 @@
     "name": "鲣鱼海苔碎",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 168458,
+    "usda_match_status": "matched"
   },
   "咸鸭蛋": {
     "name": "咸鸭蛋",
     "aliases": [],
     "category": "禽蛋",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 2707176,
+    "usda_match_status": "matched"
   },
   "蒜蓉辣酱": {
     "name": "蒜蓉辣酱",
@@ -1073,8 +1073,8 @@
       "鸡蛋黄"
     ],
     "category": "禽蛋",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 172184,
+    "usda_match_status": "matched"
   },
   "玉米淀粉": {
     "name": "玉米淀粉",
@@ -1331,8 +1331,8 @@
     "name": "小龙虾",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 175169,
+    "usda_match_status": "matched"
   },
   "青花椒": {
     "name": "青花椒",
@@ -1629,8 +1629,8 @@
     "name": "虾皮",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 2706366,
+    "usda_match_status": "matched"
   },
   "茭白": {
     "name": "茭白",
@@ -1898,8 +1898,8 @@
     "name": "虾仁",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 174210,
+    "usda_match_status": "matched"
   },
   "复配食品增稠剂": {
     "name": "复配食品增稠剂",
@@ -1931,8 +1931,8 @@
     "name": "蛋类",
     "aliases": [],
     "category": "禽蛋",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 171287,
+    "usda_match_status": "matched"
   },
   "豆制品": {
     "name": "豆制品",
@@ -2003,8 +2003,8 @@
       "鲜虾"
     ],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 175179,
+    "usda_match_status": "matched"
   },
   "红辣椒": {
     "name": "红辣椒",
@@ -2390,8 +2390,8 @@
     "name": "鱼头",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 175144,
+    "usda_match_status": "matched"
   },
   "美人椒": {
     "name": "美人椒",
@@ -2615,8 +2615,8 @@
     "name": "虾",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 2706360,
+    "usda_match_status": "matched"
   },
   "黄酒": {
     "name": "黄酒",
@@ -2661,8 +2661,8 @@
     "name": "肉蟹",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 2706344,
+    "usda_match_status": "matched"
   },
   "海鲜酱": {
     "name": "海鲜酱",
@@ -2742,8 +2742,8 @@
       "肉蟹"
     ],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 2706344,
+    "usda_match_status": "matched"
   },
   "椰浆": {
     "name": "椰浆",
@@ -2777,8 +2777,8 @@
     "name": "海虾",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 2706360,
+    "usda_match_status": "matched"
   },
   "蒜蓉酱": {
     "name": "蒜蓉酱",
@@ -2847,8 +2847,8 @@
     "name": "大虾",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 2706360,
+    "usda_match_status": "matched"
   },
   "白葡萄酒": {
     "name": "白葡萄酒",
@@ -2889,8 +2889,8 @@
     "name": "海苔碎",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 168458,
+    "usda_match_status": "matched"
   },
   "沙拉酱": {
     "name": "沙拉酱",
@@ -2910,8 +2910,8 @@
     "name": "螃蟹",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 2706344,
+    "usda_match_status": "matched"
   },
   "全麦面粉": {
     "name": "全麦面粉",
@@ -2952,8 +2952,8 @@
     "name": "阿根廷红虾",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 2706360,
+    "usda_match_status": "matched"
   },
   "海盐": {
     "name": "海盐",
@@ -3292,8 +3292,8 @@
     "name": "鲮鱼罐头",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 2706229,
+    "usda_match_status": "matched"
   },
   "瓠瓜": {
     "name": "瓠瓜",
@@ -3327,8 +3327,8 @@
     "name": "鲈鱼",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 173678,
+    "usda_match_status": "matched"
   },
   "蒸鱼豉油": {
     "name": "蒸鱼豉油",
@@ -3560,8 +3560,8 @@
     "name": "熟肉",
     "aliases": [],
     "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 168236,
+    "usda_match_status": "matched"
   },
   "奇异果": {
     "name": "奇异果",
@@ -3689,8 +3689,8 @@
     "name": "咸肉",
     "aliases": [],
     "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 168287,
+    "usda_match_status": "matched"
   },
   "面包片": {
     "name": "面包片",
@@ -3703,8 +3703,8 @@
     "name": "生蚝",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 2706351,
+    "usda_match_status": "matched"
   },
   "乌枣": {
     "name": "乌枣",
@@ -3801,8 +3801,8 @@
     "name": "腊肉",
     "aliases": [],
     "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 172956,
+    "usda_match_status": "matched"
   },
   "盐焗鸡粉": {
     "name": "盐焗鸡粉",
@@ -3822,8 +3822,8 @@
     "name": "紫菜",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 168458,
+    "usda_match_status": "matched"
   },
   "叶菜类蔬菜": {
     "name": "叶菜类蔬菜",
@@ -3836,8 +3836,8 @@
     "name": "大排",
     "aliases": [],
     "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 168286,
+    "usda_match_status": "matched"
   },
   "葱姜水": {
     "name": "葱姜水",
@@ -3878,8 +3878,8 @@
     "name": "鸡翅中",
     "aliases": [],
     "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 172390,
+    "usda_match_status": "matched"
   },
   "云南单山蘸水": {
     "name": "云南单山蘸水",
@@ -3906,8 +3906,8 @@
     "name": "开洋",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 2706366,
+    "usda_match_status": "matched"
   },
   "西洋参": {
     "name": "西洋参",
@@ -3955,8 +3955,8 @@
     "name": "鸡全翅",
     "aliases": [],
     "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 172390,
+    "usda_match_status": "matched"
   },
   "甜椒粉": {
     "name": "甜椒粉",
@@ -3969,8 +3969,8 @@
     "name": "罗氏虾",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 2706360,
+    "usda_match_status": "matched"
   },
   "青芥末": {
     "name": "青芥末",
@@ -3997,8 +3997,8 @@
     "name": "猪通脊肉",
     "aliases": [],
     "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 2705877,
+    "usda_match_status": "matched"
   },
   "白熟芝麻": {
     "name": "白熟芝麻",
@@ -4025,8 +4025,8 @@
     "name": "兔肉",
     "aliases": [],
     "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 2705912,
+    "usda_match_status": "matched"
   },
   "四季豆": {
     "name": "四季豆",
@@ -4095,8 +4095,8 @@
     "name": "带皮猪五花肉",
     "aliases": [],
     "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 2727576,
+    "usda_match_status": "matched"
   },
   "商芝": {
     "name": "商芝",
@@ -4116,8 +4116,8 @@
     "name": "鸡汤",
     "aliases": [],
     "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 174536,
+    "usda_match_status": "matched"
   },
   "蒜蓉": {
     "name": "蒜蓉",
@@ -4130,15 +4130,15 @@
     "name": "带皮羊排肉",
     "aliases": [],
     "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 174342,
+    "usda_match_status": "matched"
   },
   "羊腩": {
     "name": "羊腩",
     "aliases": [],
     "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 172625,
+    "usda_match_status": "matched"
   },
   "炸腐竹": {
     "name": "炸腐竹",
@@ -4179,8 +4179,8 @@
     "name": "三文鱼",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 173691,
+    "usda_match_status": "matched"
   },
   "金菇": {
     "name": "金菇",
@@ -4235,8 +4235,8 @@
     "name": "黑鳕鱼",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 174191,
+    "usda_match_status": "matched"
   },
   "青葱": {
     "name": "青葱",
@@ -4256,8 +4256,8 @@
     "name": "培根片",
     "aliases": [],
     "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 168277,
+    "usda_match_status": "matched"
   },
   "鱼": {
     "name": "鱼",
@@ -4270,8 +4270,8 @@
     "name": "水浸金枪鱼",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 173709,
+    "usda_match_status": "matched"
   },
   "俄式酸黄瓜汁": {
     "name": "俄式酸黄瓜汁",
@@ -4284,15 +4284,15 @@
     "name": "火腿片",
     "aliases": [],
     "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 173863,
+    "usda_match_status": "matched"
   },
   "海参": {
     "name": "海参",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 167618,
+    "usda_match_status": "matched"
   },
   "桂鱼": {
     "name": "桂鱼",
@@ -4378,15 +4378,15 @@
     "name": "牛柳",
     "aliases": [],
     "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 174006,
+    "usda_match_status": "matched"
   },
   "手枪腿": {
     "name": "手枪腿",
     "aliases": [],
     "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 172385,
+    "usda_match_status": "matched"
   },
   "干线椒": {
     "name": "干线椒",
@@ -4427,8 +4427,8 @@
     "name": "大田螺",
     "aliases": [],
     "category": "水产",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 173720,
+    "usda_match_status": "matched"
   },
   "薄荷": {
     "name": "薄荷",
@@ -4497,8 +4497,8 @@
     "name": "肉丁",
     "aliases": [],
     "category": "肉类",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 175019,
+    "usda_match_status": "matched"
   },
   "有盐黄油": {
     "name": "有盐黄油",
