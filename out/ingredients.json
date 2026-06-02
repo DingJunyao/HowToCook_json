@@ -1345,7 +1345,7 @@
     "name": "子弹头辣椒",
     "aliases": [],
     "category": "蔬菜",
-    "usda_id": 168570,
+    "usda_id": 2710096,
     "usda_match_status": "matched"
   },
   "啤酒": {
@@ -2573,13 +2573,6 @@
     "usda_id": 2705819,
     "usda_match_status": "matched"
   },
-  "花椰菜": {
-    "name": "花椰菜",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": 2685573,
-    "usda_match_status": "matched"
-  },
   "煎蛋": {
     "name": "煎蛋",
     "aliases": [],
@@ -2980,7 +2973,7 @@
     "name": "口蘑",
     "aliases": [],
     "category": "蔬菜",
-    "usda_id": 169251,
+    "usda_id": "168423",
     "usda_match_status": "matched"
   },
   "小土豆": {
@@ -3941,7 +3934,7 @@
     "name": "蟹味菇",
     "aliases": [],
     "category": "蔬菜",
-    "usda_id": 2003599,
+    "usda_id": "168423",
     "usda_match_status": "matched"
   },
   "凤梨": {
@@ -4011,7 +4004,7 @@
     "name": "荷兰豆",
     "aliases": [],
     "category": "蔬菜",
-    "usda_id": 2709806,
+    "usda_id": "171038",
     "usda_match_status": "matched"
   },
   "意大利面酱": {
