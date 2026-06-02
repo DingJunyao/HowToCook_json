@@ -2218,8 +2218,8 @@
       "干红枣"
     ],
     "category": "干货",
-    "usda_id": null,
-    "usda_match_status": "unmatched"
+    "usda_id": 168152,
+    "usda_match_status": "matched"
   },
   "薏米": {
     "name": "薏米",
