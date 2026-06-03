@@ -1,0 +1,36 @@
+[
+  {
+    "usda_id": "169291",
+    "ingredient_name": "西葫芦",
+    "usda_name": "Squash, summer, zucchini, includes skin, raw",
+    "nutrients": [
+      {
+        "name": "钙",
+        "name_en": "calcium",
+        "value": 16.0,
+        "unit": "mg",
+        "nrp_pct": 2.0,
+        "standard": "中国GB标准"
+      },
+      {
+        "name": "膳食纤维",
+        "name_en": "fiber",
+        "value": 1.0,
+        "unit": "g",
+        "nrp_pct": 0,
+        "standard": "无标准",
+        "note": "该营养素无对应的NRV/DV标准值"
+      },
+      {
+        "name": "镁",
+        "name_en": "magnesium",
+        "value": 18.0,
+        "unit": "mg",
+        "nrp_pct": 4.29,
+        "standard": "美国FDA标准"
+      }, 
+      ...
+    ]
+  },
+  ...
+]
