@@ -26,35 +26,36 @@ claude -p "/generate-nutrition-data"
 ## 输出文件
 
 - `out/nutritions.json` - 包含所有食材的详细营养信息和NRV/DV值
-- `out/nutrition_map.json` - 食材与USDA营养数据的匹配关系
 
 ## 数据格式
 
-生成的营养信息JSON格式如下：
+生成的营养信息JSON格式如下（`nutrients` 为数组，每项包含中英文营养素名称）：
 
 ```json
 [
   {
-    "usda_id": "172193",
-    "ingredient_name": "低脂牛奶",
-    "usda_name": "Milk, reduced fat, fluid, 2% milkfat, with added nonfat milk solids, without added vitamin A",
-    "nutrients": {
-      "energy": {
-        "value": 50,
-        "unit": "kcal",
-        "nrp_pct": 2.5,  // NRV/DV百分比
-        "standard": "中国GB标准"  // 使用的计算标准
+    "usda_id": "2685568",
+    "ingredient_name": "西葫芦",
+    "usda_name": "Squash, summer, green, zucchini, includes skin, raw",
+    "nutrients": [
+      {
+        "name": "铁",
+        "name_en": "Iron, Fe",
+        "value": 0.194,
+        "unit": "毫克",
+        "nrp_pct": 1.29,
+        "standard": "中国GB标准"
       },
-      "protein": {
-        "value": 3.3,
+      {
+        "name": "蛋白质",
+        "name_en": "Protein",
+        "value": 0.984,
         "unit": "g",
-        "nrp_pct": 5.5,
+        "nrp_pct": 1.64,
         "standard": "中国GB标准"
       }
-      // ... 更多营养素
-    }
+    ]
   }
-  // ... 更多食材
 ]
 ```
 

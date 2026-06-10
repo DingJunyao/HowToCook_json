@@ -11,9 +11,9 @@
 - [安装步骤](#安装步骤)
 - [使用方法](#使用方法)
 - [输出说明](#输出说明)
+- [营养信息生成功能](#营养信息生成功能)
 - [配置说明](#配置说明)
 - [项目结构](#项目结构)
-- [营养信息生成功能](#营养信息生成功能)
 
 ## ✨ 功能特性
 
@@ -75,13 +75,15 @@ claude --version
 
 ## 🚀 使用方法
 
-### 完整解析流程
+### 完整 AI 解析流程
 
 解析所有菜谱、提取图片、标准化食材，并生成营养信息：
 
 ```bash
 python parse_recipes.py
 ```
+
+> 之后还需要手工修正结果。为此使用工具 [HowToCook_json_organizer](https://github.com/DingJunyao/HowToCook_json_organizer)。实际上直接使用那个工具也行，因为 AI 解析效果并不理想。
 
 ### 仅解析菜谱
 
@@ -121,7 +123,7 @@ python scripts/recipe_parser.py --match-nutrition
 
 **注意：** 流程B 需要先运行流程A，生成 `matched_ingredients.json` 文件。
 
-### 执行完整流程（流程A + 流程B）
+### 执行完整 AI 解析流程（流程A + 流程B）
 
 同时匹配 USDA ID 和生成营养信息：
 
@@ -188,116 +190,202 @@ out/
 ├── hongshaorou.json        # 红烧肉菜谱
 ├── gongbaojiding.json      # 宫保鸡丁菜谱
 ├── ...
-├── ingredients.json        # 标准化食材列表
+├── ingredients.json        # 标准化食材列表（dict 格式，含 USDA ID）
+├── ingredients_raw.json    # 原始食材列表
 ├── matched_ingredients.json  # 匹配的食材（包含 USDA ID）
 ├── nutritions.json         # 营养信息数据
-└── nutrition_map.json      # 食材与营养数据库映射
+├── units.json              # 单位标准化列表
 ```
 
 ### 菜谱 JSON 格式
+
+> 介绍的是经 [HowToCook_json_organizer](https://github.com/DingJunyao/HowToCook_json_organizer) 校准后的格式。下同。
 
 ```json
 {
   "name": "菜名",
   "source_file": "dishes/xxx/xxx.md",
-  "category": "菜系分类",
-  "difficulty": "难度",
-  "servings": 2,
+  "category": "荤菜",
+  "difficulty": "medium",
+  "total_time_minutes": null,
+  "servings": 1,
+  "original_servings": 1,
+  "images": [
+    "images/gongbaojiding_0.jpg"
+  ],
   "ingredients": [
     {
       "ingredient_name": "食材名",
-      "amount": "数量",
-      "unit": "单位"
+      "quantity": 350.0,
+      "unit": "g",
+      "original_quantity": "",
+      "is_approximate": false,
+      "is_estimated": false,
+      "is_optional": false,
+      "note": "",
+      "quantity_description": "",
+      "quantity_range": null
     }
   ],
   "steps": [
     {
-      "step": 1,
-      "description": "步骤描述"
+      "content": "步骤描述",
+      "duration_minutes": null,
+      "tips": ""
     }
   ],
-  "images": [
-    "images/gongbaojiding_0.jpg"
-  ]
+  "tips": [
+    "注意事项"
+  ],
+  "description": "菜谱简介"
 }
 ```
 
-### 食材 JSON 格式
-
-```json
-[
-  {
-    "ingredient_name": " standardized name",
-    "aliases": ["alias1", "alias2"],
-    "unit": "standardized unit"
-  }
-]
-```
-
-### 营养信息 JSON 格式
-
-```json
-[
-  {
-    "usda_id": "172193",
-    "ingredient_name": "低脂牛奶",
-    "usda_name": "Milk, reduced fat, fluid, 2% milkfat, with added nonfat milk solids, without added vitamin A",
-    "nutrients": {
-      "energy_kcal": {
-        "value": 50,
-        "unit": "kcal",
-        "nrp_pct": 2.5,
-        "standard": "中国GB标准"
-      },
-      "protein": {
-        "value": 3.3,
-        "unit": "g",
-        "nrp_pct": 5.5,
-        "standard": "中国GB标准"
-      },
-      "carbohydrate": {
-        "value": 4.8,
-        "unit": "g",
-        "nrp_pct": 1.6,
-        "standard": "中国GB标准"
-      },
-      "fat": {
-        "value": 2.1,
-        "unit": "g",
-        "nrp_pct": 3.5,
-        "standard": "中国GB标准"
-      },
-      "calcium": {
-        "value": 120,
-        "unit": "mg",
-        "nrp_pct": 15.0,
-        "standard": "中国GB标准"
-      }
-    }
-  }
-]
-```
-
-### 字段说明
-
-| 字段 | 说明 |
-|------|------|
-| `usda_id` | USDA SR Legacy 数据库中的唯一标识符 |
-| `ingredient_name` | 中文食材名称（来自匹配结果） |
-| `usda_name` | USDA 数据库中的食物英文名称 |
-| `nutrients` | 营养素详细信息字典 |
-
-### 营养素字段结构
-
-每个营养素包含以下字段：
+#### 菜谱字段说明
 
 | 字段 | 说明 | 示例 |
 |------|------|------|
-| `value` | 营养素含量值 | `50` |
-| `unit` | 营养素单位 | `"kcal"`, `"g"`, `"mg"`, `"μg"` |
-| `nrp_pct` | 营养素参考值百分比（NRV/DV%） | `2.5` |
-| `standard` | 使用的标准（中国GB标准或美国FDA标准） | `"中国GB标准"` |
-| `note` | 备注（如有单位转换或其他说明） | `"单位已从 kJ 转换为 kcal"` |
+| `name` | 菜名 | `"宫保鸡丁"` |
+| `source_file` | 源 Markdown 文件路径 | `"dishes/meat_dish/宫保鸡丁/宫保鸡丁.md"` |
+| `category` | 菜系分类 | `"荤菜"` |
+| `difficulty` | 难度等级 | `"easy"`, `"medium"`, `"hard"` |
+| `total_time_minutes` | 总烹饪时间（分钟） | `null` 或 `45` |
+| `servings` | 份数 | `1` |
+| `original_servings` | 原始菜谱份数 | `1` |
+| `images` | 图片路径列表 | `["images/宫保鸡丁_0.jpg"]` |
+| `ingredients` | 食材列表（见下表） | |
+| `steps` | 步骤列表（见下表） | |
+| `tips` | 注意事项列表 | `["辣椒依据个人口味酌量添加"]` |
+| `description` | 菜谱简介 | `"老派川菜的简单做法分享"` |
+
+#### 食材字段说明
+
+| 字段 | 说明 | 示例 |
+|------|------|------|
+| `ingredient_name` | 食材名称 | `"手枪腿"` |
+| `quantity` | 食材数量（数值） | `350.0` |
+| `unit` | 单位 | `"g"`, `"mL"`, `"个"` |
+| `original_quantity` | 原始文本中的数量 | `""` |
+| `is_approximate` | 是否为约量 | `false` |
+| `is_estimated` | 是否为估算值 | `false` |
+| `is_optional` | 是否为可选食材 | `false` |
+| `note` | 备注 | `"或者鸡胸脯肉"` |
+| `quantity_description` | 数量描述文本 | `""` |
+| `quantity_range` | 数量范围 | `null` 或 `{"min": 10, "max": 20}` |
+
+#### 步骤字段说明
+
+| 字段 | 说明 | 示例 |
+|------|------|------|
+| `content` | 步骤描述 | `"鸡丁用料酒腌制 15 分钟"` |
+| `duration_minutes` | 耗时（分钟） | `null` 或 `15` |
+| `tips` | 小贴士 | `""` 或 `"注意火候"` |
+
+### 食材 JSON 格式
+
+食材列表以字典形式组织，键名为标准化后的食材名称：
+
+```json
+{
+  "西葫芦": {
+    "name": "西葫芦",
+    "aliases": [
+      "笋瓜"
+    ],
+    "category": "蔬菜",
+    "usda_id": 2685568,
+    "usda_match_status": "matched"
+  },
+  "鸡蛋": {
+    "name": "鸡蛋",
+    "aliases": [],
+    "category": "禽蛋",
+    "usda_id": 171287,
+    "usda_match_status": "matched"
+  }
+}
+```
+
+#### 食材字段说明
+
+| 字段 | 说明 | 示例 |
+|------|------|------|
+| `name` | 标准化食材名称 | `"西葫芦"` |
+| `aliases` | 别名列表 | `["笋瓜"]` |
+| `category` | 食材分类 | `"蔬菜"`, `"禽蛋"`, `"调料"`, `"油脂"`, `"主食/谷物"` |
+| `usda_id` | USDA SR Legacy 数据库 ID | `2685568` |
+| `usda_match_status` | USDA 匹配状态 | `"matched"`，未匹配时为 `"unmatched"` |
+
+### 营养信息 JSON 格式
+
+营养信息以数组形式组织，`nutrients` 字段为营养素数组：
+
+```json
+[
+  {
+    "usda_id": "2685568",
+    "ingredient_name": "西葫芦",
+    "usda_name": "Squash, summer, green, zucchini, includes skin, raw",
+    "nutrients": [
+      {
+        "name": "铁",
+        "name_en": "Iron, Fe",
+        "value": 0.194,
+        "unit": "毫克",
+        "nrp_pct": 1.29,
+        "standard": "中国GB标准"
+      },
+      {
+        "name": "蛋白质",
+        "name_en": "Protein",
+        "value": 0.984,
+        "unit": "g",
+        "nrp_pct": 1.64,
+        "standard": "中国GB标准"
+      },
+      {
+        "name": "热量（Atwater 通用系数）",
+        "name_en": "Energy (Atwater General Factors)",
+        "value": 19.0,
+        "unit": "千卡",
+        "nrp_pct": 0.95,
+        "standard": "中国GB标准"
+      },
+      {
+        "name": "膳食纤维",
+        "name_en": "Fiber, total dietary",
+        "value": 0.752,
+        "unit": "g",
+        "nrp_pct": 3.01,
+        "standard": "中国GB标准"
+      }
+    ]
+  }
+]
+```
+
+#### 营养信息顶层字段说明
+
+| 字段 | 说明 | 示例 |
+|------|------|------|
+| `usda_id` | USDA SR Legacy 数据库中的唯一标识符 | `"2685568"` |
+| `ingredient_name` | 中文食材名称 | `"西葫芦"` |
+| `usda_name` | USDA 数据库中的食物英文名称 | `"Squash, summer, green, zucchini, includes skin, raw"` |
+| `nutrients` | 营养素数组 | 见下方字段结构 |
+
+#### 营养素数组元素字段说明
+
+每个营养素元素包含以下字段：
+
+| 字段 | 说明 | 示例 |
+|------|------|------|
+| `name` | 中文营养素名称 | `"铁"`, `"蛋白质"`, `"钙"` |
+| `name_en` | 英文营养素名称（USDA 命名） | `"Iron, Fe"`, `"Protein"` |
+| `value` | 营养素含量值 | `0.194` |
+| `unit` | 营养素单位（中文） | `"毫克"`, `"g"`, `"千卡"`, `"μg"` |
+| `nrp_pct` | 营养素参考值百分比（NRV/DV%） | `1.29` |
+| `standard` | 使用的标准 | `"中国GB标准"`, `"美国FDA标准"`, `"无标准"` |
+| `note` | 备注（如有） | `"该营养素无对应的NRV/DV标准值"` |
 
 > 注意：由于菜谱格式不统一，尽管使用 AI 解析，但结果可能仍然存在错误，如有需要，请自行检查并手动修改。
 > 你也可以创建 PR，为该项目做贡献。
@@ -317,13 +405,6 @@ out/
 
 ### 使用方法
 
-- **多标准支持**：优先使用中国GB 28050-2011标准计算NRV%，如无对应标准则使用美国FDA标准计算DV%
-- **全面营养素覆盖**：包含能量、宏量营养素（蛋白质、脂肪、碳水化合物）、矿物质和维生素等
-- **智能匹配**：利用match-ingredients技能将食材与USDA SR数据库中的营养数据进行匹配
-- **标准化输出**：生成格式统一的JSON文件，包含详细的营养成分及NRV/DV百分比
-
-### 使用方法
-
 运行营养信息匹配只需添加 `--match-nutritions` 参数：
 
 ```bash
@@ -337,7 +418,6 @@ python parse_recipes.py
 ### 输出文件
 
 - `out/nutritions.json` - 包含所有食材的详细营养信息和NRV/DV值
-- `out/nutrition_map.json` - 食材与USDA营养数据的匹配关系
 
 ### 核心流程
 
@@ -348,37 +428,38 @@ python parse_recipes.py
 
 ### 营养素含义说明
 
+营养数据中的 `name`（中文名称）和 `name_en`（英文名称，USDA 命名）字段标识营养素种类。以下是主要营养素的参考信息：
+
 #### 主要营养素（中国GB 28050-2011 标准）
 
-| 营养素键名 | 中文名称 | 标准值 | 单位 | 说明 |
-|-----------|---------|--------|------|------|
-| `energy_kcal` | 能量 | 2000 | kcal | 每100g/100ml食物提供的热量 |
-| `energy_kj` | 能量 | 8400 | kJ | 每公斤焦耳 |
-| `protein` | 蛋白质 | 60 | g | 构成人体组织的主要成分 |
-| `fat` | 脂肪 | 60 | g | 提供能量和必需脂肪酸 |
-| `carbohydrate` | 碳水化合物 | 300 | g | 主要的能量来源 |
-| `sugar` | 糖 | 50 | g | 碳水化合物中的一种 |
-| `fiber` | 膳食纤维 | 25 | g | 不能被人体消化吸收的碳水化合物 |
-| `saturated_fat` | 饱和脂肪 | 20 | g | 可能增加心血管疾病风险 |
-| `sodium` | 钠 | 2000 | mg | 调节体液平衡 |
-| `cholesterol` | 胆固醇 | 300 | mg | 细胞膜重要成分 |
-| `calcium` | 钙 | 800 | mg | 骨骼和牙齿健康必需 |
-| `iron` | 铁 | 15 | mg | 血红蛋白合成必需 |
-| `zinc` | 锌 | 15 | mg | 免疫系统功能必需 |
-| `selenium` | 硒 | 50 | μg | 抗氧化作用 |
-| `vitamin_a_rae` | 维生素A | 800 | μg RAE | 视觉和免疫功能 |
-| `vitamin_d` | 维生素D | 5 | μg | 钙吸收必需 |
-| `vitamin_e` | 维生素E | 10 | mg α-TE | 抗氧化作用 |
-| `vitamin_c` | 维生素C | 100 | mg | 抗氧化和免疫功能 |
-| `vitamin_b1` | 维生素B1（硫胺素） | 1.4 | mg | 能量代谢 |
-| `vitamin_b2` | 维生素B2（核黄素） | 1.4 | mg | 能量代谢 |
-| `vitamin_b6` | 维生素B6 | 1.4 | mg | 氨基酸代谢 |
-| `vitamin_b12` | 维生素B12 | 2.4 | μg | DNA合成 |
-| `folate` | 叶酸 | 400 | μg DFE | 细胞分裂和DNA合成 |
-| `niacin` | 烟酸 | 14 | mg NE | 能量代谢 |
-| `pantothenic_acid` | 泛酸 | 6 | mg | 能量代谢 |
-| `biotin` | 生物素 | 30 | μg | 碳水化合物和脂肪代谢 |
-| `vitamin_k` | 维生素K | 80 | μg | 血液凝固和骨骼健康 |
+| name（中文名称） | name_en（英文名称） | 标准值 | 说明 |
+|----------------|-------------------|--------|------|
+| 能量 | Energy | 2000 kcal | 每100g/100ml食物提供的热量 |
+| 蛋白质 | Protein | 60 g | 构成人体组织的主要成分 |
+| 脂肪 | Total lipid (fat) | 60 g | 提供能量和必需脂肪酸 |
+| 碳水化合物 | Carbohydrate, by difference | 300 g | 主要的能量来源 |
+| 膳食纤维 | Fiber, total dietary | 25 g | 不能被人体消化吸收的碳水化合物 |
+| 糖 | Sugars, total | 50 g | 碳水化合物中的一种 |
+| 饱和脂肪 | Fatty acids, total saturated | 20 g | 可能增加心血管疾病风险 |
+| 钠 | Sodium, Na | 2000 mg | 调节体液平衡 |
+| 胆固醇 | Cholesterol | 300 mg | 细胞膜重要成分 |
+| 钙 | Calcium, Ca | 800 mg | 骨骼和牙齿健康必需 |
+| 铁 | Iron, Fe | 15 mg | 血红蛋白合成必需 |
+| 锌 | Zinc, Zn | 15 mg | 免疫系统功能必需 |
+| 硒 | Selenium, Se | 50 μg | 抗氧化作用 |
+| 维生素A | Vitamin A, RAE | 800 μg RAE | 视觉和免疫功能 |
+| 维生素D | Vitamin D (D2 + D3) | 5 μg | 钙吸收必需 |
+| 维生素E | Vitamin E (alpha-tocopherol) | 10 mg α-TE | 抗氧化作用 |
+| 维生素C | Vitamin C, total ascorbic acid | 100 mg | 抗氧化和免疫功能 |
+| 维生素B1（硫胺素） | Thiamin | 1.4 mg | 能量代谢 |
+| 维生素B2（核黄素） | Riboflavin | 1.4 mg | 能量代谢 |
+| 维生素B6 | Vitamin B-6 | 1.4 mg | 氨基酸代谢 |
+| 维生素B12 | Vitamin B-12 | 2.4 μg | DNA合成 |
+| 叶酸 | Folate, total | 400 μg DFE | 细胞分裂和DNA合成 |
+| 烟酸 | Niacin | 14 mg NE | 能量代谢 |
+| 泛酸 | Pantothenic acid | 6 mg | 能量代谢 |
+| 生物素 | Biotin | 30 μg | 碳水化合物和脂肪代谢 |
+| 维生素K | Vitamin K (phylloquinone) | 80 μg | 血液凝固和骨骼健康 |
 
 #### 常见营养素说明
 
@@ -389,9 +470,9 @@ python parse_recipes.py
 **nrp_pct**：营养素参考值百分比，表示该食物提供的营养素占每日推荐摄入量的百分比。
 
 **单位说明**：
-- **kcal/kJ**：能量单位
+- **千卡/千焦**：能量单位（nutritions.json 中使用中文字单位，如 `"千卡"`、`"g"`、`"毫克"`）
 - **g**：克
-- **mg**：毫克（1g = 1000mg）
+- **毫克**：毫克（1g = 1000mg）
 - **μg**：微克（1mg = 1000μg）
 - **DFE**：膳食叶酸当量（Dietary Folate Equivalent）
 - **NE**：烟酸当量（Niacin Equivalent）
@@ -402,7 +483,11 @@ python parse_recipes.py
 1. 调料类食材（如盐、酱油）的某些营养素含量可能超过100%，这是正常的
 2. nrp_pct = 0 表示该营养素在食物中含量极低或不存在
 3. 标记为"无标准"的营养素是中国/美国标准未定义的营养素
-4. 部分营养素可能显示"单位已从 X 转换为 Y"，表示进行了单位转换
+4. 部分营养素可能显示"该营养素无对应的NRV/DV标准值"备注
+
+> 关于完整的 147 种营养素详细说明（含脂肪酸分类），请参考：
+> - [docs/营养素详细说明.md](docs/营养素详细说明.md)
+> - [docs/营养素分析摘要.md](docs/营养素分析摘要.md)
 
 ## ⚙️ 配置说明
 
@@ -428,72 +513,12 @@ HowToCook_json/
 └── out/                  # 输出目录（自动生成）
     ├── images/           # 图片资源
     ├── *.json           # 菜谱文件
-    ├── ingredients.json  # 食材列表
+    ├── ingredients.json  # 食材列表（dict 格式，含 USDA ID）
+    ├── ingredients_raw.json # 原始食材列表
+    ├── matched_ingredients.json # 匹配 USDA ID 后的食材列表
     ├── nutritions.json   # 营养信息
-    └── nutrition_map.json # 食材营养映射
+    └── units.json        # 单位标准化列表
 ```
-
-## 🔍 常见问题
-
-### Q: Git LFS 未安装怎么办？
-A: 运行脚本会自动检测并提示安装，请按照提示操作。
-
-### Q: 解析失败会自动重试吗？
-A: 是的，默认重试 3 次，可在配置中调整。
-
-### Q: 如何跳过图片下载？
-A: 使用 `--parse-recipe` 或 `--parse-ingredient` 参数。
-
-### Q: 可以解析 Fork 的 HowToCook 仓库吗？
-A: 可以，使用 `--repo-path` 指定本地路径即可。
-
-### Q: 如何生成营养信息？
-A: 使用 `--match-nutrition` 参数单独运行营养信息生成，或者在完整流程中自动运行。
-
----
-
-### 详细脂肪酸营养素说明
-
-由于 USDA 数据库包含非常详细的脂肪酸分类，`nutritions.json` 中包含大量以 `mufa_`、`pufa_` 和 `sfa_` 开头的营养素键名。这些是专业的脂肪酸分类术语：
-
-#### 主要脂肪酸类型
-
-**MUFA (单不饱和脂肪酸)** - Monounsaturated Fatty Acids
-- `mufa_16:1` - 棕榈酸（16:1，棕榈油主要成分）
-- `mufa_18:1` / `mufa_18:1_c` - 油酸（18:1，植物油主要成分）
-
-**PUFA (多不饱和脂肪酸)** - Polyunsaturated Fatty Acids
-- `pufa_18:2_n_3_cc` - DHA（二十二碳六烯酸顺式，深海鱼，对大脑健康重要）
-- `pufa_20:5` - EPA（二十碳五烯酸，深海鱼）
-- `pufa_22:6_n_3` - DPA（二十二碳六烯酸n-3，藻油）
-
-**SFA (饱和脂肪酸)** - Saturated Fatty Acids
-- `sfa_14:0` - 肉豆蔻酸（14:0，椰子油主要成分）
-- `sfa_12:0` - 月桂酸（12:0，植物油）
-- `sfa_16:0` - 棕榈酸（16:0，动物脂肪）
-
-#### 键名规则
-
-- `:_n_3` 或 `:_n_6_cc`：碳原子位置的顺式/反式或同分异构体
-- `:_t` 或 `:_c`：反式或顺式结构
-- `:1`, `:0`：碳原子数量（14:1 表示14个碳原子）
-
-#### 常见食物示例
-
-| 食物 | 特点 | 主要脂肪酸 |
-|------|------|----------|
-| 深海鱼 | 高 ω-3 | EPA、DHA |
-| 亚麻籽油 | 高 ω-3 | α-亚麻酸 |
-| 橄榄油 | 高 MUFA | 油酸 |
-| 椰子油 | 高 ω-6 | 亚油酸 |
-| 椰油 | 高 SFA | 棕榈酸 |
-| 椰子油 | 低饱和脂肪 | 平衡脂肪酸 |
-
-#### 健康建议
-
-- **增加 ω-3（EPA/DHA）**：适量食用深海鱼、亚麻籽油
-- **控制 SFA**：减少动物脂肪摄入，多用植物油
-- **保持 ω-3/ω-6 比例**：现代饮食约 1:1-1:4，地中海饮食可达 1:2
 
 > 更多详细信息请参考：
 > - [docs/营养素分析摘要.md](docs/营养素分析摘要.md) - 快速了解 147 种营养素分类和统计数据
@@ -501,10 +526,6 @@ A: 使用 `--match-nutrition` 参数单独运行营养信息生成，或者在�
 > - [docs/详细脂肪酸营养素说明.md](docs/详细脂肪酸营养素说明.md) - 专业的脂肪酸分类和健康影响
 > - [docs/营养匹配流程说明.md](docs/营养匹配流程说明.md) - 营养匹配流程使用指南
 > - [docs/功能更新总结_流程拆分与营养素说明.md](docs/功能更新总结_流程拆分与营养素说明.md) - 功能更新历史
-
----
-
-## 🔍 常见问题
 
 ## 📝 许可证
 
