@@ -96,13 +96,6 @@
     "usda_id": 175034,
     "usda_match_status": "matched"
   },
-  "葱": {
-    "name": "葱",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": 2709794,
-    "usda_match_status": "matched"
-  },
   "猪肉": {
     "name": "猪肉",
     "aliases": [],
@@ -683,7 +676,9 @@
   },
   "土豆": {
     "name": "土豆",
-    "aliases": [],
+    "aliases": [
+      "马铃薯"
+    ],
     "category": "蔬菜",
     "usda_id": 170026,
     "usda_match_status": "matched"
@@ -804,7 +799,9 @@
   },
   "大葱": {
     "name": "大葱",
-    "aliases": [],
+    "aliases": [
+      "葱"
+    ],
     "category": "蔬菜",
     "usda_id": 2727585,
     "usda_match_status": "matched"
@@ -1101,7 +1098,9 @@
   },
   "白萝卜": {
     "name": "白萝卜",
-    "aliases": [],
+    "aliases": [
+      "萝卜"
+    ],
     "category": "蔬菜",
     "usda_id": 168451,
     "usda_match_status": "matched"
@@ -2158,13 +2157,6 @@
     "usda_id": 169990,
     "usda_match_status": "matched"
   },
-  "萝卜": {
-    "name": "萝卜",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": 168451,
-    "usda_match_status": "matched"
-  },
   "干豆腐": {
     "name": "干豆腐",
     "aliases": [],
@@ -2658,13 +2650,6 @@
     "usda_id": null,
     "usda_match_status": "unmatched"
   },
-  "熟豆油": {
-    "name": "熟豆油",
-    "aliases": [],
-    "category": "油脂",
-    "usda_id": 172370,
-    "usda_match_status": "matched"
-  },
   "鸡粉": {
     "name": "鸡粉",
     "aliases": [],
@@ -2835,13 +2820,6 @@
     "aliases": [],
     "category": "油脂",
     "usda_id": 171413,
-    "usda_match_status": "matched"
-  },
-  "梅头猪肉": {
-    "name": "梅头猪肉",
-    "aliases": [],
-    "category": "肉类",
-    "usda_id": 167845,
     "usda_match_status": "matched"
   },
   "罐头菠萝片": {
@@ -3487,13 +3465,6 @@
     "usda_id": 2685580,
     "usda_match_status": "matched"
   },
-  "马铃薯": {
-    "name": "马铃薯",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": 170026,
-    "usda_match_status": "matched"
-  },
   "欧芹": {
     "name": "欧芹",
     "aliases": [],
@@ -4002,13 +3973,6 @@
     "category": "蔬菜",
     "usda_id": null,
     "usda_match_status": "unmatched"
-  },
-  "闽星茶树菇": {
-    "name": "闽星茶树菇",
-    "aliases": [],
-    "category": "蔬菜",
-    "usda_id": 168423,
-    "usda_match_status": "matched"
   },
   "奇亚籽": {
     "name": "奇亚籽",
@@ -4582,6 +4546,29 @@
     "aliases": [],
     "category": "调料",
     "usda_id": 174527,
+    "usda_match_status": "matched"
+  },
+  "豆油": {
+    "name": "豆油",
+    "aliases": [],
+    "category": "油脂",
+    "usda_id": 172370,
+    "usda_match_status": "matched"
+  },
+  "茶树菇": {
+    "name": "茶树菇",
+    "aliases": [],
+    "category": "蔬菜",
+    "usda_id": 168423,
+    "usda_match_status": "matched"
+  },
+  "梅花肉": {
+    "name": "梅花肉",
+    "aliases": [
+      "梅头猪肉"
+    ],
+    "category": "肉类",
+    "usda_id": 167845,
     "usda_match_status": "matched"
   }
 }
